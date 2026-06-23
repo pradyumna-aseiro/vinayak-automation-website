@@ -26,8 +26,8 @@ module.exports = async function handler(req, res) {
     return res.status(400).json({ error: 'Please enter a valid email address.' });
   }
 
-  if (!process.env.RESEND_API_KEY) {
-    console.error('RESEND_API_KEY is not configured');
+  if (!process.env.resend) {
+    console.error('resend env var is not configured');
     return res.status(500).json({ error: 'Email service is not configured.' });
   }
 
@@ -35,7 +35,7 @@ module.exports = async function handler(req, res) {
     const response = await fetch('https://api.resend.com/emails', {
       method: 'POST',
       headers: {
-        Authorization: `Bearer ${process.env.RESEND_API_KEY}`,
+        Authorization: `Bearer ${process.env.resend}`,
         'Content-Type': 'application/json',
       },
       body: JSON.stringify({

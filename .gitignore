@@ -1,2 +1,8 @@
-.vercel
+node_modules/
+.next/
+out/
+.vercel/
 .env*
+!.env.example
+*.tsbuildinfo
+artifacts/

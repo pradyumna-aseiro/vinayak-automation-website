@@ -18,6 +18,11 @@ export function Header() {
     document.addEventListener("keydown", escape);
     return () => document.removeEventListener("keydown", escape);
   }, []);
+  function navigate() {
+    setOpen(false);
+    window.scrollTo({ top: 0, left: 0, behavior: "instant" });
+  }
+
   return (
     <header className="site-header">
       <div className="container header-inner">
@@ -25,7 +30,8 @@ export function Header() {
           href="/"
           className="brand"
           aria-label="Vinayak Automation Products home"
-          onClick={() => setOpen(false)}
+          scroll={false}
+          onNavigate={navigate}
         >
           <Image
             src="/images/vinayak-automation-products-logo-1.png"
@@ -68,7 +74,8 @@ export function Header() {
                   ? "page"
                   : undefined
               }
-              onClick={() => setOpen(false)}
+              scroll={false}
+              onNavigate={navigate}
             >
               {label}
             </Link>
@@ -76,7 +83,8 @@ export function Header() {
           <Link
             href="/contact"
             className="button button-small"
-            onClick={() => setOpen(false)}
+            scroll={false}
+            onNavigate={navigate}
           >
             Request a quote <ArrowUpRight size={17} />
           </Link>

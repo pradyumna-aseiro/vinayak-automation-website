@@ -26,6 +26,19 @@ export const site = {
   email: "info@vinayakautomation.com",
   phone: "040-27804951",
   tel: "+914027804951",
+  phones: [
+    { label: "Landlines", numbers: ["040-27804951", "040-27805941"] },
+    {
+      label: "Mobiles",
+      numbers: [
+        "+91 9000 789 301",
+        "+91 9000 789 302",
+        "+91 9000 789 303",
+        "+91 9000 789 304",
+        "+91 9000 789 305",
+      ],
+    },
+  ],
   address:
     "No. 10-2-2/10, Meghana East End Apartment, West Marredpally, Secunderabad, Hyderabad, Telangana 500026",
   established: 2007,

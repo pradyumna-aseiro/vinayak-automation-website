@@ -1,10 +1,10 @@
+import { PhoneNumbers } from "@/components/phone-numbers";
 import Link from "next/link";
 import Image from "next/image";
 import {
   ArrowUpRight,
   ArrowRight,
   ChevronRight,
-  Phone,
   Mail,
   MapPin,
 } from "lucide-react";
@@ -217,18 +217,15 @@ export function Footer() {
           </div>
           <div>
             <h3>Get in touch</h3>
-            <a href={"tel:" + site.tel}>
-              <Phone size={15} />
-              {site.phone}
-            </a>
+            <PhoneNumbers />
             <a href={"mailto:" + site.email}>
               <Mail size={15} />
               {site.email}
             </a>
-            <p className="address">
+            <address className="address">
               <MapPin size={17} />
               <span>{site.address}</span>
-            </p>
+            </address>
             <p>Mon–Sat · 10:00–18:00</p>
           </div>
         </div>

@@ -44,13 +44,37 @@ export default function RootLayout({
           dangerouslySetInnerHTML={{
             __html: jsonLd({
               "@context": "https://schema.org",
-              "@type": "Organization",
+              "@type": "LocalBusiness",
+              "@id": site.url + "/#business",
               name: site.name,
               url: site.url,
               logo: site.url + "/images/vinayak-automation-products-logo-1.png",
               foundingDate: "2007",
               email: site.email,
               telephone: site.tel,
+              contactPoint: site.phones.flatMap((group) =>
+                group.numbers.map((number) => ({
+                  "@type": "ContactPoint",
+                  contactType: "sales",
+                  telephone: (number.startsWith("040")
+                    ? "+91" + number.slice(1)
+                    : number
+                  ).replace(/[^+0-9]/g, ""),
+                })),
+              ),
+              openingHoursSpecification: {
+                "@type": "OpeningHoursSpecification",
+                dayOfWeek: [
+                  "Monday",
+                  "Tuesday",
+                  "Wednesday",
+                  "Thursday",
+                  "Friday",
+                  "Saturday",
+                ],
+                opens: "10:00",
+                closes: "18:00",
+              },
               address: {
                 "@type": "PostalAddress",
                 streetAddress:

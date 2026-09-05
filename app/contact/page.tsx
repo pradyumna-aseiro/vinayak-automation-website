@@ -1,3 +1,4 @@
+import { PhoneNumbers } from "@/components/phone-numbers";
 import { Breadcrumbs, Eyebrow } from "@/components/ui";
 import { ContactForm } from "@/components/contact-form";
 import { site } from "@/lib/catalogue";
@@ -37,8 +38,7 @@ export default async function Contact({
           <div className="contact-item">
             <Phone size={21} />
             <div>
-              <span className="small-label">CALL US</span>
-              <a href={"tel:" + site.tel}>{site.phone}</a>
+              <PhoneNumbers />
             </div>
           </div>
           <div className="contact-item">
@@ -52,7 +52,7 @@ export default async function Contact({
             <MapPin size={21} />
             <div>
               <span className="small-label">FIND US</span>
-              <p>{site.address}</p>
+              <address>{site.address}</address>
               <a
                 href={
                   "https://www.google.com/maps/search/?api=1&query=" +

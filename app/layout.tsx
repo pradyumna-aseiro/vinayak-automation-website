@@ -48,14 +48,18 @@ export default function RootLayout({
               "@id": site.url + "/#business",
               name: site.name,
               url: site.url,
-              logo: site.url + "/images/vinayak-automation-products-logo-1.png",
+              logo: site.url + "/media/vap-logo.svg",
               foundingDate: "2007",
+              numberOfEmployees: { "@type": "QuantitativeValue", value: 20 },
               email: site.email,
               telephone: site.tel,
               contactPoint: site.phones.flatMap((group) =>
                 group.numbers.map((number) => ({
                   "@type": "ContactPoint",
-                  contactType: "sales",
+                  contactType:
+                    group.label === "Landlines"
+                      ? "customer service"
+                      : group.label.toLowerCase(),
                   telephone: (number.startsWith("040")
                     ? "+91" + number.slice(1)
                     : number

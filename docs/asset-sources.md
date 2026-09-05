@@ -14,3 +14,7 @@ The VAP logo and authentic product photographs were retained from the user's exi
 ## Fonts
 
 Manrope and Inter variable fonts are self-hosted. SIL Open Font License texts are included next to the fonts in `app/fonts/`. Glyph fallback is provided by the system sans-serif stack.
+
+
+## September 2026 company story update
+VAP header/footer vector logo and site icons extracted/rendered from the owner-supplied VAP LOGO.pdf, first-page emblem. Original PDF remains unchanged. Client logos restored from repository commit 07f918d, images/services/client; the 14 identities match the owner-supplied client slide. Aseiro logo retrieved from https://www.aseiro.com/aseiro-logo-main.png. External company destinations are defined in components/client-carousel.tsx. Company milestones, 20 employees in 2026, four highlights and partnership content supplied by the owner in this update. The 5,000+ highlight remains the requested lower-bound statement alongside the supplied 2017 10,000+ milestone.

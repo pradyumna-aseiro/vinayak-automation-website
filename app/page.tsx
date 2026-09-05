@@ -1,3 +1,5 @@
+import { ClientCarousel } from "@/components/client-carousel";
+import { WhyVinayak, PartnerWithUs } from "@/components/company-story";
 import Image from "next/image";
 import Link from "next/link";
 import {
@@ -64,26 +66,8 @@ export default function Home() {
           </div>
         </div>
       </section>
-      <section className="brand-strip">
-        <div className="container brand-strip-inner">
-          <span>
-            PRODUCT RANGES
-            <br />
-            <strong>From established manufacturers</strong>
-          </span>
-          <div>
-            <span>
-              CG <b>Emotron</b>
-            </span>
-            <span>JAYASHREE</span>
-            <span>
-              RENU<span className="brand-sub">ELECTRONICS</span>
-            </span>
-            <span>Sapcon</span>
-            <span>Dynaflux</span>
-          </div>
-        </div>
-      </section>
+      <ClientCarousel />
+      <WhyVinayak />
       <section className="section" id="products">
         <div className="container">
           <div className="section-heading">
@@ -269,6 +253,7 @@ export default function Home() {
           </p>
         </div>
       </section>
+      <PartnerWithUs />
       <EnquiryBanner />
     </>
   );

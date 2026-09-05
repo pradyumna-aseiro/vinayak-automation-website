@@ -28,16 +28,9 @@ export const site = {
   tel: "+914027804951",
   phones: [
     { label: "Landlines", numbers: ["040-27804951", "040-27805941"] },
-    {
-      label: "Mobiles",
-      numbers: [
-        "+91 9000 789 301",
-        "+91 9000 789 302",
-        "+91 9000 789 303",
-        "+91 9000 789 304",
-        "+91 9000 789 305",
-      ],
-    },
+    { label: "Sales", numbers: ["+91 9000 789 304", "+91 9000 789 305"] },
+    { label: "Support", numbers: ["+91 9000 789 301", "+91 9000 789 302"] },
+    { label: "Marketing", numbers: ["+91 9000 789 303"] },
   ],
   address:
     "No. 10-2-2/10, Meghana East End Apartment, West Marredpally, Secunderabad, Hyderabad, Telangana 500026",

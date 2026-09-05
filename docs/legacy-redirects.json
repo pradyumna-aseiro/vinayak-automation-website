@@ -1,0 +1,110 @@
+[
+  {
+    "source": "/index.html",
+    "destination": "/"
+  },
+  {
+    "source": "/index-2.html",
+    "destination": "/"
+  },
+  {
+    "source": "/about.html",
+    "destination": "/about"
+  },
+  {
+    "source": "/products.html",
+    "destination": "/products"
+  },
+  {
+    "source": "/contact.html",
+    "destination": "/contact"
+  },
+  {
+    "source": "/services.html",
+    "destination": "/about#integration"
+  },
+  {
+    "source": "/drives-and-automation.html",
+    "destination": "/products/drives-and-automation"
+  },
+  {
+    "source": "/industrial-automation-solution.html",
+    "destination": "/products/industrial-automation-solution"
+  },
+  {
+    "source": "/control-and-power-products.html",
+    "destination": "/products/control-and-power-products"
+  },
+  {
+    "source": "/incremental-encoders.html",
+    "destination": "/products/incremental-encoders"
+  },
+  {
+    "source": "/conveyor-safety-switches.html",
+    "destination": "/products/conveyor-safety-switches"
+  },
+  {
+    "source": "/process-control-instruments.html",
+    "destination": "/products/process-control-instruments"
+  },
+  {
+    "source": "/field-instruments.html",
+    "destination": "/products/field-instruments"
+  },
+  {
+    "source": "/control-panels.html",
+    "destination": "/products/control-panels"
+  },
+  {
+    "source": "/ac-dc-motors.html",
+    "destination": "/products/ac-dc-motors"
+  },
+  {
+    "source": "/drives-and-automation-detail.html",
+    "destination": "/products/drives-and-automation"
+  },
+  {
+    "source": "/industrial-automation-solution-detail.html",
+    "destination": "/products/industrial-automation-solution"
+  },
+  {
+    "source": "/control-and-power-products-detail.html",
+    "destination": "/products/control-and-power-products"
+  },
+  {
+    "source": "/control-and-power-products-detailc4ca.html",
+    "destination": "/products/control-and-power-products#tab1primary"
+  },
+  {
+    "source": "/control-and-power-products-detailc81e.html",
+    "destination": "/products/control-and-power-products#tab2primary"
+  },
+  {
+    "source": "/control-and-power-products-detaileccb.html",
+    "destination": "/products/control-and-power-products#tab3primary"
+  },
+  {
+    "source": "/control-and-power-products-detaila87f.html",
+    "destination": "/products/control-and-power-products#tab4primary"
+  },
+  {
+    "source": "/incremental-encoders-detail.html",
+    "destination": "/products/incremental-encoders"
+  },
+  {
+    "source": "/incremental-encoders-detailc4ca.html",
+    "destination": "/products/incremental-encoders#tab1primary"
+  },
+  {
+    "source": "/incremental-encoders-detailc81e.html",
+    "destination": "/products/incremental-encoders#tab2primary"
+  },
+  {
+    "source": "/renu-electronics.html",
+    "destination": "/products/industrial-automation-solution"
+  },
+  {
+    "source": "/vfx.html",
+    "destination": "/products/drives-and-automation/vfx-fdu"
+  }
+]

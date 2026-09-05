@@ -1,0 +1,191 @@
+import { notFound } from "next/navigation";
+import Image from "next/image";
+import Link from "next/link";
+import { Phone, ArrowLeft } from "lucide-react";
+import { Breadcrumbs, Button, Eyebrow, ProductCard } from "@/components/ui";
+import {
+  categories,
+  productUrl,
+  productSummary,
+  quoteUrl,
+  site,
+} from "@/lib/catalogue";
+import { metadata as seo, jsonLd } from "@/lib/seo";
+export function generateStaticParams() {
+  return categories.flatMap((c) =>
+    c.products.map((p) => ({ category: c.slug, product: p.slug })),
+  );
+}
+export const dynamicParams = false;
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ category: string; product: string }>;
+}) {
+  const { category, product } = await params;
+  const c = categories.find((c) => c.slug === category);
+  const p = c?.products.find((p) => p.slug === product);
+  if (!c || !p) return {};
+  return seo(
+    c.slug === "field-instruments" ? `${p.name} · ${p.group}` : p.name,
+    `${p.name} ${p.group} from Vinayak Automation Products. ${productSummary(p)}`.slice(
+      0,
+      160,
+    ),
+    productUrl(c, p),
+    p.image,
+  );
+}
+export default async function ProductPage({
+  params,
+}: {
+  params: Promise<{ category: string; product: string }>;
+}) {
+  const { category, product } = await params;
+  const c = categories.find((c) => c.slug === category);
+  const p = c?.products.find((p) => p.slug === product);
+  if (!c || !p) notFound();
+  const related = c.products.filter((x) => x.slug !== p.slug).slice(0, 3);
+  return (
+    <>
+      <div className="container">
+        <Breadcrumbs
+          items={[
+            { name: "Products", href: "/products" },
+            { name: c.name, href: "/products/" + c.slug },
+            { name: p.name },
+          ]}
+        />
+        <section className="product-detail-hero">
+          <div className="product-detail-image">
+            <Image
+              src={p.image}
+              alt={p.name}
+              fill
+              sizes="(max-width: 800px) 90vw, 42vw"
+              preload
+              fetchPriority="high"
+            />
+          </div>
+          <div className="product-detail-intro">
+            <Eyebrow>{c.brand.toUpperCase()}</Eyebrow>
+            <h1>{p.name}</h1>
+            <p className="lead">{productSummary(p)}</p>
+            <div className="product-actions">
+              <Button href={quoteUrl(p.name)}>Request a quotation</Button>
+              <a className="plain-link" href={"tel:" + site.tel}>
+                <Phone size={16} /> Talk to our team
+              </a>
+            </div>
+            <p className="product-note">
+              Price, availability and exact configuration are confirmed with
+              your quotation.
+            </p>
+          </div>
+        </section>
+        <section className="product-information">
+          <div className="spec-content">
+            <Eyebrow>PRODUCT INFORMATION</Eyebrow>
+            <h2>Features & specifications</h2>
+            {p.blocks.length ? (
+              p.blocks.map((b, i) =>
+                b.type === "table" ? (
+                  <div className="table-scroll" key={i}>
+                    <table>
+                      <caption>{p.name} specifications</caption>
+                      <tbody>
+                        {b.rows?.map((r, j) => (
+                          <tr key={j}>
+                            {r.map((v, k) =>
+                              k === 0 ? (
+                                <th scope="row" key={k}>
+                                  {v}
+                                </th>
+                              ) : (
+                                <td key={k}>{v}</td>
+                              ),
+                            )}
+                          </tr>
+                        ))}
+                      </tbody>
+                    </table>
+                  </div>
+                ) : b.type === "heading" ? (
+                  <h3 key={i}>{b.text}</h3>
+                ) : b.type === "feature" ? (
+                  <div className="spec-line" key={i}>
+                    <span aria-hidden="true">↳</span>
+                    <p>{b.text}</p>
+                  </div>
+                ) : (
+                  <p key={i}>{b.text}</p>
+                ),
+              )
+            ) : (
+              <p>
+                Share your required range, installation details and output type
+                with our team for product selection and specifications.
+              </p>
+            )}
+            <p className="spec-note">
+              Ratings and options can vary by model. Confirm the selected
+              configuration and current manufacturer documentation before
+              ordering.
+            </p>
+          </div>
+          <aside className="quote-aside">
+            <Eyebrow>SELECTION SUPPORT</Eyebrow>
+            <h3>
+              Put the details
+              <br />
+              in our hands.
+            </h3>
+            <p>
+              Include your model, quantity and delivery city. For selection
+              help, tell us:
+            </p>
+            <ul>
+              {c.selection.map((s) => (
+                <li key={s}>{s}</li>
+              ))}
+            </ul>
+            <Button href={quoteUrl(p.name)}>Enquire about this product</Button>
+          </aside>
+        </section>
+        {related.length > 0 && (
+          <section className="related-section">
+            <div className="section-heading">
+              <h2>Explore this range</h2>
+              <Link href={"/products/" + c.slug} className="text-link">
+                <ArrowLeft size={16} />
+                All {c.name.toLowerCase()}
+              </Link>
+            </div>
+            <div className="product-grid">
+              {related.map((x) => (
+                <ProductCard key={x.slug} category={c} product={x} />
+              ))}
+            </div>
+          </section>
+        )}
+      </div>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: jsonLd({
+            "@context": "https://schema.org",
+            "@type": "Product",
+            name: p.name,
+            description: productSummary(p),
+            image: site.url + p.image,
+            url: site.url + productUrl(c, p),
+            category: c.name,
+            ...(c.brand !== "System integration"
+              ? { brand: { "@type": "Brand", name: c.brand } }
+              : {}),
+          }),
+        }}
+      />
+    </>
+  );
+}

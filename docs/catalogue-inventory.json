@@ -1,0 +1,686 @@
+[
+  {
+    "category": "Drives & automation",
+    "source": "drives-and-automation-detail.html",
+    "products": [
+      {
+        "slug": "vss",
+        "name": "Emotron VSS",
+        "blocks": 23,
+        "image": "/images/services/vsss.jpg"
+      },
+      {
+        "slug": "vsm",
+        "name": "Emotron VSM",
+        "blocks": 16,
+        "image": "/images/services/Emotron-VSM.jpg"
+      },
+      {
+        "slug": "emotron-vsx",
+        "name": "Emotron VSX",
+        "blocks": 15,
+        "image": "/images/services/Emotron-VSX.jpg"
+      },
+      {
+        "slug": "vse-dedicated-elevator-drives",
+        "name": "VSE Dedicated Elevator Drives",
+        "blocks": 15,
+        "image": "/images/services/vse.jpg"
+      },
+      {
+        "slug": "vfx-fdu",
+        "name": "Emotron VFX / FDU",
+        "blocks": 18,
+        "image": "/images/services/em vfx.jpg"
+      },
+      {
+        "slug": "emotron-msf-softstarters",
+        "name": "Emotron MSF Softstarters",
+        "blocks": 14,
+        "image": "/images/services/Msf.jpg"
+      },
+      {
+        "slug": "emotron-tsa-softstarter",
+        "name": "Emotron TSA soft starter",
+        "blocks": 17,
+        "image": "/images/services/tsa.jpg"
+      },
+      {
+        "slug": "emotron-emolog",
+        "name": "Emotron EmoLog",
+        "blocks": 21,
+        "image": "/images/services/mlog.jpg"
+      },
+      {
+        "slug": "human-machine-interface",
+        "name": "Human Machine Interface",
+        "blocks": 16,
+        "image": "/images/services/hunman.jpg"
+      }
+    ]
+  },
+  {
+    "category": "Industrial automation",
+    "source": "industrial-automation-solution-detail.html",
+    "products": [
+      {
+        "slug": "pc6101",
+        "name": "PC6101 industrial PC",
+        "blocks": 8,
+        "image": "/images/services/ind-2.jpg"
+      },
+      {
+        "slug": "flexipanels-basic-hmi-fp2-series",
+        "name": "FlexiPanels® Basic HMI FP2 Series",
+        "blocks": 6,
+        "image": "/images/services/ind-3.jpg"
+      },
+      {
+        "slug": "fp3-series-hmi-with-i-os",
+        "name": "FP3 Series HMI with I/Os",
+        "blocks": 12,
+        "image": "/images/services/ind-4.jpg"
+      },
+      {
+        "slug": "flexipanels-wince-based-pc3-series",
+        "name": "FlexiPanels WinCE Based PC3 Series",
+        "blocks": 12,
+        "image": "/images/services/ind-5.jpg"
+      },
+      {
+        "slug": "flexilogics-eco-plc-series-fl4",
+        "name": "FlexiLogics® ECO PLC Series-FL4",
+        "blocks": 13,
+        "image": "/images/services/ind-6.jpg"
+      },
+      {
+        "slug": "gateway-series-gwy-00",
+        "name": "Gateway Series GWY-00",
+        "blocks": 10,
+        "image": "/images/services/ind-7.jpg"
+      }
+    ]
+  },
+  {
+    "category": "Control & power products",
+    "source": "control-and-power-products-detail.html",
+    "products": [
+      {
+        "slug": "inductive-proximity-switches",
+        "name": "Inductive Proximity Switches",
+        "blocks": 1,
+        "image": "/images/services/c-1.jpg"
+      },
+      {
+        "slug": "capacitive-proximity-switches",
+        "name": "Capacitive Proximity Switches",
+        "blocks": 1,
+        "image": "/images/services/c-2.jpg"
+      },
+      {
+        "slug": "optical-proximity-switches",
+        "name": "Optical Proximity Switches",
+        "blocks": 1,
+        "image": "/images/services/c-3.jpg"
+      },
+      {
+        "slug": "ultrasonic-proximity-switches",
+        "name": "Ultrasonic Proximity Switches",
+        "blocks": 1,
+        "image": "/images/services/c-5.jpg"
+      },
+      {
+        "slug": "magnetic-proximity-switches",
+        "name": "Magnetic Proximity Switches",
+        "blocks": 1,
+        "image": "/images/services/c-4.jpg"
+      },
+      {
+        "slug": "series-rm2211",
+        "name": "Series: RM2211",
+        "blocks": 1,
+        "image": "/images/services/ss-10.jpg"
+      },
+      {
+        "slug": "series-rme211",
+        "name": "Series: RME211",
+        "blocks": 1,
+        "image": "/images/services/ss-11.jpg"
+      },
+      {
+        "slug": "series-rme261",
+        "name": "Series: RME261",
+        "blocks": 1,
+        "image": "/images/services/ss-3.jpg"
+      },
+      {
+        "slug": "series-rmp211",
+        "name": "Series: RMP211",
+        "blocks": 1,
+        "image": "/images/services/ss-4.jpg"
+      },
+      {
+        "slug": "series-rmp611",
+        "name": "Series: RMP611",
+        "blocks": 1,
+        "image": "/images/services/ss-5.jpg"
+      },
+      {
+        "slug": "series-rm-d131-d151",
+        "name": "Series: RM D131/D151",
+        "blocks": 1,
+        "image": "/images/services/ss-6.jpg"
+      },
+      {
+        "slug": "tilt-switch-series-sw-4211",
+        "name": "TILT SWITCH (Series SW 4211)",
+        "blocks": 1,
+        "image": "/images/services/ls-1.jpg"
+      },
+      {
+        "slug": "diaphragm-type-bin-monitor-series-bls-301m",
+        "name": "DIAPHRAGM TYPE BIN MONITOR (Series BLS 301M)",
+        "blocks": 6,
+        "image": "/images/services/ls-2.jpg"
+      },
+      {
+        "slug": "rf-capacitance-point-level-sensors",
+        "name": "RF Capacitance Point Level Sensors",
+        "blocks": 6,
+        "image": "/images/services/ls-3.jpg"
+      },
+      {
+        "slug": "rf-point-level-sensor-disk-type-series-sw-6201",
+        "name": "RF POINT LEVEL SENSOR DISK TYPE (Series SW 6201)",
+        "blocks": 1,
+        "image": "/images/services/ls-4.jpg"
+      },
+      {
+        "slug": "ultrasonic-level-sensor-series-sw-3051",
+        "name": "ULTRASONIC LEVEL SENSOR (Series SW 3051)",
+        "blocks": 1,
+        "image": "/images/services/is-11.jpg"
+      },
+      {
+        "slug": "harmonics-free-series-reactor-hfsr",
+        "name": "Harmonics free Series Reactor (HFSR)",
+        "blocks": 1,
+        "image": "/images/services/soft-1.jpg"
+      },
+      {
+        "slug": "hfsr-reactor",
+        "name": "HFSR Reactor",
+        "blocks": 1,
+        "image": "/images/services/soft-2.jpg"
+      }
+    ]
+  },
+  {
+    "category": "Incremental encoders",
+    "source": "incremental-encoders-detail.html",
+    "products": [
+      {
+        "slug": "size-38-hollow-shaft-encoder-j-15h-t-sl-15h-blind-bore-15t-through-bore",
+        "name": "J-15H-T-SL encoder",
+        "blocks": 5,
+        "image": "/images/services/incer-1.png"
+      },
+      {
+        "slug": "j-260",
+        "name": "J-260 encoder",
+        "blocks": 5,
+        "image": "/images/services/incer-10.png"
+      },
+      {
+        "slug": "size-58-hollow-shaft-encoder-j-260-nd-sl-r-abz-q-ab-a-a",
+        "name": "J-260-ND-SL encoder",
+        "blocks": 3,
+        "image": "/images/services/incer-2.png"
+      },
+      {
+        "slug": "elevator-encoder-j-775-sl-r-abz-q-ab-a-a",
+        "name": "J-775-SL encoder",
+        "blocks": 5,
+        "image": "/images/services/incer-3.png"
+      },
+      {
+        "slug": "size-38-shaft-encoder-j-15s-sl-r-abz-q-ab-a-a",
+        "name": "J-15S-SL encoder",
+        "blocks": 4,
+        "image": "/images/services/incer-solid-1.png"
+      },
+      {
+        "slug": "size-58-encoder-flange-mount-j-260-58an-sl-r-abz-q-ab-a-a",
+        "name": "J-260-58AN-SL encoder",
+        "blocks": 4,
+        "image": "/images/services/incer-solid-2.png"
+      },
+      {
+        "slug": "size-58-encoder-servo-mount-j-260-58bn-sl-r-abz-q-ab-a-a",
+        "name": "J-260-58BN-SL encoder",
+        "blocks": 4,
+        "image": "/images/services/incer-solid-3.png"
+      },
+      {
+        "slug": "heavy-duty-encoder-j-260-9hd-n-r-abz-q-ab-a-a",
+        "name": "J-260-9HD-N encoder",
+        "blocks": 5,
+        "image": "/images/services/incer-solid-4.png"
+      },
+      {
+        "slug": "machine-tool-encoder-j-260-68-sl-r-abz-q-ab-a-a",
+        "name": "J-260-68-SL encoder",
+        "blocks": 4,
+        "image": "/images/services/incer-solid-5.png"
+      },
+      {
+        "slug": "j-260-71-e-cube",
+        "name": "J-260-71 encoder",
+        "blocks": 4,
+        "image": "/images/services/incer-11.png"
+      }
+    ]
+  },
+  {
+    "category": "Conveyor safety switches",
+    "source": "conveyor-safety-switches.html",
+    "products": [
+      {
+        "slug": "belt-sway-switch",
+        "name": "Belt Sway Switch",
+        "blocks": 1,
+        "image": "/images/services/convey-2.jpg"
+      },
+      {
+        "slug": "pull-cord-switch",
+        "name": "Pull Cord Switch",
+        "blocks": 1,
+        "image": "/images/services/convey-1.jpg"
+      },
+      {
+        "slug": "belt-watch-master-and-sensor-units",
+        "name": "Belt Watch Master and Sensor units",
+        "blocks": 1,
+        "image": "/images/services/convey-3.jpg"
+      },
+      {
+        "slug": "heavy-duty-limit-switch",
+        "name": "Heavy Duty Limit Switch",
+        "blocks": 1,
+        "image": "/images/services/heavy.jpg"
+      }
+    ]
+  },
+  {
+    "category": "Process control instruments",
+    "source": "process-control-instruments.html",
+    "products": [
+      {
+        "slug": "vital-vibrating-fork-level-sensor-switch-for-solids",
+        "name": "VITAL- Vibrating Fork Level Sensor/Switch for Solids",
+        "blocks": 7,
+        "image": "/images/services/process-control-1.png"
+      },
+      {
+        "slug": "elixir-tuning-fork-level-sensor-switch-for-liquids",
+        "name": "ELIXIR- Tuning Fork Level Sensor/Switch for Liquids",
+        "blocks": 8,
+        "image": "/images/services/process-control-2.jpg"
+      },
+      {
+        "slug": "elixir-t-uni-vibrating-fork-type-level-sensor-for-liquids-in-hygienic-applications",
+        "name": "Elixir-T-Uni: Vibrating Fork Type Level Sensor for Liquids in Hygienic Applications",
+        "blocks": 7,
+        "image": "/images/services/process-control-3.jpg"
+      },
+      {
+        "slug": "coat-endure-rf-admittance-level-switch-sensor-for-stick-solids-and-liquids",
+        "name": "Coat-Endure: RF-Admittance Level Switch/Sensor for Sticky Solids and Liquids",
+        "blocks": 8,
+        "image": "/images/services/process-control-4.jpg"
+      },
+      {
+        "slug": "capvel-fuel-level-sensor-transmitter-for-remote-tracking-of-fuel",
+        "name": "Capvel-FUEL: Level Sensor/Transmitter for remote tracking of fuel",
+        "blocks": 11,
+        "image": "/images/services/process-control-5.jpg"
+      },
+      {
+        "slug": "vibrosonde-vibrating-rod-type-level-sensor-switch-for-solids",
+        "name": "Vibrosonde: Vibrating Rod Type Level Sensor/Switch for Solids",
+        "blocks": 7,
+        "image": "/images/services/process-control-6.jpg"
+      }
+    ]
+  },
+  {
+    "category": "Field instruments",
+    "source": "field-instruments.html",
+    "products": [
+      {
+        "slug": "level-radar",
+        "name": "Radar",
+        "blocks": 1,
+        "image": "/images/services/fi-1.jpg"
+      },
+      {
+        "slug": "level-ultrasonic",
+        "name": "Ultrasonic",
+        "blocks": 1,
+        "image": "/images/services/fi-2.jpg"
+      },
+      {
+        "slug": "level-guided-radar",
+        "name": "Guided radar",
+        "blocks": 1,
+        "image": "/images/services/fi-3.jpg"
+      },
+      {
+        "slug": "level-radiometry",
+        "name": "Radiometry",
+        "blocks": 1,
+        "image": "/images/services/fi-4.jpg"
+      },
+      {
+        "slug": "level-vibronics-for-fluids",
+        "name": "Vibronics for fluids",
+        "blocks": 1,
+        "image": "/images/services/fi-5.jpg"
+      },
+      {
+        "slug": "level-vibronics-for-solids",
+        "name": "Vibronics for solids",
+        "blocks": 1,
+        "image": "/images/services/fi-6.jpg"
+      },
+      {
+        "slug": "level-hydrostatic",
+        "name": "Hydrostatic",
+        "blocks": 1,
+        "image": "/images/services/fi-7.jpg"
+      },
+      {
+        "slug": "level-differential-pressure",
+        "name": "Differential pressure",
+        "blocks": 1,
+        "image": "/images/services/fi-8.jpg"
+      },
+      {
+        "slug": "level-capacitance",
+        "name": "Capacitance",
+        "blocks": 1,
+        "image": "/images/services/fi-9.jpg"
+      },
+      {
+        "slug": "level-conductive",
+        "name": "Conductive",
+        "blocks": 1,
+        "image": "/images/services/fi-10.jpg"
+      },
+      {
+        "slug": "level-paddle-switch",
+        "name": "Paddle switch",
+        "blocks": 1,
+        "image": "/images/services/fi-11.jpg"
+      },
+      {
+        "slug": "level-electromechanical-level-system",
+        "name": "Electromechanical level system",
+        "blocks": 1,
+        "image": "/images/services/fi-12.jpg"
+      },
+      {
+        "slug": "flow-electromagnetic",
+        "name": "Electromagnetic",
+        "blocks": 1,
+        "image": "/images/services/flow-1.jpg"
+      },
+      {
+        "slug": "flow-coriolis",
+        "name": "Coriolis",
+        "blocks": 1,
+        "image": "/images/services/flow-2.jpg"
+      },
+      {
+        "slug": "flow-ultrasonic-variant",
+        "name": "Ultrasonic",
+        "blocks": 1,
+        "image": "/images/services/flow-3.jpg"
+      },
+      {
+        "slug": "flow-thermal",
+        "name": "Thermal",
+        "blocks": 1,
+        "image": "/images/services/flow-4.jpg"
+      },
+      {
+        "slug": "flow-differential-pressure-dp",
+        "name": "Differential pressure (DP)",
+        "blocks": 1,
+        "image": "/images/services/flow-5.jpg"
+      },
+      {
+        "slug": "flow-vortex",
+        "name": "Vortex",
+        "blocks": 1,
+        "image": "/images/services/flow-6.jpg"
+      },
+      {
+        "slug": "level-transducer",
+        "name": "Transducer",
+        "blocks": 1,
+        "image": "/images/services/fi-13.jpg"
+      },
+      {
+        "slug": "level-pressure-switch",
+        "name": "Pressure switch",
+        "blocks": 1,
+        "image": "/images/services/fi-14.jpg"
+      },
+      {
+        "slug": "level-analog-and-digital-transmitters",
+        "name": "Analog and Digital Transmitters",
+        "blocks": 1,
+        "image": "/images/services/fi-15.jpg"
+      },
+      {
+        "slug": "level-digital-transmitters",
+        "name": "Digital transmitters",
+        "blocks": 1,
+        "image": "/images/services/fi-16.jpg"
+      },
+      {
+        "slug": "temperature-head-transmitters",
+        "name": "Head transmitters",
+        "blocks": 0,
+        "image": "/images/services/temper-1.jpg"
+      },
+      {
+        "slug": "temperature-din-rail-transmitters",
+        "name": "DIN rail transmitters",
+        "blocks": 0,
+        "image": "/images/services/temper-2.jpg"
+      },
+      {
+        "slug": "temperature-field-transmitters",
+        "name": "Field transmitters",
+        "blocks": 0,
+        "image": "/images/services/temper-3.jpg"
+      },
+      {
+        "slug": "temperature-resistance-thermometers",
+        "name": "Resistance thermometers",
+        "blocks": 0,
+        "image": "/images/services/temper-5.jpg"
+      },
+      {
+        "slug": "temperature-thermocouples",
+        "name": "Thermocouples",
+        "blocks": 0,
+        "image": "/images/services/temper-6.jpg"
+      },
+      {
+        "slug": "temperature-temperature-switches",
+        "name": "Temperature switches",
+        "blocks": 0,
+        "image": "/images/services/temper-7.jpg"
+      },
+      {
+        "slug": "liquid-analysis-ph-orp",
+        "name": "pH/ORP",
+        "blocks": 1,
+        "image": "/images/services/liquid-1.jpg"
+      },
+      {
+        "slug": "liquid-analysis-conductivity",
+        "name": "Conductivity",
+        "blocks": 1,
+        "image": "/images/services/liquid-2.jpg"
+      },
+      {
+        "slug": "liquid-analysis-turbidity-solids",
+        "name": "Turbidity/solids",
+        "blocks": 1,
+        "image": "/images/services/liquid-3.jpg"
+      },
+      {
+        "slug": "liquid-analysis-oxygen",
+        "name": "Oxygen",
+        "blocks": 1,
+        "image": "/images/services/liquid-4.jpg"
+      },
+      {
+        "slug": "liquid-analysis-disinfection-chlorine",
+        "name": "Disinfection (chlorine)",
+        "blocks": 1,
+        "image": "/images/services/liquid-5.jpg"
+      },
+      {
+        "slug": "liquid-analysis-analyzers",
+        "name": "Analyzers",
+        "blocks": 1,
+        "image": "/images/services/liquid-6.jpg"
+      },
+      {
+        "slug": "liquid-analysis-transmitters",
+        "name": "Transmitters",
+        "blocks": 1,
+        "image": "/images/services/liquid-7.jpg"
+      },
+      {
+        "slug": "liquid-analysis-process-photometers",
+        "name": "Process photometers",
+        "blocks": 1,
+        "image": "/images/services/liquid-8.jpg"
+      },
+      {
+        "slug": "liquid-analysis-samplers",
+        "name": "Samplers",
+        "blocks": 1,
+        "image": "/images/services/liquid-9.jpg"
+      }
+    ]
+  },
+  {
+    "category": "Control panels",
+    "source": "control-panels.html",
+    "products": [
+      {
+        "slug": "vfd-panel-plc-panel",
+        "name": "VFD Panel/ PLC Panel",
+        "blocks": 1,
+        "image": "/images/services/details/control-planes.jpg"
+      }
+    ]
+  },
+  {
+    "category": "AC & DC motors",
+    "source": "ac-dc-motors.html",
+    "products": [
+      {
+        "slug": "ac-induction-motors-geared-motors",
+        "name": "AC Induction Motors / Geared Motors",
+        "blocks": 5,
+        "image": "/images/services/ac-24567.jpg"
+      },
+      {
+        "slug": "fhp-ac-induction-motors",
+        "name": "FHP AC induction motors",
+        "blocks": 5,
+        "image": "/images/services/ac-motors-new-1.jpg"
+      },
+      {
+        "slug": "ac-synchronous-motors",
+        "name": "AC Synchronous Motors",
+        "blocks": 18,
+        "image": "/images/services/acmotors20.png"
+      },
+      {
+        "slug": "pmdc-motors-geared-motors",
+        "name": "PMDC Motors / Geared Motors",
+        "blocks": 22,
+        "image": "/images/services/acmotors22.png"
+      },
+      {
+        "slug": "dc-drive-model-tdr-72",
+        "name": "DC Drive Model TDR - 72",
+        "blocks": 3,
+        "image": "/images/services/acmotors1.png"
+      },
+      {
+        "slug": "dc-drive-model-tdr-96",
+        "name": "DC Drive Model TDR - 96",
+        "blocks": 6,
+        "image": "/images/services/acmotors2.png"
+      },
+      {
+        "slug": "dc-drive-model-pmd-2",
+        "name": "DC Drive Model PMD - 2",
+        "blocks": 5,
+        "image": "/images/services/acmotors3.png"
+      },
+      {
+        "slug": "dc-drive-model-pmd-1",
+        "name": "DC Drive Model PMD - 1",
+        "blocks": 5,
+        "image": "/images/services/acmotors4.png"
+      },
+      {
+        "slug": "dc-drive-model-spm-1",
+        "name": "DC Drive Model SPM - 1",
+        "blocks": 6,
+        "image": "/images/services/acmotors5.png"
+      },
+      {
+        "slug": "dc-drive-model-spm-2",
+        "name": "DC Drive Model SPM - 2",
+        "blocks": 6,
+        "image": "/images/services/acmotors6.png"
+      },
+      {
+        "slug": "dc-drive-model-tdr-100",
+        "name": "DC Drive Model TDR - 100",
+        "blocks": 6,
+        "image": "/images/services/acmotors7.png"
+      },
+      {
+        "slug": "dc-drive-model-tdr-192-d",
+        "name": "DC Drive Model TDR - 192 (D)",
+        "blocks": 5,
+        "image": "/images/services/acmotors8.png"
+      },
+      {
+        "slug": "tacho-generators",
+        "name": "Tacho Generators",
+        "blocks": 8,
+        "image": "/images/services/process-control-25.jpg"
+      },
+      {
+        "slug": "bldc-motors-and-drives",
+        "name": "BLDC Motors And Drives",
+        "blocks": 15,
+        "image": "/images/services/ac-motors-89.png"
+      }
+    ]
+  }
+]

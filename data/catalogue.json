@@ -1,0 +1,3125 @@
+[
+  {
+    "slug": "drives-and-automation",
+    "name": "Drives & automation",
+    "headline": "Variable speed, controlled precisely.",
+    "description": "CG-Emotron AC drives, soft starters and control interfaces for motor-driven applications.",
+    "brand": "CG-Emotron",
+    "image": "/images/services/em vfx.jpg",
+    "selection": [
+      "Motor rating and supply voltage",
+      "Variable or constant torque duty",
+      "Control interfaces and enclosure requirements"
+    ],
+    "products": [
+      {
+        "slug": "vss",
+        "name": "Emotron VSS",
+        "group": "",
+        "image": "/images/services/vsss.jpg",
+        "blocks": [
+          {
+            "type": "feature",
+            "text": "Range : 0.4kW to 2.2kW"
+          },
+          {
+            "type": "feature",
+            "text": "Supply : 220V Single Phase"
+          },
+          {
+            "type": "feature",
+            "text": "Application : Variable/Constant Torque"
+          },
+          {
+            "type": "feature",
+            "text": "Protection class : IP20"
+          },
+          {
+            "type": "feature",
+            "text": "Compliance : CE"
+          },
+          {
+            "type": "paragraph",
+            "text": "Emotron VSS is a multipurpose AC drive which is packed with features to meet application requirements.VSS is cost effective , easy to install , easy to use drive for the single phase supply system in challenging industrial environment. VSS series meets user's needs and runs variety of applications like packaging , wood working , pumps , blowers , mixers and other machineries."
+          },
+          {
+            "type": "heading",
+            "text": "Key Features"
+          },
+          {
+            "type": "feature",
+            "text": "I/O's- 5 DI, 2AI, 1DO, 1AO , 1 RO"
+          },
+          {
+            "type": "feature",
+            "text": "A variety of programmable acceleration/ deceleration curves"
+          },
+          {
+            "type": "feature",
+            "text": "Fixed length control"
+          },
+          {
+            "type": "feature",
+            "text": "Timer and counter function"
+          },
+          {
+            "type": "feature",
+            "text": "Over excitation brake"
+          },
+          {
+            "type": "feature",
+            "text": "Overvoltage protection"
+          },
+          {
+            "type": "feature",
+            "text": "Undervoltage protection"
+          },
+          {
+            "type": "feature",
+            "text": "Restart upon power loss"
+          },
+          {
+            "type": "feature",
+            "text": "Motor thermal protection"
+          },
+          {
+            "type": "feature",
+            "text": "Process PID control"
+          },
+          {
+            "type": "feature",
+            "text": "16-step programmable speed control"
+          },
+          {
+            "type": "feature",
+            "text": "Wobble frequency control"
+          },
+          {
+            "type": "feature",
+            "text": "Multi-functional programmable key"
+          },
+          {
+            "type": "feature",
+            "text": "Field-weakening control"
+          },
+          {
+            "type": "feature",
+            "text": "High-precision torque control"
+          },
+          {
+            "type": "feature",
+            "text": "V/f separated control"
+          }
+        ],
+        "legacyIds": ["vss"],
+        "source": "drives-and-automation-detail.html"
+      },
+      {
+        "slug": "vsm",
+        "name": "Emotron VSM",
+        "group": "",
+        "image": "/images/services/Emotron-VSM.jpg",
+        "blocks": [
+          {
+            "type": "feature",
+            "text": "Range : 0.75 kW to 4 kW"
+          },
+          {
+            "type": "feature",
+            "text": "Current : 2.5 Amp to 9.5 Amp"
+          },
+          {
+            "type": "feature",
+            "text": "Voltage : 3 Phase 380 to 480 VAC/50Hz"
+          },
+          {
+            "type": "paragraph",
+            "text": "Emotron VSM series drive offers more compact design with several advanced features. The compact design offers easy , flexible and user friendly installation which allows your system to be operational in no time. Emotron VSM offers reliable and cost efficient solutions for various variable and constant torque applications."
+          },
+          {
+            "type": "heading",
+            "text": "Key Features"
+          },
+          {
+            "type": "feature",
+            "text": "I/O's- 5 DI , 2 AI , 1 DO , 1 AO , 1 RO"
+          },
+          {
+            "type": "feature",
+            "text": "Optimized and compact structural design, leading technology platform"
+          },
+          {
+            "type": "feature",
+            "text": "Standard LED display"
+          },
+          {
+            "type": "feature",
+            "text": "Supports both Induction Motor and Permanent Magnet Motor"
+          },
+          {
+            "type": "feature",
+            "text": "Heavy duty Drive for various applications"
+          },
+          {
+            "type": "feature",
+            "text": "Built-in brake chopper"
+          },
+          {
+            "type": "feature",
+            "text": "High-speed pulse input"
+          },
+          {
+            "type": "feature",
+            "text": "Strong overload capability with 200% of rated load for 1 sec"
+          },
+          {
+            "type": "feature",
+            "text": "Built-in PLC Logic Functions, Virtual Digital 1/0s with multi Logic functions, Timer and comparators"
+          },
+          {
+            "type": "feature",
+            "text": "Built-in C3 Class EMC Filter"
+          },
+          {
+            "type": "feature",
+            "text": "EmoWizard tool for convenient debugging"
+          }
+        ],
+        "legacyIds": ["vsm"],
+        "source": "drives-and-automation-detail.html"
+      },
+      {
+        "slug": "emotron-vsx",
+        "name": "Emotron VSX",
+        "group": "",
+        "image": "/images/services/Emotron-VSX.jpg",
+        "blocks": [
+          {
+            "type": "feature",
+            "text": "Range : 0.75 kW to 22 kW"
+          },
+          {
+            "type": "feature",
+            "text": "Current : 2.5 Amp to 45 Amp"
+          },
+          {
+            "type": "feature",
+            "text": "Voltage : 3 Phase 380 to 480 VAC/50Hz"
+          },
+          {
+            "type": "paragraph",
+            "text": "Emotron VSX Series Drives offer customised solutions for your required application in an incredibly compact design with technologically advanced package capable of driving Induction and Permanent magnet motor. The LCD graphical display offers user-friendly interface and set up will have your system up and running in time."
+          },
+          {
+            "type": "heading",
+            "text": "Key Features"
+          },
+          {
+            "type": "feature",
+            "text": "I/O's- 3 AI , 2 AO , 7 DI , 2 DO , 2 RO"
+          },
+          {
+            "type": "feature",
+            "text": "LCD graphical display with Oscilloscope feature as standard"
+          },
+          {
+            "type": "feature",
+            "text": "Optimized and compact structural design, leading technology platform"
+          },
+          {
+            "type": "feature",
+            "text": "Strong overload capability with 200% of rated load for 1 sec"
+          },
+          {
+            "type": "feature",
+            "text": "High-speed pulse input and output up to 100 KHz"
+          },
+          {
+            "type": "feature",
+            "text": "Compatible for Induction Motor and Permanent Magnet Motor"
+          },
+          {
+            "type": "feature",
+            "text": "V/F fully separated and semi-separated operation"
+          },
+          {
+            "type": "feature",
+            "text": "Built-in PLC Logic Functions, Virtual Digital I/0s with multi Logic functions, timer and comparators"
+          },
+          {
+            "type": "feature",
+            "text": "Built-in C3 Class EMC Filter"
+          },
+          {
+            "type": "feature",
+            "text": "EmoWizard tool for convenient debugging"
+          }
+        ],
+        "legacyIds": ["vsx"],
+        "source": "drives-and-automation-detail.html"
+      },
+      {
+        "slug": "vse-dedicated-elevator-drives",
+        "name": "VSE Dedicated Elevator Drives",
+        "group": "",
+        "image": "/images/services/vse.jpg",
+        "blocks": [
+          {
+            "type": "feature",
+            "text": "Range : 3.7kW to 22kW"
+          },
+          {
+            "type": "feature",
+            "text": "Supply: 380V to 460V Three Phase"
+          },
+          {
+            "type": "feature",
+            "text": "Application : Elevator"
+          },
+          {
+            "type": "feature",
+            "text": "Protection class : IP20"
+          },
+          {
+            "type": "feature",
+            "text": "Compliance : CE"
+          },
+          {
+            "type": "paragraph",
+            "text": "Emotron VSE series drives offer effortless and smooth operation with all types of elevators and includes excellent tuning features for the safest , most efficient comfortable passenger experience without vibration and jerks."
+          },
+          {
+            "type": "heading",
+            "text": "Key features"
+          },
+          {
+            "type": "feature",
+            "text": "I/O's - 3 AI, 2 AO, 7 DI, 2 DO, 2 RO"
+          },
+          {
+            "type": "feature",
+            "text": "Safety and reliability UPS applicable"
+          },
+          {
+            "type": "feature",
+            "text": "Dedicated brake control sequence"
+          },
+          {
+            "type": "feature",
+            "text": "Commendable levelling"
+          },
+          {
+            "type": "feature",
+            "text": "Silky smoothness"
+          },
+          {
+            "type": "feature",
+            "text": "Emergency and inspection speed programmable"
+          },
+          {
+            "type": "feature",
+            "text": "Light load detection feature"
+          },
+          {
+            "type": "feature",
+            "text": "Built in Baseblock feature"
+          }
+        ],
+        "legacyIds": ["vse"],
+        "source": "drives-and-automation-detail.html"
+      },
+      {
+        "slug": "vfx-fdu",
+        "name": "Emotron VFX / FDU",
+        "group": "",
+        "image": "/images/services/em vfx.jpg",
+        "blocks": [
+          {
+            "type": "feature",
+            "text": "Range: 0.75kW to 3000kW"
+          },
+          {
+            "type": "feature",
+            "text": "Supply: 400V/525V/690V Three phase"
+          },
+          {
+            "type": "feature",
+            "text": "Application : Variable / Constant torque"
+          },
+          {
+            "type": "feature",
+            "text": "Protection class : IP20 , IP21 , IP54"
+          },
+          {
+            "type": "feature",
+            "text": "Complaience : UL, CE,DNV"
+          },
+          {
+            "type": "paragraph",
+            "text": "Emotron VFX 2.0 variable speed drives optimizes your process and prevents damage and downtime. The combination of direct torque control , accurate speed control sand efficient vector braking makes it the ideal solution for all dynamic applications such as cranes , crushers , mills , mixers and centrifuges."
+          },
+          {
+            "type": "heading",
+            "text": "Key Features"
+          },
+          {
+            "type": "feature",
+            "text": "Modular Design"
+          },
+          {
+            "type": "feature",
+            "text": "More I/O's available - 4 AI , 2 AO , 8 D1 , 2 DO , 3 RO"
+          },
+          {
+            "type": "feature",
+            "text": "Direct torque control reacts extremely quickly and eliminates disturbance due to abrupt load changes"
+          },
+          {
+            "type": "feature",
+            "text": "Operation parameters can be set in your process units , for example mis , tons/h or cycles/min"
+          },
+          {
+            "type": "feature",
+            "text": "Module fuses included as standard for sizes 300 - 3750 A (480 V) and 210 -3000 A (690 V)"
+          },
+          {
+            "type": "feature",
+            "text": "Integrated vector braking ensures quick and controlled stops, increasing productivity and safety"
+          },
+          {
+            "type": "feature",
+            "text": "Detachable 4 Line LCD control panel with own memory means it is easy to transfer or copy setting."
+          },
+          {
+            "type": "feature",
+            "text": "Robust certified IP54 metal construction as option (upto 132kW) offers cost-efficient installation close to the application."
+          },
+          {
+            "type": "feature",
+            "text": "6 Pulse & 12 Pulse configurations are also available."
+          },
+          {
+            "type": "feature",
+            "text": "Support IM , PMSM , SRM"
+          },
+          {
+            "type": "feature",
+            "text": "Support CAN Open, Profibus , Device net, Ethernet , Profinet , EtherNet IP, Safe Stop"
+          }
+        ],
+        "legacyIds": ["vfx"],
+        "source": "drives-and-automation-detail.html"
+      },
+      {
+        "slug": "emotron-msf-softstarters",
+        "name": "Emotron MSF Softstarters",
+        "group": "",
+        "image": "/images/services/Msf.jpg",
+        "blocks": [
+          {
+            "type": "feature",
+            "text": "Range : 7.5kW to 1600kW"
+          },
+          {
+            "type": "feature",
+            "text": "Supply : 400V/525V/690V Three phase"
+          },
+          {
+            "type": "feature",
+            "text": "Application : Variable/Constant torque"
+          },
+          {
+            "type": "feature",
+            "text": "Protection Class : IPOO, IP20"
+          },
+          {
+            "type": "feature",
+            "text": "Compliance : UL, CE"
+          },
+          {
+            "type": "paragraph",
+            "text": "Whilst traditional softstarters handle the most common start challenges , Emotron MSF 2.0 offer a lot more. Start and stop sequences are optimized. Advanced bracking techniques increase productivity. Built-in monitor functionally protects your process from inefficiency , damage and downtime. Easy installation and set-up save time and money. In addition , the Emotron MSF is developed for selected applications , which means optimized functionally adapted to your specific needs."
+          },
+          {
+            "type": "heading",
+            "text": "Key Features"
+          },
+          {
+            "type": "feature",
+            "text": "Torque control provides linear acceleration and deceleration"
+          },
+          {
+            "type": "feature",
+            "text": "Minimizes impact on equipment and eliminates need fc motor-controlled valves."
+          },
+          {
+            "type": "feature",
+            "text": "Built-in vector brake offer quick and safe braking of screens. No need for mechanical brakes"
+          },
+          {
+            "type": "feature",
+            "text": "Built-in shaft power monitor sends warning or stops the , pump when load is outside your chosen limits."
+          },
+          {
+            "type": "feature",
+            "text": "Actual load can be displayed via e.g Profibus"
+          },
+          {
+            "type": "feature",
+            "text": "Analogue sensor can be connected directly to MSF to control start and stop levels"
+          },
+          {
+            "type": "feature",
+            "text": "MSF torque controls minimizes start currents"
+          }
+        ],
+        "legacyIds": ["msf"],
+        "source": "drives-and-automation-detail.html"
+      },
+      {
+        "slug": "emotron-tsa-softstarter",
+        "name": "Emotron TSA soft starter",
+        "group": "",
+        "image": "/images/services/tsa.jpg",
+        "blocks": [
+          {
+            "type": "feature",
+            "text": "Range: 7.5kW to 250kW"
+          },
+          {
+            "type": "feature",
+            "text": "Supply : 400V/525V/690V Three phase"
+          },
+          {
+            "type": "feature",
+            "text": "Application : Variable/Constant Torque"
+          },
+          {
+            "type": "feature",
+            "text": "Protection Class : P00, IP20"
+          },
+          {
+            "type": "feature",
+            "text": "Compliance : UL, CE"
+          },
+          {
+            "type": "paragraph",
+            "text": "Emotron TSA softstarters take motor control to a new level soft torque starting , intelligent load monitoring and smart stop are all included and accompanied by a robust and compact design. By developing the Emotron TSA range of electronic softstarter CG has taken a major step towards the ideal motor controller for applications where variable speed is not required. You simply get everything expect variable speed"
+          },
+          {
+            "type": "heading",
+            "text": "Key Features"
+          },
+          {
+            "type": "feature",
+            "text": "Integrated by-pass with proven contactor technology"
+          },
+          {
+            "type": "feature",
+            "text": "3-phase torque control"
+          },
+          {
+            "type": "feature",
+            "text": "Controlled starts , also with challenging loads"
+          },
+          {
+            "type": "feature",
+            "text": "Smart stop with-in braking functionality"
+          },
+          {
+            "type": "feature",
+            "text": "Slow speed and jog operation"
+          },
+          {
+            "type": "feature",
+            "text": "Extended protection with thermal model"
+          },
+          {
+            "type": "feature",
+            "text": "Compact dimension"
+          },
+          {
+            "type": "feature",
+            "text": "Multi-lingual control panel with single-function keys and copy function"
+          },
+          {
+            "type": "feature",
+            "text": "High capacity dynamics vector brake"
+          },
+          {
+            "type": "feature",
+            "text": "Coated boards as standard"
+          }
+        ],
+        "legacyIds": ["tsa"],
+        "source": "drives-and-automation-detail.html"
+      },
+      {
+        "slug": "emotron-emolog",
+        "name": "Emotron EmoLog",
+        "group": "",
+        "image": "/images/services/mlog.jpg",
+        "blocks": [
+          {
+            "type": "feature",
+            "text": "I/O Configuration : Upto 256 Digital or 64 Analog"
+          },
+          {
+            "type": "feature",
+            "text": "Supply : 24 VDC Protection"
+          },
+          {
+            "type": "feature",
+            "text": "Class: IP20"
+          },
+          {
+            "type": "feature",
+            "text": "Compliance : CE"
+          },
+          {
+            "type": "paragraph",
+            "text": "Emotron EmoLog series is a high performance compact type Programmable Logic Controller (PLC) for your automation process. It can be widely applied in manufacturing industries including SPM , textile , chemical fiber , machine tool , cables , food and beverages , packaging , plastic steel , construction machinery , air conditioner , elevator printing and many more"
+          },
+          {
+            "type": "heading",
+            "text": "Key Features"
+          },
+          {
+            "type": "feature",
+            "text": "STM32 high-performance MCU platform"
+          },
+          {
+            "type": "feature",
+            "text": "Available 14 & 24 I/0's CPUs with Transistor & relay configuration"
+          },
+          {
+            "type": "feature",
+            "text": "Built in 2 high speed digital inputs Max. 200kHz frequenc'"
+          },
+          {
+            "type": "feature",
+            "text": "Built in pulse output type PWM/PTO"
+          },
+          {
+            "type": "feature",
+            "text": "Built-in RS422/RS485 communication port"
+          },
+          {
+            "type": "feature",
+            "text": "Program memory up to 128Kb"
+          },
+          {
+            "type": "feature",
+            "text": "Supports 64k-step ladder"
+          },
+          {
+            "type": "feature",
+            "text": "Built-in real time clock"
+          },
+          {
+            "type": "feature",
+            "text": "Operating temperature 55-C"
+          },
+          {
+            "type": "feature",
+            "text": "Configure up to 256 I/O's points"
+          },
+          {
+            "type": "feature",
+            "text": "Support ladder and instruction list programming"
+          },
+          {
+            "type": "feature",
+            "text": "Support optional board up to 2 no's (For Al/AO, Ethernet Port)"
+          },
+          {
+            "type": "feature",
+            "text": "Compatible for N:N protocol and RS485 communication port, you can create a network of up to 8 CPU"
+          },
+          {
+            "type": "feature",
+            "text": "Reliable and stable high speed micro USB port for programming download/monitor"
+          },
+          {
+            "type": "feature",
+            "text": "User friendly programming software"
+          }
+        ],
+        "legacyIds": ["emolog"],
+        "source": "drives-and-automation-detail.html"
+      },
+      {
+        "slug": "human-machine-interface",
+        "name": "Human Machine Interface",
+        "group": "",
+        "image": "/images/services/hunman.jpg",
+        "blocks": [
+          {
+            "type": "feature",
+            "text": "Display Size : 4.3\" and 7.0\""
+          },
+          {
+            "type": "feature",
+            "text": "Supply : 24 VDC Protection"
+          },
+          {
+            "type": "feature",
+            "text": "Class : IP65 front panel"
+          },
+          {
+            "type": "feature",
+            "text": "Compliance : CE"
+          },
+          {
+            "type": "paragraph",
+            "text": "Emotron EmoSmart series HMI is based on a modern , powerful & user friendly design having high quality display resolution, large memory and a powerful configuration that can easily achieve the human-machine interaction in various fields and industrial automation."
+          },
+          {
+            "type": "heading",
+            "text": "Key Features"
+          },
+          {
+            "type": "feature",
+            "text": "Higher computing performance with high speed process"
+          },
+          {
+            "type": "feature",
+            "text": "High resolution and high contrast with reliable touch pan"
+          },
+          {
+            "type": "feature",
+            "text": "The built-in stereo amplifying speaker provides efficient alarm notification"
+          },
+          {
+            "type": "feature",
+            "text": "Mechanism design breakthrough. The front panel has acquired the IP65 waterproof certificate & back panel is IP20"
+          },
+          {
+            "type": "feature",
+            "text": "ABS Black/Gray enclosure for greater vibration resistance and higher tolerance for ambient environmeni compared with other enclosures."
+          },
+          {
+            "type": "feature",
+            "text": "This system allows users to assign authority levels & register passwords to set permissions for different user groups for security control."
+          },
+          {
+            "type": "feature",
+            "text": "Supports SD Card"
+          },
+          {
+            "type": "feature",
+            "text": "Supports USB Host 2.0 Ports & USB Client 2.0 Ports"
+          },
+          {
+            "type": "feature",
+            "text": "Built-in communication ports: RS232/422/485"
+          },
+          {
+            "type": "feature",
+            "text": "Built-In Ethernet ports in 7 inch (as optional)"
+          }
+        ],
+        "legacyIds": ["hashcode"],
+        "source": "drives-and-automation-detail.html"
+      }
+    ]
+  },
+  {
+    "slug": "industrial-automation-solution",
+    "name": "Industrial automation",
+    "headline": "Connect the machine. Control the process.",
+    "description": "PLCs, HMIs, industrial PCs and gateways for machine control and system integration.",
+    "brand": "Renu Electronics",
+    "image": "/images/services/FlexiPanels - HMI.jpg",
+    "selection": [
+      "Machine sequence and I/O count",
+      "HMI size and communication protocols",
+      "Existing controls and integration scope"
+    ],
+    "products": [
+      {
+        "slug": "pc6101",
+        "name": "PC6101 industrial PC",
+        "group": "",
+        "image": "/images/services/ind-2.jpg",
+        "blocks": [
+          {
+            "type": "heading",
+            "text": "Features"
+          },
+          {
+            "type": "feature",
+            "text": "10.1” WSVGA TFT LED Panel with Resistive Touchscreen"
+          },
+          {
+            "type": "feature",
+            "text": "Embedded Intel® Atom™ E3845 Processor, Quad-core, 1.91 Ghz"
+          },
+          {
+            "type": "feature",
+            "text": "Supports one internal SATA 2.5” SSD/HDD and 1 mSATA port"
+          },
+          {
+            "type": "feature",
+            "text": "System memory up to 8 GB DDR3L 1066/1333 SDRAM"
+          },
+          {
+            "type": "feature",
+            "text": "Fanless design"
+          },
+          {
+            "type": "feature",
+            "text": "RS-232/422/485 selectable through BIOS"
+          },
+          {
+            "type": "feature",
+            "text": "Microsoft ® Windows 7/8/10 support"
+          }
+        ],
+        "legacyIds": ["in1"],
+        "source": "industrial-automation-solution-detail.html"
+      },
+      {
+        "slug": "flexipanels-basic-hmi-fp2-series",
+        "name": "FlexiPanels® Basic HMI FP2 Series",
+        "group": "",
+        "image": "/images/services/ind-3.jpg",
+        "blocks": [
+          {
+            "type": "heading",
+            "text": "Features"
+          },
+          {
+            "type": "feature",
+            "text": "4.3”and 7” TFT display options"
+          },
+          {
+            "type": "feature",
+            "text": "Suitable for basic applications, trending, tasks, alarms, logging, IEC 61131-3 programing environment, native ladder logic support"
+          },
+          {
+            "type": "feature",
+            "text": "Flash: 16MB"
+          },
+          {
+            "type": "feature",
+            "text": "RAM: 16MB"
+          },
+          {
+            "type": "feature",
+            "text": "Approvals: CE, UL Class I Div 2, IP65"
+          }
+        ],
+        "legacyIds": ["in2"],
+        "source": "industrial-automation-solution-detail.html"
+      },
+      {
+        "slug": "fp3-series-hmi-with-i-os",
+        "name": "FP3 Series HMI with I/Os",
+        "group": "",
+        "image": "/images/services/ind-4.jpg",
+        "blocks": [
+          {
+            "type": "heading",
+            "text": "Features"
+          },
+          {
+            "type": "feature",
+            "text": "4.3”, 7” and 10.2” TFT Color display with Optional Pluggable I/O modules"
+          },
+          {
+            "type": "feature",
+            "text": "Easy to connect and configure"
+          },
+          {
+            "type": "feature",
+            "text": "Wide range of ‘All-in-one’ (Digital and Analog) I/O modules"
+          },
+          {
+            "type": "feature",
+            "text": "One USB Host port"
+          },
+          {
+            "type": "feature",
+            "text": "One Ethernet port with multiple protocol support and FTP"
+          },
+          {
+            "type": "feature",
+            "text": "One SD card slot for programming or data logging"
+          },
+          {
+            "type": "feature",
+            "text": "Supports Horizontal and Vertical display orientation"
+          },
+          {
+            "type": "feature",
+            "text": "High quality color display"
+          },
+          {
+            "type": "feature",
+            "text": "Front Panel mounting with IP66 rating"
+          },
+          {
+            "type": "feature",
+            "text": "Multilanguage support with true type Windows fonts"
+          },
+          {
+            "type": "feature",
+            "text": "CE, UL Class I Div 2, RoHS"
+          }
+        ],
+        "legacyIds": ["in3"],
+        "source": "industrial-automation-solution-detail.html"
+      },
+      {
+        "slug": "flexipanels-wince-based-pc3-series",
+        "name": "FlexiPanels WinCE Based PC3 Series",
+        "group": "",
+        "image": "/images/services/ind-5.jpg",
+        "blocks": [
+          {
+            "type": "heading",
+            "text": "Features"
+          },
+          {
+            "type": "feature",
+            "text": "4.3”, 7” and 10.2” Color TFT display options Memory :"
+          },
+          {
+            "type": "feature",
+            "text": "Up-to 128 MB RAM"
+          },
+          {
+            "type": "feature",
+            "text": "Up-to 128 MB Flash"
+          },
+          {
+            "type": "feature",
+            "text": "2x serial communication ports"
+          },
+          {
+            "type": "feature",
+            "text": "1x Ethernet port (10/100 Mbps)"
+          },
+          {
+            "type": "feature",
+            "text": "1x SD card slot"
+          },
+          {
+            "type": "feature",
+            "text": "1x USB device port"
+          },
+          {
+            "type": "feature",
+            "text": "1x USB host port: Can be used for extended memory / USB keyboard / USB mouse"
+          },
+          {
+            "type": "feature",
+            "text": "Support for 65K color"
+          },
+          {
+            "type": "feature",
+            "text": "Front Panel mounting with IP66 rating"
+          },
+          {
+            "type": "feature",
+            "text": "CE, UL Class I Div 2, RoHS"
+          }
+        ],
+        "legacyIds": ["in4"],
+        "source": "industrial-automation-solution-detail.html"
+      },
+      {
+        "slug": "flexilogics-eco-plc-series-fl4",
+        "name": "FlexiLogics® ECO PLC Series-FL4",
+        "group": "",
+        "image": "/images/services/ind-6.jpg",
+        "blocks": [
+          {
+            "type": "heading",
+            "text": "Features"
+          },
+          {
+            "type": "feature",
+            "text": "DIN rail / Back panel mounted slim PLC"
+          },
+          {
+            "type": "feature",
+            "text": "Transistor or Relay outputs"
+          },
+          {
+            "type": "feature",
+            "text": "32 Bit RISC processor"
+          },
+          {
+            "type": "feature",
+            "text": "DC inputs, DC Outputs"
+          },
+          {
+            "type": "feature",
+            "text": "Support for High Speed Counters(8 Channels Up-to10KHz or 2 channels Up-to 25KHz) / Quaduature (any 2 pairs Up-to 10KHz or 4 pairs Up-to 5KHz) and Timers"
+          },
+          {
+            "type": "feature",
+            "text": "High Speed 3 PWM output (Up-to 10 Khz)"
+          },
+          {
+            "type": "feature",
+            "text": "High Speed 3 PWM output (Up-to 10 Khz)"
+          },
+          {
+            "type": "feature",
+            "text": "Up-to 2 Serial Ports, 1 RS232, 1 RS485"
+          },
+          {
+            "type": "feature",
+            "text": "1 USB Device Port"
+          },
+          {
+            "type": "feature",
+            "text": "DC powered units (24 V DC)"
+          },
+          {
+            "type": "feature",
+            "text": "IEC61131-3 programming environment support"
+          },
+          {
+            "type": "feature",
+            "text": "CE approved"
+          }
+        ],
+        "legacyIds": ["in5"],
+        "source": "industrial-automation-solution-detail.html"
+      },
+      {
+        "slug": "gateway-series-gwy-00",
+        "name": "Gateway Series GWY-00",
+        "group": "",
+        "image": "/images/services/ind-7.jpg",
+        "blocks": [
+          {
+            "type": "heading",
+            "text": "Features"
+          },
+          {
+            "type": "feature",
+            "text": "DIN Rail or Panel Mounted compact Protocol Converter"
+          },
+          {
+            "type": "feature",
+            "text": "DB9 Serial ports in any combination of RS232 / RS422 / 2 or 4 wire RS485 / CMOS"
+          },
+          {
+            "type": "feature",
+            "text": "Connects PLC to PLC or PLC to a Modbus Network (as a Master or Slave)"
+          },
+          {
+            "type": "feature",
+            "text": "Allows data sharing between PLC, Invertors, Controllers and other network devices"
+          },
+          {
+            "type": "feature",
+            "text": "Common model for connecting different devices. Several PLC and Invertors supported"
+          },
+          {
+            "type": "feature",
+            "text": "Direct connection to the Programming terminal saves additional hardware"
+          },
+          {
+            "type": "feature",
+            "text": "Low power consumption of only 2.5 Watts"
+          },
+          {
+            "type": "feature",
+            "text": "Common Programming software for the entire Gateway family.........FREE!!"
+          },
+          {
+            "type": "feature",
+            "text": "CE with UL certification"
+          }
+        ],
+        "legacyIds": ["in6"],
+        "source": "industrial-automation-solution-detail.html"
+      }
+    ]
+  },
+  {
+    "slug": "control-and-power-products",
+    "name": "Control & power products",
+    "headline": "Sense, monitor and protect.",
+    "description": "Proximity switches, speed monitoring, level sensing and motor-starting products.",
+    "brand": "Jayashree",
+    "image": "/images/services/ps.jpg",
+    "selection": [
+      "Sensing material and operating distance",
+      "Output type and supply voltage",
+      "Temperature, enclosure and mounting"
+    ],
+    "products": [
+      {
+        "slug": "inductive-proximity-switches",
+        "name": "Inductive Proximity Switches",
+        "group": "Proximity Switches",
+        "image": "/images/services/c-1.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "It senses only metallic objects; Useful for medium counting speed; Short sensing gaps. These switches are available from 4 mm diameter (M4) to 140 mm diameter (M140) with sensing distance from 0.5 mm to 100 mm. These switches are most reliable option for applications in Machine tools, Foundries, Rolling mills, Automobile, Textile, Pharmaceutical, and Material Handling Systems."
+          }
+        ],
+        "legacyIds": ["tab1primary"],
+        "source": "control-and-power-products-detail.html"
+      },
+      {
+        "slug": "capacitive-proximity-switches",
+        "name": "Capacitive Proximity Switches",
+        "group": "Proximity Switches",
+        "image": "/images/services/c-2.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "It senses non-metallic, metallic objects as well as liquid; Low counting speed. These are offered in tubular threaded housing from size M12 to M80. Has rugged construction along with IP-68 grade of protection; Very useful for liquid level monitoring applications."
+          }
+        ],
+        "legacyIds": ["tab1primary"],
+        "source": "control-and-power-products-detail.html"
+      },
+      {
+        "slug": "optical-proximity-switches",
+        "name": "Optical Proximity Switches",
+        "group": "Proximity Switches",
+        "image": "/images/services/c-3.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "It senses any object;Longer Sensing Distance; Medium counting speed; High position sensing accuracy. These are Infra-red type sensors incorporating advance and reliable technology. These are offered in tubular metallic, acrylic & plastic enclosures. Special models of Optical Switches are available with an integrated Optical Fibre cable for flexible mounting and for sensing miniature objects / high temperature objects."
+          }
+        ],
+        "legacyIds": ["tab1primary"],
+        "source": "control-and-power-products-detail.html"
+      },
+      {
+        "slug": "ultrasonic-proximity-switches",
+        "name": "Ultrasonic Proximity Switches",
+        "group": "Proximity Switches",
+        "image": "/images/services/c-5.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "These switches are ideally suitable for level monitoring applications. The sensing range can be from 0.2 m to 20 meters. These sensors have the ability to perform in dry and dusty environments. These sensors are immune to electrical noise levels generally present in the typical industrial environment. The ultrasonic sensors find applications for Anti-collision detection for cranes, Level controller for liquids and solids, Detection of moving object, Opening / Closing of doors by detecting motion."
+          }
+        ],
+        "legacyIds": ["tab1primary"],
+        "source": "control-and-power-products-detail.html"
+      },
+      {
+        "slug": "magnetic-proximity-switches",
+        "name": "Magnetic Proximity Switches",
+        "group": "Proximity Switches",
+        "image": "/images/services/c-4.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "It senses only ferrous objects/ magnets; High counting speed. These are available in M12, M18, M30 and above. Sensing range : 10 to 50 mm. Grade of protection is IP-68.These switches are used only for position sensing applications. These can also be used for Roto-meters, Direction sensing, Level Sensing of liquids."
+          }
+        ],
+        "legacyIds": ["tab1primary"],
+        "source": "control-and-power-products-detail.html"
+      },
+      {
+        "slug": "series-rm2211",
+        "name": "Series: RM2211",
+        "group": "Speed Switches",
+        "image": "/images/services/ss-10.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "This is a robust and heavy duty model built with Hybrid Circuit and Digital IC technology. It is housed in weather-proof IP-65 Cast Aluminium enclosure"
+          }
+        ],
+        "legacyIds": ["tab2primary"],
+        "source": "control-and-power-products-detail.html"
+      },
+      {
+        "slug": "series-rme211",
+        "name": "Series: RME211",
+        "group": "Speed Switches",
+        "image": "/images/services/ss-11.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "This is a robust and light duty model built with Hybrid circuit and Digital IC technology. It is housed in weather-proof IP-65 Cast Aluminium enclosure."
+          }
+        ],
+        "legacyIds": ["tab2primary"],
+        "source": "control-and-power-products-detail.html"
+      },
+      {
+        "slug": "series-rme261",
+        "name": "Series: RME261",
+        "group": "Speed Switches",
+        "image": "/images/services/ss-3.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "This is a robust and light duty model based on Micro-controller technology and built with digital display. This model has site programming facilities to alter essential parameters to suit application requirements. It is housed in weather-proof IP-65 Cast Aluminium enclosure."
+          }
+        ],
+        "legacyIds": ["tab2primary"],
+        "source": "control-and-power-products-detail.html"
+      },
+      {
+        "slug": "series-rmp211",
+        "name": "Series: RMP211",
+        "group": "Speed Switches",
+        "image": "/images/services/ss-4.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "This is a light-duty indoor model built with Hybrid circuit and Digital IC technology. It is housed in DIN Rail IP-30 ABS Plastic enclosure."
+          }
+        ],
+        "legacyIds": ["tab2primary"],
+        "source": "control-and-power-products-detail.html"
+      },
+      {
+        "slug": "series-rmp611",
+        "name": "Series: RMP611",
+        "group": "Speed Switches",
+        "image": "/images/services/ss-5.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "This is Universal model built with Micro-controller technology. This model has site programming facilities to alter essential parameters to suit application requirements. It is housed in IP-30 DIN-Rail plastic enclosure suitable for indoor / panel mounting."
+          }
+        ],
+        "legacyIds": ["tab2primary"],
+        "source": "control-and-power-products-detail.html"
+      },
+      {
+        "slug": "series-rm-d131-d151",
+        "name": "Series: RM D131/D151",
+        "group": "Speed Switches",
+        "image": "/images/services/ss-6.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "This is compact model built with Discrete IC technology. This model has sensor and controller together. It is housed in an enclosure suitable for indoor mounting."
+          }
+        ],
+        "legacyIds": ["tab2primary"],
+        "source": "control-and-power-products-detail.html"
+      },
+      {
+        "slug": "tilt-switch-series-sw-4211",
+        "name": "TILT SWITCH (Series SW 4211)",
+        "group": "Level Sensing",
+        "image": "/images/services/ls-1.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Tilt switch level sensor is a very rugged and proven instrument for monitoring top level of bulk material stored in an open space or in a bunker / silo. It has a special level detecting probe which is beyond a preset angle due to piling of material. The sensor probe is available in a robust MS tube for solids and a light duty plastic tube for food grains and fertilizer. Special models for use in hazardous environment are available."
+          }
+        ],
+        "legacyIds": ["tab3primary"],
+        "source": "control-and-power-products-detail.html"
+      },
+      {
+        "slug": "diaphragm-type-bin-monitor-series-bls-301m",
+        "name": "DIAPHRAGM TYPE BIN MONITOR (Series BLS 301M)",
+        "group": "Level Sensing",
+        "image": "/images/services/ls-2.jpg",
+        "blocks": [
+          {
+            "type": "feature",
+            "text": "Economical, Reliable and Durable Point Level Detection"
+          },
+          {
+            "type": "feature",
+            "text": "Low Profile Mounting"
+          },
+          {
+            "type": "feature",
+            "text": "Multiple Diaphragm Materials"
+          },
+          {
+            "type": "feature",
+            "text": "Over-Pressure Protection"
+          },
+          {
+            "type": "feature",
+            "text": "Ultra-Sensitive Switch Option"
+          },
+          {
+            "type": "paragraph",
+            "text": "Jayashree Diaphragm Type Bin Monitor offers economical, reliable and durable point level controls for point level detection of dry bulk materials. The units can be used to eliminate bin overflow, maintain a pre-determined material level, indicate plugging of chutes or conveyors or provide any of a number of level control function. The flush mount, non-intrusive units are ideally suited when vessel size or internal clearance is limited or where protrusion into a vessel is not acceptable. All installation and servicing, including diaphragm replacement and sensitivity adjustment can be done from outside the vessel."
+          }
+        ],
+        "legacyIds": ["tab3primary"],
+        "source": "control-and-power-products-detail.html"
+      },
+      {
+        "slug": "rf-capacitance-point-level-sensors",
+        "name": "RF Capacitance Point Level Sensors",
+        "group": "Level Sensing",
+        "image": "/images/services/ls-3.jpg",
+        "blocks": [
+          {
+            "type": "feature",
+            "text": "Superior Sensitivity of 0.5pF is standard"
+          },
+          {
+            "type": "feature",
+            "text": "Maximum Reliability and Calibration Stability"
+          },
+          {
+            "type": "feature",
+            "text": "Automatic Material Build – Up Immunity"
+          },
+          {
+            "type": "feature",
+            "text": "Universal Power Supply Available"
+          },
+          {
+            "type": "feature",
+            "text": "Liquid and Slurry Applications"
+          },
+          {
+            "type": "paragraph",
+            "text": "Jayashree RF capacitance sensors offer cost-effective, reliable point level monitoring and provide with the most affordable solution for your applications. These RF capacitance probes are designed to provide a high level of sensitivity, stability and durability for powder and bulk solids applications, as well as liquid and slurry applications and is backed by two years warranty"
+          }
+        ],
+        "legacyIds": ["tab3primary"],
+        "source": "control-and-power-products-detail.html"
+      },
+      {
+        "slug": "rf-point-level-sensor-disk-type-series-sw-6201",
+        "name": "RF POINT LEVEL SENSOR DISK TYPE (Series SW 6201)",
+        "group": "Level Sensing",
+        "image": "/images/services/ls-4.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The RF Point Level Sensor is a most rugged and proven sensor for monitoring level in a chute. This is very useful for monitoring chute blockage. It is a special heavy duty disk / flange mounted probe. The probe senses only the steady level of coal lumps and does not actuate due to falling material dust or humidity. The effect of cable capacitance and drift with temperature is eliminated by using a driven shield arrangement. The controller unit operates an output relay when the coal level reaches near the sensor face. The probes are available for working temp. up to 200°C. Probes of different types are available for specific application like telescopic, Teflon coated etc.."
+          }
+        ],
+        "legacyIds": ["tab3primary"],
+        "source": "control-and-power-products-detail.html"
+      },
+      {
+        "slug": "ultrasonic-level-sensor-series-sw-3051",
+        "name": "ULTRASONIC LEVEL SENSOR (Series SW 3051)",
+        "group": "Level Sensing",
+        "image": "/images/services/is-11.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The Ultrasonic level sensors of the Series SW 3051 are very useful for sensing high levels (up to 20 meters.) of liquids or slurry material. The sensor gives a 4-20 mA output signal to the controller and operates relays at preset high and low levels. Probes are available forsensing water levels of 5/10/15/20 meters."
+          }
+        ],
+        "legacyIds": ["tab3primary"],
+        "source": "control-and-power-products-detail.html"
+      },
+      {
+        "slug": "harmonics-free-series-reactor-hfsr",
+        "name": "Harmonics free Series Reactor (HFSR)",
+        "group": "Soft Starters",
+        "image": "/images/services/soft-1.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Harmonics free Series Reactor (HFSR), the name derived from the electrical Standards and technology, The customised solutions offered by Jayashree brought a revolution in the motor starting concept, till date the concept stands as unmatched technology for its performance and reliability, Continuous up-gradation has improved the product with all modern requirements of system integration, data logging, control, automation, remote operation, the product is now branded and promoted with trade mark of HFSR™/FCMA™/SMSC/Rotastat/Rotacon by Jayashree."
+          }
+        ],
+        "legacyIds": ["tab4primary"],
+        "source": "control-and-power-products-detail.html"
+      },
+      {
+        "slug": "hfsr-reactor",
+        "name": "HFSR Reactor",
+        "group": "Soft Starters",
+        "image": "/images/services/soft-2.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Jayashree introduced the air core technology for soft starters in 1980’s , the first of its kind solution and invention offered for the commercial use, Air core superseded the dated magnetic core technology by its superior characteristics and performance HFSR™ ( air core and advanced magnetic core ) / FCMA™ ( auto-transformer based ) technologies are introduced and pioneered by Jayashree and promoted since 1987 , both trade mark registered by JEPL, offered solutions are as per customer requirements and suitable for the application."
+          }
+        ],
+        "legacyIds": ["tab4primary"],
+        "source": "control-and-power-products-detail.html"
+      }
+    ]
+  },
+  {
+    "slug": "incremental-encoders",
+    "name": "Incremental encoders",
+    "headline": "Make every movement count.",
+    "description": "Hollow-shaft and solid-shaft encoders for position and speed feedback.",
+    "brand": "Jayashree",
+    "image": "/images/services/incer-solid-2.png",
+    "selection": [
+      "Shaft or bore diameter and mounting",
+      "Pulses per revolution and output signal",
+      "Speed, supply voltage and environment"
+    ],
+    "products": [
+      {
+        "slug": "size-38-hollow-shaft-encoder-j-15h-t-sl-15h-blind-bore-15t-through-bore",
+        "name": "J-15H-T-SL encoder",
+        "group": "Hollow Shaft Encoders",
+        "image": "/images/services/incer-1.png",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "SIZE 38 HOLLOW SHAFT ENCODER J-15H-T-SL 15H Blind Bore / 15T Through Bore"
+          },
+          {
+            "type": "feature",
+            "text": "Very High Performance Economical Encoder"
+          },
+          {
+            "type": "feature",
+            "text": "Low Profile- Less Than 25.4 mm & Height 38 mm Diameter"
+          },
+          {
+            "type": "feature",
+            "text": "Thru-Bore sizes up to 10 mm"
+          },
+          {
+            "type": "feature",
+            "text": "Up To 12 Pole Commutation Optional (for brushless motor control)"
+          }
+        ],
+        "legacyIds": ["tab1primary"],
+        "source": "incremental-encoders-detail.html"
+      },
+      {
+        "slug": "j-260",
+        "name": "J-260 encoder",
+        "group": "Hollow Shaft Encoders",
+        "image": "/images/services/incer-10.png",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "J - 260"
+          },
+          {
+            "type": "feature",
+            "text": "Low profile 31 mm width."
+          },
+          {
+            "type": "feature",
+            "text": "Integral bearing provides stable & concern for radial & axial play."
+          },
+          {
+            "type": "feature",
+            "text": "Through shaft with clamp style mount."
+          },
+          {
+            "type": "feature",
+            "text": "In simple, innovative flex mounting."
+          }
+        ],
+        "legacyIds": ["tab1primary"],
+        "source": "incremental-encoders-detail.html"
+      },
+      {
+        "slug": "size-58-hollow-shaft-encoder-j-260-nd-sl-r-abz-q-ab-a-a",
+        "name": "J-260-ND-SL encoder",
+        "group": "Hollow Shaft Encoders",
+        "image": "/images/services/incer-2.png",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Size 58 Hollow Shaft Encoder J-260-Nd-Sl R =Abz / Q = Ab / A = A"
+          },
+          {
+            "type": "feature",
+            "text": "Robust hollow shaft encoder"
+          },
+          {
+            "type": "feature",
+            "text": "Ideally suited for induction motor"
+          }
+        ],
+        "legacyIds": ["tab1primary"],
+        "source": "incremental-encoders-detail.html"
+      },
+      {
+        "slug": "elevator-encoder-j-775-sl-r-abz-q-ab-a-a",
+        "name": "J-775-SL encoder",
+        "group": "Hollow Shaft Encoders",
+        "image": "/images/services/incer-3.png",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Elevator Encoder J-775-Sl R =Abz / Q = Ab / A = A"
+          },
+          {
+            "type": "feature",
+            "text": "Available in large bore size"
+          },
+          {
+            "type": "feature",
+            "text": "Designed for Industrial Environment"
+          },
+          {
+            "type": "feature",
+            "text": "With anti-rotation flex mount for quick and easy mounting"
+          },
+          {
+            "type": "feature",
+            "text": "Ideally suitable for Elevator Controls"
+          }
+        ],
+        "legacyIds": ["tab1primary"],
+        "source": "incremental-encoders-detail.html"
+      },
+      {
+        "slug": "size-38-shaft-encoder-j-15s-sl-r-abz-q-ab-a-a",
+        "name": "J-15S-SL encoder",
+        "group": "Solid Shaft Encoders",
+        "image": "/images/services/incer-solid-1.png",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Size 38 Shaft Encoder J-15s-Sl R =Abz / Q = Ab / A = A"
+          },
+          {
+            "type": "feature",
+            "text": "Very High Performance Economical Encoder"
+          },
+          {
+            "type": "feature",
+            "text": "Low Profile- Less Than 25.4 mm Height & 38 mm Diameter"
+          },
+          {
+            "type": "feature",
+            "text": "Extended Temperature Operating Range Available"
+          }
+        ],
+        "legacyIds": ["tab2primary"],
+        "source": "incremental-encoders-detail.html"
+      },
+      {
+        "slug": "size-58-encoder-flange-mount-j-260-58an-sl-r-abz-q-ab-a-a",
+        "name": "J-260-58AN-SL encoder",
+        "group": "Solid Shaft Encoders",
+        "image": "/images/services/incer-solid-2.png",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Size 58 Encoder Flange Mount J-260-58an-Sl R =Abz / Q = Ab / A = A"
+          },
+          {
+            "type": "feature",
+            "text": "Versatile model having many options"
+          },
+          {
+            "type": "feature",
+            "text": "High axial and radial load capacity"
+          },
+          {
+            "type": "feature",
+            "text": "Constructed to withstand the demands of rough & tough industrial environment"
+          }
+        ],
+        "legacyIds": ["tab2primary"],
+        "source": "incremental-encoders-detail.html"
+      },
+      {
+        "slug": "size-58-encoder-servo-mount-j-260-58bn-sl-r-abz-q-ab-a-a",
+        "name": "J-260-58BN-SL encoder",
+        "group": "Solid Shaft Encoders",
+        "image": "/images/services/incer-solid-3.png",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Size 58 Encoder Servo Mount J-260-58bn-Sl R =Abz / Q = Ab / A = A"
+          },
+          {
+            "type": "feature",
+            "text": "Versatile model having many options"
+          },
+          {
+            "type": "feature",
+            "text": "Exact retrofit replacement for majority of machine tool spindle encoder"
+          },
+          {
+            "type": "feature",
+            "text": "Constructed to withstand the demands of rough and tough industrial environment"
+          }
+        ],
+        "legacyIds": ["tab2primary"],
+        "source": "incremental-encoders-detail.html"
+      },
+      {
+        "slug": "heavy-duty-encoder-j-260-9hd-n-r-abz-q-ab-a-a",
+        "name": "J-260-9HD-N encoder",
+        "group": "Solid Shaft Encoders",
+        "image": "/images/services/incer-solid-4.png",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Heavy Duty Encoder J-260-9hd-N R =Abz / Q = Ab / A = A"
+          },
+          {
+            "type": "feature",
+            "text": "Extremely robust construction having heavy duty bearings on opposite face of housing allowing use of rigid coupling"
+          },
+          {
+            "type": "feature",
+            "text": "Optional terminal box for ease of connection"
+          },
+          {
+            "type": "feature",
+            "text": "Optional driver cricuit for long distance cable (100m)"
+          },
+          {
+            "type": "feature",
+            "text": "Optional unbreakable disc available to withstand heavy shocks"
+          }
+        ],
+        "legacyIds": ["tab2primary"],
+        "source": "incremental-encoders-detail.html"
+      },
+      {
+        "slug": "machine-tool-encoder-j-260-68-sl-r-abz-q-ab-a-a",
+        "name": "J-260-68-SL encoder",
+        "group": "Solid Shaft Encoders",
+        "image": "/images/services/incer-solid-5.png",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Machine Tool Encoder J-260-68-Sl R =Abz / Q = Ab / A = A"
+          },
+          {
+            "type": "feature",
+            "text": "Exact Machine Tool Encoder"
+          },
+          {
+            "type": "feature",
+            "text": "High Shaft Loading Capacity"
+          },
+          {
+            "type": "feature",
+            "text": "Extra Heavy Duty Unit With Double Sealing"
+          }
+        ],
+        "legacyIds": ["tab2primary"],
+        "source": "incremental-encoders-detail.html"
+      },
+      {
+        "slug": "j-260-71-e-cube",
+        "name": "J-260-71 encoder",
+        "group": "Solid Shaft Encoders",
+        "image": "/images/services/incer-11.png",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "J-260-71 E-Cube"
+          },
+          {
+            "type": "feature",
+            "text": "Double ended shaft to mount measuring wheels for cut to length application"
+          },
+          {
+            "type": "feature",
+            "text": "Shatter proof disc"
+          },
+          {
+            "type": "feature",
+            "text": "Face or Base mounting available"
+          }
+        ],
+        "legacyIds": ["tab2primary"],
+        "source": "incremental-encoders-detail.html"
+      }
+    ]
+  },
+  {
+    "slug": "conveyor-safety-switches",
+    "name": "Conveyor safety switches",
+    "headline": "Protection along the line.",
+    "description": "Belt sway, pull cord, belt monitoring and limit switches for conveyor systems.",
+    "brand": "Jayashree",
+    "image": "/images/services/convey-2.jpg",
+    "selection": [
+      "Conveyor length and installation layout",
+      "Switch function and enclosure requirements",
+      "Contact configuration and monitoring needs"
+    ],
+    "products": [
+      {
+        "slug": "belt-sway-switch",
+        "name": "Belt Sway Switch",
+        "group": "",
+        "image": "/images/services/convey-2.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Belt Sway Switch A self-resetting switch that is actuated when the belt sways beyond the permissible limits. The switch is carefully designed to allow over travel of the actuating roller and the switching mechanism is isolated from the mechanical actuating roller."
+          }
+        ],
+        "legacyIds": [],
+        "source": "conveyor-safety-switches.html"
+      },
+      {
+        "slug": "pull-cord-switch",
+        "name": "Pull Cord Switch",
+        "group": "",
+        "image": "/images/services/convey-1.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Pull Cord Switch with Terminal Box & Lamp A sophisticated pull cord switch that is designed to avoid spurious tripping or accidental resets (snap action) and ensure that the switch will operate after long periods of unused (double break silver-cadmium tipped contacts)."
+          }
+        ],
+        "legacyIds": [],
+        "source": "conveyor-safety-switches.html"
+      },
+      {
+        "slug": "belt-watch-master-and-sensor-units",
+        "name": "Belt Watch Master and Sensor units",
+        "group": "",
+        "image": "/images/services/convey-3.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Belt Watch A sophisticated 2 wire system to monitor conyeyor safeties : Pull Cord & Belt Sway Switches are installed along the length of conveyor to provide safety against malfunctioning."
+          }
+        ],
+        "legacyIds": [],
+        "source": "conveyor-safety-switches.html"
+      },
+      {
+        "slug": "heavy-duty-limit-switch",
+        "name": "Heavy Duty Limit Switch",
+        "group": "",
+        "image": "/images/services/heavy.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Available in Die Cast Aluminum or Industrial Polymer enclosures in sophisticated as well as economic versions. Metallic enclosures are epoxy painted by electrostatic powder coating technique and eective sealing is provided by specially designed Nitrile Rubber gaskets for the covers and shaft entries to achieve IP65 grade of protection."
+          }
+        ],
+        "legacyIds": [],
+        "source": "conveyor-safety-switches.html"
+      }
+    ]
+  },
+  {
+    "slug": "process-control-instruments",
+    "name": "Process control instruments",
+    "headline": "Know when your process changes.",
+    "description": "Sapcon level switches and instruments for liquids, powders and bulk solids.",
+    "brand": "Sapcon",
+    "image": "/images/services/process-control-1.png",
+    "selection": [
+      "Material, density and process conditions",
+      "Vessel dimensions and connection type",
+      "Required output and hazardous-area requirements"
+    ],
+    "products": [
+      {
+        "slug": "vital-vibrating-fork-level-sensor-switch-for-solids",
+        "name": "VITAL- Vibrating Fork Level Sensor/Switch for Solids",
+        "group": "",
+        "image": "/images/services/process-control-1.png",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Compact vibrating fork level switch for free-flowing solids, granules and powders"
+          },
+          {
+            "type": "feature",
+            "text": "Application Temperature Range : up to 200° C"
+          },
+          {
+            "type": "feature",
+            "text": "Fast Switching: 0.5s , 0.8s options available"
+          },
+          {
+            "type": "feature",
+            "text": "Calibration Free, independent of material's dielectric properties"
+          },
+          {
+            "type": "feature",
+            "text": "No moving parts, longer running life"
+          },
+          {
+            "type": "feature",
+            "text": "Outputs: DPDT Relay, Open Collector PNP Output"
+          },
+          {
+            "type": "feature",
+            "text": "Certifications: Flame Proof Housing IIC, IP-68 Housing"
+          }
+        ],
+        "legacyIds": [],
+        "source": "process-control-instruments.html"
+      },
+      {
+        "slug": "elixir-tuning-fork-level-sensor-switch-for-liquids",
+        "name": "ELIXIR- Tuning Fork Level Sensor/Switch for Liquids",
+        "group": "",
+        "image": "/images/services/process-control-2.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Elixir-Liquid Level Switch for sticky, corrosive, agitated, splashing, foaming liquids, suitable for liquids with viscosity up to 10,000 cp"
+          },
+          {
+            "type": "feature",
+            "text": "Application Temperature Range : up to 200° C"
+          },
+          {
+            "type": "feature",
+            "text": "Calibration Free, independent of material's dielectric properties"
+          },
+          {
+            "type": "feature",
+            "text": "Output: 8.2V Namur, SPDT & DPDT Relay type current output"
+          },
+          {
+            "type": "feature",
+            "text": "ECTFE coated, polished & hygienic fork"
+          },
+          {
+            "type": "feature",
+            "text": "Threads, flanges and hygienic connection (Tri-Clamp)"
+          },
+          {
+            "type": "feature",
+            "text": "Extendable probe length from 68 to 3000 mm"
+          },
+          {
+            "type": "feature",
+            "text": "Certifications: Flame Proof Housing IIC, PESO, BIS, CCOE, EIL"
+          }
+        ],
+        "legacyIds": [],
+        "source": "process-control-instruments.html"
+      },
+      {
+        "slug": "elixir-t-uni-vibrating-fork-type-level-sensor-for-liquids-in-hygienic-applications",
+        "name": "Elixir-T-Uni: Vibrating Fork Type Level Sensor for Liquids in Hygienic Applications",
+        "group": "",
+        "image": "/images/services/process-control-3.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Elixir-T-Uni-Compact Tubular Vibrating Fork Level Limit Switch (suitable for all kinds of liquids having viscosity up to 10,000 cp & density greater than or equal to 0.7gm/cc)"
+          },
+          {
+            "type": "feature",
+            "text": "Application Temperature Range : Up to 150° C"
+          },
+          {
+            "type": "feature",
+            "text": "Certified EL Class I by EHEDG"
+          },
+          {
+            "type": "feature",
+            "text": "Enclosure : IP68 Weather Proof Housing"
+          },
+          {
+            "type": "feature",
+            "text": "Process connections: Threads and hygienic connection (Tri-Clamp)"
+          },
+          {
+            "type": "feature",
+            "text": "Wetted parts: SS 316, SS 316L with Hygienic finish (Ra < 0.8µ)"
+          },
+          {
+            "type": "feature",
+            "text": "Compact probe length 68 mm, 126 mm & up to 1000 mm"
+          }
+        ],
+        "legacyIds": [],
+        "source": "process-control-instruments.html"
+      },
+      {
+        "slug": "coat-endure-rf-admittance-level-switch-sensor-for-stick-solids-and-liquids",
+        "name": "Coat-Endure: RF-Admittance Level Switch/Sensor for Sticky Solids and Liquids",
+        "group": "",
+        "image": "/images/services/process-control-4.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Compact Admittance Level Limit switch for use in sticky solids, pastes and slurries where dielectric constant K > 2.5"
+          },
+          {
+            "type": "feature",
+            "text": "Application Temperature Range : up to 250° C"
+          },
+          {
+            "type": "feature",
+            "text": "Immune to application material build-up/coating"
+          },
+          {
+            "type": "feature",
+            "text": "Suitable for conductive and non-conductive application media"
+          },
+          {
+            "type": "feature",
+            "text": "Wetted Parts PTFE, SS 304 & SS 316"
+          },
+          {
+            "type": "feature",
+            "text": "Outputs: DPDT Relay, Open Collector PNP Output"
+          },
+          {
+            "type": "feature",
+            "text": "Probe length : 65 mm to 1500 mm"
+          },
+          {
+            "type": "feature",
+            "text": "Certifications : Flame Proof IIC & IP68 Housing"
+          }
+        ],
+        "legacyIds": [],
+        "source": "process-control-instruments.html"
+      },
+      {
+        "slug": "capvel-fuel-level-sensor-transmitter-for-remote-tracking-of-fuel",
+        "name": "Capvel-FUEL: Level Sensor/Transmitter for remote tracking of fuel",
+        "group": "",
+        "image": "/images/services/process-control-5.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Fuel Level Sensor (use for vehicle tracking systems and DG sets)"
+          },
+          {
+            "type": "feature",
+            "text": "Application Temperature Range : 20 to 70°C"
+          },
+          {
+            "type": "feature",
+            "text": "In-built level to volume conversion"
+          },
+          {
+            "type": "feature",
+            "text": "Application guided installation and calibration"
+          },
+          {
+            "type": "feature",
+            "text": "Light in weight"
+          },
+          {
+            "type": "feature",
+            "text": "Wetted Parts: PTFE, Delrin & Aluminium"
+          },
+          {
+            "type": "feature",
+            "text": "Measurement accuracy : +/­ 1% FSL"
+          },
+          {
+            "type": "feature",
+            "text": "Response time : 1 to 5s (dynamic)"
+          },
+          {
+            "type": "feature",
+            "text": "Process connections : SAE 5 mounting holes & 1″ BSP thread"
+          },
+          {
+            "type": "feature",
+            "text": "Probe length : 100 mm to 1500 mm,"
+          },
+          {
+            "type": "feature",
+            "text": "Certifications : Flame Proof IIC & IP68 Housing"
+          }
+        ],
+        "legacyIds": [],
+        "source": "process-control-instruments.html"
+      },
+      {
+        "slug": "vibrosonde-vibrating-rod-type-level-sensor-switch-for-solids",
+        "name": "Vibrosonde: Vibrating Rod Type Level Sensor/Switch for Solids",
+        "group": "",
+        "image": "/images/services/process-control-6.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Vibrating Rod Level Limit Switch (use in powders, sand, sugar, Pulverized coal, Food grains, Cement, Granular material)"
+          },
+          {
+            "type": "feature",
+            "text": "Application Temperature Range : up to 200° C"
+          },
+          {
+            "type": "feature",
+            "text": "Calibration Free, independent of material's Di-electric Properties"
+          },
+          {
+            "type": "feature",
+            "text": "Wetted parts: SS 316"
+          },
+          {
+            "type": "feature",
+            "text": "Probe Length: 255 mm to 3000 mm"
+          },
+          {
+            "type": "feature",
+            "text": "Outputs: DPDT Relay, Open Collector"
+          },
+          {
+            "type": "feature",
+            "text": "Certifications: Flame Proof IIC, IP68 Housing"
+          }
+        ],
+        "legacyIds": [],
+        "source": "process-control-instruments.html"
+      }
+    ]
+  },
+  {
+    "slug": "field-instruments",
+    "name": "Field instruments",
+    "headline": "Measurement you can work with.",
+    "description": "Level, flow, pressure, temperature and liquid analysis instruments for industrial processes.",
+    "brand": "Endress+Hauser",
+    "image": "/images/services/fi-1.jpg",
+    "selection": [
+      "Medium, flow or measurement range",
+      "Process temperature and pressure",
+      "Installation, communication and approvals"
+    ],
+    "products": [
+      {
+        "slug": "level-radar",
+        "name": "Radar",
+        "group": "Level",
+        "image": "/images/services/fi-1.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Continuous non-contact Time-of-Flight measurement in fluids and bulk solids, even under extreme conditions such as changes of medium, gas formation, vapor, vacuum. Temperatures up to 450 °C; pressures up to 160 bar."
+          }
+        ],
+        "legacyIds": [],
+        "source": "field-instruments.html"
+      },
+      {
+        "slug": "level-ultrasonic",
+        "name": "Ultrasonic",
+        "group": "Level",
+        "image": "/images/services/fi-2.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Continuous non-contact Time-of-Flight measurement in fluids and bulk solids. Independent of specific medium properties. Temperatures up to 150 °C; pressures up to 4 bar."
+          }
+        ],
+        "legacyIds": [],
+        "source": "field-instruments.html"
+      },
+      {
+        "slug": "level-guided-radar",
+        "name": "Guided radar",
+        "group": "Level",
+        "image": "/images/services/fi-3.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Continuous Time-of-Flight measurement in fluids and bulk solids. Independent of product properties such as humidity, density, dielectric constant etc. Reliable and safe interface measurement even with emulsion layers. Temperatures up to 450 °C; pressures up to 400 bar."
+          }
+        ],
+        "legacyIds": [],
+        "source": "field-instruments.html"
+      },
+      {
+        "slug": "level-radiometry",
+        "name": "Radiometry",
+        "group": "Level",
+        "image": "/images/services/fi-4.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Non-contact external measurement. For all extreme applications (e.g. toxic or highly aggressive media). Any temperature, any pressure."
+          }
+        ],
+        "legacyIds": [],
+        "source": "field-instruments.html"
+      },
+      {
+        "slug": "level-vibronics-for-fluids",
+        "name": "Vibronics for fluids",
+        "group": "Level",
+        "image": "/images/services/fi-5.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Point level switch for all fluids even in the presence of build-up, turbulence or air bubbles. Independent of the electrical properties of the medium. Temperatures up to 280 °C; pressures up to 100 bar."
+          }
+        ],
+        "legacyIds": [],
+        "source": "field-instruments.html"
+      },
+      {
+        "slug": "level-vibronics-for-solids",
+        "name": "Vibronics for solids",
+        "group": "Level",
+        "image": "/images/services/fi-6.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Point level detection in all kinds of bulk solids up to a maximum grain size of approx. 10 mm. Calibrationfree, maintenance-free. Temperatures up to 280 °C, pressures up to 25 bar."
+          }
+        ],
+        "legacyIds": [],
+        "source": "field-instruments.html"
+      },
+      {
+        "slug": "level-hydrostatic",
+        "name": "Hydrostatic",
+        "group": "Level",
+        "image": "/images/services/fi-7.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Level optimized pressure sensor cell for measurement in fluids, pastes and sludges. Independent of foam formation and changing product properties. Temperatures up to 400 °C; pressures up to 40 bar."
+          }
+        ],
+        "legacyIds": [],
+        "source": "field-instruments.html"
+      },
+      {
+        "slug": "level-differential-pressure",
+        "name": "Differential pressure",
+        "group": "Level",
+        "image": "/images/services/fi-8.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Level measurement in closed, pressurized vessels. Not affected by dielectric constant, foam, turbulences or obstacles. Temperatures up to 400 °C; pressures up to 420 bar."
+          }
+        ],
+        "legacyIds": [],
+        "source": "field-instruments.html"
+      },
+      {
+        "slug": "level-capacitance",
+        "name": "Capacitance",
+        "group": "Level",
+        "image": "/images/services/fi-9.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Point level detection and continuous level measurement in fluids and bulk solids. Even with aggressive media and heavy"
+          }
+        ],
+        "legacyIds": [],
+        "source": "field-instruments.html"
+      },
+      {
+        "slug": "level-conductive",
+        "name": "Conductive",
+        "group": "Level",
+        "image": "/images/services/fi-10.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Easy, cost-effective level limit detection in conductive fluids such as water, wastewater, liquid foodstuffs etc."
+          }
+        ],
+        "legacyIds": [],
+        "source": "field-instruments.html"
+      },
+      {
+        "slug": "level-paddle-switch",
+        "name": "Paddle switch",
+        "group": "Level",
+        "image": "/images/services/fi-11.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Low-cost point level switch for bulk solids of all kinds up to a grain size of 50 mm, solid weight > 100 g/I. Temperatures up to 80 °C,"
+          }
+        ],
+        "legacyIds": [],
+        "source": "field-instruments.html"
+      },
+      {
+        "slug": "level-electromechanical-level-system",
+        "name": "Electromechanical level system",
+        "group": "Level",
+        "image": "/images/services/fi-12.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Robust, mechanical system for measurement in bulk solids for applications in high vessels (up to 70 m)."
+          }
+        ],
+        "legacyIds": [],
+        "source": "field-instruments.html"
+      },
+      {
+        "slug": "flow-electromagnetic",
+        "name": "Electromagnetic",
+        "group": "Flow",
+        "image": "/images/services/flow-1.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Universal measuring principle for all conductive liquids. Virtually independent of pressure, density, temperature and viscosity. Even liquids with solids can be measured, e.g. ore slurry or cellulose pulps. Over 2 million Endress+Hauser magmeters installed since 1977! Sizes: DN 2 to 3000."
+          }
+        ],
+        "legacyIds": [],
+        "source": "field-instruments.html"
+      },
+      {
+        "slug": "flow-coriolis",
+        "name": "Coriolis",
+        "group": "Flow",
+        "image": "/images/services/flow-2.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Universal measuring principle for liquids and gases. Multivariable sensors: simultaneous and direct measurement of mass flow, density, temperature and viscosity. Independent of the physical fluid properties. Sizes: DN 1 to 400 (max. 4100 t/h)."
+          }
+        ],
+        "legacyIds": [],
+        "source": "field-instruments.html"
+      },
+      {
+        "slug": "flow-ultrasonic-variant",
+        "name": "Ultrasonic",
+        "group": "Flow",
+        "image": "/images/services/flow-3.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Volume flow measurement of clean liquids, regardless of electrical conductivity with either clamp-on or inline sensor type. Ultrasonic measurement enables cost-effective and economical flow metering anywhere in the process. Independent of pressure, temperature and the physical fluid properties. Special devices for measuring wet or dirty gases at low pressures, e.g. biogas or land fill gas. Sizes: DN 15 to 4000."
+          }
+        ],
+        "legacyIds": [],
+        "source": "field-instruments.html"
+      },
+      {
+        "slug": "flow-thermal",
+        "name": "Thermal",
+        "group": "Flow",
+        "image": "/images/services/flow-4.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Direct mass flow measurement of gases with low process pressure up to 40 bar. Measuring principle with a high operable flow range (100:1) and an excellent low-end sensitivity. Negligible pressure loss. Sizes: DN 15 to 1500."
+          }
+        ],
+        "legacyIds": [],
+        "source": "field-instruments.html"
+      },
+      {
+        "slug": "flow-differential-pressure-dp",
+        "name": "Differential pressure (DP)",
+        "group": "Flow",
+        "image": "/images/services/flow-5.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Universally applicable for liquids, gases and steam up to 420 bar and 1000 °C. Robust primary element as it is completely mechanical with no moving parts. The transmitter can be replaced during operation, e.g. for maintenance or modernization of the measuring point without interrupting the process. Sizes: DN 10 to 4000."
+          }
+        ],
+        "legacyIds": [],
+        "source": "field-instruments.html"
+      },
+      {
+        "slug": "flow-vortex",
+        "name": "Vortex",
+        "group": "Flow",
+        "image": "/images/services/flow-6.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Universally applicable for the measurement of liquids, gases and steam. Extremely robust with regard to external vibrations, dirt, water hammer and temperature shocks. Largely independent of changes in pressure, temperature and viscosity. High long-term stability, no zero point drift. Efficient steam plant operation thanks to the worldwide unique wet steam detection. Sizes: DN 15 to 300."
+          }
+        ],
+        "legacyIds": [],
+        "source": "field-instruments.html"
+      },
+      {
+        "slug": "level-transducer",
+        "name": "Transducer",
+        "group": "Level",
+        "image": "/images/services/fi-13.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "A compact pressure transducer with preset measuring range. The Cerabar product family offers robust ceramic sensors up to 40 bar or metal sensors up to 400 bar for absolute and overpressure measurements."
+          }
+        ],
+        "legacyIds": [],
+        "source": "field-instruments.html"
+      },
+      {
+        "slug": "level-pressure-switch",
+        "name": "Pressure switch",
+        "group": "Level",
+        "image": "/images/services/fi-14.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "For safe measurement and monitoring of absolute pressure and overpressure in gases, vapors and fluids. Smooth operation with display and on-site operation as well as a modular adapter system for easy connection to all processes."
+          }
+        ],
+        "legacyIds": [],
+        "source": "field-instruments.html"
+      },
+      {
+        "slug": "level-analog-and-digital-transmitters",
+        "name": "Analog and Digital Transmitters",
+        "group": "Level",
+        "image": "/images/services/fi-15.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Flexible device platform for universal application in your processes. This includes FDA-compliant materials and aseptic connections that are especially suitable for hygienic applications. The analog digital transmitters are available with the following electronics variants: analog, HART®, PROFIBUS® PA or FOUNDATIONTM Fieldbus"
+          }
+        ],
+        "legacyIds": [],
+        "source": "field-instruments.html"
+      },
+      {
+        "slug": "level-digital-transmitters",
+        "name": "Digital transmitters",
+        "group": "Level",
+        "image": "/images/services/fi-16.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "These high-end pressure transmitters offer you a comprehensive safety package and an intelligent operation and device concept. Reliable data management is provided in the form of HistoROM. The digital transmitters are developed, constructed and manufactured in compliance up to SIL 3/IEC 61508 (homogeneous redundancy)."
+          }
+        ],
+        "legacyIds": [],
+        "source": "field-instruments.html"
+      },
+      {
+        "slug": "temperature-head-transmitters",
+        "name": "Head transmitters",
+        "group": "Temperature",
+        "image": "/images/services/temper-1.jpg",
+        "blocks": [],
+        "legacyIds": [],
+        "source": "field-instruments.html"
+      },
+      {
+        "slug": "temperature-din-rail-transmitters",
+        "name": "DIN rail transmitters",
+        "group": "Temperature",
+        "image": "/images/services/temper-2.jpg",
+        "blocks": [],
+        "legacyIds": [],
+        "source": "field-instruments.html"
+      },
+      {
+        "slug": "temperature-field-transmitters",
+        "name": "Field transmitters",
+        "group": "Temperature",
+        "image": "/images/services/temper-3.jpg",
+        "blocks": [],
+        "legacyIds": [],
+        "source": "field-instruments.html"
+      },
+      {
+        "slug": "temperature-resistance-thermometers",
+        "name": "Resistance thermometers",
+        "group": "Temperature",
+        "image": "/images/services/temper-5.jpg",
+        "blocks": [],
+        "legacyIds": [],
+        "source": "field-instruments.html"
+      },
+      {
+        "slug": "temperature-thermocouples",
+        "name": "Thermocouples",
+        "group": "Temperature",
+        "image": "/images/services/temper-6.jpg",
+        "blocks": [],
+        "legacyIds": [],
+        "source": "field-instruments.html"
+      },
+      {
+        "slug": "temperature-temperature-switches",
+        "name": "Temperature switches",
+        "group": "Temperature",
+        "image": "/images/services/temper-7.jpg",
+        "blocks": [],
+        "legacyIds": [],
+        "source": "field-instruments.html"
+      },
+      {
+        "slug": "liquid-analysis-ph-orp",
+        "name": "pH/ORP",
+        "group": "Liquid analysis",
+        "image": "/images/services/liquid-1.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Glass and glass-free Memosens sensors, transmitters and assemblies for standard, hygienic and hazardous applications; fully automated measuring, cleaning and calibration systems."
+          }
+        ],
+        "legacyIds": [],
+        "source": "field-instruments.html"
+      },
+      {
+        "slug": "liquid-analysis-conductivity",
+        "name": "Conductivity",
+        "group": "Liquid analysis",
+        "image": "/images/services/liquid-2.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Conductive and toroidal Memosens sensors and transmitters for all measuring ranges in standard, hygienic and hazardous applications; compact measuring devices, calibration and verification systems."
+          }
+        ],
+        "legacyIds": [],
+        "source": "field-instruments.html"
+      },
+      {
+        "slug": "liquid-analysis-turbidity-solids",
+        "name": "Turbidity/solids",
+        "group": "Liquid analysis",
+        "image": "/images/services/liquid-3.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Optical Memosens sensors and transmitters for all measuring ranges from lowest turbidity in drinking water to solids in wastewater applications; ultrasonic sludge level measurement."
+          }
+        ],
+        "legacyIds": [],
+        "source": "field-instruments.html"
+      },
+      {
+        "slug": "liquid-analysis-oxygen",
+        "name": "Oxygen",
+        "group": "Liquid analysis",
+        "image": "/images/services/liquid-4.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Amperometric and optical Memosens sensors, transmitters and assemblies for all applications, including hazardous areas, hygienic processes and trace measurement."
+          }
+        ],
+        "legacyIds": [],
+        "source": "field-instruments.html"
+      },
+      {
+        "slug": "liquid-analysis-disinfection-chlorine",
+        "name": "Disinfection (chlorine)",
+        "group": "Liquid analysis",
+        "image": "/images/services/liquid-5.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Amperometric Memosens sensors for water treatment and swimming pools; flow assembly for simultaneous measurement of chlorine and pH/ORP."
+          }
+        ],
+        "legacyIds": [],
+        "source": "field-instruments.html"
+      },
+      {
+        "slug": "liquid-analysis-analyzers",
+        "name": "Analyzers",
+        "group": "Liquid analysis",
+        "image": "/images/services/liquid-6.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Colorimetric analyzers as well as optical and ion-selective sensors for monitoring of nutrients, organic load and metals; Liquiline System analyzers and sample preparation systems available with Memosens technology"
+          }
+        ],
+        "legacyIds": [],
+        "source": "field-instruments.html"
+      },
+      {
+        "slug": "liquid-analysis-transmitters",
+        "name": "Transmitters",
+        "group": "Liquid analysis",
+        "image": "/images/services/liquid-7.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Liquiline transmitters featuring all common fieldbuses; suitable for all applications including hazardous areas and hygienic processes; multichannel and multiparameter devices for field or DIN rail installation."
+          }
+        ],
+        "legacyIds": [],
+        "source": "field-instruments.html"
+      },
+      {
+        "slug": "liquid-analysis-process-photometers",
+        "name": "Process photometers",
+        "group": "Liquid analysis",
+        "image": "/images/services/liquid-8.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Process photometers for accurate concentration measurement by determining UV absorption, NIR absorption, color, turbidity and cell growth; suitable for hygienic applications and hazardous areas."
+          }
+        ],
+        "legacyIds": [],
+        "source": "field-instruments.html"
+      },
+      {
+        "slug": "liquid-analysis-samplers",
+        "name": "Samplers",
+        "group": "Liquid analysis",
+        "image": "/images/services/liquid-9.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Portable and stationary samplers with Memosens technology for automatic sampling, defined distribution and safe preservation of liquid samples."
+          }
+        ],
+        "legacyIds": [],
+        "source": "field-instruments.html"
+      }
+    ]
+  },
+  {
+    "slug": "control-panels",
+    "name": "Control panels",
+    "headline": "From components to coordinated control.",
+    "description": "VFD and PLC control panels configured around your machine and process requirements.",
+    "brand": "System integration",
+    "image": "/images/services/details/control-planes.jpg",
+    "selection": [
+      "Electrical drawings and connected loads",
+      "Sequence of operation and I/O requirements",
+      "Panel environment, dimensions and commissioning scope"
+    ],
+    "products": [
+      {
+        "slug": "vfd-panel-plc-panel",
+        "name": "VFD Panel/ PLC Panel",
+        "group": "",
+        "image": "/images/services/details/control-planes.jpg",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "VFD and PLC control panels configured for your machine or process. Vinayak supports component selection, panel integration and commissioning around the required electrical loads and control sequence."
+          }
+        ],
+        "legacyIds": [],
+        "source": "control-panels.html"
+      }
+    ]
+  },
+  {
+    "slug": "ac-dc-motors",
+    "name": "AC & DC motors",
+    "headline": "The right motion for your machine.",
+    "description": "AC induction, synchronous, PMDC and BLDC motors, geared motors, DC drives and tacho generators.",
+    "brand": "Dynaflux",
+    "image": "/images/services/ac-motors-new-1.jpg",
+    "selection": [
+      "Power, speed and required torque",
+      "Supply voltage and duty cycle",
+      "Mounting, shaft and gearbox requirements"
+    ],
+    "products": [
+      {
+        "slug": "ac-induction-motors-geared-motors",
+        "name": "AC Induction Motors / Geared Motors",
+        "group": "AC Motors",
+        "image": "/images/services/ac-24567.jpg",
+        "blocks": [
+          {
+            "type": "feature",
+            "text": "Power : 0.25 HP TO 2.0 HP"
+          },
+          {
+            "type": "feature",
+            "text": "Speed : 1400 RPM TO 2800 RPM"
+          },
+          {
+            "type": "feature",
+            "text": "WORM GEARED : 14 RPM TO 280 RPM"
+          },
+          {
+            "type": "feature",
+            "text": "PLANETARY GEARED : 03 RPM TO 400RPM"
+          },
+          {
+            "type": "feature",
+            "text": "VOLTAGE : 415 VAC 3PHASE/220VAC 3PHAS"
+          }
+        ],
+        "legacyIds": ["tab1primary"],
+        "source": "ac-dc-motors.html"
+      },
+      {
+        "slug": "fhp-ac-induction-motors",
+        "name": "FHP AC induction motors",
+        "group": "AC Motors",
+        "image": "/images/services/ac-motors-new-1.jpg",
+        "blocks": [
+          {
+            "type": "feature",
+            "text": "Power : 25 WATTS TO 180 WATTS"
+          },
+          {
+            "type": "feature",
+            "text": "Speed : 1300 RPM"
+          },
+          {
+            "type": "feature",
+            "text": "WORM GEARED : 25 RPM TO 125 RPM"
+          },
+          {
+            "type": "feature",
+            "text": "INLINE GEARED : 07 RPM TO 260RPM"
+          },
+          {
+            "type": "feature",
+            "text": "VOLTAGE : 230VAC 1PHASE /220VAC 3PHASE/415 3PHASE"
+          }
+        ],
+        "legacyIds": ["tab1primary"],
+        "source": "ac-dc-motors.html"
+      },
+      {
+        "slug": "ac-synchronous-motors",
+        "name": "AC Synchronous Motors",
+        "group": "AC Motors",
+        "image": "/images/services/acmotors20.png",
+        "blocks": [
+          {
+            "type": "heading",
+            "text": "Special Features of A.C.Synchronous Motors"
+          },
+          {
+            "type": "feature",
+            "text": "Bi-directional."
+          },
+          {
+            "type": "feature",
+            "text": "Instantaneous Start, Stop & Reverse."
+          },
+          {
+            "type": "feature",
+            "text": "Identical Starting & Running Currents."
+          },
+          {
+            "type": "feature",
+            "text": "Residual Torque always present."
+          },
+          {
+            "type": "feature",
+            "text": "No damage due to stalling."
+          },
+          {
+            "type": "feature",
+            "text": "Low speed of 60 RPM."
+          },
+          {
+            "type": "heading",
+            "text": "Application of A.C.Synchronous Motors"
+          },
+          {
+            "type": "feature",
+            "text": "Actuators."
+          },
+          {
+            "type": "feature",
+            "text": "Remote Control of switches."
+          },
+          {
+            "type": "feature",
+            "text": "Winding Machines."
+          },
+          {
+            "type": "feature",
+            "text": "Machines Tool Applications."
+          },
+          {
+            "type": "feature",
+            "text": "Valve Controls."
+          },
+          {
+            "type": "feature",
+            "text": "Printing Machines."
+          },
+          {
+            "type": "feature",
+            "text": "Automatic Welding Equipment."
+          },
+          {
+            "type": "feature",
+            "text": "Medical Equipment."
+          },
+          {
+            "type": "feature",
+            "text": "Conveyor System."
+          },
+          {
+            "type": "feature",
+            "text": "Paper Feeder."
+          }
+        ],
+        "legacyIds": ["tab1primary"],
+        "source": "ac-dc-motors.html"
+      },
+      {
+        "slug": "pmdc-motors-geared-motors",
+        "name": "PMDC Motors / Geared Motors",
+        "group": "DC Motors",
+        "image": "/images/services/acmotors22.png",
+        "blocks": [
+          {
+            "type": "heading",
+            "text": "D63 Series"
+          },
+          {
+            "type": "feature",
+            "text": "Power : 25 WATTS TO 60 WATTS."
+          },
+          {
+            "type": "feature",
+            "text": "Speeds : 1500 RPM TO 3000 RPM."
+          },
+          {
+            "type": "feature",
+            "text": "WORM GEARED : 35 RPM TO 160 RPM."
+          },
+          {
+            "type": "feature",
+            "text": "INLINE GEARED :10 RPM TO 300RPM"
+          },
+          {
+            "type": "heading",
+            "text": "D75 Series"
+          },
+          {
+            "type": "feature",
+            "text": "Power :40 WATTS TO 75 WATTS"
+          },
+          {
+            "type": "feature",
+            "text": "Speeds :1500 RPM TO 3000 RPM"
+          },
+          {
+            "type": "feature",
+            "text": "WORM GEARED :35 RPM TO 160 RPM"
+          },
+          {
+            "type": "feature",
+            "text": "INLINE GEARED :10 RPM TO 300RPM"
+          },
+          {
+            "type": "heading",
+            "text": "D127 Series"
+          },
+          {
+            "type": "feature",
+            "text": "Power :746 WATTS TO 1120 WATTS"
+          },
+          {
+            "type": "feature",
+            "text": "Speeds :1000 RPM TO 3000 RPM"
+          },
+          {
+            "type": "feature",
+            "text": "WORM GEARED :10 RPM TO 300 RPM"
+          },
+          {
+            "type": "feature",
+            "text": "PLANETARYGEARED :10 RPM TO 400RPM"
+          },
+          {
+            "type": "feature",
+            "text": "VOLTAGE :24/48/90/110/180VDC"
+          },
+          {
+            "type": "heading",
+            "text": "D142 Series"
+          },
+          {
+            "type": "feature",
+            "text": "Power :1500 WATTS TO 2240 WATTS"
+          },
+          {
+            "type": "feature",
+            "text": "Speeds :1000 RPM TO 3000 RPM"
+          },
+          {
+            "type": "feature",
+            "text": "WORM GEARED :10 RPM TO 300 RPM"
+          },
+          {
+            "type": "feature",
+            "text": "PLANETARYGEARED :10 RPM TO 400RPM"
+          },
+          {
+            "type": "feature",
+            "text": "VOLTAGE :24/48/90/110/180VDC"
+          }
+        ],
+        "legacyIds": ["tab2primary"],
+        "source": "ac-dc-motors.html"
+      },
+      {
+        "slug": "dc-drive-model-tdr-72",
+        "name": "DC Drive Model TDR - 72",
+        "group": "DC Drives",
+        "image": "/images/services/acmotors1.png",
+        "blocks": [
+          {
+            "type": "feature",
+            "text": "Front Panel Mouting –Plastic Encloser"
+          },
+          {
+            "type": "feature",
+            "text": "Supply - Single Phase 220VAC"
+          },
+          {
+            "type": "feature",
+            "text": "For 0.25 Hp To 0.5 Hp Pmdc Motor"
+          }
+        ],
+        "legacyIds": ["tab3primary"],
+        "source": "ac-dc-motors.html"
+      },
+      {
+        "slug": "dc-drive-model-tdr-96",
+        "name": "DC Drive Model TDR - 96",
+        "group": "DC Drives",
+        "image": "/images/services/acmotors2.png",
+        "blocks": [
+          {
+            "type": "feature",
+            "text": "Front Panel mounting type - MS Enclosure."
+          },
+          {
+            "type": "feature",
+            "text": "Supply : Single Phase 220 VAC."
+          },
+          {
+            "type": "feature",
+            "text": "For 1/8 HP to 1 HP PMDC Motors."
+          },
+          {
+            "type": "feature",
+            "text": "Remote On/Off facility."
+          },
+          {
+            "type": "feature",
+            "text": "Min/Max Speed settings & Fuses at Back."
+          },
+          {
+            "type": "feature",
+            "text": "Size : (H) 96 mm (W) 96 mm (D) 150 mm."
+          }
+        ],
+        "legacyIds": ["tab3primary"],
+        "source": "ac-dc-motors.html"
+      },
+      {
+        "slug": "dc-drive-model-pmd-2",
+        "name": "DC Drive Model PMD - 2",
+        "group": "DC Drives",
+        "image": "/images/services/acmotors3.png",
+        "blocks": [
+          {
+            "type": "feature",
+            "text": "Wall mounting type - M.S Enclosure."
+          },
+          {
+            "type": "feature",
+            "text": "Supply : Three Phase - 220 VAC."
+          },
+          {
+            "type": "feature",
+            "text": "For 1/8 HP to 1 HP PMDC Motors only."
+          },
+          {
+            "type": "feature",
+            "text": "Remote On/Off facility."
+          },
+          {
+            "type": "feature",
+            "text": "Size : (H) 150 mm (W) 115 mm (D) 70 mm"
+          }
+        ],
+        "legacyIds": ["tab3primary"],
+        "source": "ac-dc-motors.html"
+      },
+      {
+        "slug": "dc-drive-model-pmd-1",
+        "name": "DC Drive Model PMD - 1",
+        "group": "DC Drives",
+        "image": "/images/services/acmotors4.png",
+        "blocks": [
+          {
+            "type": "feature",
+            "text": "Base plate mounting type: Module."
+          },
+          {
+            "type": "feature",
+            "text": "Supply : Single Phase - 220 VAC."
+          },
+          {
+            "type": "feature",
+            "text": "For 1/8 HP to 1 HP PMDC Motors only."
+          },
+          {
+            "type": "feature",
+            "text": "Remote On/Off facility."
+          },
+          {
+            "type": "feature",
+            "text": "Size : (H) 150 mm (W) 115 mm (D) 70 mm."
+          }
+        ],
+        "legacyIds": ["tab3primary"],
+        "source": "ac-dc-motors.html"
+      },
+      {
+        "slug": "dc-drive-model-spm-1",
+        "name": "DC Drive Model SPM - 1",
+        "group": "DC Drives",
+        "image": "/images/services/acmotors5.png",
+        "blocks": [
+          {
+            "type": "feature",
+            "text": "Base plate mounting type: Module."
+          },
+          {
+            "type": "feature",
+            "text": "Supply: Single Phase - 220 VAC."
+          },
+          {
+            "type": "feature",
+            "text": "For ½ HP to 3 HP for Shunt / PMDC motors."
+          },
+          {
+            "type": "feature",
+            "text": "Remote On/Off facility."
+          },
+          {
+            "type": "feature",
+            "text": "Isolated Trip contacts."
+          },
+          {
+            "type": "feature",
+            "text": "Size: (H) 230 mm (W) 180 mm (D) 90 mm."
+          }
+        ],
+        "legacyIds": ["tab3primary"],
+        "source": "ac-dc-motors.html"
+      },
+      {
+        "slug": "dc-drive-model-spm-2",
+        "name": "DC Drive Model SPM - 2",
+        "group": "DC Drives",
+        "image": "/images/services/acmotors6.png",
+        "blocks": [
+          {
+            "type": "feature",
+            "text": "Base plate mounting type: Module."
+          },
+          {
+            "type": "feature",
+            "text": "Supply : Two Phase - 440 VAC."
+          },
+          {
+            "type": "feature",
+            "text": "For 1HP to 7.5 HP DC motor."
+          },
+          {
+            "type": "feature",
+            "text": "Remote On/Off facility."
+          },
+          {
+            "type": "feature",
+            "text": "Tacho Feedback provision."
+          },
+          {
+            "type": "feature",
+            "text": "Size: (H) 230 mm (W) 220 mm (D) 105 mm."
+          }
+        ],
+        "legacyIds": ["tab3primary"],
+        "source": "ac-dc-motors.html"
+      },
+      {
+        "slug": "dc-drive-model-tdr-100",
+        "name": "DC Drive Model TDR - 100",
+        "group": "DC Drives",
+        "image": "/images/services/acmotors7.png",
+        "blocks": [
+          {
+            "type": "feature",
+            "text": "Base plate mounting type: Module."
+          },
+          {
+            "type": "feature",
+            "text": "Supply : Three Phase - 220 VAC."
+          },
+          {
+            "type": "feature",
+            "text": "For 5 HP to 25 HP DC motors"
+          },
+          {
+            "type": "feature",
+            "text": "In built 'Phase Fail' & 'Phase Reverse' protection."
+          },
+          {
+            "type": "feature",
+            "text": "In built 'Over Voltage & 'Tacho Fail' protection."
+          },
+          {
+            "type": "feature",
+            "text": "Size : (H) 390 mm (W) 250 mm (D) 200 mm"
+          }
+        ],
+        "legacyIds": ["tab3primary"],
+        "source": "ac-dc-motors.html"
+      },
+      {
+        "slug": "dc-drive-model-tdr-192-d",
+        "name": "DC Drive Model TDR - 192 (D)",
+        "group": "DC Drives",
+        "image": "/images/services/acmotors8.png",
+        "blocks": [
+          {
+            "type": "feature",
+            "text": "Front Panel Mounting Type - M.S. Enclosure."
+          },
+          {
+            "type": "feature",
+            "text": "Supply : Single Phase - 220 VAC."
+          },
+          {
+            "type": "feature",
+            "text": "For 1/8 HP to 1 HP for PMDC/motors."
+          },
+          {
+            "type": "feature",
+            "text": "Remote On/Off facility With Digital Speed indicator."
+          },
+          {
+            "type": "feature",
+            "text": "Size : (H) 96 mm (W) 192 mm (D) 150 mm."
+          }
+        ],
+        "legacyIds": ["tab3primary"],
+        "source": "ac-dc-motors.html"
+      },
+      {
+        "slug": "tacho-generators",
+        "name": "Tacho Generators",
+        "group": "Tacho Generators",
+        "image": "/images/services/process-control-25.jpg",
+        "blocks": [
+          {
+            "type": "feature",
+            "text": "10 V / 100 RPM, 20 V / 1000 RPM, 50 V / 1000 RPM."
+          },
+          {
+            "type": "feature",
+            "text": "High Quality Magnets."
+          },
+          {
+            "type": "feature",
+            "text": "Low Ripples, High Linearity."
+          },
+          {
+            "type": "feature",
+            "text": "Speed Range upto 8000 RPM."
+          },
+          {
+            "type": "feature",
+            "text": "Voltage Range 0.05 V/rpm to 0.2 V/rpm."
+          },
+          {
+            "type": "feature",
+            "text": "Current Range upto 250 mAmps."
+          },
+          {
+            "type": "feature",
+            "text": "Class F Insulation."
+          },
+          {
+            "type": "feature",
+            "text": "Encloser IP 44/IP53."
+          }
+        ],
+        "legacyIds": ["tab4primary"],
+        "source": "ac-dc-motors.html"
+      },
+      {
+        "slug": "bldc-motors-and-drives",
+        "name": "BLDC Motors And Drives",
+        "group": "BLDC MOTORS AND DRIVES",
+        "image": "/images/services/ac-motors-89.png",
+        "blocks": [
+          {
+            "type": "heading",
+            "text": "Sensorless Brushless DC Motors"
+          },
+          {
+            "type": "feature",
+            "text": "Excellent Energy Efficiency Design"
+          },
+          {
+            "type": "feature",
+            "text": "Constant Tourqe Across Opertional Speed range(10% To 100% rated speed)"
+          },
+          {
+            "type": "feature",
+            "text": "Protection for Under/Over voltage,Over current,Polarity Reversal"
+          },
+          {
+            "type": "feature",
+            "text": "0-10 vdc for setting ref speed"
+          },
+          {
+            "type": "feature",
+            "text": "PwmiN For setting ref speed"
+          },
+          {
+            "type": "feature",
+            "text": "(Optional)Display control for Speed/Current/Voltage"
+          },
+          {
+            "type": "heading",
+            "text": "Sensorless Brushless DC Motor Drive"
+          },
+          {
+            "type": "feature",
+            "text": "Excellent Energy Efficiency Design"
+          },
+          {
+            "type": "feature",
+            "text": "Constant Torque Across Operational Speed Range"
+          },
+          {
+            "type": "feature",
+            "text": "Speed and Current Control Loop for Smooth Operation from Low To High Speeds"
+          },
+          {
+            "type": "feature",
+            "text": "Protection for Under / Over Voltage, Over Current, Polarity Reversal"
+          },
+          {
+            "type": "feature",
+            "text": "4-20 mA Input (Ref Speed) - Optional"
+          },
+          {
+            "type": "feature",
+            "text": "0-10 Vdc for Setting Ref Speed"
+          },
+          {
+            "type": "feature",
+            "text": "Pwm In for Setting Ref Speed and Pwm out for Speed Readout"
+          }
+        ],
+        "legacyIds": ["tab5primary"],
+        "source": "ac-dc-motors.html"
+      }
+    ]
+  }
+]

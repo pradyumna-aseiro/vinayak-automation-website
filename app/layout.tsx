@@ -56,7 +56,10 @@ export default function RootLayout({
               contactPoint: site.phones.flatMap((group) =>
                 group.numbers.map((number) => ({
                   "@type": "ContactPoint",
-                  contactType: "sales",
+                  contactType:
+                    group.label === "Landlines"
+                      ? "customer service"
+                      : group.label.toLowerCase(),
                   telephone: (number.startsWith("040")
                     ? "+91" + number.slice(1)
                     : number

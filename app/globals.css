@@ -1784,3 +1784,18 @@ th {
     transition: none !important;
   }
 }
+
+.phone-groups {
+  display: grid;
+  gap: 16px;
+  margin-bottom: 20px;
+}
+.phone-links {
+  display: grid;
+  gap: 6px;
+  margin-top: 6px;
+}
+.phone-links a {
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}

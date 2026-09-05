@@ -177,7 +177,7 @@ export function Footer() {
           <div className="footer-brand">
             <Link href="/" className="brand">
               <Image
-                src="/images/vinayak-automation-products-logo-1.png"
+                src="/media/vap-logo.svg"
                 alt=""
                 width={58}
                 height={58}

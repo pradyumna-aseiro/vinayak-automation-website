@@ -34,7 +34,7 @@ export function Header() {
           onNavigate={navigate}
         >
           <Image
-            src="/images/vinayak-automation-products-logo-1.png"
+            src="/media/vap-logo.svg"
             width={66}
             height={66}
             alt=""

@@ -1,3 +1,8 @@
+import {
+  CompanyTimeline,
+  WhyVinayak,
+  PartnerWithUs,
+} from "@/components/company-story";
 import Image from "next/image";
 import { Breadcrumbs, Button, EnquiryBanner, Eyebrow } from "@/components/ui";
 import { metadata as seo } from "@/lib/seo";
@@ -74,6 +79,8 @@ export default function About() {
           </div>
         </div>
       </section>
+      <CompanyTimeline />
+      <WhyVinayak />
       <section className="soft-section section" id="integration">
         <div className="container">
           <div className="section-heading">
@@ -154,6 +161,7 @@ export default function About() {
           </div>
         </div>
       </section>
+      <PartnerWithUs />
       <EnquiryBanner />
     </>
   );

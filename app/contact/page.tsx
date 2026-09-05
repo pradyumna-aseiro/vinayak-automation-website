@@ -52,7 +52,7 @@ export default async function Contact({
             <MapPin size={21} />
             <div>
               <span className="small-label">FIND US</span>
-              <p>{site.address}</p>
+              <address>{site.address}</address>
               <a
                 href={
                   "https://www.google.com/maps/search/?api=1&query=" +

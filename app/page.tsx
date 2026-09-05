@@ -225,6 +225,50 @@ export default function Home() {
           </div>
         </div>
       </section>
+      <section className="section">
+        <div className="container buying-guide">
+          <Eyebrow>PLAN YOUR REQUIREMENT</Eyebrow>
+          <h2>Industrial automation support from Hyderabad</h2>
+          <p>
+            Established in 2007, Vinayak Automation Products is based in West
+            Marredpally, Secunderabad, Hyderabad. Our catalogue brings together
+            drives and automation, control and power products, incremental
+            encoders, conveyor safety switches, process control instruments,
+            field instruments, control panels and AC/DC motors.
+          </p>
+          <h3>Choosing a component for your application</h3>
+          <p>
+            Start with the product category and review the individual model or
+            family page. For a drive or motor enquiry, include the nameplate
+            details, supply voltage, power rating and the machine it operates.
+            For sensors and instruments, describe what you need to detect or
+            measure, the operating range, mounting arrangement and environment.
+            These details help us discuss a suitable selection without relying
+            on the model name alone.
+          </p>
+          <h3>Replacing equipment or planning an integration</h3>
+          <p>
+            When replacing an existing component, mention its manufacturer, full
+            model number and the controls it connects to. For a new system,
+            describe the process, required inputs and outputs, and any PLC, HMI,
+            SCADA or drive equipment already in use. You can explore our{" "}
+            <Link href="/about#integration">
+              system integration capabilities
+            </Link>{" "}
+            before sending your requirements.
+          </p>
+          <h3>What to include in a quotation request</h3>
+          <p>
+            Send the product or project name, quantity, delivery location and
+            required timeline through our{" "}
+            <Link href="/contact">contact form</Link>. Include the technical
+            details you already have in the requirement field. Product
+            suitability, availability, pricing and delivery should be confirmed
+            for your enquiry; catalogue information is a starting point for that
+            discussion.
+          </p>
+        </div>
+      </section>
       <EnquiryBanner />
     </>
   );

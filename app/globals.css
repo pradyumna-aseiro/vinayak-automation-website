@@ -1799,3 +1799,18 @@ th {
   white-space: nowrap;
   font-variant-numeric: tabular-nums;
 }
+
+address {
+  font-style: normal;
+}
+.buying-guide {
+  max-width: 850px;
+}
+.buying-guide h3 {
+  margin: 28px 0 12px;
+}
+.buying-guide p {
+  margin: 16px 0;
+  color: var(--muted);
+  line-height: 1.8;
+}

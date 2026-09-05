@@ -222,10 +222,10 @@ export function Footer() {
               <Mail size={15} />
               {site.email}
             </a>
-            <p className="address">
+            <address className="address">
               <MapPin size={17} />
               <span>{site.address}</span>
-            </p>
+            </address>
             <p>Mon–Sat · 10:00–18:00</p>
           </div>
         </div>

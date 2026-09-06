@@ -1972,3 +1972,183 @@ address {
     width: 150px;
   }
 }
+/* Homepage journey and original PDF logo lockup. */
+.brand img.vap-lockup {
+  width: 300px;
+  height: auto;
+  max-width: 100%;
+  object-fit: contain;
+}
+.footer-brand .brand {
+  display: block;
+}
+.footer-brand .brand img.vap-lockup {
+  width: 290px;
+}
+.hero-copy h1 {
+  font-size: clamp(36px, 4.2vw, 68px);
+}
+.offering-columns {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 28px;
+  margin-top: 36px;
+}
+.offering-columns article {
+  border: 1px solid var(--line);
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.offering-columns h3 {
+  font-size: 28px;
+  margin: 18px 0 12px;
+}
+.offering-columns ul {
+  list-style: none;
+  padding: 0;
+  margin: 22px 0 28px;
+  width: 100%;
+  flex: 1;
+}
+.offering-columns li a {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid var(--line);
+  padding: 13px 0;
+}
+.offering-columns svg,
+.support-steps svg,
+.industry-list svg {
+  color: #923b3d;
+  flex-shrink: 0;
+}
+.support-steps {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 32px;
+  margin-top: 40px;
+}
+.support-steps article {
+  padding: 24px 0;
+  border-top: 1px solid var(--line);
+}
+.support-steps h3 {
+  margin: 18px 0 12px;
+  font-size: 24px;
+}
+.support-steps p {
+  line-height: 1.7;
+}
+.requirement-intro {
+  max-width: 850px;
+  margin: 20px 0 32px;
+  line-height: 1.8;
+}
+.requirement-cards {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+}
+.requirement-cards > li {
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+}
+.requirement-card-title {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+.requirement-card-title span {
+  background: #f3e6e3;
+  color: #923b3d;
+  border-radius: 50%;
+  width: 48px;
+  height: 48px;
+  display: grid;
+  place-items: center;
+  flex-shrink: 0;
+  font-weight: 600;
+}
+.requirement-card-title h3 {
+  font-size: 21px;
+}
+.requirement-cards > li > svg {
+  color: #923b3d;
+}
+.requirement-cards ul {
+  padding-left: 20px;
+  line-height: 1.8;
+  flex: 1;
+}
+.requirement-cards li::marker {
+  color: #923b3d;
+}
+.requirement-note {
+  background: #f3e6e3;
+  padding: 15px;
+  border-radius: 8px;
+  font-size: 13px;
+  line-height: 1.6;
+}
+.new-system {
+  display: flex;
+  align-items: center;
+  gap: 26px;
+  background: var(--soft);
+  padding: 24px;
+  margin: 24px 0;
+  border-radius: 8px;
+}
+.new-system strong {
+  flex-shrink: 0;
+}
+.new-system p {
+  line-height: 1.7;
+}
+.final-contact p {
+  margin: 22px 0;
+  font-size: 18px;
+}
+@media (max-width: 1100px) {
+  .brand img.vap-lockup {
+    width: 245px;
+  }
+  .requirement-cards {
+    gap: 15px;
+  }
+  .requirement-cards > li {
+    padding: 18px;
+  }
+}
+@media (max-width: 800px) {
+  .offering-columns,
+  .support-steps,
+  .requirement-cards {
+    grid-template-columns: 1fr;
+  }
+  .new-system {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 10px;
+  }
+}
+@media (max-width: 500px) {
+  .brand img.vap-lockup {
+    width: 235px;
+  }
+  .offering-columns article {
+    padding: 24px;
+  }
+}
+.vap-partnership .eyebrow {
+  color: #e9c4b3;
+}

@@ -34,15 +34,13 @@ export function Header() {
           onNavigate={navigate}
         >
           <Image
-            src="/media/vap-logo.svg"
-            width={66}
-            height={66}
-            alt=""
+            src="/media/vap-lockup.png"
+            width={340}
+            height={78}
+            alt="Vinayak Automation Products"
+            className="vap-lockup"
             priority
           />
-          <span>
-            VINAYAK <span>AUTOMATION PRODUCTS</span>
-          </span>
         </Link>
         <button
           ref={button}

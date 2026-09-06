@@ -177,14 +177,13 @@ export function Footer() {
           <div className="footer-brand">
             <Link href="/" className="brand">
               <Image
-                src="/media/vap-logo.svg"
-                alt=""
-                width={58}
-                height={58}
+                src="/media/vap-lockup.png"
+                width={340}
+                height={78}
+                alt="Vinayak Automation Products"
+                className="vap-lockup"
+                priority
               />
-              <span>
-                VINAYAK <span>AUTOMATION PRODUCTS</span>
-              </span>
             </Link>
             <p>
               Industrial products.

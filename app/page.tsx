@@ -1,20 +1,27 @@
-import { ClientCarousel } from "@/components/client-carousel";
-import { WhyVinayak, PartnerWithUs } from "@/components/company-story";
 import Image from "next/image";
 import Link from "next/link";
 import {
-  ArrowUpRight,
-  ArrowRight,
+  Factory,
+  FlaskConical,
+  Droplets,
+  Utensils,
+  Package,
+  Cog,
   Settings2,
   Network,
-  LifeBuoy,
+  Wrench,
+  Boxes,
+  FileText,
+  ClipboardList,
+  ArrowRight,
 } from "lucide-react";
-import { Button, CategoryCard, EnquiryBanner, Eyebrow } from "@/components/ui";
-import { categories } from "@/lib/catalogue";
+import { Button, Eyebrow } from "@/components/ui";
+import { ClientCarousel } from "@/components/client-carousel";
+import { WhyVinayak, PartnerWithUs } from "@/components/company-story";
 import { metadata as seo } from "@/lib/seo";
 export const metadata = seo(
   "Industrial automation products & system integration",
-  "Explore drives, PLCs, sensors, encoders, instruments and motors. Vinayak Automation Products supports product selection and system integration from Hyderabad.",
+  "Industrial automation products and application support backed by 18+ years of experience. Explore drives, controls, instruments and motors from Vinayak.",
   "/",
 );
 export default function Home() {
@@ -25,26 +32,21 @@ export default function Home() {
           <div className="hero-copy">
             <Eyebrow>INDUSTRIAL AUTOMATION · SINCE 2007</Eyebrow>
             <h1>
-              The right products.
+              Automation products.
               <br />
-              The power to
-              <br />
-              <span>move forward.</span>
+              <span>Application support.</span>
             </h1>
             <p>
-              From a single sensor to an integrated system. Automation products
-              and application support to keep your industry moving.
+              Industrial automation products and application support backed by
+              18+ years of experience. Built around your requirement.
             </p>
             <div className="hero-actions">
-              <Button href="/products">Explore our products</Button>
-              <Link href="/about" className="plain-link">
-                Meet Vinayak <ArrowUpRight size={18} />
+              <Button href="/products">Explore products</Button>
+              <Link href="/contact" className="plain-link">
+                Discuss your requirement <ArrowRight size={18} />
               </Link>
             </div>
-            <div className="hero-note">
-              <span className="tiny-cross">+</span> PRODUCT SUPPLY{" "}
-              <span className="note-dot">/</span> SYSTEM INTEGRATION
-            </div>
+            <div className="hero-note">PRODUCT SUPPLY / SYSTEM INTEGRATION</div>
           </div>
           <div className="hero-visual">
             <Image
@@ -55,206 +57,212 @@ export default function Home() {
               preload
               fetchPriority="high"
             />
-            <div className="image-corner">
-              <span>BUILT AROUND YOUR APPLICATION</span>
-              <ArrowUpRight size={26} />
-            </div>
             <div className="hero-image-caption">
-              <span>01 / INDUSTRIAL AUTOMATION</span>
-              <span className="caption-line" />
+              BUILT AROUND YOUR REQUIREMENT
             </div>
           </div>
         </div>
       </section>
       <ClientCarousel />
-      <WhyVinayak />
       <section className="section" id="products">
         <div className="container">
-          <div className="section-heading">
-            <div>
-              <Eyebrow>OUR PRODUCT PORTFOLIO</Eyebrow>
-              <h2>
-                Every component.
-                <br />
-                One connected partner.
-              </h2>
-            </div>
-            <div className="heading-aside">
-              <p>
-                Discover the right hardware for your process, with support from
-                selection through integration.
-              </p>
-              <Link href="/products" className="text-link">
-                Browse all products <ArrowUpRight size={18} />
-              </Link>
-            </div>
-          </div>
-          <div className="category-grid">
-            {[
-              categories[0],
-              categories[1],
-              categories[2],
-              categories[3],
-              categories[5],
-              categories[8],
-            ].map((c) => (
-              <CategoryCard
-                key={c.slug}
-                category={c}
-                index={categories.indexOf(c)}
-              />
-            ))}
-          </div>
-          <div className="more-ranges">
-            <span>Also in our portfolio</span>
-            {[categories[4], categories[6], categories[7]].map((c) => (
-              <Link href={"/products/" + c.slug} key={c.slug}>
-                {c.name}
-                <ArrowUpRight size={16} />
-              </Link>
-            ))}
+          <Eyebrow>PRODUCTS & SERVICES</Eyebrow>
+          <h2>Our offerings.</h2>
+          <div className="offering-columns">
+            <article>
+              <Boxes size={30} />
+              <h3>Products</h3>
+              <p>Choose the components your application needs.</p>
+              <ul>
+                {[
+                  ["Drives & automation", "drives-and-automation"],
+                  ["PLC / HMI", "industrial-automation-solution"],
+                  ["Sensors & instruments", "field-instruments"],
+                  ["Motors", "ac-dc-motors"],
+                  ["Encoders", "incremental-encoders"],
+                  ["Control & power products", "control-and-power-products"],
+                ].map(([name, path]) => (
+                  <li key={path}>
+                    <Link href={"/products/" + path}>
+                      {name}
+                      <ArrowRight size={16} />
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+              <Button href="/products">Explore all products</Button>
+            </article>
+            <article>
+              <Wrench size={30} />
+              <h3>Services</h3>
+              <p>Connect product selection with a working solution.</p>
+              <ul>
+                {[
+                  "Product selection",
+                  "Application support",
+                  "System integration",
+                  "Control panels",
+                  "Commissioning support",
+                ].map((name) => (
+                  <li key={name}>
+                    <Link href="/about#integration">
+                      {name}
+                      <ArrowRight size={16} />
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+              <Button href="/about#integration">Our capabilities</Button>
+            </article>
           </div>
         </div>
       </section>
-      <section className="integration-section">
-        <div className="container integration-grid">
-          <div className="integration-photo">
-            <Image
-              src="/media/workshop.webp"
-              alt="Industrial production equipment inside a manufacturing workshop"
-              fill
-              sizes="(max-width: 800px) 100vw, 45vw"
-            />
-            <span className="photo-label">FROM REQUIREMENT TO REALITY</span>
-          </div>
-          <div className="integration-copy">
-            <Eyebrow>MORE THAN PRODUCT SUPPLY</Eyebrow>
-            <h2>
-              Individual expertise.
-              <br />
-              Integrated thinking.
-            </h2>
-            <p>
-              A drive, a sensor or a control panel is part of a bigger process.
-              We bring the components and controls together around the way your
-              machine needs to work.
-            </p>
-            <div className="service-lines">
-              {[
-                [
-                  Settings2,
-                  "Product selection",
-                  "Match the product to the load, environment and application.",
-                ],
-                [
-                  Network,
-                  "System integration",
-                  "Connect PLC, HMI, SCADA, drives and control panels.",
-                ],
-                [
-                  LifeBuoy,
-                  "Application support",
-                  "Discuss implementation, commissioning and your existing setup.",
-                ],
-              ].map(([Icon, title, description]) => {
-                const I = Icon as typeof Settings2;
-                return (
-                  <div key={String(title)}>
-                    <I size={24} />
-                    <div>
-                      <h3>{String(title)}</h3>
-                      <p>{String(description)}</p>
-                    </div>
-                  </div>
-                );
-              })}
-            </div>
-            <Link href="/about#integration" className="text-link">
-              Explore our capabilities <ArrowRight size={17} />
-            </Link>
+      <section className="section soft-section">
+        <div className="container">
+          <Eyebrow>SELECT · INTEGRATE · SUPPORT</Eyebrow>
+          <h2>Your 360° application support.</h2>
+          <div className="support-steps">
+            {[
+              [
+                Settings2,
+                "Select",
+                "Match the product to the load, environment and application.",
+              ],
+              [
+                Network,
+                "Integrate",
+                "Connect controls, drives and instrumentation around your process.",
+              ],
+              [
+                Wrench,
+                "Support",
+                "Discuss implementation, commissioning and your existing setup.",
+              ],
+            ].map(([Icon, title, text]) => {
+              const I = Icon as typeof Cog;
+              return (
+                <article key={String(title)}>
+                  <I size={32} />
+                  <h3>{String(title)}</h3>
+                  <p>{String(text)}</p>
+                </article>
+              );
+            })}
           </div>
         </div>
       </section>
       <section className="section industries-section">
         <div className="container">
-          <div className="section-heading">
-            <div>
-              <Eyebrow>APPLICATIONS ACROSS INDUSTRY</Eyebrow>
-              <h2>
-                Different processes.
-                <br />
-                The same commitment.
-              </h2>
-            </div>
-            <p className="heading-aside">
-              Supporting industrial requirements across manufacturing, process
-              plants and machine building.
-            </p>
-          </div>
+          <Eyebrow>WHERE WE WORK</Eyebrow>
+          <h2>Applications across industries.</h2>
           <div className="industry-list">
             {[
-              "Cement & steel",
-              "Pharmaceuticals & chemicals",
-              "Water & pumping",
-              "Food & beverages",
-              "Packaging & material handling",
-              "OEMs & machine builders",
-            ].map((x, i) => (
-              <div key={x}>
-                <span>{String(i + 1).padStart(2, "0")}</span>
-                <h3>{x}</h3>
-                <span className="industry-plus">+</span>
-              </div>
-            ))}
+              [Factory, "Cement & steel"],
+              [FlaskConical, "Pharmaceuticals & chemicals"],
+              [Droplets, "Water & pumping"],
+              [Utensils, "Food & beverages"],
+              [Package, "Packaging & material handling"],
+              [Cog, "OEMs & machine builders"],
+            ].map(([Icon, name]) => {
+              const I = Icon as typeof Cog;
+              return (
+                <div key={String(name)}>
+                  <I size={28} aria-hidden="true" />
+                  <h3>{String(name)}</h3>
+                </div>
+              );
+            })}
           </div>
         </div>
       </section>
-      <section className="section">
-        <div className="container buying-guide">
-          <Eyebrow>PLAN YOUR REQUIREMENT</Eyebrow>
-          <h2>Industrial automation support from Hyderabad</h2>
-          <p>
-            Established in 2007, Vinayak Automation Products is based in West
-            Marredpally, Secunderabad, Hyderabad. Our catalogue brings together
-            drives and automation, control and power products, incremental
-            encoders, conveyor safety switches, process control instruments,
-            field instruments, control panels and AC/DC motors.
+      <WhyVinayak />
+      <section className="section requirement-section">
+        <div className="container">
+          <Eyebrow>INDUSTRIAL AUTOMATION SUPPORT FROM HYDERABAD</Eyebrow>
+          <h2>Plan your requirement.</h2>
+          <p className="requirement-intro">
+            Since 2007, Vinayak Automation Products has supported industrial
+            customers with automation components, instrumentation, control
+            panels, motors and system integration.
           </p>
-          <h3>Choosing a component for your application</h3>
-          <p>
-            Start with the product category and review the individual model or
-            family page. For a drive or motor enquiry, include the nameplate
-            details, supply voltage, power rating and the machine it operates.
-            For sensors and instruments, describe what you need to detect or
-            measure, the operating range, mounting arrangement and environment.
-            These details help us discuss a suitable selection without relying
-            on the model name alone.
-          </p>
-          <h3>Replacing equipment or planning an integration</h3>
-          <p>
-            When replacing an existing component, mention its manufacturer, full
-            model number and the controls it connects to. For a new system,
-            describe the process, required inputs and outputs, and any PLC, HMI,
-            SCADA or drive equipment already in use. You can explore our{" "}
-            <Link href="/about#integration">
-              system integration capabilities
-            </Link>{" "}
-            before sending your requirements.
-          </p>
-          <h3>What to include in a quotation request</h3>
-          <p>
-            Send the product or project name, quantity, delivery location and
-            required timeline through our{" "}
-            <Link href="/contact">contact form</Link>. Include the technical
-            details you already have in the requirement field. Product
-            suitability, availability, pricing and delivery should be confirmed
-            for your enquiry; catalogue information is a starting point for that
-            discussion.
-          </p>
+          <ol className="requirement-cards">
+            {[
+              [
+                Boxes,
+                "Choose a component",
+                [
+                  "Drives & motors",
+                  "Sensors & instruments",
+                  "Control & power products",
+                  "Control panels",
+                ],
+                "Start with the product category or model family.",
+              ],
+              [
+                FileText,
+                "Share your application",
+                [
+                  "Nameplate details",
+                  "Supply voltage & power rating",
+                  "What you need to detect or measure",
+                  "Operating range, mounting & environment",
+                  "PLC / HMI / SCADA / drive details",
+                ],
+                "For replacements, include the manufacturer and full model number.",
+              ],
+              [
+                ClipboardList,
+                "Request a quotation",
+                [
+                  "Product / project name",
+                  "Quantity",
+                  "Delivery location",
+                  "Required timeline",
+                  "Technical details available",
+                ],
+                "Confirm suitability, availability, pricing and delivery for your enquiry.",
+              ],
+            ].map(([Icon, title, items, note], i) => {
+              const I = Icon as typeof Cog;
+              return (
+                <li key={String(title)}>
+                  <div className="requirement-card-title">
+                    <span>0{i + 1}</span>
+                    <h3>{String(title)}</h3>
+                  </div>
+                  <I size={40} />
+                  <ul>
+                    {(items as string[]).map((item) => (
+                      <li key={item}>{item}</li>
+                    ))}
+                  </ul>
+                  <p className="requirement-note">{String(note)}</p>
+                </li>
+              );
+            })}
+          </ol>
+          <div className="new-system">
+            <strong>Planning a new system?</strong>
+            <p>
+              Describe the process, required inputs and outputs, and any
+              equipment already in use.
+            </p>
+          </div>
+          <Button href="/contact">Send your requirement</Button>
         </div>
       </section>
       <PartnerWithUs />
-      <EnquiryBanner />
+      <section className="section final-contact">
+        <div className="container">
+          <Eyebrow>CONTACT VINAYAK</Eyebrow>
+          <h2>Have a product or automation requirement?</h2>
+          <p>
+            Talk to our team about product selection, replacement or system
+            integration.
+          </p>
+          <Button href="/contact">Contact Vinayak</Button>
+        </div>
+      </section>
     </>
   );
 }

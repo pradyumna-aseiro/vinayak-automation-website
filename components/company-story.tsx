@@ -17,7 +17,7 @@ export function WhyVinayak() {
         <div className="section-heading">
           <div>
             <Eyebrow>WHY US</Eyebrow>
-            <h2>Experience you can build on.</h2>
+            <h2>Us and our experience.</h2>
           </div>
           <p className="heading-aside">
             Trusted by 5,000+ clients, we blend technology and expertise to
@@ -77,7 +77,7 @@ export function PartnerWithUs() {
         <div className="section-heading">
           <div>
             <Eyebrow>WHY PARTNER WITH US</Eyebrow>
-            <h2>Build more, together.</h2>
+            <h2>Why partner with us.</h2>
           </div>
           <p className="heading-aside">
             Collaborate with us to accelerate digital transformation in

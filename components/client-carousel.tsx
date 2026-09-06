@@ -52,7 +52,7 @@ export function ClientCarousel() {
         <div className="section-heading">
           <div>
             <span className="eyebrow">OUR CLIENTS & COLLABORATORS</span>
-            <h2 id="clients-title">Relationships across industry.</h2>
+            <h2 id="clients-title">Our clients and collaborators.</h2>
           </div>
           <div className="carousel-controls">
             <button

@@ -48,7 +48,7 @@ export default function RootLayout({
               "@id": site.url + "/#business",
               name: site.name,
               url: site.url,
-              logo: site.url + "/media/vap-logo.svg",
+              logo: site.url + "/media/vap-lockup.png",
               foundingDate: "2007",
               numberOfEmployees: { "@type": "QuantitativeValue", value: 20 },
               email: site.email,

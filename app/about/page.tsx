@@ -1,11 +1,8 @@
-import {
-  CompanyTimeline,
-  WhyVinayak,
-  PartnerWithUs,
-} from "@/components/company-story";
+import { CompanyTimeline, WhyVinayak } from "@/components/company-story";
 import Image from "next/image";
 import { Breadcrumbs, Button, EnquiryBanner, Eyebrow } from "@/components/ui";
 import { metadata as seo } from "@/lib/seo";
+export const revalidate = 3600;
 export const metadata = seo(
   "About Vinayak · Established in 2007",
   "Meet Vinayak Automation Products, Hyderabad. Product supply and custom factory automation with PLC, HMI, SCADA, VFD, sensors and control panels since 2007.",
@@ -161,8 +158,12 @@ export default function About() {
           </div>
         </div>
       </section>
-      <PartnerWithUs />
-      <EnquiryBanner />
+      <EnquiryBanner
+        title="Build your next project with Vinayak."
+        description="Bring us your application, existing equipment and project goals. Our team will help define the product and integration requirements."
+        product="System integration"
+        buttonLabel="Discuss your project"
+      />
     </>
   );
 }

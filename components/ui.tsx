@@ -152,19 +152,34 @@ export function ProductCard({
     </Link>
   );
 }
-export function EnquiryBanner() {
+export function EnquiryBanner({
+  title = "Have a product or automation requirement?",
+  description = "Talk to our team about product selection, replacement or system integration.",
+  product,
+  points = [],
+  buttonLabel = "Contact Vinayak",
+}: {
+  title?: string;
+  description?: string;
+  product?: string;
+  points?: string[];
+  buttonLabel?: string;
+}) {
   return (
     <section className="enquiry-banner">
       <div className="container enquiry-inner">
         <div>
-          <Eyebrow>LET’S TALK REQUIREMENTS</Eyebrow>
-          <h2>
-            A product in mind?
-            <br />A process to improve?
-          </h2>
-          <p>Tell us what you need. We’ll help you take the next step.</p>
+          <h2>{title}</h2>
+          <p>{description}</p>
+          {points.length > 0 && (
+            <ul className="band-selection">
+              {points.map((point) => (
+                <li key={point}>{point}</li>
+              ))}
+            </ul>
+          )}
         </div>
-        <Button href={quoteUrl()}>Discuss your requirement</Button>
+        <Button href={quoteUrl(product)}>{buttonLabel}</Button>
       </div>
     </section>
   );

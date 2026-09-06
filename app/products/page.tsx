@@ -38,7 +38,11 @@ export default function Products() {
           ))}
         </div>
       </div>
-      <EnquiryBanner />
+      <EnquiryBanner
+        title="Need help choosing the right product?"
+        description="Share the model, application and quantity. We can help you narrow down the options."
+        buttonLabel="Get selection support"
+      />
     </>
   );
 }

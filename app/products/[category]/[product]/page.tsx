@@ -2,7 +2,13 @@ import { notFound } from "next/navigation";
 import Image from "next/image";
 import Link from "next/link";
 import { Phone, ArrowLeft } from "lucide-react";
-import { Breadcrumbs, Button, Eyebrow, ProductCard } from "@/components/ui";
+import {
+  Breadcrumbs,
+  Button,
+  Eyebrow,
+  ProductCard,
+  EnquiryBanner,
+} from "@/components/ui";
 import {
   categories,
   productUrl,
@@ -169,6 +175,12 @@ export default async function ProductPage({
           </section>
         )}
       </div>
+      <EnquiryBanner
+        title={"Ready to discuss " + p.name + "?"}
+        description="Confirm the model, quantity and delivery location with our team. We will help with selection and the next steps."
+        product={p.name}
+        buttonLabel="Enquire about this product"
+      />
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{

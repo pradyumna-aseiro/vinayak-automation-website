@@ -1,3 +1,4 @@
+import { experienceYears } from "@/lib/experience";
 import {
   Users,
   BadgeIndianRupee,
@@ -12,7 +13,7 @@ import {
 import { Button, Eyebrow } from "@/components/ui";
 export function WhyVinayak() {
   return (
-    <section className="section soft-section">
+    <section className="section experience-band">
       <div className="container">
         <div className="section-heading">
           <div>
@@ -29,7 +30,7 @@ export function WhyVinayak() {
             [Users, "5,000+", "Satisfied clients"],
             [BadgeIndianRupee, "Economical", "Prices"],
             [Boxes, "350+", "Products"],
-            [Clock, "18+ years", "Of experience"],
+            [Clock, `${experienceYears()}+ years`, "Of experience"],
           ].map(([Icon, value, label]) => {
             const I = Icon as typeof Users;
             return (

@@ -1,3 +1,5 @@
+import { categories } from "@/lib/catalogue";
+import { experienceYears } from "@/lib/experience";
 import Image from "next/image";
 import Link from "next/link";
 import {
@@ -7,23 +9,24 @@ import {
   Utensils,
   Package,
   Cog,
-  Settings2,
-  Network,
-  Wrench,
   Boxes,
   FileText,
   ClipboardList,
   ArrowRight,
+  ArrowUpRight,
 } from "lucide-react";
-import { Button, Eyebrow } from "@/components/ui";
+import { Button, CategoryCard, Eyebrow } from "@/components/ui";
 import { ClientCarousel } from "@/components/client-carousel";
-import { WhyVinayak, PartnerWithUs } from "@/components/company-story";
+import { WhyVinayak } from "@/components/company-story";
 import { metadata as seo } from "@/lib/seo";
-export const metadata = seo(
-  "Industrial automation products & system integration",
-  "Industrial automation products and application support backed by 18+ years of experience. Explore drives, controls, instruments and motors from Vinayak.",
-  "/",
-);
+export const revalidate = 3600;
+export function generateMetadata() {
+  return seo(
+    "Industrial automation products & system integration",
+    `Industrial automation products and application support backed by ${experienceYears()}+ years of experience. Explore drives, controls, instruments and motors from Vinayak.`,
+    "/",
+  );
+}
 export default function Home() {
   return (
     <>
@@ -32,13 +35,12 @@ export default function Home() {
           <div className="hero-copy">
             <Eyebrow>INDUSTRIAL AUTOMATION · SINCE 2007</Eyebrow>
             <h1>
-              Automation products.
-              <br />
-              <span>Application support.</span>
+              {experienceYears()}+ Years of{" "}
+              <span>Industrial Automation Experience</span>
             </h1>
             <p>
-              Industrial automation products and application support backed by
-              18+ years of experience. Built around your requirement.
+              Industrial automation products and application support, built
+              around your requirement.
             </p>
             <div className="hero-actions">
               <Button href="/products">Explore products</Button>
@@ -66,88 +68,45 @@ export default function Home() {
       <ClientCarousel />
       <section className="section" id="products">
         <div className="container">
-          <Eyebrow>PRODUCTS & SERVICES</Eyebrow>
-          <h2>Our offerings.</h2>
-          <div className="offering-columns">
-            <article>
-              <Boxes size={30} />
-              <h3>Products</h3>
-              <p>Choose the components your application needs.</p>
-              <ul>
-                {[
-                  ["Drives & automation", "drives-and-automation"],
-                  ["PLC / HMI", "industrial-automation-solution"],
-                  ["Sensors & instruments", "field-instruments"],
-                  ["Motors", "ac-dc-motors"],
-                  ["Encoders", "incremental-encoders"],
-                  ["Control & power products", "control-and-power-products"],
-                ].map(([name, path]) => (
-                  <li key={path}>
-                    <Link href={"/products/" + path}>
-                      {name}
-                      <ArrowRight size={16} />
-                    </Link>
-                  </li>
-                ))}
-              </ul>
-              <Button href="/products">Explore all products</Button>
-            </article>
-            <article>
-              <Wrench size={30} />
-              <h3>Services</h3>
-              <p>Connect product selection with a working solution.</p>
-              <ul>
-                {[
-                  "Product selection",
-                  "Application support",
-                  "System integration",
-                  "Control panels",
-                  "Commissioning support",
-                ].map((name) => (
-                  <li key={name}>
-                    <Link href="/about#integration">
-                      {name}
-                      <ArrowRight size={16} />
-                    </Link>
-                  </li>
-                ))}
-              </ul>
-              <Button href="/about#integration">Our capabilities</Button>
-            </article>
+          <div className="section-heading">
+            <div>
+              <Eyebrow>OUR PRODUCT PORTFOLIO</Eyebrow>
+              <h2>Our offerings.</h2>
+            </div>
+            <div className="heading-aside">
+              <p>
+                Discover the right hardware for your process, with support from
+                selection through integration.
+              </p>
+              <Link href="/products" className="text-link">
+                Browse all products <ArrowUpRight size={18} />
+              </Link>
+            </div>
           </div>
-        </div>
-      </section>
-      <section className="section soft-section">
-        <div className="container">
-          <Eyebrow>SELECT · INTEGRATE · SUPPORT</Eyebrow>
-          <h2>Your 360° application support.</h2>
-          <div className="support-steps">
+          <div className="category-grid">
             {[
-              [
-                Settings2,
-                "Select",
-                "Match the product to the load, environment and application.",
-              ],
-              [
-                Network,
-                "Integrate",
-                "Connect controls, drives and instrumentation around your process.",
-              ],
-              [
-                Wrench,
-                "Support",
-                "Discuss implementation, commissioning and your existing setup.",
-              ],
-            ].map(([Icon, title, text]) => {
-              const I = Icon as typeof Cog;
-              return (
-                <article key={String(title)}>
-                  <I size={32} />
-                  <h3>{String(title)}</h3>
-                  <p>{String(text)}</p>
-                </article>
-              );
-            })}
+              categories[0],
+              categories[1],
+              categories[2],
+              categories[3],
+              categories[5],
+              categories[8],
+            ].map((c) => (
+              <CategoryCard
+                key={c.slug}
+                category={c}
+                index={categories.indexOf(c)}
+              />
+            ))}
+          </div>
+          <div className="more-ranges">
+            <span>Also in our portfolio</span>
+            {[categories[4], categories[6], categories[7]].map((c) => (
+              <Link href={"/products/" + c.slug} key={c.slug}>
+                {c.name}
+                <ArrowUpRight size={16} />
+              </Link>
+            ))}
           </div>
         </div>
       </section>
@@ -176,6 +135,32 @@ export default function Home() {
         </div>
       </section>
       <WhyVinayak />
+      <section className="section soft-section ceo-section">
+        <div className="container ceo-grid">
+          <Image
+            src="/media/abhijeet-madnurkar.png"
+            width={360}
+            height={420}
+            alt="Abhijeet Madnurkar, CEO of Vinayak Automation Products"
+            className="ceo-photo"
+          />
+          <div>
+            <Eyebrow>MEET THE CEO</Eyebrow>
+            <h2>Abhijeet Madnurkar</h2>
+            <p className="ceo-role">CEO - Vinayak Automation Products</p>
+            <p>
+              Abhijeet built VAP into a trusted industrial automation brand
+              serving OEMs and factories across South India. His industry
+              knowledge and longstanding relationships guide the company&apos;s
+              approach to product selection, application support and practical
+              automation solutions.
+            </p>
+            <Link href="/about" className="text-link">
+              Explore the Vinayak story <ArrowRight size={17} />
+            </Link>
+          </div>
+        </div>
+      </section>
       <section className="section requirement-section">
         <div className="container">
           <Eyebrow>INDUSTRIAL AUTOMATION SUPPORT FROM HYDERABAD</Eyebrow>
@@ -241,20 +226,10 @@ export default function Home() {
               );
             })}
           </ol>
-          <div className="new-system">
-            <strong>Planning a new system?</strong>
-            <p>
-              Describe the process, required inputs and outputs, and any
-              equipment already in use.
-            </p>
-          </div>
-          <Button href="/contact">Send your requirement</Button>
         </div>
       </section>
-      <PartnerWithUs />
-      <section className="section final-contact">
+      <section className="requirement-contact">
         <div className="container">
-          <Eyebrow>CONTACT VINAYAK</Eyebrow>
           <h2>Have a product or automation requirement?</h2>
           <p>
             Talk to our team about product selection, replacement or system

@@ -2152,3 +2152,173 @@ address {
 .vap-partnership .eyebrow {
   color: #e9c4b3;
 }
+/* Compact company grid and homepage refinements. */
+.client-grid {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 14px;
+  list-style: none;
+  padding: 0;
+  margin: 28px 0 0;
+}
+.client-grid a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px 10px;
+  gap: 10px;
+  background: white;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  height: 100%;
+}
+.client-grid img {
+  width: 140px;
+  max-width: 100%;
+  height: 65px;
+  object-fit: contain;
+}
+.client-grid span {
+  font-size: 12px;
+  text-align: center;
+}
+.phone-groups .phone-links a,
+.contact-details .phone-groups .phone-links a {
+  font-size: 14px;
+  line-height: 1.65;
+}
+.ceo-grid {
+  display: grid;
+  grid-template-columns: 280px 1fr;
+  align-items: center;
+  gap: 64px;
+  max-width: 1050px;
+}
+.ceo-photo {
+  width: 100%;
+  height: 340px;
+  object-fit: cover;
+  object-position: top;
+  border-radius: 10px;
+}
+.ceo-role {
+  color: #923b3d;
+  margin: 16px 0;
+  font-weight: 600;
+}
+.ceo-grid p:not(.ceo-role) {
+  line-height: 1.85;
+  margin-bottom: 24px;
+}
+.requirement-contact {
+  background: var(--accent);
+  color: white;
+  padding: 64px 0;
+}
+.requirement-contact h2 {
+  font-size: clamp(26px, 3vw, 40px);
+}
+.requirement-contact p {
+  margin: 16px 0 28px;
+  line-height: 1.7;
+  color: white;
+}
+.requirement-contact .button {
+  background: white;
+  color: var(--accent);
+  border-color: white;
+}
+.requirement-contact .button:hover {
+  background: var(--paper);
+  color: var(--accent-dark);
+}
+.requirement-contact .button:focus-visible {
+  outline: 3px solid white;
+  outline-offset: 5px;
+}
+@media (max-width: 900px) {
+  .client-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+  .ceo-grid {
+    gap: 32px;
+    grid-template-columns: 220px 1fr;
+  }
+}
+@media (max-width: 600px) {
+  .client-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .ceo-grid {
+    grid-template-columns: 1fr;
+  }
+  .ceo-photo {
+    max-width: 280px;
+  }
+}
+/* Deliberate full-width emphasis, separated by substantive page content. */
+.experience-band {
+  background: var(--accent);
+  color: white;
+}
+.experience-band .eyebrow,
+.experience-band .heading-aside {
+  color: white;
+}
+.experience-band .eyebrow > span {
+  background: white;
+}
+.experience-band .vap-highlights article {
+  border-color: rgba(255, 255, 255, 0.4);
+}
+.experience-band .vap-highlights svg {
+  color: white;
+}
+.enquiry-banner p:not(.eyebrow) {
+  color: white;
+  font-size: 16px;
+}
+.enquiry-banner .button {
+  background: white;
+  color: var(--accent);
+}
+.enquiry-banner .button:hover {
+  background: var(--paper);
+  color: var(--accent-dark);
+}
+.enquiry-banner .button:focus-visible {
+  outline: 3px solid white;
+  outline-offset: 5px;
+}
+.band-selection {
+  padding-left: 20px;
+  margin-top: 18px;
+  line-height: 1.8;
+}
+.enquiry-inner > div {
+  max-width: 850px;
+}
+@media (min-width: 1000px) {
+  .band-selection {
+    columns: 2;
+    column-gap: 40px;
+  }
+  .band-selection li {
+    break-inside: avoid;
+  }
+}
+.client-section {
+  background: var(--accent);
+  color: white;
+}
+.client-section .client-grid a {
+  color: var(--ink);
+  border-color: white;
+}
+.client-section .client-grid a:hover {
+  background: var(--paper);
+}
+.client-section .client-grid a:focus-visible {
+  outline: 3px solid white;
+  outline-offset: 4px;
+}

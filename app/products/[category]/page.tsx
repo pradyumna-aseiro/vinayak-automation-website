@@ -139,30 +139,16 @@ export default async function CategoryPage({
             </div>
           )}
         </section>
-        <section className="selection-panel">
-          <div>
-            <Eyebrow>GET THE RIGHT SELECTION</Eyebrow>
-            <h2>
-              Tell us about
-              <br />
-              your application.
-            </h2>
-          </div>
-          <div>
-            <p>
-              For a useful quotation, include the model and quantity if known,
-              plus:
-            </p>
-            <ul>
-              {c.selection.map((s) => (
-                <li key={s}>{s}</li>
-              ))}
-            </ul>
-            <Button href={quoteUrl(c.name)}>Request selection support</Button>
-          </div>
-        </section>
       </div>
-      <EnquiryBanner />
+      <EnquiryBanner
+        title={
+          "Find the right " + c.name.toLowerCase() + " for your application."
+        }
+        description="For a useful quotation, include the model and quantity if known, plus:"
+        points={c.selection}
+        product={c.name}
+        buttonLabel="Request selection support"
+      />
     </>
   );
 }

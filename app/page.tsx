@@ -20,12 +20,23 @@ import { ClientCarousel } from "@/components/client-carousel";
 import { WhyVinayak } from "@/components/company-story";
 import { metadata as seo } from "@/lib/seo";
 export const revalidate = 3600;
+// The layout's "%s | Vinayak Automation Products" template does not apply to a page
+// in the layout's own segment, so the homepage must carry the brand itself. Without
+// it, the one page people reach by searching the company name was the only page
+// whose title did not contain it.
+const homeTitle = "Vinayak Automation Products – Automation Supplier, Hyderabad";
 export function generateMetadata() {
-  return seo(
-    "Industrial automation products & system integration",
-    `Industrial automation products and application support backed by ${experienceYears()}+ years of experience. Explore drives, controls, instruments and motors from Vinayak.`,
+  const base = seo(
+    homeTitle,
+    `Industrial automation products and system integration in Hyderabad since 2007. Drives, PLCs, HMIs, encoders, sensors and conveyor safety switches from Vinayak (VAP).`,
     "/",
   );
+  return {
+    ...base,
+    title: { absolute: homeTitle },
+    openGraph: { ...base.openGraph, title: homeTitle },
+    twitter: { ...base.twitter, title: homeTitle },
+  };
 }
 export default function Home() {
   return (

@@ -48,7 +48,17 @@ const config = {
   poweredByHeader: false,
   images: { formats: ["image/avif", "image/webp"] },
   async redirects() {
-    return legacyRedirects.map((r) => ({ ...r, permanent: true }));
+    return [
+      // The bare domain served the whole site with a 200, giving search engines a
+      // second copy of every page. Send it to the canonical www host instead.
+      {
+        source: "/:path*",
+        has: [{ type: "host", value: "vinayakautomation.com" }],
+        destination: "https://www.vinayakautomation.com/:path*",
+        permanent: true,
+      },
+      ...legacyRedirects.map((r) => ({ ...r, permanent: true })),
+    ];
   },
   async headers() {
     return [

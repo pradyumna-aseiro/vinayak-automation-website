@@ -1,5 +1,6 @@
 import { CompanyTimeline, WhyVinayak } from "@/components/company-story";
 import Image from "next/image";
+import { ArrowUpRight } from "lucide-react";
 import { Breadcrumbs, Button, EnquiryBanner, Eyebrow } from "@/components/ui";
 import { metadata as seo } from "@/lib/seo";
 export const revalidate = 3600;
@@ -119,6 +120,49 @@ export default function About() {
             <Button href="/contact?product=System%20integration">
               Discuss an integration project
             </Button>
+          </div>
+        </div>
+      </section>
+      <section className="section" id="sister-company">
+        <div className="container editorial-grid">
+          <div>
+            <Eyebrow>SISTER COMPANY</Eyebrow>
+            <h2>Aseiro Industries.</h2>
+          </div>
+          <div className="sister-company">
+            <a
+              href="https://www.aseiro.com/"
+              target="_blank"
+              rel="noopener"
+              aria-label="Aseiro Industries website (opens in a new tab)"
+            >
+              <Image
+                src="/media/clients/aseiro.png"
+                width={200}
+                height={80}
+                alt="Aseiro Industries logo"
+              />
+            </a>
+            <p>
+              For machine vision inspection, robotics, factory safety systems
+              and turnkey process automation, work with our sister company{" "}
+              <a href="https://www.aseiro.com/" target="_blank" rel="noopener">
+                Aseiro Industries
+              </a>
+              . Aseiro builds on Vinayak&apos;s product and integration
+              experience, adding vision systems and robotics from Hyderabad and
+              Sheffield.
+            </p>
+            <p>
+              <a
+                href="https://www.aseiro.com/solutions/machine-vision"
+                target="_blank"
+                rel="noopener"
+                className="sister-link"
+              >
+                Machine vision systems <ArrowUpRight size={13} />
+              </a>
+            </p>
           </div>
         </div>
       </section>

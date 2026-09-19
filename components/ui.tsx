@@ -210,6 +210,29 @@ export function Footer() {
             <span className="location-tag">
               <span /> Hyderabad, India
             </span>
+            <a
+              href="https://www.aseiro.com/"
+              target="_blank"
+              rel="noopener"
+              className="footer-sister"
+            >
+              <span>Sister company</span>
+              <Image
+                src="/media/clients/aseiro.png"
+                width={100}
+                height={40}
+                alt="Aseiro Industries"
+              />
+              <span>Machine vision &amp; automation</span>
+            </a>
+            <a
+              href="https://www.linkedin.com/company/vinayak-automation-products/"
+              target="_blank"
+              rel="noopener"
+              className="footer-social"
+            >
+              Vinayak on LinkedIn <ArrowUpRight size={13} />
+            </a>
           </div>
           <div>
             <h3>Explore</h3>

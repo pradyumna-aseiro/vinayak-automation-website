@@ -647,6 +647,47 @@ textarea:focus-visible,
   background: #597258;
   border-radius: 50%;
 }
+.footer-sister {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 12px;
+  align-items: center;
+  margin-top: 22px;
+  font-size: 11px;
+  color: var(--muted);
+}
+.footer-sister > span:first-child {
+  flex-basis: 100%;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+.footer-sister img {
+  height: 32px;
+  width: auto;
+}
+.footer-social {
+  display: inline-flex;
+  gap: 6px;
+  align-items: center;
+  margin-top: 14px;
+  font-size: 12px;
+  color: var(--muted);
+}
+.sister-company img {
+  height: 64px;
+  width: auto;
+  margin-bottom: 18px;
+}
+.sister-company p a {
+  color: var(--accent);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.sister-company .sister-link {
+  display: inline-flex;
+  gap: 6px;
+  align-items: center;
+}
 .footer-grid h3 {
   font-family: var(--font-body);
   font-size: 12px;

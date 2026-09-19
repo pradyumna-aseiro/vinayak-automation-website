@@ -39,6 +39,22 @@ export default function RootLayout({
         <Header />
         <main id="main">{children}</main>
         <Footer />
+        {/* WebSite entity: Google uses it for the site name shown above results. */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: jsonLd({
+              "@context": "https://schema.org",
+              "@type": "WebSite",
+              "@id": site.url + "/#website",
+              name: site.name,
+              alternateName: ["VAP", "Vinayak Automation"],
+              url: site.url + "/",
+              inLanguage: "en",
+              publisher: { "@id": site.url + "/#business" },
+            }),
+          }}
+        />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -47,6 +63,10 @@ export default function RootLayout({
               "@type": "LocalBusiness",
               "@id": site.url + "/#business",
               name: site.name,
+              alternateName: ["VAP", "Vinayak Automation"],
+              sameAs: [
+                "https://www.linkedin.com/company/vinayak-automation-products/",
+              ],
               url: site.url,
               logo: site.url + "/media/vap-lockup.png",
               foundingDate: "2007",

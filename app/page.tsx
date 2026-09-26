@@ -1,4 +1,4 @@
-import { categories } from "@/lib/catalogue";
+import { categories, site } from "@/lib/catalogue";
 import { experienceYears } from "@/lib/experience";
 import Image from "next/image";
 import Link from "next/link";
@@ -17,6 +17,8 @@ import {
 } from "lucide-react";
 import { Button, CategoryCard } from "@/components/ui";
 import { ClientGrid } from "@/components/client-grid";
+import { CareersForm } from "@/components/careers-form";
+import { telHref } from "@/components/phone-numbers";
 import { WhyVinayak } from "@/components/company-story";
 import { metadata as seo } from "@/lib/seo";
 export const revalidate = 3600;
@@ -24,7 +26,8 @@ export const revalidate = 3600;
 // in the layout's own segment, so the homepage must carry the brand itself. Without
 // it, the one page people reach by searching the company name was the only page
 // whose title did not contain it.
-const homeTitle = "Vinayak Automation Products – Automation Supplier, Hyderabad";
+const homeTitle =
+  "Vinayak Automation Products – Automation Supplier, Hyderabad";
 export function generateMetadata() {
   const base = seo(
     homeTitle,
@@ -229,6 +232,69 @@ export default function Home() {
               );
             })}
           </ol>
+        </div>
+      </section>
+      <section
+        className="section careers-section"
+        id="careers"
+        aria-labelledby="careers-title"
+      >
+        <div className="container careers-grid">
+          <div className="careers-copy">
+            <h2 id="careers-title">
+              We&apos;re hiring engineers in Hyderabad.
+            </h2>
+            <p>
+              Vinayak Automation Products is looking for engineers, both
+              freshers and experienced, to work with our team in Secunderabad,
+              Hyderabad on automation products, application support and system
+              integration.
+            </p>
+            <h3>Disciplines</h3>
+            <ul className="careers-disciplines">
+              {[
+                "Mechanical",
+                "Electrical",
+                "Automation & PLC",
+                "Robotics",
+                "Instrumentation",
+                "Sales & application engineering",
+                "Other engineering disciplines",
+              ].map((d) => (
+                <li key={d}>{d}</li>
+              ))}
+            </ul>
+            <h3>Apply directly</h3>
+            <p>
+              Fill in the form, or email your CV to{" "}
+              <a href={"mailto:" + site.email}>{site.email}</a>. You can also
+              call us.
+            </p>
+            <div className="phone-groups">
+              {site.phones
+                .filter((g) => g.label === "Landlines" || g.label === "Sales")
+                .map((group) => (
+                  <div key={group.label}>
+                    <span className="small-label">{group.label}</span>
+                    <div className="phone-links">
+                      {group.numbers.map((number) => (
+                        <a key={number} href={telHref(number)}>
+                          {number}
+                        </a>
+                      ))}
+                    </div>
+                  </div>
+                ))}
+            </div>
+          </div>
+          <div className="form-panel">
+            <h3 className="form-panel-title">Apply online</h3>
+            <p>
+              Fields marked optional can be left blank. Add a LinkedIn profile
+              or a link to your CV if you have one.
+            </p>
+            <CareersForm />
+          </div>
         </div>
       </section>
       <section className="requirement-contact">

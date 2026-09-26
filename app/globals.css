@@ -2138,3 +2138,110 @@ address {
   outline: 3px solid white;
   outline-offset: 4px;
 }
+/* Careers: homepage section with the application form. Paper, set off from the
+   requirement section above by a hairline; the red contact band follows. */
+.careers-section {
+  border-top: 1px solid var(--line);
+}
+.careers-grid {
+  display: grid;
+  grid-template-columns: 0.85fr 1.3fr;
+  gap: 90px;
+  align-items: start;
+}
+.careers-copy > p {
+  max-width: 60ch;
+  margin-top: 20px;
+  line-height: 1.8;
+}
+.careers-copy h3 {
+  font-size: 23px;
+  margin: 40px 0 14px;
+}
+.careers-copy p a {
+  color: var(--ink);
+  font-weight: 550;
+  text-decoration: underline;
+  text-decoration-color: var(--grey-300);
+  text-underline-offset: 4px;
+  overflow-wrap: anywhere;
+}
+.careers-copy p a:hover {
+  color: var(--accent);
+  text-decoration-color: currentColor;
+}
+.careers-disciplines {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  max-width: 440px;
+  border-top: 1px solid var(--line);
+}
+.careers-disciplines li {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  min-height: 44px;
+  border-bottom: 1px solid var(--line);
+  color: var(--ink);
+  font-size: 16px;
+}
+.careers-disciplines li:before {
+  content: "";
+  width: 7px;
+  height: 7px;
+  background: var(--accent);
+  flex: none;
+}
+.careers-copy .phone-groups {
+  grid-template-columns: 1fr 1fr;
+  margin-top: 20px;
+}
+.careers-copy .phone-links a:hover {
+  color: var(--accent);
+}
+.form-panel .form-panel-title {
+  font-size: 23px;
+  margin-bottom: 13px;
+}
+.form-field select {
+  width: 100%;
+  appearance: none;
+  border: 1px solid var(--grey-300);
+  padding: 12px 44px 12px 14px;
+  background: var(--paper);
+  border-radius: 0;
+  font: inherit;
+  font-size: 16px;
+  color: var(--ink);
+  min-height: 48px;
+  cursor: pointer;
+}
+.form-field select:focus {
+  border-color: var(--accent);
+}
+.form-field input::placeholder,
+.form-field textarea::placeholder {
+  color: var(--muted);
+}
+.select-wrap {
+  position: relative;
+}
+.select-wrap svg {
+  position: absolute;
+  right: 14px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--muted);
+  pointer-events: none;
+}
+@media (max-width: 1100px) {
+  .careers-grid {
+    gap: 45px;
+  }
+}
+@media (max-width: 900px) {
+  .careers-grid {
+    grid-template-columns: 1fr;
+  }
+}

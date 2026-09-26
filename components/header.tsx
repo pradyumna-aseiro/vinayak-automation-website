@@ -62,6 +62,7 @@ export function Header() {
             ["/", "Home"],
             ["/about", "About us"],
             ["/products", "Products"],
+            ["/#careers", "Careers"],
             ["/contact", "Contact"],
           ].map(([href, label]) => (
             <Link
@@ -72,8 +73,9 @@ export function Header() {
                   ? "page"
                   : undefined
               }
-              scroll={false}
-              onNavigate={navigate}
+              // An in-page anchor must keep the browser's scroll to its target.
+              scroll={href.includes("#") ? undefined : false}
+              onNavigate={href.includes("#") ? () => setOpen(false) : navigate}
             >
               {label}
             </Link>

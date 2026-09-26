@@ -18,7 +18,7 @@ Browser scripts use an installed Google Chrome. Lighthouse uses the standard Win
 
 ## Content and assets
 
-`data/catalogue.json` contains ten categories and 155 product/family listings. An empty `image` shows a "Photo on request" field; an optional `brand` overrides the category brand and `models` feeds the part finder. Public manufacturer sources for listings added in September 2026 are in `docs/catalogue-sources.json`. Edit it to maintain product names, copy, specifications and images. `lib/catalogue.ts` contains company contact details. Shared layouts and components provide consistent typography, navigation and quotation links.
+`data/catalogue.json` contains ten categories and 176 product/family listings. An empty `image` shows a "Photo on request" field; an optional `brand` overrides the category brand and `models` feeds the part finder. Public manufacturer sources for listings added in September 2026 are in `docs/catalogue-sources.json`. Edit it to maintain product names, copy, specifications and images. `lib/catalogue.ts` contains company contact details. Shared layouts and components provide consistent typography, navigation and quotation links.
 
 The baseline was repository commit `07f918d943442707744c44539544e5ef2ba4e608`. Active product content was extracted; commented-out products, mirrored error pages, duplicate templates and unsupported company statistics were not republished. The established year is explicitly 2007. Product image files retain their legacy public paths where used. See `docs/catalogue-inventory.json`, `docs/legacy-file-inventory.txt`, `docs/legacy-redirects.json` and `docs/asset-sources.md`.
 

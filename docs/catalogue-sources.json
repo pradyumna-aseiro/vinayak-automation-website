@@ -926,6 +926,279 @@
           "page": "pdf p.18 (versions P, F, PR, R), p.19 (designation, sizes 16-90, mounting positions), pp.55-69 (speed reducer rating charts, 50 to 6800 Nm)"
         }
       ]
+    },
+    {
+      "route": "/products/process-control-instruments/sapcon-vital-t-tuning-fork-level-switch-for-solids",
+      "name": "Vital-T: Tuning Fork Level Switch for Solids",
+      "manufacturer": "Sapcon Instruments",
+      "whyListed": "listed on VAP's instruction: VAP sells Sapcon instruments",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "Vital-T: Tuning Fork Level Sensor for Solids product page (Item Code VT)",
+          "url": "https://www.sapconinstruments.com/products/vital-t-tuning-fork-level-sensor"
+        }
+      ]
+    },
+    {
+      "route": "/products/process-control-instruments/sapcon-vibe-compact-point-level-switch",
+      "name": "VIBE: Compact Point Level Switch",
+      "manufacturer": "Sapcon Instruments",
+      "whyListed": "listed on VAP's instruction: VAP sells Sapcon instruments",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "VIBE: Compact  Point Level Switch product page (Item Code VIBE)",
+          "url": "https://www.sapconinstruments.com/products/vibe-compact-point-level-switch"
+        }
+      ]
+    },
+    {
+      "route": "/products/process-control-instruments/sapcon-casper-capacitive-level-switch",
+      "name": "Casper: Capacitive Level Switch",
+      "manufacturer": "Sapcon Instruments",
+      "whyListed": "listed on VAP's instruction: VAP sells Sapcon instruments",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "Casper: Capacitive Level Sensor product page (Item Code CPR)",
+          "url": "https://www.sapconinstruments.com/products/casper-capacitive-level-sensor"
+        }
+      ]
+    },
+    {
+      "route": "/products/process-control-instruments/sapcon-slc-series-capacitive-level-switch-for-bulk-solids",
+      "name": "SLC Series: Capacitive Level Switch for Bulk Solids",
+      "manufacturer": "Sapcon Instruments",
+      "whyListed": "listed on VAP's instruction: VAP sells Sapcon instruments",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "SLC Series- Capacitive Level Sensor/Switch for Bulky Solids product page (Item Code SLC_S)",
+          "url": "https://www.sapconinstruments.com/products/slc-series-capacitive-level-sensor"
+        }
+      ]
+    },
+    {
+      "route": "/products/process-control-instruments/sapcon-slc-t-capacitive-liquid-level-switch",
+      "name": "SLC_T: Capacitive Liquid Level Switch",
+      "manufacturer": "Sapcon Instruments",
+      "whyListed": "listed on VAP's instruction: VAP sells Sapcon instruments",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "SLC_T- Capacitive Liquid Level Sensor product page (Item Code SLC_T)",
+          "url": "https://www.sapconinstruments.com/products/slc-tri-point-capacitive-type-level-sensor"
+        }
+      ]
+    },
+    {
+      "route": "/products/process-control-instruments/sapcon-sla-rf-admittance-level-switch-with-build-up-immunity",
+      "name": "SLA: RF Admittance Level Switch with Build-up Immunity",
+      "manufacturer": "Sapcon Instruments",
+      "whyListed": "listed on VAP's instruction: VAP sells Sapcon instruments",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "SLA: RF Admittance Type Level Sensor with Buildup immunity product page (Item Code SLA_D)",
+          "url": "https://www.sapconinstruments.com/products/sla-dot-display-rf-admittance-level-sensor"
+        }
+      ]
+    },
+    {
+      "route": "/products/process-control-instruments/sapcon-sla-b-rf-admittance-level-switch-for-high-temperature-solids",
+      "name": "SLA_B: RF Admittance Level Switch for High-Temperature Solids",
+      "manufacturer": "Sapcon Instruments",
+      "whyListed": "listed on VAP's instruction: VAP sells Sapcon instruments",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "SLA_B: RF Admittance Type Level Sensor for High Temperature Solids product page (Item Code SLA_B)",
+          "url": "https://www.sapconinstruments.com/products/sla-bar-display-rf-admittance-type-level-switch"
+        }
+      ]
+    },
+    {
+      "route": "/products/process-control-instruments/sapcon-sla-s-rf-admittance-level-switch",
+      "name": "SLA_S: RF Admittance Level Switch",
+      "manufacturer": "Sapcon Instruments",
+      "whyListed": "listed on VAP's instruction: VAP sells Sapcon instruments",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "SLA_S: RF Admittance Type Level Sensor product page (Item Code SLA_S)",
+          "url": "https://www.sapconinstruments.com/products/sla-series-rf-admittance-type-level-sensor"
+        }
+      ]
+    },
+    {
+      "route": "/products/process-control-instruments/sapcon-sla-t-rf-admittance-level-switch-for-sticky-media",
+      "name": "SLA_T: RF Admittance Level Switch for Sticky Media",
+      "manufacturer": "Sapcon Instruments",
+      "whyListed": "listed on VAP's instruction: VAP sells Sapcon instruments",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "SLA_T-RF Admittance Level Sensor for Sticky media product page (Item Code SLA_T)",
+          "url": "https://www.sapconinstruments.com/products/sla-tri-point/admittance-level-switch"
+        }
+      ]
+    },
+    {
+      "route": "/products/process-control-instruments/sapcon-slw-conductive-liquid-level-switch",
+      "name": "SLW: Conductive Liquid Level Switch",
+      "manufacturer": "Sapcon Instruments",
+      "whyListed": "listed on VAP's instruction: VAP sells Sapcon instruments",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "SLW:Conductive Liquid Level Sensor/Switch product page (Item Code SLW)",
+          "url": "https://www.sapconinstruments.com/products/slw-conductive-level-sensor"
+        }
+      ]
+    },
+    {
+      "route": "/products/process-control-instruments/sapcon-orbit-rotating-paddle-level-switch-for-solids",
+      "name": "Orbit: Rotating Paddle Level Switch for Solids",
+      "manufacturer": "Sapcon Instruments",
+      "whyListed": "listed on VAP's instruction: VAP sells Sapcon instruments",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "Orbit: Rotating Paddle Level Sensor for Solids product page (Item Code RP)",
+          "url": "https://www.sapconinstruments.com/products/orbit-rotating-paddle-level-sensor"
+        }
+      ]
+    },
+    {
+      "route": "/products/process-control-instruments/sapcon-orbit-lite-rotary-paddle-level-switch-for-solids",
+      "name": "Orbit-Lite: Rotary Paddle Level Switch for Solids",
+      "manufacturer": "Sapcon Instruments",
+      "whyListed": "listed on VAP's instruction: VAP sells Sapcon instruments",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "Orbit-Lite: Rotary Paddle Level Switch for Solids product page (Item Code RPL)",
+          "url": "https://www.sapconinstruments.com/products/Orbit-Lite-Rotating-Paddle-Level-Sensor-for-solids"
+        }
+      ]
+    },
+    {
+      "route": "/products/process-control-instruments/sapcon-capvel-ict-capacitance-level-transmitter",
+      "name": "CAPVEL_ICT: Capacitance Level Transmitter for Liquids and Slurries",
+      "manufacturer": "Sapcon Instruments",
+      "whyListed": "listed on VAP's instruction: VAP sells Sapcon instruments",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "CAPVEL_ICT - Capacitance Level Transmitter for Liquids & Slurries product page (Item Code CAPVEL_ICT)",
+          "url": "https://www.sapconinstruments.com/products/capvel-ict-capacitance-level-transmitter"
+        }
+      ]
+    },
+    {
+      "route": "/products/process-control-instruments/sapcon-capvel-lp-loop-powered-capacitance-level-transmitter",
+      "name": "CAPVEL_LP: Loop-Powered Capacitance Level Transmitter",
+      "manufacturer": "Sapcon Instruments",
+      "whyListed": "listed on VAP's instruction: VAP sells Sapcon instruments",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "CAPVEL_LP-Capacitance Level Transmitter product page (Item Code CAPVEL_LP)",
+          "url": "https://www.sapconinstruments.com/products/capvel_lp-capacitance-type-level-transmitter"
+        }
+      ]
+    },
+    {
+      "route": "/products/process-control-instruments/sapcon-mpilc-liquid-level-controller-and-transmitter",
+      "name": "MPILC: Liquid Level Controller and Transmitter",
+      "manufacturer": "Sapcon Instruments",
+      "whyListed": "listed on VAP's instruction: VAP sells Sapcon instruments",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "MPILC: Liquid Level Controller and Transmitter product page (Item Code MPILC)",
+          "url": "https://www.sapconinstruments.com/products/mpilc-liquid-level-controller"
+        }
+      ]
+    },
+    {
+      "route": "/products/process-control-instruments/sapcon-stellar-hydraulic-pressure-level-transmitter",
+      "name": "Stellar: Hydraulic Pressure Level Transmitter",
+      "manufacturer": "Sapcon Instruments",
+      "whyListed": "listed on VAP's instruction: VAP sells Sapcon instruments",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "Stellar: Hydraulic Pressure based Level Transmitter product page (Item Code STLR)",
+          "url": "https://www.sapconinstruments.com/products/stellar-hydraulic-pressure-transmitter"
+        }
+      ]
+    },
+    {
+      "route": "/products/process-control-instruments/sapcon-elefant-level-transmitter-for-de-oiled-toaster",
+      "name": "Elefant: Level Transmitter for De-oiled Toaster Application",
+      "manufacturer": "Sapcon Instruments",
+      "whyListed": "listed on VAP's instruction: VAP sells Sapcon instruments",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "Elefant: Level Transmitter for Deoiled-Toaster Application product page (Item Code DT)",
+          "url": "https://www.sapconinstruments.com/products/elefant-level-transmitter-for-solvent-extraction"
+        }
+      ]
+    },
+    {
+      "route": "/products/process-control-instruments/sapcon-float-and-board-type-level-indicator",
+      "name": "Float & Board Type Level Indicator",
+      "manufacturer": "Sapcon Instruments",
+      "whyListed": "listed on VAP's instruction: VAP sells Sapcon instruments",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "Float & Board Type Level Indicator product page (Item Code MECH_FAB)",
+          "url": "https://www.sapconinstruments.com/products/float-and-board-type-level-indicator"
+        }
+      ]
+    },
+    {
+      "route": "/products/process-control-instruments/sapcon-mploh-loss-of-head-differential-level-transmitter",
+      "name": "MPLOH: Loss-of-Head Differential Level Transmitter",
+      "manufacturer": "Sapcon Instruments",
+      "whyListed": "listed on VAP's instruction: VAP sells Sapcon instruments",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "MPLOH: Differential Level Transmitter for Water Treatment Plants product page (Item Code MPLOH)",
+          "url": "https://www.sapconinstruments.com/products/mploh-differential-level-transmitter"
+        }
+      ]
+    },
+    {
+      "route": "/products/process-control-instruments/sapcon-mprof-open-channel-rate-of-flow-measurement",
+      "name": "MPROF: Open Channel Rate of Flow Measurement",
+      "manufacturer": "Sapcon Instruments",
+      "whyListed": "listed on VAP's instruction: VAP sells Sapcon instruments",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "MPROF: Open Channel Rate of Flow Measurement for Water Treatment Plants product page (Item Code MPROF)",
+          "url": "https://www.sapconinstruments.com/products/mprof-flow-rate-measurement"
+        }
+      ]
+    },
+    {
+      "route": "/products/process-control-instruments/sapcon-smart-ssi-bucket-elevator-speed-monitor",
+      "name": "Smart SSI: Speed Monitor for Bucket Elevators",
+      "manufacturer": "Sapcon Instruments",
+      "whyListed": "listed on VAP's instruction: VAP sells Sapcon instruments",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "Smart SSI: Speed Monitoring and Control for Bucket Elevators in Cement and Steel Industries product page (Item Code SSSI)",
+          "url": "https://www.sapconinstruments.com/products/sssi-speed-monitoring-system"
+        }
+      ]
     }
   ]
 }

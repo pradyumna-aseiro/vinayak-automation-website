@@ -2647,7 +2647,7 @@
     "slug": "process-control-instruments",
     "name": "Process control instruments",
     "headline": "Know when your process changes.",
-    "description": "Sapcon level switches and instruments for liquids, powders and bulk solids.",
+    "description": "Sapcon level switches, level transmitters and indicators for liquids, powders and bulk solids, plus open-channel flow and bucket-elevator speed monitoring.",
     "brand": "Sapcon",
     "image": "/media/products/vital-vibrating-fork-level-sensor-switch-for-solids.webp",
     "selection": [
@@ -2659,7 +2659,7 @@
       {
         "slug": "vital-vibrating-fork-level-sensor-switch-for-solids",
         "name": "VITAL- Vibrating Fork Level Sensor/Switch for Solids",
-        "group": "",
+        "group": "Point level switches",
         "image": "/media/products/vital-vibrating-fork-level-sensor-switch-for-solids.webp",
         "blocks": [
           {
@@ -2691,13 +2691,14 @@
             "text": "Certifications: Flame Proof Housing IIC, IP-68 Housing"
           }
         ],
+        "models": ["VITAL"],
         "legacyIds": [],
         "source": "process-control-instruments.html"
       },
       {
         "slug": "elixir-tuning-fork-level-sensor-switch-for-liquids",
         "name": "ELIXIR- Tuning Fork Level Sensor/Switch for Liquids",
-        "group": "",
+        "group": "Point level switches",
         "image": "/media/products/elixir-tuning-fork-level-sensor-switch-for-liquids.webp",
         "blocks": [
           {
@@ -2733,13 +2734,14 @@
             "text": "Certifications: Flame Proof Housing IIC, PESO, BIS, CCOE, EIL"
           }
         ],
+        "models": ["ELIXIR"],
         "legacyIds": [],
         "source": "process-control-instruments.html"
       },
       {
         "slug": "elixir-t-uni-vibrating-fork-type-level-sensor-for-liquids-in-hygienic-applications",
         "name": "Elixir-T-Uni: Vibrating Fork Type Level Sensor for Liquids in Hygienic Applications",
-        "group": "",
+        "group": "Point level switches",
         "image": "/media/products/elixir-t-uni-vibrating-fork-type-level-sensor-for-liquids-in-hygienic-applications.webp",
         "blocks": [
           {
@@ -2771,13 +2773,14 @@
             "text": "Compact probe length 68 mm, 126 mm & up to 1000 mm"
           }
         ],
+        "models": ["Elixir-T-Uni", "ETU"],
         "legacyIds": [],
         "source": "process-control-instruments.html"
       },
       {
         "slug": "coat-endure-rf-admittance-level-switch-sensor-for-stick-solids-and-liquids",
         "name": "Coat-Endure: RF-Admittance Level Switch/Sensor for Sticky Solids and Liquids",
-        "group": "",
+        "group": "Point level switches",
         "image": "/media/products/coat-endure-rf-admittance-level-switch-sensor-for-stick-solids-and-liquids.webp",
         "blocks": [
           {
@@ -2811,15 +2814,543 @@
           {
             "type": "feature",
             "text": "Certifications : Flame Proof IIC & IP68 Housing"
+          },
+          {
+            "type": "feature",
+            "text": "Also available with a seven-segment digital display and DPDT relay output (Sapcon CE_D)"
           }
         ],
+        "models": ["Coat-Endure", "CE", "CE_D"],
         "legacyIds": [],
         "source": "process-control-instruments.html"
       },
       {
+        "slug": "vibrosonde-vibrating-rod-type-level-sensor-switch-for-solids",
+        "name": "Vibrosonde: Vibrating Rod Type Level Sensor/Switch for Solids",
+        "group": "Point level switches",
+        "image": "/media/products/vibrosonde-vibrating-rod-type-level-sensor-switch-for-solids.webp",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Vibrating Rod Level Limit Switch (use in powders, sand, sugar, Pulverized coal, Food grains, Cement, Granular material)"
+          },
+          {
+            "type": "feature",
+            "text": "Application Temperature Range : up to 200° C"
+          },
+          {
+            "type": "feature",
+            "text": "Calibration Free, independent of material's Di-electric Properties"
+          },
+          {
+            "type": "feature",
+            "text": "Wetted parts: SS 316"
+          },
+          {
+            "type": "feature",
+            "text": "Probe Length: 255 mm to 3000 mm"
+          },
+          {
+            "type": "feature",
+            "text": "Outputs: DPDT Relay, Open Collector"
+          },
+          {
+            "type": "feature",
+            "text": "Certifications: Flame Proof IIC, IP68 Housing"
+          }
+        ],
+        "models": ["Vibrosonde", "VS"],
+        "legacyIds": [],
+        "source": "process-control-instruments.html"
+      },
+      {
+        "slug": "sapcon-vital-t-tuning-fork-level-switch-for-solids",
+        "name": "Vital-T: Tuning Fork Level Switch for Solids",
+        "group": "Point level switches",
+        "image": "/media/products/sapcon-vital-t-tuning-fork-level-switch-for-solids.webp",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Compact tuning fork point level switch for solids in process silos and hoppers, used to prevent overfilling."
+          },
+          {
+            "type": "feature",
+            "text": "Power supply: 18-30 V DC"
+          },
+          {
+            "type": "feature",
+            "text": "Output: open collector PNP, with LED indication"
+          },
+          {
+            "type": "feature",
+            "text": "Application temperature range: up to 150° C"
+          },
+          {
+            "type": "feature",
+            "text": "Enclosure: IP68 weatherproof"
+          },
+          {
+            "type": "feature",
+            "text": "Process connections: threads and Tri-Clamp"
+          },
+          {
+            "type": "feature",
+            "text": "Wetted parts: SS 316"
+          },
+          {
+            "type": "feature",
+            "text": "Compact probe length: 126 mm"
+          }
+        ],
+        "models": ["Vital-T", "VT"],
+        "legacyIds": [],
+        "source": "https://www.sapconinstruments.com/products/vital-t-tuning-fork-level-sensor"
+      },
+      {
+        "slug": "sapcon-vibe-compact-point-level-switch",
+        "name": "VIBE: Compact Point Level Switch",
+        "group": "Point level switches",
+        "image": "/media/products/sapcon-vibe-compact-point-level-switch.webp",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Microcontroller-based capacitive point level switch for free-flowing powders, solids and granules, immune to build-up of lightweight material. Its compact body fits small hoppers, pipelines and mixing vessels."
+          },
+          {
+            "type": "feature",
+            "text": "Power supply: 18-30 V DC"
+          },
+          {
+            "type": "feature",
+            "text": "Application temperature range: 0 to 100° C"
+          },
+          {
+            "type": "feature",
+            "text": "Output: PNP open collector"
+          },
+          {
+            "type": "feature",
+            "text": "Switching: single-point"
+          },
+          {
+            "type": "feature",
+            "text": "Electrical connection: M12, 4-pin"
+          },
+          {
+            "type": "feature",
+            "text": "Fail-safe operation available"
+          },
+          {
+            "type": "feature",
+            "text": "Multi-colour LED switch indicator"
+          }
+        ],
+        "models": ["VIBE"],
+        "legacyIds": [],
+        "source": "https://www.sapconinstruments.com/products/vibe-compact-point-level-switch"
+      },
+      {
+        "slug": "sapcon-casper-capacitive-level-switch",
+        "name": "Casper: Capacitive Level Switch",
+        "group": "Point level switches",
+        "image": "/media/products/sapcon-casper-capacitive-level-switch.webp",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Compact RF capacitance point level switch for powders, bulk solids, liquids and slurries, for both conductive and non-conductive media."
+          },
+          {
+            "type": "feature",
+            "text": "Namur output, intrinsically safe (Ex-ia certified) version available"
+          },
+          {
+            "type": "feature",
+            "text": "Universal power supply: 18-55 V DC and 90-265 V AC"
+          },
+          {
+            "type": "feature",
+            "text": "Application temperature range: up to 250° C"
+          },
+          {
+            "type": "feature",
+            "text": "Outputs: DPDT relay, open collector PNP, two independent SPDT relays, DPDT relay with pump control logic"
+          },
+          {
+            "type": "feature",
+            "text": "Process connections: threads, flanges and Tri-Clamp"
+          },
+          {
+            "type": "feature",
+            "text": "Probe length: 100 mm to 3000 mm"
+          },
+          {
+            "type": "feature",
+            "text": "Certifications: Flame Proof IIC and IP68 housing"
+          }
+        ],
+        "models": ["Casper", "CPR"],
+        "legacyIds": [],
+        "source": "https://www.sapconinstruments.com/products/casper-capacitive-level-sensor"
+      },
+      {
+        "slug": "sapcon-slc-series-capacitive-level-switch-for-bulk-solids",
+        "name": "SLC Series: Capacitive Level Switch for Bulk Solids",
+        "group": "Point level switches",
+        "image": "/media/products/sapcon-slc-series-capacitive-level-switch-for-bulk-solids.webp",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Capacitance type point level switch for bulk solids, supplied as a split model with remote electronics."
+          },
+          {
+            "type": "feature",
+            "text": "Universal power supply: 18-55 V DC and 90-265 V AC"
+          },
+          {
+            "type": "feature",
+            "text": "Application temperature range: up to 350° C"
+          },
+          {
+            "type": "feature",
+            "text": "Outputs: 1 or 2 SPDT relays, pump control logic"
+          },
+          {
+            "type": "feature",
+            "text": "Process connections: screwed and flanged"
+          },
+          {
+            "type": "feature",
+            "text": "Probe length: 100 mm to 20 m"
+          },
+          {
+            "type": "feature",
+            "text": "Certifications: Flame Proof IIA and IIB housing"
+          }
+        ],
+        "models": ["SLC", "SLC_S"],
+        "legacyIds": [],
+        "source": "https://www.sapconinstruments.com/products/slc-series-capacitive-level-sensor"
+      },
+      {
+        "slug": "sapcon-slc-t-capacitive-liquid-level-switch",
+        "name": "SLC_T: Capacitive Liquid Level Switch",
+        "group": "Point level switches",
+        "image": "/media/products/sapcon-slc-t-capacitive-liquid-level-switch.webp",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Capacitance type point level switch for liquids from Sapcon's SLC series, supplied as a split model."
+          },
+          {
+            "type": "feature",
+            "text": "Power supply: 90-265 V AC and 24 V DC"
+          },
+          {
+            "type": "feature",
+            "text": "Application temperature range: up to 350° C"
+          },
+          {
+            "type": "feature",
+            "text": "Outputs: 1 or 2 SPDT relays, pump control logic"
+          },
+          {
+            "type": "feature",
+            "text": "Process connections: screwed thread and flanges"
+          },
+          {
+            "type": "feature",
+            "text": "Probe length: 100 mm to 20 m"
+          },
+          {
+            "type": "feature",
+            "text": "Certifications: Flame Proof IIA and IIB, IP66 housing"
+          }
+        ],
+        "models": ["SLC_T", "SLC Tri-Point"],
+        "legacyIds": [],
+        "source": "https://www.sapconinstruments.com/products/slc-tri-point-capacitive-type-level-sensor"
+      },
+      {
+        "slug": "sapcon-sla-rf-admittance-level-switch-with-build-up-immunity",
+        "name": "SLA: RF Admittance Level Switch with Build-up Immunity",
+        "group": "Point level switches",
+        "image": "/media/products/sapcon-sla-rf-admittance-level-switch-with-build-up-immunity.webp",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "RF admittance point level switch for low-dielectric media such as cement, fly ash, clinker and ESP hoppers, in rod or rope versions."
+          },
+          {
+            "type": "feature",
+            "text": "Universal power supply: 18-55 V DC and 90-265 V AC"
+          },
+          {
+            "type": "feature",
+            "text": "Application temperature range: up to 1000° C"
+          },
+          {
+            "type": "feature",
+            "text": "Output: 1 or 2 SPDT relays"
+          },
+          {
+            "type": "feature",
+            "text": "Process connections: threads and flanges"
+          },
+          {
+            "type": "feature",
+            "text": "Integral and remote models; electronics can be mounted up to 15 m away"
+          },
+          {
+            "type": "feature",
+            "text": "Certifications: Flame Proof IIA, IIB and IP65 housing"
+          }
+        ],
+        "models": ["SLA", "SLA_D"],
+        "legacyIds": [],
+        "source": "https://www.sapconinstruments.com/products/sla-dot-display-rf-admittance-level-sensor"
+      },
+      {
+        "slug": "sapcon-sla-b-rf-admittance-level-switch-for-high-temperature-solids",
+        "name": "SLA_B: RF Admittance Level Switch for High-Temperature Solids",
+        "group": "Point level switches",
+        "image": "/media/products/sapcon-sla-b-rf-admittance-level-switch-for-high-temperature-solids.webp",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "RF admittance point level switch for hot solids such as cement, fly ash, ESP hoppers, sand, sugar, pulverised coal and food grains, in rod or rope versions."
+          },
+          {
+            "type": "feature",
+            "text": "Universal power supply: 18-55 V DC and 90-265 V AC"
+          },
+          {
+            "type": "feature",
+            "text": "Application temperature range: up to 1000° C"
+          },
+          {
+            "type": "feature",
+            "text": "Output: 1 or 2 SPDT relays"
+          },
+          {
+            "type": "feature",
+            "text": "Process connections: threads and flanges"
+          },
+          {
+            "type": "feature",
+            "text": "Integral and remote models; electronics can be mounted up to 50 m away"
+          },
+          {
+            "type": "feature",
+            "text": "Certifications: Flame Proof IIA, IIB and IP65 housing"
+          }
+        ],
+        "models": ["SLA_B"],
+        "legacyIds": [],
+        "source": "https://www.sapconinstruments.com/products/sla-bar-display-rf-admittance-type-level-switch"
+      },
+      {
+        "slug": "sapcon-sla-s-rf-admittance-level-switch",
+        "name": "SLA_S: RF Admittance Level Switch",
+        "group": "Point level switches",
+        "image": "/media/products/sapcon-sla-s-rf-admittance-level-switch.webp",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "RF admittance point level switch from Sapcon's SLA series with a fully PTFE-insulated rod probe, in integral and split models."
+          },
+          {
+            "type": "feature",
+            "text": "Universal power supply: 18-55 V DC and 90-265 V AC"
+          },
+          {
+            "type": "feature",
+            "text": "Application temperature range: up to 250° C"
+          },
+          {
+            "type": "feature",
+            "text": "Output: 1 or 2 SPDT relays with time delay, pump control logic"
+          },
+          {
+            "type": "feature",
+            "text": "Probe: rod only, full PTFE insulation"
+          },
+          {
+            "type": "feature",
+            "text": "Calibration possible from a remote location"
+          },
+          {
+            "type": "feature",
+            "text": "Certifications: Flame Proof IIA, IIB and IP65 housing"
+          }
+        ],
+        "models": ["SLA_S"],
+        "legacyIds": [],
+        "source": "https://www.sapconinstruments.com/products/sla-series-rf-admittance-type-level-sensor"
+      },
+      {
+        "slug": "sapcon-sla-t-rf-admittance-level-switch-for-sticky-media",
+        "name": "SLA_T: RF Admittance Level Switch for Sticky Media",
+        "group": "Point level switches",
+        "image": "/media/products/sapcon-sla-t-rf-admittance-level-switch-for-sticky-media.webp",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Tri-point RF admittance level switch for sticky media, supplied in split models with rod or rope probes."
+          },
+          {
+            "type": "feature",
+            "text": "Application temperature range: up to 250° C"
+          },
+          {
+            "type": "feature",
+            "text": "Output: 1 or 2 SPDT relays with time delay, pump control logic"
+          },
+          {
+            "type": "feature",
+            "text": "Split models only"
+          },
+          {
+            "type": "feature",
+            "text": "Part or full PTFE insulation"
+          },
+          {
+            "type": "feature",
+            "text": "Rod and rope probes"
+          },
+          {
+            "type": "feature",
+            "text": "Certifications: Flame Proof IIA, IIB and IP65 housing"
+          }
+        ],
+        "models": ["SLA_T", "SLA Tri-Point"],
+        "legacyIds": [],
+        "source": "https://www.sapconinstruments.com/products/sla-tri-point/admittance-level-switch"
+      },
+      {
+        "slug": "sapcon-slw-conductive-liquid-level-switch",
+        "name": "SLW: Conductive Liquid Level Switch",
+        "group": "Point level switches",
+        "image": "/media/products/sapcon-slw-conductive-liquid-level-switch.webp",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Conductivity point level switch for water and other conductive liquids, in integral or remote and rod or rope versions."
+          },
+          {
+            "type": "feature",
+            "text": "Universal power supply: 18-55 V DC and 90-265 V AC, 50 Hz"
+          },
+          {
+            "type": "feature",
+            "text": "Application temperature range: up to 250° C"
+          },
+          {
+            "type": "feature",
+            "text": "Outputs: 1 or 2 SPDT relays, pump control logic"
+          },
+          {
+            "type": "feature",
+            "text": "Process connections: screwed thread and flanges"
+          },
+          {
+            "type": "feature",
+            "text": "Probe length: 65 mm to 5 m"
+          },
+          {
+            "type": "feature",
+            "text": "Certifications: Flame Proof IIA and IIB, IP65 and IP66 housing"
+          }
+        ],
+        "models": ["SLW"],
+        "legacyIds": [],
+        "source": "https://www.sapconinstruments.com/products/slw-conductive-level-sensor"
+      },
+      {
+        "slug": "sapcon-orbit-rotating-paddle-level-switch-for-solids",
+        "name": "Orbit: Rotating Paddle Level Switch for Solids",
+        "group": "Point level switches",
+        "image": "/media/products/sapcon-orbit-rotating-paddle-level-switch-for-solids.webp",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Rotating paddle point level switch for solids in storage tanks, bin hoppers and containers, used to avoid overspill and material loss."
+          },
+          {
+            "type": "feature",
+            "text": "Universal power supply: 90-265 V AC and 24-55 V DC"
+          },
+          {
+            "type": "feature",
+            "text": "Application temperature range: up to 200° C"
+          },
+          {
+            "type": "feature",
+            "text": "Outputs: DPDT relay, SPDT relay; two potential-free contacts with adjustable time delay"
+          },
+          {
+            "type": "feature",
+            "text": "Adjustable RPM and switching sensitivity"
+          },
+          {
+            "type": "feature",
+            "text": "Motor fault indication"
+          },
+          {
+            "type": "feature",
+            "text": "Foldable paddle for easier installation; rope probe for longer lengths"
+          }
+        ],
+        "models": ["Orbit", "RP"],
+        "legacyIds": [],
+        "source": "https://www.sapconinstruments.com/products/orbit-rotating-paddle-level-sensor"
+      },
+      {
+        "slug": "sapcon-orbit-lite-rotary-paddle-level-switch-for-solids",
+        "name": "Orbit-Lite: Rotary Paddle Level Switch for Solids",
+        "group": "Point level switches",
+        "image": "/media/products/sapcon-orbit-lite-rotary-paddle-level-switch-for-solids.webp",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Compact, lightweight rotary paddle level limit switch for powders and granular solids, with plug-and-play setup."
+          },
+          {
+            "type": "feature",
+            "text": "Power supply: 230 V AC"
+          },
+          {
+            "type": "feature",
+            "text": "Application temperature range: up to 200° C"
+          },
+          {
+            "type": "feature",
+            "text": "Outputs: 1 NO and 1 NC, 6 A potential-free at 230 V AC"
+          },
+          {
+            "type": "feature",
+            "text": "Suitable for bulk density ≥ 0.5 g/cm³"
+          },
+          {
+            "type": "feature",
+            "text": "Foldable paddle for easier installation"
+          },
+          {
+            "type": "feature",
+            "text": "Probe length: 100 mm to 1000 mm; maximum horizontal load 125 Nm"
+          },
+          {
+            "type": "feature",
+            "text": "Wetted parts: aluminium, SS 316, FKM / NBR"
+          }
+        ],
+        "models": ["Orbit-Lite", "RPL"],
+        "legacyIds": [],
+        "source": "https://www.sapconinstruments.com/products/Orbit-Lite-Rotating-Paddle-Level-Sensor-for-solids"
+      },
+      {
         "slug": "capvel-fuel-level-sensor-transmitter-for-remote-tracking-of-fuel",
         "name": "Capvel-FUEL: Level Sensor/Transmitter for remote tracking of fuel",
-        "group": "",
+        "group": "Level transmitters",
         "image": "/media/products/capvel-fuel-level-sensor-transmitter-for-remote-tracking-of-fuel.webp",
         "blocks": [
           {
@@ -2867,46 +3398,372 @@
             "text": "Certifications : Flame Proof IIC & IP68 Housing"
           }
         ],
+        "models": ["Capvel-FUEL", "VAT"],
         "legacyIds": [],
         "source": "process-control-instruments.html"
       },
       {
-        "slug": "vibrosonde-vibrating-rod-type-level-sensor-switch-for-solids",
-        "name": "Vibrosonde: Vibrating Rod Type Level Sensor/Switch for Solids",
-        "group": "",
-        "image": "/media/products/vibrosonde-vibrating-rod-type-level-sensor-switch-for-solids.webp",
+        "slug": "sapcon-capvel-ict-capacitance-level-transmitter",
+        "name": "CAPVEL_ICT: Capacitance Level Transmitter for Liquids and Slurries",
+        "group": "Level transmitters",
+        "image": "/media/products/sapcon-capvel-ict-capacitance-level-transmitter.webp",
         "blocks": [
           {
             "type": "paragraph",
-            "text": "Vibrating Rod Level Limit Switch (use in powders, sand, sugar, Pulverized coal, Food grains, Cement, Granular material)"
+            "text": "Capacitance level transmitter for conductive or non-conductive liquids, slurries, powdered compounds and food grains, with rod or rope probes."
           },
           {
             "type": "feature",
-            "text": "Application Temperature Range : up to 200° C"
+            "text": "Power supply: 9-30 V DC"
           },
           {
             "type": "feature",
-            "text": "Calibration Free, independent of material's Di-electric Properties"
+            "text": "Application temperature range: up to 350° C"
           },
           {
             "type": "feature",
-            "text": "Wetted parts: SS 316"
+            "text": "Output: 4-20 mA, Modbus RTU (RS-485)"
           },
           {
             "type": "feature",
-            "text": "Probe Length: 255 mm to 3000 mm"
+            "text": "Rod probe up to 3.5 m; rope probe 1 m to 15 m"
           },
           {
             "type": "feature",
-            "text": "Outputs: DPDT Relay, Open Collector"
+            "text": "Process connections: screwed, flange and Tri-Clamp"
           },
           {
             "type": "feature",
-            "text": "Certifications: Flame Proof IIC, IP68 Housing"
+            "text": "Certifications: Flame Proof IIC and IP65 housing"
           }
         ],
+        "models": ["CAPVEL_ICT", "Capvel ICT"],
         "legacyIds": [],
-        "source": "process-control-instruments.html"
+        "source": "https://www.sapconinstruments.com/products/capvel-ict-capacitance-level-transmitter"
+      },
+      {
+        "slug": "sapcon-capvel-lp-loop-powered-capacitance-level-transmitter",
+        "name": "CAPVEL_LP: Loop-Powered Capacitance Level Transmitter",
+        "group": "Level transmitters",
+        "image": "/media/products/sapcon-capvel-lp-loop-powered-capacitance-level-transmitter.webp",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Two-wire loop-powered capacitance level transmitter for conductive or non-conductive liquids, slurries and powdered compounds."
+          },
+          {
+            "type": "feature",
+            "text": "Power supply: 24 to 48 V DC"
+          },
+          {
+            "type": "feature",
+            "text": "Application temperature range: up to 350° C"
+          },
+          {
+            "type": "feature",
+            "text": "Output: 4-20 mA, Modbus RTU (RS-485)"
+          },
+          {
+            "type": "feature",
+            "text": "Partly or fully PTFE-insulated probe"
+          },
+          {
+            "type": "feature",
+            "text": "Process connections: screwed, flange and Tri-Clamp"
+          },
+          {
+            "type": "feature",
+            "text": "Probe length: 100 mm to 10 m"
+          },
+          {
+            "type": "feature",
+            "text": "Certifications: Flame Proof IIC and IP65 housing"
+          }
+        ],
+        "models": ["CAPVEL_LP", "Capvel LP"],
+        "legacyIds": [],
+        "source": "https://www.sapconinstruments.com/products/capvel_lp-capacitance-type-level-transmitter"
+      },
+      {
+        "slug": "sapcon-mpilc-liquid-level-controller-and-transmitter",
+        "name": "MPILC: Liquid Level Controller and Transmitter",
+        "group": "Level transmitters",
+        "image": "/media/products/sapcon-mpilc-liquid-level-controller-and-transmitter.webp",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Capacitance level transmitter with a remote display and control unit, in rod and rope versions."
+          },
+          {
+            "type": "feature",
+            "text": "Universal power supply: 90 to 260 V AC and 24 V DC"
+          },
+          {
+            "type": "feature",
+            "text": "Application temperature range: up to 350° C"
+          },
+          {
+            "type": "feature",
+            "text": "Output: 4-20 mA"
+          },
+          {
+            "type": "feature",
+            "text": "Process connections: screwed thread and flanges"
+          },
+          {
+            "type": "feature",
+            "text": "Probe length: 100 mm to 10 m"
+          },
+          {
+            "type": "feature",
+            "text": "Certifications: Flame Proof IIA, IIB and IP65, IP66 housing"
+          }
+        ],
+        "models": ["MPILC"],
+        "legacyIds": [],
+        "source": "https://www.sapconinstruments.com/products/mpilc-liquid-level-controller"
+      },
+      {
+        "slug": "sapcon-stellar-hydraulic-pressure-level-transmitter",
+        "name": "Stellar: Hydraulic Pressure Level Transmitter",
+        "group": "Level transmitters",
+        "image": "/media/products/sapcon-stellar-hydraulic-pressure-level-transmitter.webp",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Pressure-based level transmitter for fresh water, distilled water, fuel oil and lubricating oil."
+          },
+          {
+            "type": "feature",
+            "text": "Power supply: 90-260 V AC"
+          },
+          {
+            "type": "feature",
+            "text": "Application temperature range: 0 to 70° C"
+          },
+          {
+            "type": "feature",
+            "text": "Display of mass, volume and percentage"
+          },
+          {
+            "type": "feature",
+            "text": "Output: galvanically isolated 4-20 mA"
+          },
+          {
+            "type": "feature",
+            "text": "Password protection against tampering or unintended edits"
+          },
+          {
+            "type": "feature",
+            "text": "USB-RS485 interface"
+          }
+        ],
+        "models": ["Stellar", "STLR"],
+        "legacyIds": [],
+        "source": "https://www.sapconinstruments.com/products/stellar-hydraulic-pressure-transmitter"
+      },
+      {
+        "slug": "sapcon-elefant-level-transmitter-for-de-oiled-toaster",
+        "name": "Elefant: Level Transmitter for De-oiled Toaster Application",
+        "group": "Level transmitters",
+        "image": "/media/products/sapcon-elefant-level-transmitter-for-de-oiled-toaster.webp",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Level transmitter for de-oiled toasters, particularly in soybean oil extraction plants, with a 2½-digit seven-segment LED indication."
+          },
+          {
+            "type": "feature",
+            "text": "Universal power supply: 90-260 V AC and 24 V DC"
+          },
+          {
+            "type": "feature",
+            "text": "Application temperature range: up to 150° C"
+          },
+          {
+            "type": "feature",
+            "text": "Output: galvanically isolated 4-20 mA"
+          },
+          {
+            "type": "feature",
+            "text": "Process connection: fixed plate mounting with rotary shaft and coupling"
+          },
+          {
+            "type": "feature",
+            "text": "Certifications: Flame Proof IIA and IIB housing"
+          }
+        ],
+        "models": ["Elefant", "DT"],
+        "legacyIds": [],
+        "source": "https://www.sapconinstruments.com/products/elefant-level-transmitter-for-solvent-extraction"
+      },
+      {
+        "slug": "sapcon-float-and-board-type-level-indicator",
+        "name": "Float & Board Type Level Indicator",
+        "group": "Level indicators",
+        "image": "/media/products/sapcon-float-and-board-type-level-indicator.webp",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Counterweighted float and board level gauge for non-pressurised storage tanks, with an arrow pointer on a scale board. A guided rope and anchor keep it stable in turbulent liquids with specific gravity of 0.8 or more."
+          },
+          {
+            "type": "feature",
+            "text": "Installation on ground-level, overhead and underground tanks"
+          },
+          {
+            "type": "feature",
+            "text": "Tank height: up to 20 m guided, up to 8 m non-guided"
+          },
+          {
+            "type": "feature",
+            "text": "Float: Ø 300 × 75 mm, SS 316, tested to 2 kg/cm²"
+          },
+          {
+            "type": "feature",
+            "text": "Application temperature range: up to 100° C"
+          },
+          {
+            "type": "feature",
+            "text": "Adjustable horizontal pipe: 500 to 1000 mm"
+          },
+          {
+            "type": "feature",
+            "text": "Wetted parts: SS 316; process connection: flanges"
+          },
+          {
+            "type": "feature",
+            "text": "Weatherproof scale board (SS 304 and polyester powder-coated aluminium) with radium markings for distant reading"
+          }
+        ],
+        "models": ["Float and Board", "MECH_FAB"],
+        "legacyIds": [],
+        "source": "https://www.sapconinstruments.com/products/float-and-board-type-level-indicator"
+      },
+      {
+        "slug": "sapcon-mploh-loss-of-head-differential-level-transmitter",
+        "name": "MPLOH: Loss-of-Head Differential Level Transmitter",
+        "group": "Flow measurement",
+        "image": "/media/products/sapcon-mploh-loss-of-head-differential-level-transmitter.webp",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Capacitance-based loss-of-head measurement for filter beds in water treatment plants and filter stations."
+          },
+          {
+            "type": "feature",
+            "text": "Universal power supply: 90-260 V AC and 24 V DC"
+          },
+          {
+            "type": "feature",
+            "text": "Application temperature range: up to 100° C"
+          },
+          {
+            "type": "feature",
+            "text": "Output: 4-20 mA"
+          },
+          {
+            "type": "feature",
+            "text": "Heads and difference measured from -400 to 1500 mm"
+          },
+          {
+            "type": "feature",
+            "text": "Fully PTFE-insulated probe; probe length 500 mm to 3 m"
+          },
+          {
+            "type": "feature",
+            "text": "Process connections: screwed thread and flanges"
+          },
+          {
+            "type": "feature",
+            "text": "Certifications: IP65 weatherproof housing"
+          }
+        ],
+        "models": ["MPLOH", "LOH"],
+        "legacyIds": [],
+        "source": "https://www.sapconinstruments.com/products/mploh-differential-level-transmitter"
+      },
+      {
+        "slug": "sapcon-mprof-open-channel-rate-of-flow-measurement",
+        "name": "MPROF: Open Channel Rate of Flow Measurement",
+        "group": "Flow measurement",
+        "image": "/media/products/sapcon-mprof-open-channel-rate-of-flow-measurement.webp",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Level-based rate-of-flow measurement for open channels in water treatment plants; the sensor suits conductive or non-conductive liquids, slurries and fine-grained solids."
+          },
+          {
+            "type": "feature",
+            "text": "Universal power supply: 90-260 V AC and 24 V DC"
+          },
+          {
+            "type": "feature",
+            "text": "Application temperature range: up to 100° C"
+          },
+          {
+            "type": "feature",
+            "text": "Output: galvanically isolated 4-20 mA"
+          },
+          {
+            "type": "feature",
+            "text": "Process connections: screwed thread and flanges"
+          },
+          {
+            "type": "feature",
+            "text": "Probe length: 500 mm to 3 m"
+          },
+          {
+            "type": "feature",
+            "text": "Certifications: IP66 weatherproof housing"
+          }
+        ],
+        "models": ["MPROF", "ROF"],
+        "legacyIds": [],
+        "source": "https://www.sapconinstruments.com/products/mprof-flow-rate-measurement"
+      },
+      {
+        "slug": "sapcon-smart-ssi-bucket-elevator-speed-monitor",
+        "name": "Smart SSI: Speed Monitor for Bucket Elevators",
+        "group": "Speed monitoring",
+        "image": "/media/products/sapcon-smart-ssi-bucket-elevator-speed-monitor.webp",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Continuous speed monitoring for bucket elevators in cement and steel plants, with over-speed, under-speed and missing-bucket alarms."
+          },
+          {
+            "type": "feature",
+            "text": "Measuring range: 2 to 3000 pulses per minute"
+          },
+          {
+            "type": "feature",
+            "text": "Universal power supply: 18-55 V DC and 90-265 V"
+          },
+          {
+            "type": "feature",
+            "text": "Application temperature: 150° C"
+          },
+          {
+            "type": "feature",
+            "text": "Output: 4-20 mA analogue; over-speed and under-speed alarms"
+          },
+          {
+            "type": "feature",
+            "text": "Maximum detection range: 100 mm"
+          },
+          {
+            "type": "feature",
+            "text": "Wall-mounted evaluation unit connected by cable"
+          },
+          {
+            "type": "feature",
+            "text": "Process connection: 4\" flange with adjustable mechanism; IP65 housing"
+          }
+        ],
+        "models": ["Smart SSI", "SSSI"],
+        "legacyIds": [],
+        "source": "https://www.sapconinstruments.com/products/sssi-speed-monitoring-system"
       }
     ]
   },

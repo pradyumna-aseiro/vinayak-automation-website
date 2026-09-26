@@ -44,7 +44,7 @@ vision and integration.
 
 ## Capabilities and Constraints
 
-- The catalogue is incomplete: 155 products are listed while VAP carries
+- The catalogue is incomplete: 176 products are listed while VAP carries
   350+. The owner will supply the missing products (pending, 2026-09-26).
 - Product images must show the exact product, from the manufacturer's own
   site, catalogue or brochure where possible, on a white background.

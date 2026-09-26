@@ -127,7 +127,7 @@ export function CatalogueFinder({
           placeholder="e.g. VFX, proximity switch, Endress+Hauser"
           status={
             q
-              ? `${countLabel(results.length)} match “${q}”`
+              ? `${countLabel(results.length)} ${results.length === 1 ? "matches" : "match"} “${q}”`
               : `${countLabel(items.length)} across all ranges`
           }
         />

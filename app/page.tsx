@@ -15,7 +15,7 @@ import {
   ArrowRight,
   ArrowUpRight,
 } from "lucide-react";
-import { Button, CategoryCard, Eyebrow } from "@/components/ui";
+import { Button, CategoryCard } from "@/components/ui";
 import { ClientGrid } from "@/components/client-grid";
 import { WhyVinayak } from "@/components/company-story";
 import { metadata as seo } from "@/lib/seo";
@@ -44,7 +44,6 @@ export default function Home() {
       <section className="home-hero">
         <div className="container hero-grid">
           <div className="hero-copy">
-            <Eyebrow>INDUSTRIAL AUTOMATION · SINCE 2007</Eyebrow>
             <h1>
               {experienceYears()}+ Years of{" "}
               <span>Industrial Automation Experience</span>
@@ -59,7 +58,9 @@ export default function Home() {
                 Discuss your requirement <ArrowRight size={18} />
               </Link>
             </div>
-            <div className="hero-note">PRODUCT SUPPLY / SYSTEM INTEGRATION</div>
+            <div className="hero-note">
+              SINCE 2007 · PRODUCT SUPPLY / SYSTEM INTEGRATION
+            </div>
           </div>
           <div className="hero-visual">
             <Image

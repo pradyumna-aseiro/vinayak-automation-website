@@ -323,8 +323,8 @@ textarea:focus-visible,
   /* Scrim so the caption stays readable over any part of the photo. */
   background: linear-gradient(
     rgba(12, 20, 21, 0),
-    rgba(12, 20, 21, 0.55) 55%,
-    rgba(12, 20, 21, 0.88)
+    rgba(12, 20, 21, 0.62) 50%,
+    rgba(12, 20, 21, 0.92)
   );
   pointer-events: none;
 }
@@ -339,6 +339,7 @@ textarea:focus-visible,
   color: white;
   font-size: 11px;
   letter-spacing: 0.17em;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.7);
   z-index: 1;
 }
 .section-heading {
@@ -781,12 +782,6 @@ textarea:focus-visible,
   object-fit: contain;
   mix-blend-mode: multiply;
   padding: 45px 75px 55px;
-}
-.category-hero-image > .small-label {
-  position: absolute;
-  bottom: 20px;
-  left: 25px;
-  font-size: 11px;
 }
 .category-switcher {
   display: flex;
@@ -1394,6 +1389,12 @@ th {
   .container {
     width: calc(100% - 40px);
   }
+  /* Let the chip scroller run to the screen edges. */
+  .group-links {
+    margin-inline: -20px;
+    padding-inline: 20px;
+    scroll-padding-inline: 20px;
+  }
   .site-header {
     height: 82px;
   }
@@ -1611,6 +1612,11 @@ th {
 @media (max-width: 520px) {
   .container {
     width: calc(100% - 36px);
+  }
+  .group-links {
+    margin-inline: -18px;
+    padding-inline: 18px;
+    scroll-padding-inline: 18px;
   }
   .hero-copy h1 {
     font-size: 46px;
@@ -1918,7 +1924,7 @@ address {
   flex-shrink: 0;
 }
 .requirement-intro {
-  max-width: 850px;
+  max-width: 70ch;
   margin: 20px 0 32px;
   line-height: 1.8;
 }

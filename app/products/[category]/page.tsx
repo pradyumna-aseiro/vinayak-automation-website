@@ -57,9 +57,6 @@ export default async function CategoryPage({
               preload
               fetchPriority="high"
             />
-            <span className="small-label">
-              PRODUCT SELECTION & APPLICATION SUPPORT
-            </span>
           </div>
         </section>
         <nav className="category-switcher" aria-label="Product categories">

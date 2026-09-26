@@ -1040,6 +1040,718 @@
         ],
         "legacyIds": ["in6"],
         "source": "industrial-automation-solution-detail.html"
+      },
+      {
+        "slug": "renu-flexipanels-fp4-series-hmi",
+        "name": "FlexiPanels FP4 Series HMI",
+        "group": "",
+        "image": "/media/products/renu-flexipanels-fp4-series-hmi.webp",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Renu's FP4 advanced resistive-touch HMIs with a built-in IEC 61131-3 controller function, Ethernet and serial ports. The -E versions take pluggable I/O modules."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Display : 4.3\", 7\", 10.1\" and 15.1\" colour TFT, analog resistive touch"
+          },
+          {
+            "type": "feature",
+            "text": "Resolution : 480 x 272 (4.3\") to 1024 x 768 (15.1\")"
+          },
+          {
+            "type": "feature",
+            "text": "Memory : 4 GB eMMC, 512 MB RAM, micro SDHC slot"
+          },
+          {
+            "type": "feature",
+            "text": "Communication : RS232/RS485 serial, 10/100 Mbps Ethernet, USB 2.0 host, USB Type-C device"
+          },
+          {
+            "type": "feature",
+            "text": "Pluggable I/O (-E models) : 1 slot (4.3\"), 3 slots (7\"), 5 slots (10.1\")"
+          },
+          {
+            "type": "feature",
+            "text": "Features : MQTT, e-mail, FTP, VNC server, web server, NTP"
+          },
+          {
+            "type": "feature",
+            "text": "Power supply : 24 VDC"
+          },
+          {
+            "type": "feature",
+            "text": "Protection : IP66 front, IP20 rear"
+          },
+          {
+            "type": "feature",
+            "text": "Approvals : CE, UL Class I Div 2, UKCA, REACH, RoHS"
+          }
+        ],
+        "models": [
+          "FP4043TN",
+          "FP4070TN",
+          "FP4101TN",
+          "FP4151TN-V2",
+          "FP4043TN-E",
+          "FP4070TN-E",
+          "FP4101TN-E"
+        ],
+        "legacyIds": [],
+        "source": "https://www.renuelectronics.com/product/industrial-automation/hmi/fp4-series/fp4tn-series/FP4070TN"
+      },
+      {
+        "slug": "renu-fpem-v2-pluggable-io-modules",
+        "name": "FPEM-V2 Pluggable I/O Modules for FP2 and FP4 Series",
+        "group": "",
+        "image": "/media/products/renu-fpem-v2-pluggable-io-modules.webp",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Plug-in digital and mixed digital/analog I/O modules that fit Renu FP2 and FP4 series HMIs with I/O support and are powered from the HMI."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Digital inputs : 8 to 16 bi-directional, 24 VDC (EN 61131-2 Type 1)"
+          },
+          {
+            "type": "feature",
+            "text": "Digital outputs : 8 to 16, PNP transistor and/or relay"
+          },
+          {
+            "type": "feature",
+            "text": "Output rating : 250 mA @ 24 VDC (PNP), 2 A @ 230 VAC / 24 VDC (relay)"
+          },
+          {
+            "type": "feature",
+            "text": "High-speed I/O : 2 pairs of 200 kHz inputs, pulse outputs up to 1 kHz"
+          },
+          {
+            "type": "feature",
+            "text": "Analog (mixed models) : up to 4 universal inputs (16-bit) and 1 output (12-bit)"
+          },
+          {
+            "type": "feature",
+            "text": "Isolation : optical, greater than 1.5 kV"
+          },
+          {
+            "type": "feature",
+            "text": "Power : from the HMI"
+          },
+          {
+            "type": "feature",
+            "text": "Approvals : CE, UL"
+          }
+        ],
+        "models": [
+          "FPEM-1614RP-V2",
+          "FPEM-1616P-V2",
+          "FPEM-1210RP-V2",
+          "FPEM-1210P-A0201L-V2",
+          "FPEM-1210RP-A0201L-V2",
+          "FPEM-1212P-A0200L-V2",
+          "FPEM-1212RP-A0200L-V2",
+          "FPEM-0808RP-A0401U-V2"
+        ],
+        "legacyIds": [],
+        "source": "https://www.renuelectronics.com/product/industrial-automation/hmi-with-ios/fp-series-expansion-io/fpemv2/FPEM-1614RP-V2"
+      },
+      {
+        "slug": "renu-flexilogics-fl055-standard-series-plc",
+        "name": "FlexiLogics FL055 Standard Series PLC",
+        "group": "",
+        "image": "/media/products/renu-flexilogics-fl055-standard-series-plc.webp",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "DIN-rail FlexiLogics PLC with on-board I/O, two serial ports and Ethernet, programmed in IEC 61131-3 languages with Renu's FlexiSoft software."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "On-board I/O : 8 DI with 6 relay outputs (0806R) or 8 NPN outputs (0808N)"
+          },
+          {
+            "type": "feature",
+            "text": "High-speed inputs : 4 pairs up to 200 kHz, quadrature supported"
+          },
+          {
+            "type": "feature",
+            "text": "High-speed outputs : up to 200 kHz on the NPN model"
+          },
+          {
+            "type": "feature",
+            "text": "Expansion : up to 14 I/O modules"
+          },
+          {
+            "type": "feature",
+            "text": "Communication : RS232, RS485, 10/100 Mbps Ethernet, USB Type-C device port"
+          },
+          {
+            "type": "feature",
+            "text": "Protocols : Modbus RTU master/slave, Modbus TCP client/server and others"
+          },
+          {
+            "type": "feature",
+            "text": "Power supply : 24 VDC"
+          },
+          {
+            "type": "feature",
+            "text": "Operating temperature : 0 to 55 °C"
+          },
+          {
+            "type": "feature",
+            "text": "Approvals : CE, UL, UKCA, REACH, RoHS"
+          }
+        ],
+        "models": ["FL055-0806R-V2", "FL055-0808N-V2"],
+        "legacyIds": [],
+        "source": "https://www.renuelectronics.com/product/industrial-automation/flexilogics-plc/standard-series-plc/fl055v2/FL055-0806R-V2"
+      },
+      {
+        "slug": "renu-flexilogics-fl-expansion-io-modules",
+        "name": "FlexiLogics FL Expansion I/O Modules",
+        "group": "",
+        "image": "/media/products/renu-flexilogics-fl-expansion-io-modules.webp",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Digital (FLD) and analog (FLA) expansion modules for Renu FL series base PLCs, DIN-rail mounted and configured through FlexiSoft via the PLC."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Digital (FLD) : 8 DI + 8 DO (relay or NPN), 8 DI only, or 8 DO only"
+          },
+          {
+            "type": "feature",
+            "text": "Relay output rating : 2 A @ 230 VAC / 30 VDC"
+          },
+          {
+            "type": "feature",
+            "text": "Analog (FLA0402L-V2) : 4 inputs 0-10 V / 0-20 mA / 4-20 mA, 2 outputs"
+          },
+          {
+            "type": "feature",
+            "text": "Analog (FLA0402U-V2) : 4 universal inputs (V, mA, mV, RTD, thermocouple), 2 outputs"
+          },
+          {
+            "type": "feature",
+            "text": "Resolution : 16-bit inputs, 12-bit outputs"
+          },
+          {
+            "type": "feature",
+            "text": "Power supply : 24 VDC"
+          },
+          {
+            "type": "feature",
+            "text": "Mounting : DIN rail"
+          },
+          {
+            "type": "feature",
+            "text": "Approvals : CE, UL, UKCA, REACH, RoHS"
+          }
+        ],
+        "models": [
+          "FLD-0808R-V2",
+          "FLD-0808N-V2",
+          "FLD0800",
+          "FLD0008R",
+          "FLD0008N",
+          "FLA0402L-V2",
+          "FLA0402U-V2"
+        ],
+        "legacyIds": [],
+        "source": "https://www.renuelectronics.com/product/industrial-automation/flexilogics-plc/fl-expansion-io/digital-expansion/FLD-0808R-V2"
+      },
+      {
+        "slug": "renu-fl001-series-field-io-modules",
+        "name": "FL001 Series Field I/O Modules",
+        "group": "",
+        "image": "/media/products/renu-fl001-series-field-io-modules.webp",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Compact DIN-rail remote I/O modules that add digital (FL001D) or analog (FL001A) points to a PLC or SCADA system over RS485 Modbus RTU."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Digital (FL001D) : 8 DI with 8 NPN or 8 relay outputs"
+          },
+          {
+            "type": "feature",
+            "text": "Analog (FL001A) : 8 linear inputs, 0-10 V or 4-20 mA, 12-bit"
+          },
+          {
+            "type": "feature",
+            "text": "Communication : 2-wire RS485, Modbus RTU slave"
+          },
+          {
+            "type": "feature",
+            "text": "Settings : address, baud rate and parity by DIP switch; no software needed"
+          },
+          {
+            "type": "feature",
+            "text": "Power supply : 24 VDC"
+          },
+          {
+            "type": "feature",
+            "text": "Operating temperature : 0 to 60 °C"
+          },
+          {
+            "type": "feature",
+            "text": "Dimensions : 100 x 26 x 70 mm"
+          },
+          {
+            "type": "feature",
+            "text": "Approvals : CE, UL, UKCA, REACH, RoHS"
+          }
+        ],
+        "models": ["FL001D-0808N-V3", "FL001D-0808R-V3", "FL001A-0800L-V3"],
+        "legacyIds": [],
+        "source": "https://www.renuelectronics.com/product/industrial-automation/field-ios/field-io-series-digital/fl001d-series/FL001D-0808R-V3"
+      },
+      {
+        "slug": "renu-fioa-series-analog-field-io-modules",
+        "name": "FIOA Series Analog Field I/O Modules",
+        "group": "",
+        "image": "/media/products/renu-fioa-series-analog-field-io-modules.webp",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "DIN-rail analog I/O modules that communicate as Modbus RTU slaves over RS485, for adding analog or RTD points to a PLC or SCADA system."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "FIOA-0402-U-16 : 4 universal inputs (V, mA, mV, RTD, thermocouple), 2 outputs, 16-bit"
+          },
+          {
+            "type": "feature",
+            "text": "FIOA-0800-L : 8 inputs, 0-10 VDC or 4-20 mA, 12-bit"
+          },
+          {
+            "type": "feature",
+            "text": "FIOA-0800-R / -RP : 8 RTD inputs (PT1000 / PT100), 12-bit"
+          },
+          {
+            "type": "feature",
+            "text": "Communication : 2-wire RS485, Modbus RTU slave"
+          },
+          {
+            "type": "feature",
+            "text": "Baud rate : 9600 to 115.2k"
+          },
+          {
+            "type": "feature",
+            "text": "Isolation : 1.5 kV between communication, I/O and power"
+          },
+          {
+            "type": "feature",
+            "text": "Power supply : 24 VDC"
+          },
+          {
+            "type": "feature",
+            "text": "Operating temperature : 0 to 50 °C"
+          }
+        ],
+        "models": [
+          "FIOA-0402-U-16-B",
+          "FIOA-0800-L-B",
+          "FIOA-0800-R-B",
+          "FIOA-0800-RP-B"
+        ],
+        "legacyIds": [],
+        "source": "https://www.renuelectronics.com/product/industrial-automation/field-ios/field-io-series-analog/fioa-series/fioa0402u16b"
+      },
+      {
+        "slug": "renu-wp6-plus-series-web-panels",
+        "name": "WP6 Plus Series HTML5 Web Panels",
+        "group": "",
+        "image": "/media/products/renu-wp6-plus-series-web-panels.webp",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Thin-client web panels with a built-in Chromium browser that display HTML5 pages from a web server on the network, such as CODESYS, Ignition or Node-RED."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Display : 4.3\", 7\" and 10.1\" colour TFT"
+          },
+          {
+            "type": "feature",
+            "text": "Touch : resistive (TN models) or capacitive (CN models)"
+          },
+          {
+            "type": "feature",
+            "text": "High brightness : 1000 nits on CN and CN-M models"
+          },
+          {
+            "type": "feature",
+            "text": "CPU : ARM Cortex-A9 (Cortex-A53 on CN-M), 1 GB RAM"
+          },
+          {
+            "type": "feature",
+            "text": "Communication : Ethernet, USB 2.0 host, USB Type-C device"
+          },
+          {
+            "type": "feature",
+            "text": "Operating system : Linux Yocto"
+          },
+          {
+            "type": "feature",
+            "text": "Metal housing : CN-M models"
+          },
+          {
+            "type": "feature",
+            "text": "Power supply : 24 VDC"
+          },
+          {
+            "type": "feature",
+            "text": "Protection : IP66 front"
+          }
+        ],
+        "models": [
+          "WP6043TN Plus",
+          "WP6070TN Plus",
+          "WP6101TN Plus",
+          "WP6043CN Plus",
+          "WP6070CN Plus",
+          "WP6101CN Plus",
+          "WP6070CN-M Plus",
+          "WP6101CN-M Plus"
+        ],
+        "legacyIds": [],
+        "source": "https://www.renuelectronics.com/product/industrial-automation/web-panel-series/wp6-plus-/wp6tn-plus-series/WP6070TN-Plus"
+      },
+      {
+        "slug": "renu-wp2-lite-series-web-panels",
+        "name": "WP2 Lite Series Microbrowser Web Panels",
+        "group": "",
+        "image": "/media/products/renu-wp2-lite-series-web-panels.webp",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Lightweight thin-client web panels with a microbrowser for CODESYS and SpiderControl web visualisations over Ethernet."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Display : 4.3\", 7\" and 10.1\" colour TFT"
+          },
+          {
+            "type": "feature",
+            "text": "Touch : resistive (TN models) or capacitive (CN models)"
+          },
+          {
+            "type": "feature",
+            "text": "High brightness : 1000 nits on CN models"
+          },
+          {
+            "type": "feature",
+            "text": "CPU : 32-bit ARM Cortex-M7, 32 MB RAM"
+          },
+          {
+            "type": "feature",
+            "text": "Web servers : CODESYS 2.x / 3.x, SpiderControl"
+          },
+          {
+            "type": "feature",
+            "text": "Communication : 1 x 10/100 Mbps Ethernet"
+          },
+          {
+            "type": "feature",
+            "text": "Power supply : 24 VDC"
+          },
+          {
+            "type": "feature",
+            "text": "Protection : IP66 front"
+          },
+          {
+            "type": "feature",
+            "text": "Approvals : CE, UL, UKCA, REACH, RoHS"
+          }
+        ],
+        "models": [
+          "WP2043TN Lite",
+          "WP2070TN Lite",
+          "WP2043CN Lite",
+          "WP2070CN Lite",
+          "WP2101CN Lite"
+        ],
+        "legacyIds": [],
+        "source": "https://www.renuelectronics.com/product/industrial-automation/web-panel-series/wp2-lite/wp2tn-lite-series/WP2070TN-Lite"
+      },
+      {
+        "slug": "renu-gwy-300-can-gateway",
+        "name": "GWY-300 CAN Gateway",
+        "group": "",
+        "image": "/media/products/renu-gwy-300-can-gateway.webp",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Protocol converter that links a serial device such as a PLC, drive or controller to a CAN bus, configured with Renu's gateway software."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Port 1 : RS232 / RS422 / 2- or 4-wire RS485 / CMOS"
+          },
+          {
+            "type": "feature",
+            "text": "Port 2 : CAN (J1939 / CANopen slave)"
+          },
+          {
+            "type": "feature",
+            "text": "Isolation : 1 kV between ports and power supply"
+          },
+          {
+            "type": "feature",
+            "text": "Power supply : 24 VDC, 100 mA max"
+          },
+          {
+            "type": "feature",
+            "text": "Operating temperature : 0 to 60 °C"
+          },
+          {
+            "type": "feature",
+            "text": "Mounting : DIN rail or back panel"
+          },
+          {
+            "type": "feature",
+            "text": "Approvals : CE, UL"
+          }
+        ],
+        "models": ["GWY-300"],
+        "legacyIds": [],
+        "source": "https://www.renuelectronics.com/product/industrial-automation/gateway/gateway1/gateway2/GWY-300"
+      },
+      {
+        "slug": "renu-gwy-610-ethernet-gateway",
+        "name": "GWY-610 Ethernet Gateway",
+        "group": "",
+        "image": "/media/products/renu-gwy-610-ethernet-gateway.webp",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Protocol converter that connects serial PLCs, drives and other devices to a Modbus TCP/IP network or an HTTP client."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "COM1 : RS232 / RS422 / 2- or 4-wire RS485 / CMOS"
+          },
+          {
+            "type": "feature",
+            "text": "COM2 : 10/100Base-T Ethernet (Modbus TCP client/server, HTTP)"
+          },
+          {
+            "type": "feature",
+            "text": "COM3 : RS232 / pass-through for COM1"
+          },
+          {
+            "type": "feature",
+            "text": "Power supply : 24 VDC, 200 mA max"
+          },
+          {
+            "type": "feature",
+            "text": "Operating temperature : 0 to 60 °C"
+          },
+          {
+            "type": "feature",
+            "text": "Mounting : DIN rail or back panel"
+          },
+          {
+            "type": "feature",
+            "text": "Approvals : CE, UL"
+          }
+        ],
+        "models": ["GWY-610"],
+        "legacyIds": [],
+        "source": "https://www.renuelectronics.com/product/industrial-automation/gateway/gateway1/gateway2/GWY-610"
+      },
+      {
+        "slug": "renu-gwy-920-programmable-gsm-gateway",
+        "name": "GWY-920 Programmable GSM Gateway",
+        "group": "",
+        "image": "/media/products/renu-gwy-920-programmable-gsm-gateway.webp",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "4G/LTE gateway that collects data from field devices over serial and sends it to central servers using TCP/IP, HTTP or MQTT."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Cellular : 4G/LTE, backward compatible with 2G/3G; micro SIM"
+          },
+          {
+            "type": "feature",
+            "text": "Serial : RS232 (LTE-S2 model); Modbus RTU master on LTE model"
+          },
+          {
+            "type": "feature",
+            "text": "Transmit protocols : TCP/IP, HTTP, MQTT"
+          },
+          {
+            "type": "feature",
+            "text": "Offline storage : up to 3000 packets"
+          },
+          {
+            "type": "feature",
+            "text": "Power supply : 10 to 32 VDC"
+          },
+          {
+            "type": "feature",
+            "text": "Operating temperature : 0 to 55 °C"
+          },
+          {
+            "type": "feature",
+            "text": "Protection : IP66 front panel"
+          },
+          {
+            "type": "feature",
+            "text": "Approvals : CE, UL Class I Div 2, UKCA, REACH, RoHS"
+          }
+        ],
+        "models": ["GWY920-LTE-S2", "GWY-920"],
+        "legacyIds": [],
+        "source": "https://www.renuelectronics.com/product/industrial-automation/gateway/gateway1/gateway2/GWY920-LTE-S2"
+      },
+      {
+        "slug": "renu-cnv-02-b-serial-converter",
+        "name": "CNV-02-B RS232 / CMOS to RS422 / RS485 Converter",
+        "group": "",
+        "image": "/media/products/renu-cnv-02-b-serial-converter.webp",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Plug-and-play serial converter from RS232 or CMOS to RS422 or RS485, port-powered or externally powered, with automatic baud rate and direction control."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Ports : RS232 / CMOS (DB9) to RS422 / RS485 (terminal)"
+          },
+          {
+            "type": "feature",
+            "text": "Data rate : up to 115.2 kbps"
+          },
+          {
+            "type": "feature",
+            "text": "Distance : up to 1200 m when externally powered"
+          },
+          {
+            "type": "feature",
+            "text": "Power supply : 24 VDC, 2 W max, or port-powered"
+          },
+          {
+            "type": "feature",
+            "text": "Operating temperature : 0 to 60 °C"
+          },
+          {
+            "type": "feature",
+            "text": "Mounting : DIN rail or back panel"
+          },
+          {
+            "type": "feature",
+            "text": "Approvals : CE, UL"
+          }
+        ],
+        "models": ["CNV-02-B"],
+        "legacyIds": [],
+        "source": "https://www.renuelectronics.com/product/industrial-automation/converter/converters/universal-signal-converter-/cnv02b"
+      },
+      {
+        "slug": "renu-cnv-03-b-rs485-repeater",
+        "name": "CNV-03-B RS422 / RS485 Repeater",
+        "group": "",
+        "image": "/media/products/renu-cnv-03-b-rs485-repeater.webp",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "RS422/RS485 repeater for networks that need more than 32 nodes or more than 1200 m between nodes."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Function : RS422 / RS485 signal repeater"
+          },
+          {
+            "type": "feature",
+            "text": "Data rate : up to 115.2 kbps"
+          },
+          {
+            "type": "feature",
+            "text": "Baud rate and direction : detected and controlled automatically"
+          },
+          {
+            "type": "feature",
+            "text": "Isolation : between power and communication ports"
+          },
+          {
+            "type": "feature",
+            "text": "Power supply : 24 VDC, 2 W max"
+          },
+          {
+            "type": "feature",
+            "text": "Operating temperature : 0 to 60 °C"
+          },
+          {
+            "type": "feature",
+            "text": "Mounting : DIN rail or back panel"
+          },
+          {
+            "type": "feature",
+            "text": "Approvals : CE, UL"
+          }
+        ],
+        "models": ["CNV-03-B"],
+        "legacyIds": [],
+        "source": "https://www.renuelectronics.com/product/industrial-automation/converter/repeaters/rs485-repeater/cnv03b"
       }
     ]
   },
@@ -1634,6 +2346,116 @@
         ],
         "legacyIds": ["tab2primary"],
         "source": "incremental-encoders-detail.html"
+      },
+      {
+        "slug": "jayashree-j-50h-t-size-50-hollow-shaft-encoder",
+        "name": "Size 50 hollow shaft encoder J-50H/T",
+        "group": "Hollow Shaft Encoders",
+        "image": "/media/products/jayashree-j-50h-t-size-50-hollow-shaft-encoder.webp",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Compact incremental optical encoder under 52 mm diameter with blind (J-50H) or through (J-50T) hollow bore, designed for induction motor feedback. Collet clamp fixing and slotted flex mounts."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Bore : blind or through, 6 mm to 16 mm"
+          },
+          {
+            "type": "feature",
+            "text": "Channels : ABZ, AB or A"
+          },
+          {
+            "type": "feature",
+            "text": "Output : HV, HVLD, push-pull, PPLD / HTL, open collector (NPN), TTL / RS422"
+          },
+          {
+            "type": "feature",
+            "text": "Resolution : 100 to 10000 PPR (higher PPR in the -10 to 70 °C option)"
+          },
+          {
+            "type": "feature",
+            "text": "Supply : 5 to 26 VDC (TTL output 5 VDC only)"
+          },
+          {
+            "type": "feature",
+            "text": "Mounting : single or double side slotted flex mounts, front or rear side clamping"
+          },
+          {
+            "type": "feature",
+            "text": "Protection : IP50, or IP65 with the 70 °C temperature option"
+          },
+          {
+            "type": "feature",
+            "text": "Operating temperature : -10 to 70 °C or -20 to 100 °C"
+          },
+          {
+            "type": "feature",
+            "text": "Connection : side cable gland, M12 8-pin or M23 12-pin side connector"
+          }
+        ],
+        "models": ["J-50H", "J-50T", "J-50H/T"],
+        "legacyIds": [],
+        "source": "https://jencoder.com/products/j-50h-t/"
+      },
+      {
+        "slug": "jayashree-j-50s-size-50-solid-shaft-encoder",
+        "name": "Size 50 shaft encoder J-50S",
+        "group": "Solid Shaft Encoders",
+        "image": "/media/products/jayashree-j-50s-size-50-solid-shaft-encoder.webp",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Compact solid shaft incremental optical encoder under 52 mm diameter with die-cast covers, designed for induction motor feedback. Clamping or square flange mounting."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Shaft : 8 mm solid shaft"
+          },
+          {
+            "type": "feature",
+            "text": "Channels : ABZ, AB or A"
+          },
+          {
+            "type": "feature",
+            "text": "Output : HV, HVLD, open collector (NPN), TTL / RS422"
+          },
+          {
+            "type": "feature",
+            "text": "Resolution : 100 to 5000 PPR"
+          },
+          {
+            "type": "feature",
+            "text": "Supply : 5 to 26 VDC (TTL output 5 VDC only)"
+          },
+          {
+            "type": "feature",
+            "text": "Mounting : clamping flange or square flange"
+          },
+          {
+            "type": "feature",
+            "text": "Protection : IP50 or IP54"
+          },
+          {
+            "type": "feature",
+            "text": "Operating temperature : -10 to 70 °C or -20 to 100 °C"
+          },
+          {
+            "type": "feature",
+            "text": "Connection : side or end cable gland"
+          }
+        ],
+        "models": ["J-50S"],
+        "legacyIds": [],
+        "source": "https://jencoder.com/products/size-50-shaft-encoder-j-50s/"
       }
     ]
   },
@@ -1705,6 +2527,119 @@
         ],
         "legacyIds": [],
         "source": "conveyor-safety-switches.html"
+      },
+      {
+        "slug": "jayashree-sw-4311-belt-load-monitor",
+        "name": "Belt load monitor",
+        "group": "",
+        "image": "/media/products/jayashree-sw-4311-belt-load-monitor.webp",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Roller-type monitor for bulk material conveyors that senses belt load (loaded or empty) from the vertical displacement of the belt and also checks belt running speed."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Detection : overload and underload of the belt, plus healthy running speed"
+          },
+          {
+            "type": "feature",
+            "text": "Outputs : separate signals for load condition and running speed"
+          },
+          {
+            "type": "feature",
+            "text": "Belt deflection setting : adjustable, 5 to 30 mm"
+          },
+          {
+            "type": "feature",
+            "text": "Output contacts : 2NO + 2NC (SW-4311-22)"
+          },
+          {
+            "type": "feature",
+            "text": "Contact rating : 6 A at 240 VAC"
+          },
+          {
+            "type": "feature",
+            "text": "Enclosure : cast aluminium, IP65"
+          },
+          {
+            "type": "feature",
+            "text": "Display : digital speed display available as an option (RM E214-BL)"
+          },
+          {
+            "type": "feature",
+            "text": "Applications : coal, cement, fertilizer and other bulk material handling"
+          }
+        ],
+        "models": ["SW-4311", "SW-4311-22", "RM E214-BL"],
+        "legacyIds": [],
+        "source": "https://jayashree-electrodevices.com/conveyor-safety-switches/"
+      },
+      {
+        "slug": "jayashree-sw-4321-belt-tear-switch",
+        "name": "Belt tear switch",
+        "group": "",
+        "image": "/media/products/jayashree-sw-4321-belt-tear-switch.webp",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Rope-type belt tear switch supplied as a pair, for detecting tears in conveyor belts. Supplied with rope, clamp, hook and bracket accessories."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Configuration : switches in pair (SW-4321E22P)"
+          },
+          {
+            "type": "feature",
+            "text": "Protection : IP65, economy model"
+          },
+          {
+            "type": "feature",
+            "text": "Accessories : rope, clamp, hook and bracket"
+          }
+        ],
+        "models": ["SW-4321", "SW-4321E22P"],
+        "legacyIds": [],
+        "source": "https://jayashree-electrodevices.com/conveyor-safety-switches/"
+      },
+      {
+        "slug": "jayashree-sw-4010-v-lever-toggle-limit-switch",
+        "name": "V-lever / toggle limit switch",
+        "group": "",
+        "image": "",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "V-lever (toggle) limit switch with terminal box in a pressure die-cast aluminium enclosure, self-resetting."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Actuator : V-lever / toggle"
+          },
+          {
+            "type": "feature",
+            "text": "Reset : auto / self reset"
+          },
+          {
+            "type": "feature",
+            "text": "Enclosure : pressure die-cast aluminium with terminal box, IP66"
+          }
+        ],
+        "models": ["SW-4010", "SW-4010H22/11"],
+        "legacyIds": [],
+        "source": "https://jayashree-electrodevices.com/conveyor-safety-switches/"
       }
     ]
   },
@@ -2511,13 +3446,14 @@
     "slug": "ac-dc-motors",
     "name": "AC & DC motors",
     "headline": "The right motion for your machine.",
-    "description": "AC induction, synchronous, PMDC and BLDC motors, geared motors, DC drives and tacho generators.",
-    "brand": "Dynaflux",
+    "description": "Dynaflux AC, PMDC and BLDC motors, geared motors, DC drives and tacho generators, with CG Power and Hindustan LT motors.",
+    "brand": "Dynaflux · CG Power · Hindustan",
     "image": "/images/services/ac-motors-new-1.jpg",
     "selection": [
       "Power, speed and required torque",
       "Supply voltage and duty cycle",
-      "Mounting, shaft and gearbox requirements"
+      "Mounting, shaft and gearbox requirements",
+      "Efficiency class, frame size and enclosure (safe area or flameproof)"
     ],
     "products": [
       {
@@ -2525,6 +3461,7 @@
         "name": "AC Induction Motors / Geared Motors",
         "group": "AC Motors",
         "image": "/images/services/ac-24567.jpg",
+        "brand": "Dynaflux",
         "blocks": [
           {
             "type": "feature",
@@ -2555,6 +3492,7 @@
         "name": "FHP AC induction motors",
         "group": "AC Motors",
         "image": "/images/services/ac-motors-new-1.jpg",
+        "brand": "Dynaflux",
         "blocks": [
           {
             "type": "feature",
@@ -2585,6 +3523,7 @@
         "name": "AC Synchronous Motors",
         "group": "AC Motors",
         "image": "/images/services/acmotors20.png",
+        "brand": "Dynaflux",
         "blocks": [
           {
             "type": "heading",
@@ -2667,6 +3606,7 @@
         "name": "PMDC Motors / Geared Motors",
         "group": "DC Motors",
         "image": "/images/services/acmotors22.png",
+        "brand": "Dynaflux",
         "blocks": [
           {
             "type": "heading",
@@ -2761,10 +3701,175 @@
         "source": "ac-dc-motors.html"
       },
       {
+        "slug": "dynaflux-d90-pmdc-motors",
+        "name": "D90 Series PMDC Motors / Geared Motors",
+        "group": "DC Motors",
+        "image": "/media/products/dynaflux-d90-pmdc-motors.webp",
+        "brand": "Dynaflux",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Dynaflux D90 frame permanent magnet DC motors in foot and flange mounting, also offered with inline or worm gearboxes."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Power : 100 W to 150 W"
+          },
+          {
+            "type": "feature",
+            "text": "Motor speed : 1500 rpm to 3000 rpm"
+          },
+          {
+            "type": "feature",
+            "text": "Worm geared output : 30 rpm to 300 rpm"
+          },
+          {
+            "type": "feature",
+            "text": "Inline geared output : 10 rpm to 300 rpm"
+          },
+          {
+            "type": "feature",
+            "text": "Voltage : 12 / 24 / 48 / 90 / 110 / 180 V DC"
+          },
+          {
+            "type": "feature",
+            "text": "Mounting : foot (90FT) or flange (63FR)"
+          },
+          {
+            "type": "feature",
+            "text": "Enclosure : TEFC, IP44, class B insulation, S1 duty"
+          }
+        ],
+        "models": ["D90", "90FT", "63FR"],
+        "legacyIds": [],
+        "source": "https://www.dynafluxindia.com/D90-Series-PMDC-Motors.php"
+      },
+      {
+        "slug": "dynaflux-d118-industrial-pmdc-motors",
+        "name": "D118 Series Industrial Grade PMDC Motors / Geared Motors",
+        "group": "DC Motors",
+        "image": "/media/products/dynaflux-d118-industrial-pmdc-motors.webp",
+        "brand": "Dynaflux",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Dynaflux D118 frame industrial grade permanent magnet DC motors in foot and flange mounting, also offered with worm or planetary gearboxes."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Power : 180 W to 560 W"
+          },
+          {
+            "type": "feature",
+            "text": "Motor speed : 1000 rpm to 3000 rpm"
+          },
+          {
+            "type": "feature",
+            "text": "Worm geared output : 10 rpm to 300 rpm"
+          },
+          {
+            "type": "feature",
+            "text": "Planetary geared output : 10 rpm to 400 rpm"
+          },
+          {
+            "type": "feature",
+            "text": "Voltage : 12 / 24 / 36 / 48 / 90 / 110 / 180 V DC"
+          },
+          {
+            "type": "feature",
+            "text": "Mounting : foot (118FT) or flange (63FR, 71FR)"
+          },
+          {
+            "type": "feature",
+            "text": "Worm gearboxes : ALM040 to ALM075"
+          },
+          {
+            "type": "feature",
+            "text": "Enclosure : TEFC, IP44, class B insulation, S1 duty"
+          }
+        ],
+        "models": [
+          "D118",
+          "118FT",
+          "71FR",
+          "ALM040",
+          "ALM050",
+          "ALM063",
+          "ALM075"
+        ],
+        "legacyIds": [],
+        "source": "https://www.dynafluxindia.com/D118-Series-PMDC-Motors.php"
+      },
+      {
+        "slug": "dynaflux-battery-operated-pmdc-motors",
+        "name": "Battery Operated PMDC Motors / Geared Motors (D118, D127 & D142)",
+        "group": "DC Motors",
+        "image": "/media/products/dynaflux-battery-operated-pmdc-motors.webp",
+        "brand": "Dynaflux",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Dynaflux low-voltage permanent magnet DC motors for battery supplies, in D118 and D127/D142 frames, plain or with worm or planetary gearboxes."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "D118 power : 180 W to 560 W at 12 / 24 V DC"
+          },
+          {
+            "type": "feature",
+            "text": "D127 & D142 power : 746 W to 1490 W at 24 / 48 V DC"
+          },
+          {
+            "type": "feature",
+            "text": "Motor speed : 1500 rpm / 3000 rpm"
+          },
+          {
+            "type": "feature",
+            "text": "Versions : plain, worm geared, planetary geared"
+          },
+          {
+            "type": "feature",
+            "text": "Worm gearboxes : ALM040 to ALM090"
+          },
+          {
+            "type": "feature",
+            "text": "Mounting : foot or flange"
+          },
+          {
+            "type": "feature",
+            "text": "Enclosure : TEFC, IP44"
+          }
+        ],
+        "models": [
+          "D118 battery operated",
+          "D127",
+          "D142",
+          "127FT",
+          "142FT",
+          "80FR",
+          "90FR"
+        ],
+        "legacyIds": [],
+        "source": "https://www.dynafluxindia.com/new-pdf/P4.pdf"
+      },
+      {
         "slug": "dc-drive-model-tdr-72",
         "name": "DC Drive Model TDR - 72",
         "group": "DC Drives",
         "image": "/images/services/acmotors1.png",
+        "brand": "Dynaflux",
         "blocks": [
           {
             "type": "feature",
@@ -2787,6 +3892,7 @@
         "name": "DC Drive Model TDR - 96",
         "group": "DC Drives",
         "image": "/images/services/acmotors2.png",
+        "brand": "Dynaflux",
         "blocks": [
           {
             "type": "feature",
@@ -2821,6 +3927,7 @@
         "name": "DC Drive Model PMD - 2",
         "group": "DC Drives",
         "image": "/images/services/acmotors3.png",
+        "brand": "Dynaflux",
         "blocks": [
           {
             "type": "feature",
@@ -2851,6 +3958,7 @@
         "name": "DC Drive Model PMD - 1",
         "group": "DC Drives",
         "image": "/images/services/acmotors4.png",
+        "brand": "Dynaflux",
         "blocks": [
           {
             "type": "feature",
@@ -2881,6 +3989,7 @@
         "name": "DC Drive Model SPM - 1",
         "group": "DC Drives",
         "image": "/images/services/acmotors5.png",
+        "brand": "Dynaflux",
         "blocks": [
           {
             "type": "feature",
@@ -2915,6 +4024,7 @@
         "name": "DC Drive Model SPM - 2",
         "group": "DC Drives",
         "image": "/images/services/acmotors6.png",
+        "brand": "Dynaflux",
         "blocks": [
           {
             "type": "feature",
@@ -2949,6 +4059,7 @@
         "name": "DC Drive Model TDR - 100",
         "group": "DC Drives",
         "image": "/images/services/acmotors7.png",
+        "brand": "Dynaflux",
         "blocks": [
           {
             "type": "feature",
@@ -2983,6 +4094,7 @@
         "name": "DC Drive Model TDR - 192 (D)",
         "group": "DC Drives",
         "image": "/images/services/acmotors8.png",
+        "brand": "Dynaflux",
         "blocks": [
           {
             "type": "feature",
@@ -3013,6 +4125,7 @@
         "name": "Tacho Generators",
         "group": "Tacho Generators",
         "image": "/images/services/process-control-25.jpg",
+        "brand": "Dynaflux",
         "blocks": [
           {
             "type": "feature",
@@ -3055,6 +4168,7 @@
         "name": "BLDC Motors And Drives",
         "group": "BLDC MOTORS AND DRIVES",
         "image": "/images/services/ac-motors-89.png",
+        "brand": "Dynaflux",
         "blocks": [
           {
             "type": "heading",
@@ -3119,6 +4233,1655 @@
         ],
         "legacyIds": ["tab5primary"],
         "source": "ac-dc-motors.html"
+      },
+      {
+        "slug": "cg-power-ie2-ie3-apex-series-motors",
+        "name": "IE2 / IE3 Apex series general purpose motors",
+        "group": "CG Power LT motors",
+        "image": "/media/products/cg-power-ie2-ie3-apex-series-motors.webp",
+        "brand": "CG Power",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Three-phase squirrel cage induction motors from CG in IE2 high and IE3 premium efficiency classes, offered in cast iron and aluminium frames for general industrial duty."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Efficiency : IE2 / IE3 to IS 12615 and IEC 60034-30-1"
+          },
+          {
+            "type": "feature",
+            "text": "Output : 0.55 kW to 1000 kW (cast iron); 0.18 kW to 7.5 kW (aluminium)"
+          },
+          {
+            "type": "feature",
+            "text": "Frame sizes : IEC 80 to 450 (cast iron); IEC 63 to 132 (aluminium)"
+          },
+          {
+            "type": "feature",
+            "text": "Poles : 2 to 8 (others on request)"
+          },
+          {
+            "type": "feature",
+            "text": "Supply : up to 690 V, 50 or 60 Hz"
+          },
+          {
+            "type": "feature",
+            "text": "Mounting : foot / flange / face"
+          },
+          {
+            "type": "feature",
+            "text": "Protection : IP55 (others on request); ambient -20 °C to +50 °C"
+          },
+          {
+            "type": "feature",
+            "text": "Insulation : Class F, temperature rise within Class B"
+          },
+          {
+            "type": "feature",
+            "text": "Drive : inverter compatible"
+          }
+        ],
+        "models": ["Apex", "GD", "NG", "ND"],
+        "legacyIds": [],
+        "source": "https://www.cgglobal.com/products/ie2-ie3apex-series-general-purpose-motors"
+      },
+      {
+        "slug": "cg-power-ie4-apex-series-super-premium-motors",
+        "name": "IE4 Apex series general purpose motors (super premium)",
+        "group": "CG Power LT motors",
+        "image": "/media/products/cg-power-ie4-apex-series-super-premium-motors.webp",
+        "brand": "CG Power",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "CG's Apex series IE4 super premium efficiency squirrel cage motors in cast iron frames, meeting IS 12615 and IEC 60034-30-1, aimed at continuous-duty applications."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Efficiency : IE4 to IS 12615 and IEC 60034-30-1"
+          },
+          {
+            "type": "feature",
+            "text": "Output : 0.55 kW to 1000 kW (others on request)"
+          },
+          {
+            "type": "feature",
+            "text": "Frame sizes : IEC 80 to 450, cast iron"
+          },
+          {
+            "type": "feature",
+            "text": "Poles : 2 to 8"
+          },
+          {
+            "type": "feature",
+            "text": "Supply : up to 690 V, 50 or 60 Hz"
+          },
+          {
+            "type": "feature",
+            "text": "Mounting : foot / flange / face"
+          },
+          {
+            "type": "feature",
+            "text": "Protection : IP55 (others on request); ambient -20 °C to +50 °C"
+          },
+          {
+            "type": "feature",
+            "text": "Drive : inverter compatible"
+          }
+        ],
+        "models": ["Apex IE4"],
+        "legacyIds": [],
+        "source": "https://www.cgglobal.com/products/ie4-apex-series-general-purpose-motors-super-premium"
+      },
+      {
+        "slug": "cg-power-axelera-process-performance-motors",
+        "name": "AXELERA process performance IE3 / IE4 motors",
+        "group": "CG Power LT motors",
+        "image": "/media/products/cg-power-axelera-process-performance-motors.webp",
+        "brand": "CG Power",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "CG AXELERA process performance motors in IE3 and IE4 efficiency, built for heavy process duty in cement, chemicals, oil and gas, water treatment and similar plants."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Efficiency : IE3 / IE4"
+          },
+          {
+            "type": "feature",
+            "text": "Output : 0.75 kW to 1000 kW"
+          },
+          {
+            "type": "feature",
+            "text": "Frame sizes : 80 to 450"
+          },
+          {
+            "type": "feature",
+            "text": "Poles : 2 to 8"
+          },
+          {
+            "type": "feature",
+            "text": "Voltage : up to 690 V"
+          },
+          {
+            "type": "feature",
+            "text": "Protection : IP55 / IP65 (varies by model); ambient -20 °C to +50 °C"
+          },
+          {
+            "type": "feature",
+            "text": "Terminal box : 360° adjustable; split terminal box optional"
+          },
+          {
+            "type": "feature",
+            "text": "Options : VSD compatibility, space heaters, RTDs, BTDs"
+          },
+          {
+            "type": "feature",
+            "text": "Drive : inverter compatible"
+          }
+        ],
+        "models": ["AXELERA"],
+        "legacyIds": [],
+        "source": "https://www.cgglobal.com/products/axelera-process-performance-ie3ie4-motors"
+      },
+      {
+        "slug": "cg-power-flameproof-motors-ex-db",
+        "name": "Flameproof motors Ex 'db' (LV)",
+        "group": "CG Power LT motors",
+        "image": "/media/products/cg-power-flameproof-motors-ex-db.webp",
+        "brand": "CG Power",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "CG low-voltage flameproof Ex 'db' squirrel cage motors for hazardous areas, certified to ATEX/IECEx and Indian requirements (BIS, DGMS, PESO)."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Output : 0.37 kW to 500 kW"
+          },
+          {
+            "type": "feature",
+            "text": "Frame sizes : IEC 80 to 400, cast iron"
+          },
+          {
+            "type": "feature",
+            "text": "Poles : 2 to 8 (others on request)"
+          },
+          {
+            "type": "feature",
+            "text": "Supply : 415 V (others on request), 50 or 60 Hz"
+          },
+          {
+            "type": "feature",
+            "text": "Gas groups : IIA, IIB and IIC"
+          },
+          {
+            "type": "feature",
+            "text": "Temperature class : T4 to IS/IEC 60079-1"
+          },
+          {
+            "type": "feature",
+            "text": "Protection : IP55 standard; IP56, IP65, IP66 optional; ambient -20 °C to +50 °C"
+          },
+          {
+            "type": "feature",
+            "text": "Certification : PESO, ATEX, IECEx, DGMS, ECAS"
+          },
+          {
+            "type": "feature",
+            "text": "Finish : epoxy, RAL 7034 (IE2), RAL 5021 (IE3), RAL 7022 (IE4)"
+          }
+        ],
+        "models": ["Ex db"],
+        "legacyIds": [],
+        "source": "https://www.cgglobal.com/products/flame-proof-motors-ex-db-lv"
+      },
+      {
+        "slug": "cg-power-slip-ring-motors",
+        "name": "Slip ring motors (LV)",
+        "group": "CG Power LT motors",
+        "image": "/media/products/cg-power-slip-ring-motors.webp",
+        "brand": "CG Power",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "CG low-voltage wound-rotor slip ring induction motors for high starting torque and speed control via external rotor resistance, in TEFC and drip proof builds."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Output : 2.2 kW to 450 kW"
+          },
+          {
+            "type": "feature",
+            "text": "Frame sizes : IEC 132 to 450, cast iron"
+          },
+          {
+            "type": "feature",
+            "text": "Poles : 4 to 8 (others on request)"
+          },
+          {
+            "type": "feature",
+            "text": "Supply : 415 V (others on request), 50 or 60 Hz"
+          },
+          {
+            "type": "feature",
+            "text": "Enclosure : TEFC (IP55) or drip proof (IP23)"
+          },
+          {
+            "type": "feature",
+            "text": "Mounting : foot / flange / face"
+          },
+          {
+            "type": "feature",
+            "text": "Ambient : -20 °C to +50 °C (others on request)"
+          },
+          {
+            "type": "feature",
+            "text": "Slip rings : epoxy-moulded insulation"
+          },
+          {
+            "type": "feature",
+            "text": "Applications : cranes, hoists, elevators, conveyors, mills"
+          }
+        ],
+        "legacyIds": [],
+        "source": "https://www.cgglobal.com/products/slip-ring-motors-lv"
+      },
+      {
+        "slug": "cg-power-kibosh-brake-motors",
+        "name": "Kibosh brake motors",
+        "group": "CG Power LT motors",
+        "image": "/media/products/cg-power-kibosh-brake-motors.webp",
+        "brand": "CG Power",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "CG Kibosh brake motors for cranes, hoists, rolling mills, wind turbines and elevators, in aluminium and cast iron frames with AC or DC brake options."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Output : 0.37 kW to 7.5 kW (aluminium); 0.55 kW to 45 kW (cast iron)"
+          },
+          {
+            "type": "feature",
+            "text": "Frame sizes : 63 to 132 (aluminium); 80 to 225 (cast iron)"
+          },
+          {
+            "type": "feature",
+            "text": "Poles : 4 and 6"
+          },
+          {
+            "type": "feature",
+            "text": "Supply : 415 V standard (others on request), 50 and 60 Hz"
+          },
+          {
+            "type": "feature",
+            "text": "Cooling : IC411"
+          },
+          {
+            "type": "feature",
+            "text": "Ambient : -20 °C to +50 °C"
+          },
+          {
+            "type": "feature",
+            "text": "Brake : AC and DC variants, multiple braking torque options"
+          },
+          {
+            "type": "feature",
+            "text": "Conversion : CG safe area motors up to 225 frame accept a brake kit"
+          }
+        ],
+        "models": ["Kibosh"],
+        "legacyIds": [],
+        "source": "https://www.cgglobal.com/products/brake-motors"
+      },
+      {
+        "slug": "cg-power-smoke-extraction-motors",
+        "name": "Smoke extraction motors",
+        "group": "CG Power LT motors",
+        "image": "/media/products/cg-power-smoke-extraction-motors.webp",
+        "brand": "CG Power",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "CG motors for smoke extraction fans that must keep running during a fire or at high ambient temperature, compliant with BS EN 12101-3:2015."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Output : 0.75 kW to 160 kW"
+          },
+          {
+            "type": "feature",
+            "text": "Frame sizes : 80 to 315"
+          },
+          {
+            "type": "feature",
+            "text": "Poles : 2, 4, 6, 8"
+          },
+          {
+            "type": "feature",
+            "text": "Supply : 415 V (others on request), 50 Hz"
+          },
+          {
+            "type": "feature",
+            "text": "Efficiency : IE2 / IE3 / IE4"
+          },
+          {
+            "type": "feature",
+            "text": "Temperature rating : F300 for 2 h, F400 for 2 h"
+          },
+          {
+            "type": "feature",
+            "text": "Cooling : IC418"
+          },
+          {
+            "type": "feature",
+            "text": "Insulation : Class H"
+          },
+          {
+            "type": "feature",
+            "text": "Standard : BS EN 12101-3:2015"
+          }
+        ],
+        "legacyIds": [],
+        "source": "https://www.cgglobal.com/products/smoke-extraction-motors"
+      },
+      {
+        "slug": "cg-power-fire-fighting-ul-listed-motors",
+        "name": "Fire fighting UL listed motors",
+        "group": "CG Power LT motors",
+        "image": "/media/products/cg-power-fire-fighting-ul-listed-motors.webp",
+        "brand": "CG Power",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "CG UL-listed motors in IEC and NEMA frames for fire-fighting pump duty, carrying the UL listing mark and control number on the rating plate."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Output : 0.55 kW to 200 kW"
+          },
+          {
+            "type": "feature",
+            "text": "Frame sizes : 90 to 315 (IEC and NEMA frames)"
+          },
+          {
+            "type": "feature",
+            "text": "Poles : 2, 4, 6, 8"
+          },
+          {
+            "type": "feature",
+            "text": "Supply : 415 V (others on request), 50 Hz"
+          },
+          {
+            "type": "feature",
+            "text": "Ambient : 50 °C"
+          },
+          {
+            "type": "feature",
+            "text": "Cooling : IC411"
+          },
+          {
+            "type": "feature",
+            "text": "Standards : UL 1004-1, UL 1004-5"
+          },
+          {
+            "type": "feature",
+            "text": "Finish : post box red ACP-536 / ACP-538"
+          }
+        ],
+        "models": ["UL 1004-5"],
+        "legacyIds": [],
+        "source": "https://www.cgglobal.com/products/fire-fighting-ul-listed-motors"
+      },
+      {
+        "slug": "cg-power-nema-premium-motors",
+        "name": "NEMA premium efficiency motors",
+        "group": "CG Power LT motors",
+        "image": "/media/products/cg-power-nema-premium-motors.webp",
+        "brand": "CG Power",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "CG NEMA Premium efficiency motors for the North American market in cast iron and aluminium enclosures, built to NEMA MG 1 and listed with DOE."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Output : 1 HP to 100 HP (cast iron); 1 HP to 10 HP (aluminium)"
+          },
+          {
+            "type": "feature",
+            "text": "Frame sizes : NEMA 143T to 405T (cast iron); 143T to 215T (aluminium)"
+          },
+          {
+            "type": "feature",
+            "text": "Poles : 2 to 6 cast iron, 2 to 8 aluminium (others on request)"
+          },
+          {
+            "type": "feature",
+            "text": "Supply : 460 / 575 V (cast iron), 60 Hz; service factor 1.15"
+          },
+          {
+            "type": "feature",
+            "text": "Protection : IP55 (others on request); ambient -20 °C to +40 °C"
+          },
+          {
+            "type": "feature",
+            "text": "Standards : NEMA MG 1, CSA C22.2 No. 100, UL 1004 (cast iron)"
+          },
+          {
+            "type": "feature",
+            "text": "Approvals : CSA, CE"
+          },
+          {
+            "type": "feature",
+            "text": "Drive : inverter duty to NEMA MG 1 Part 31"
+          }
+        ],
+        "legacyIds": [],
+        "source": "https://www.cgglobal.com/products/cast-iron-enclosure-motors"
+      },
+      {
+        "slug": "cg-power-crusher-duty-motors",
+        "name": "Crusher application motors",
+        "group": "CG Power LT motors",
+        "image": "/media/products/cg-power-crusher-duty-motors.webp",
+        "brand": "CG Power",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "CG crusher series motors for fluctuating loads and high starting demand, with a high-strength shaft and drive-end roller bearing to take shock loads."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Output : 45 kW to 250 kW"
+          },
+          {
+            "type": "feature",
+            "text": "Frame sizes : 225 to 355, cast iron"
+          },
+          {
+            "type": "feature",
+            "text": "Poles : 4 and 6"
+          },
+          {
+            "type": "feature",
+            "text": "Supply : 415 V (others on request), 50 Hz"
+          },
+          {
+            "type": "feature",
+            "text": "Insulation : Class F; VPI with epoxy gel coat on overhang"
+          },
+          {
+            "type": "feature",
+            "text": "Ambient : 50 °C"
+          },
+          {
+            "type": "feature",
+            "text": "Shaft and bearings : EN24 shaft; roller bearing at drive end"
+          },
+          {
+            "type": "feature",
+            "text": "Protection : space heater and 3 x PTC 150 °C from 280 frame"
+          }
+        ],
+        "legacyIds": [],
+        "source": "https://www.cgglobal.com/products/crusher-application-motors"
+      },
+      {
+        "slug": "cg-power-ac-generators-alternators",
+        "name": "AC generators / alternators (LV)",
+        "group": "CG Power LT motors",
+        "image": "/media/products/cg-power-ac-generators-alternators.webp",
+        "brand": "CG Power",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "CG low-voltage self-excited, self-regulated AC generators in brushless and slip ring designs, single and three phase, for generating sets and agro use."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Three-phase brushless : 5 kVA to 2250 kVA, 415 V, regulation ±1%"
+          },
+          {
+            "type": "feature",
+            "text": "Single-phase brushless : 5 kVA to 82.5 kVA, 240 V, regulation ±1%"
+          },
+          {
+            "type": "feature",
+            "text": "Three-phase slip ring : 5 kVA to 82.5 kVA, 415 V, regulation ±5%, frames 160 to 200"
+          },
+          {
+            "type": "feature",
+            "text": "Single-phase slip ring : 5 kVA to 20 kVA, 240 V, regulation ±5%, frames 160 to 200"
+          },
+          {
+            "type": "feature",
+            "text": "Speed : 1500 rpm, 4 pole; 50 Hz (60 Hz optional); 0.8 pf lagging"
+          },
+          {
+            "type": "feature",
+            "text": "Enclosure : SPDP, IP23; horizontal foot mounted (B3)"
+          },
+          {
+            "type": "feature",
+            "text": "Insulation : Class H; temperature rise within Class H limits"
+          },
+          {
+            "type": "feature",
+            "text": "Construction : single or double bearing (brushless); double bearing (slip ring)"
+          }
+        ],
+        "legacyIds": [],
+        "source": "https://www.cgglobal.com/products/three-phase-brushless-generator-lv"
+      },
+      {
+        "slug": "cg-power-dc-motors",
+        "name": "DC motors",
+        "group": "CG Power LT motors",
+        "image": "/media/products/cg-power-dc-motors.webp",
+        "brand": "CG Power",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "CG laminated yoke DC motors in IEC frames up to 560 for constant and variable speed drives, designed to run from 6-pulse thyristor supplies."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Output : 0.75 kW to 1320 kW"
+          },
+          {
+            "type": "feature",
+            "text": "Frame sizes : IEC 100 to 560"
+          },
+          {
+            "type": "feature",
+            "text": "Armature voltage : 440 V; field voltage : 220 V (others on request)"
+          },
+          {
+            "type": "feature",
+            "text": "Excitation : shunt / series"
+          },
+          {
+            "type": "feature",
+            "text": "Speed : 1500 rpm (others on request)"
+          },
+          {
+            "type": "feature",
+            "text": "Mounting : foot / flange / face"
+          },
+          {
+            "type": "feature",
+            "text": "Protection : IP23 (others on request)"
+          },
+          {
+            "type": "feature",
+            "text": "Insulation : Class F up to 132 frame; Class H from 160 frame"
+          },
+          {
+            "type": "feature",
+            "text": "Construction : fully laminated yoke, skewed rotor, VPI armature; DTG 400 tacho mounting"
+          }
+        ],
+        "legacyIds": [],
+        "source": "https://www.cgglobal.com/products/dc-motors"
+      },
+      {
+        "slug": "hindustan-ie2-high-efficiency-motors",
+        "name": "IE2 High Efficiency Standard Motors",
+        "group": "Hindustan LT motors",
+        "image": "/media/products/hindustan-ie2-high-efficiency-motors.webp",
+        "brand": "Hindustan",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Three-phase TEFC squirrel-cage induction motors in IE2 efficiency class for general safe-area industrial duty, built to IS and IEC standards."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Output : 0.12 kW to 315 kW"
+          },
+          {
+            "type": "feature",
+            "text": "Frames : 63 to 355LX"
+          },
+          {
+            "type": "feature",
+            "text": "Poles : 2, 4, 6 and 8"
+          },
+          {
+            "type": "feature",
+            "text": "Mounting : B3, B5, B14 and combinations"
+          },
+          {
+            "type": "feature",
+            "text": "Protection : IP55 (higher on request)"
+          },
+          {
+            "type": "feature",
+            "text": "Enclosure : TEFC"
+          },
+          {
+            "type": "feature",
+            "text": "Insulation : Class F, temperature rise limited to class B"
+          },
+          {
+            "type": "feature",
+            "text": "Supply : 415 V ±10%, 50 Hz ±5% or as required"
+          },
+          {
+            "type": "feature",
+            "text": "Ambient : 50 °C, up to 1000 m altitude"
+          }
+        ],
+        "models": ["2HE2"],
+        "legacyIds": [],
+        "source": "https://hindmotors.com/Products/IE2-HIGH-EFFCIENCY-STANDARD-MOTORS"
+      },
+      {
+        "slug": "hindustan-ie3-premium-efficiency-motors",
+        "name": "IE3 Premium Efficiency Standard Motors",
+        "group": "Hindustan LT motors",
+        "image": "/media/products/hindustan-ie3-premium-efficiency-motors.webp",
+        "brand": "Hindustan",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Three-phase TEFC squirrel-cage induction motors in IE3 premium efficiency class for continuous-duty safe-area applications, built to IS and IEC standards."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Output : 0.12 kW to 315 kW"
+          },
+          {
+            "type": "feature",
+            "text": "Frames : 63 to 355LX"
+          },
+          {
+            "type": "feature",
+            "text": "Poles : 2, 4, 6 and 8"
+          },
+          {
+            "type": "feature",
+            "text": "Mounting : B3, B5, B14 and combinations"
+          },
+          {
+            "type": "feature",
+            "text": "Protection : IP55 (higher on request)"
+          },
+          {
+            "type": "feature",
+            "text": "Enclosure : TEFC"
+          },
+          {
+            "type": "feature",
+            "text": "Insulation : Class F, temperature rise limited to class B"
+          },
+          {
+            "type": "feature",
+            "text": "Supply : 415 V ±10%, 50 Hz ±5% or as required"
+          },
+          {
+            "type": "feature",
+            "text": "Ambient : 50 °C, up to 1000 m altitude"
+          }
+        ],
+        "models": ["2HE3"],
+        "legacyIds": [],
+        "source": "https://hindmotors.com/Products/IE3-PREMIUM-EFFCIENCY-STANDARD-MOTORS"
+      },
+      {
+        "slug": "hindustan-ie4-super-premium-efficiency-motors",
+        "name": "IE4 Super Premium Efficiency Motors",
+        "group": "Hindustan LT motors",
+        "image": "/media/products/hindustan-ie4-super-premium-efficiency-motors.webp",
+        "brand": "Hindustan",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Cast-iron TEFC squirrel-cage induction motors in IE4 super premium efficiency class for safe areas, made to IS 12615 and IEC 60034-30-1."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Output : 0.37 kW to 200 kW"
+          },
+          {
+            "type": "feature",
+            "text": "Frames : 71 to 315L"
+          },
+          {
+            "type": "feature",
+            "text": "Poles : 2, 4, 6 and 8"
+          },
+          {
+            "type": "feature",
+            "text": "Mounting : B3, B5, B14 (up to 132 frame) and combinations"
+          },
+          {
+            "type": "feature",
+            "text": "Protection : IP55 (higher on request)"
+          },
+          {
+            "type": "feature",
+            "text": "Cooling : IC411, IC416, others on request"
+          },
+          {
+            "type": "feature",
+            "text": "Insulation : Class F, temperature rise limited to class B"
+          },
+          {
+            "type": "feature",
+            "text": "Standards : IS 12615, IEC 60034-30-1"
+          },
+          {
+            "type": "feature",
+            "text": "Bearings : Lubricated for life up to frame 180; re-lubrication arrangement on larger frames"
+          }
+        ],
+        "models": ["2HE4"],
+        "legacyIds": [],
+        "source": "https://hindmotors.com/Products/IE4-SUPER-PREMIUM-EFFCIENCY-MOTORS"
+      },
+      {
+        "slug": "hindustan-ie5-ultra-premium-efficiency-motors",
+        "name": "IE5 Ultra Premium Efficiency Motors",
+        "group": "Hindustan LT motors",
+        "image": "/media/products/hindustan-ie5-ultra-premium-efficiency-motors.webp",
+        "brand": "Hindustan",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "IE5 ultra premium efficiency induction motors that start direct-on-line or star-delta without an inverter; HEM also offers IE5 permanent magnet synchronous motors for inverter operation."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Output : Up to 75 kW (induction); up to 22 kW (PMSM)"
+          },
+          {
+            "type": "feature",
+            "text": "Frames : Up to 280MX (induction); up to 180L (PMSM)"
+          },
+          {
+            "type": "feature",
+            "text": "Poles : 2 and 4"
+          },
+          {
+            "type": "feature",
+            "text": "Mounting : B3, B5, B14 and combinations"
+          },
+          {
+            "type": "feature",
+            "text": "Protection : IP55 (higher on request)"
+          },
+          {
+            "type": "feature",
+            "text": "Cooling : IC411, IC416, others on request"
+          },
+          {
+            "type": "feature",
+            "text": "Insulation : Class F, temperature rise limited to class B"
+          },
+          {
+            "type": "feature",
+            "text": "Starting : DOL, star-delta, soft starter or VFD (induction); VFD only (PMSM)"
+          },
+          {
+            "type": "feature",
+            "text": "Supply : 415 V ±10%, 50 Hz ±5% or as required"
+          }
+        ],
+        "legacyIds": [],
+        "source": "https://ulcm.s3.us-east-1.amazonaws.com/hindmotors.com/images/pdf/HEM_All%20product%20Catalogue_07052025%20%281%29.PDF"
+      },
+      {
+        "slug": "hindustan-ie3-duplex-cooling-motors",
+        "name": "IE3 Duplex Cooling Motors",
+        "group": "Hindustan LT motors",
+        "image": "/media/products/hindustan-ie3-duplex-cooling-motors.webp",
+        "brand": "Hindustan",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Large-frame LT squirrel-cage motors with HEM's dual circuit cooling arrangement (external fan plus internal air circuit), for outputs that would otherwise need HT motors."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Output : 160 kW to 710 kW"
+          },
+          {
+            "type": "feature",
+            "text": "Frames : 315, 355 and 400 (to 400LX)"
+          },
+          {
+            "type": "feature",
+            "text": "Poles : 2, 4, 6 and 8"
+          },
+          {
+            "type": "feature",
+            "text": "Efficiency class : IE3"
+          },
+          {
+            "type": "feature",
+            "text": "Mounting : B3; B35/V1 on request"
+          },
+          {
+            "type": "feature",
+            "text": "Supply : 380 V to 690 V ±10%, 50 Hz ±5% or as required"
+          },
+          {
+            "type": "feature",
+            "text": "Protection : IP55"
+          },
+          {
+            "type": "feature",
+            "text": "Cooling : Dual circuit; IC411, IC416"
+          },
+          {
+            "type": "feature",
+            "text": "Starting : DOL, star-delta, soft starter or VFD"
+          }
+        ],
+        "models": ["2HD3"],
+        "legacyIds": [],
+        "source": "https://ulcm.s3.amazonaws.com/hindmotors.com/images/pdf/HEM_Duplex%20Cooling%20Motor_A4_6%20Pages_PDF.pdf"
+      },
+      {
+        "slug": "hindustan-multi-speed-motors",
+        "name": "Multi Speed Motors - Standard & Flameproof",
+        "group": "Hindustan LT motors",
+        "image": "",
+        "brand": "Hindustan",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Pole-changing TEFC induction motors giving two or more fixed speeds from one motor, in safe-area and flameproof versions."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Output : 0.075 kW to 132 kW (indicative)"
+          },
+          {
+            "type": "feature",
+            "text": "Frames : 71 to 355LX; flameproof 71 FLP to 315LX FLP"
+          },
+          {
+            "type": "feature",
+            "text": "Poles : 4/2, 8/4, 6/4, 8/6 and others"
+          },
+          {
+            "type": "feature",
+            "text": "Mounting : B3, B5, B14 and combinations"
+          },
+          {
+            "type": "feature",
+            "text": "Protection : IP55 (higher on request)"
+          },
+          {
+            "type": "feature",
+            "text": "Enclosure : TEFC"
+          },
+          {
+            "type": "feature",
+            "text": "Insulation : Class F"
+          },
+          {
+            "type": "feature",
+            "text": "Duty : S1"
+          },
+          {
+            "type": "feature",
+            "text": "Rotor : Squirrel cage and slip ring types"
+          }
+        ],
+        "models": ["2HS5"],
+        "legacyIds": [],
+        "source": "https://hindmotors.com/Products/Multi-Speed-Motors"
+      },
+      {
+        "slug": "hindustan-cooling-tower-motors",
+        "name": "Cooling Tower Motors - Standard & Flameproof",
+        "group": "Hindustan LT motors",
+        "image": "/media/products/hindustan-cooling-tower-motors.webp",
+        "brand": "Hindustan",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Totally enclosed B5 flange motors with a long shaft and threaded end so the fan blades mount directly, in standard and flameproof versions."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Output : 0.37 kW to 150 kW"
+          },
+          {
+            "type": "feature",
+            "text": "Frames : 71 to 355LX; flameproof 71 FLP to 315LX FLP"
+          },
+          {
+            "type": "feature",
+            "text": "Poles : 4, 6, 8, 10 and 12"
+          },
+          {
+            "type": "feature",
+            "text": "Mounting : B5 flange"
+          },
+          {
+            "type": "feature",
+            "text": "Protection : IP55"
+          },
+          {
+            "type": "feature",
+            "text": "Enclosure : TENV, cooling IC410"
+          },
+          {
+            "type": "feature",
+            "text": "Insulation : Class F, temperature rise limited to class B"
+          },
+          {
+            "type": "feature",
+            "text": "Duty : S1"
+          }
+        ],
+        "models": ["2KL2", "2HL1"],
+        "legacyIds": [],
+        "source": "https://hindmotors.com/products/cooling-tower-motor-standard-flameproof"
+      },
+      {
+        "slug": "hindustan-crane-duty-motors",
+        "name": "Crane Duty Motors",
+        "group": "Hindustan LT motors",
+        "image": "/media/products/hindustan-crane-duty-motors.webp",
+        "brand": "Hindustan",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Cast-iron TEFC squirrel-cage motors for cranes, hoists and material handling with frequent starts, stops and reversals."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Output : 0.18 kW to 200 kW"
+          },
+          {
+            "type": "feature",
+            "text": "Frames : 71 to 315LX"
+          },
+          {
+            "type": "feature",
+            "text": "Poles : 4, 6 and 8"
+          },
+          {
+            "type": "feature",
+            "text": "Duty : S3, S4 or S5"
+          },
+          {
+            "type": "feature",
+            "text": "Mounting : B3, B5, B14 and combinations"
+          },
+          {
+            "type": "feature",
+            "text": "Protection : IP55"
+          },
+          {
+            "type": "feature",
+            "text": "Enclosure : TEFC"
+          },
+          {
+            "type": "feature",
+            "text": "Insulation : Class F, temperature rise limited to class B"
+          },
+          {
+            "type": "feature",
+            "text": "Options : Integral DC fail-safe brake (up to 200L), PTC thermistors, VPI, space heaters"
+          }
+        ],
+        "models": ["2HC2"],
+        "legacyIds": [],
+        "source": "https://hindmotors.com/Products/Crane-Duty-Motors"
+      },
+      {
+        "slug": "hindustan-torque-motors",
+        "name": "Torque Motors",
+        "group": "Hindustan LT motors",
+        "image": "/media/products/hindustan-torque-motors.webp",
+        "brand": "Hindustan",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Small-frame torque motors from HEM, totally enclosed or force cooled, for low-power applications."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Output : 0.037 kW to 5.5 kW"
+          },
+          {
+            "type": "feature",
+            "text": "Torque : 0.048 to 3.57 kgm"
+          },
+          {
+            "type": "feature",
+            "text": "Frames : 63 to 160L"
+          },
+          {
+            "type": "feature",
+            "text": "Poles : 4, 6 and 8"
+          },
+          {
+            "type": "feature",
+            "text": "Mounting : B3, B5, B14 or special"
+          },
+          {
+            "type": "feature",
+            "text": "Protection : IP55"
+          },
+          {
+            "type": "feature",
+            "text": "Enclosure : TE or force cooled"
+          }
+        ],
+        "legacyIds": [],
+        "source": "https://ulcm.s3.amazonaws.com/hindmotors.com/images/pdf/HEM-Product_Leaflet.pdf"
+      },
+      {
+        "slug": "hindustan-fire-fighting-motors",
+        "name": "Fire Fighting Motors",
+        "group": "Hindustan LT motors",
+        "image": "/media/products/hindustan-fire-fighting-motors.webp",
+        "brand": "Hindustan",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "TEFC induction motors from HEM for fire-fighting pump drives, with performance to IS 12615."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Output : 3.7 kW to 250 kW"
+          },
+          {
+            "type": "feature",
+            "text": "Frames : 100L to 315LX"
+          },
+          {
+            "type": "feature",
+            "text": "Poles : 2 and 4"
+          },
+          {
+            "type": "feature",
+            "text": "Mounting : B3, B5, B14 or special"
+          },
+          {
+            "type": "feature",
+            "text": "Protection : IP55 (higher on request)"
+          },
+          {
+            "type": "feature",
+            "text": "Enclosure : TEFC"
+          },
+          {
+            "type": "feature",
+            "text": "Insulation : Class F, temperature rise limited to class F"
+          },
+          {
+            "type": "feature",
+            "text": "Ambient : 40 °C, up to 1000 m altitude"
+          },
+          {
+            "type": "feature",
+            "text": "Supply : 415 V ±10%, 50 Hz ±5% or as required"
+          }
+        ],
+        "models": ["2HF2"],
+        "legacyIds": [],
+        "source": "https://hindmotors.com/Products/Fire-Fighting-Motors"
+      },
+      {
+        "slug": "hindustan-flameproof-motors",
+        "name": "Flameproof Motors for Gas Groups IIA & IIB (Standard, IE2, IE3, IE4)",
+        "group": "Hindustan LT motors",
+        "image": "/media/products/hindustan-flameproof-motors.webp",
+        "brand": "Hindustan",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Ex d flameproof TEFC induction motors to IS/IEC 60079 for Zone 1 hazardous areas with gas groups IIA and IIB, in standard, IE2, IE3 and IE4 efficiency."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Output : 0.12 kW to 200 kW (IE4: 0.37 kW to 132 kW)"
+          },
+          {
+            "type": "feature",
+            "text": "Frames : 71 FLP to 315LX FLP (IE4: 80 FLP to 315LX FLP)"
+          },
+          {
+            "type": "feature",
+            "text": "Poles : 2, 4, 6 and 8"
+          },
+          {
+            "type": "feature",
+            "text": "Protection type : Ex d, IS/IEC 60079-0 and 60079-1"
+          },
+          {
+            "type": "feature",
+            "text": "Gas groups : IIA and IIB"
+          },
+          {
+            "type": "feature",
+            "text": "Temperature class : T3 to T6 (IE4)"
+          },
+          {
+            "type": "feature",
+            "text": "Mounting : B3, B5, B14 (up to 132 frame) and combinations"
+          },
+          {
+            "type": "feature",
+            "text": "Protection : IP55 (higher on request)"
+          },
+          {
+            "type": "feature",
+            "text": "Enclosure : TEFC"
+          },
+          {
+            "type": "feature",
+            "text": "Insulation : Class F, temperature rise limited to class B"
+          }
+        ],
+        "models": ["2FD1", "2FE2", "2FE3"],
+        "legacyIds": [],
+        "source": "https://hindmotors.com/products/high-efficiency-flameproof-motors-for-gas-groups-iia-iib-as-per-is-iec-60079"
+      }
+    ]
+  },
+  {
+    "slug": "gearboxes",
+    "name": "Gearboxes",
+    "headline": "Worm and helical reduction for your drive.",
+    "description": "Transtech and Bonfiglioli worm, heli-worm, double worm and in-line helical gearboxes and gear motors.",
+    "brand": "Transtech · Bonfiglioli",
+    "image": "/media/products/bonfiglioli-vf-w-series-worm-gearboxes.webp",
+    "selection": [
+      "Motor power and input (IEC motor flange or solid input shaft)",
+      "Output speed or ratio, and output torque",
+      "Mounting position, output shaft type and duty"
+    ],
+    "products": [
+      {
+        "slug": "transtech-tw-series-worm-gearboxes",
+        "name": "TW series worm geared units",
+        "group": "Worm gearboxes",
+        "image": "/media/products/transtech-tw-series-worm-gearboxes.webp",
+        "brand": "Transtech",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Universal-mounting worm gearboxes from Transtech Gears in nine frame sizes, TW30 to TW150, for IEC flange motor input or input solid shaft (ISS)."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Frame sizes : TW30, 40, 50, 63, 75, 90, 110, 130, 150"
+          },
+          {
+            "type": "feature",
+            "text": "Input power : 0.12 kW to 7.5 kW"
+          },
+          {
+            "type": "feature",
+            "text": "Gear ratios : 7.5 to 100"
+          },
+          {
+            "type": "feature",
+            "text": "Maximum output torque : 24 Nm (TW30) to 2120 Nm (TW150)"
+          },
+          {
+            "type": "feature",
+            "text": "Input : IEC motor flange F63 to F132 (B5, or B14 on TW30 to TW110), or input solid shaft"
+          },
+          {
+            "type": "feature",
+            "text": "Mounting : foot, flange (UFA, UFB, UFD), torque arm, foot cum flange"
+          },
+          {
+            "type": "feature",
+            "text": "Output options : hollow shaft, single or double output shaft, output flange, output side cover"
+          },
+          {
+            "type": "feature",
+            "text": "Housing : die-cast aluminium alloy up to TW90, cast iron from TW110"
+          },
+          {
+            "type": "feature",
+            "text": "Gearing : case-hardened 20Cr worm shaft (56-62 HRC), tin bronze worm wheel; lubricated for life"
+          }
+        ],
+        "models": [
+          "TW30",
+          "TW40",
+          "TW50",
+          "TW63",
+          "TW75",
+          "TW90",
+          "TW110",
+          "TW130",
+          "TW150",
+          "TW ISS"
+        ],
+        "legacyIds": [],
+        "source": "https://www.transtechgears.com/worm"
+      },
+      {
+        "slug": "transtech-th-series-inline-helical-gearboxes",
+        "name": "TH series in-line helical geared units",
+        "group": "Helical gearboxes",
+        "image": "/media/products/transtech-th-series-inline-helical-gearboxes.webp",
+        "brand": "Transtech",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "In-line helical gearboxes and geared motors from Transtech Gears in two- or three-stage reduction, frames TH20 to TH80, with cast iron housings."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Frame sizes : TH20, 25, 30, 35, 40, 50, 60, 80"
+          },
+          {
+            "type": "feature",
+            "text": "Reduction stages : 2 or 3"
+          },
+          {
+            "type": "feature",
+            "text": "Input power : 0.12 kW to 37 kW"
+          },
+          {
+            "type": "feature",
+            "text": "Gear ratios : 3.6 to 207.6"
+          },
+          {
+            "type": "feature",
+            "text": "Maximum output torque : 126 Nm (TH20) to 4200 Nm (TH80)"
+          },
+          {
+            "type": "feature",
+            "text": "Input : IEC motor flange F63 to F200 via modular coupling, or input solid shaft (ISS)"
+          },
+          {
+            "type": "feature",
+            "text": "Mounting : foot or flange"
+          },
+          {
+            "type": "feature",
+            "text": "Housing : cast iron, powder coated blue (RAL 5015)"
+          },
+          {
+            "type": "feature",
+            "text": "Gearing : case-hardened steel gears, profile ground; factory filled with lubricant"
+          }
+        ],
+        "models": [
+          "TH20",
+          "TH25",
+          "TH30",
+          "TH35",
+          "TH40",
+          "TH50",
+          "TH60",
+          "TH80",
+          "TH ISS"
+        ],
+        "legacyIds": [],
+        "source": "https://www.transtechgears.com/helical"
+      },
+      {
+        "slug": "transtech-hl-tw-series-heli-worm-gearboxes",
+        "name": "HL-TW series heli-worm gearboxes",
+        "group": "Worm gearboxes",
+        "image": "/media/products/transtech-hl-tw-series-heli-worm-gearboxes.webp",
+        "brand": "Transtech",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Helical-worm gearboxes from Transtech Gears: an HL helical pre-stage (HL63 to HL90) mounted on a TW worm gearbox, for overall ratios up to 300."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Helical pre-stages : HL63, HL71, HL80, HL90"
+          },
+          {
+            "type": "feature",
+            "text": "Worm stage : TW40 to TW130"
+          },
+          {
+            "type": "feature",
+            "text": "Pre-stage ratio : 3 (HL63 to HL80), 2.42 (HL90)"
+          },
+          {
+            "type": "feature",
+            "text": "Overall ratio : up to 300"
+          },
+          {
+            "type": "feature",
+            "text": "Motor input : IEC B5 flange, F63 to F90"
+          },
+          {
+            "type": "feature",
+            "text": "Mounting : foot or flange (UFA, UFB, UFD), torque arm; single or double output shaft options"
+          },
+          {
+            "type": "feature",
+            "text": "Housing : aluminium alloy up to size 90, cast iron from size 110"
+          }
+        ],
+        "models": [
+          "HL63",
+          "HL71",
+          "HL80",
+          "HL90",
+          "HL63-TW40",
+          "HL63-TW50",
+          "HL71-TW63",
+          "HL80-TW90",
+          "HL90-TW110"
+        ],
+        "legacyIds": [],
+        "source": "https://www.transtechgears.com/worm"
+      },
+      {
+        "slug": "transtech-tw-tw-series-double-worm-gearboxes",
+        "name": "TW/TW series double worm gearboxes",
+        "group": "Worm gearboxes",
+        "image": "/media/products/transtech-tw-tw-series-double-worm-gearboxes.webp",
+        "brand": "Transtech",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Double (combination) worm gearboxes from Transtech Gears, pairing two TW worm units for high reduction ratios from 150 up to 5000."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Combinations : TW30/40, 30/50, 30/63, 40/75, 40/90, 50/90, 50/110, 63/110, 63/130, 63/150"
+          },
+          {
+            "type": "feature",
+            "text": "Gear ratios : 150 to 5000"
+          },
+          {
+            "type": "feature",
+            "text": "Input : IEC motor flange F63 to F90 (B5 or B14), or input solid shaft"
+          },
+          {
+            "type": "feature",
+            "text": "Mounting : foot or flange (UFA, UFB, UFD), torque arm; positions AS, VS, PS and BS"
+          },
+          {
+            "type": "feature",
+            "text": "Output options : single or double output shaft, output side cover"
+          },
+          {
+            "type": "feature",
+            "text": "Housing : aluminium alloy up to size 90, cast iron from size 110"
+          }
+        ],
+        "models": [
+          "TW30/40",
+          "TW30/50",
+          "TW30/63",
+          "TW40/75",
+          "TW40/90",
+          "TW50/90",
+          "TW50/110",
+          "TW63/110",
+          "TW63/130",
+          "TW63/150",
+          "DW 50/90"
+        ],
+        "legacyIds": [],
+        "source": "https://www.transtechgears.com/worm"
+      },
+      {
+        "slug": "bonfiglioli-vf-w-series-worm-gearboxes",
+        "name": "VF-W series worm gearboxes and gearmotors",
+        "group": "Worm gearboxes",
+        "image": "/media/products/bonfiglioli-vf-w-series-worm-gearboxes.webp",
+        "brand": "Bonfiglioli",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Bonfiglioli universal worm gearboxes and gearmotors: VF units with aluminium cases (VF27 to VF49) or cast iron cases (VF130 to VF250), and W units with a monobloc aluminium case (W63 to W110)."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Frame sizes : VF27, VF30, VF44, VF49, VF130, VF150, VF185, VF210, VF250; W63, W75, W86, W110"
+          },
+          {
+            "type": "feature",
+            "text": "Output torque : 13 Nm (VF27) to 7100 Nm (VF250); W series 200 Nm (W63) to 830 Nm (W110)"
+          },
+          {
+            "type": "feature",
+            "text": "Gear ratios : 7 to 100 (single worm stage)"
+          },
+          {
+            "type": "feature",
+            "text": "Gearmotor power : 0.04 kW to 45 kW (catalogue rating charts)"
+          },
+          {
+            "type": "feature",
+            "text": "Also in the range : helical-worm VFR and WR units, and combined VF/VF, VF/W and W/VF gearboxes for higher ratios"
+          },
+          {
+            "type": "feature",
+            "text": "Input : IEC motor flange (B5, or B14 on VF30 to VF49 and W), Bonfiglioli compact motor, or solid input shaft"
+          },
+          {
+            "type": "feature",
+            "text": "Motors : IEC asynchronous BN, BE (IE2) and BX (IE3); compact M, ME (IE2) and MX (IE3)"
+          },
+          {
+            "type": "feature",
+            "text": "Mounting : foot, flange, shaft mount with torque arm; universal case on W units"
+          },
+          {
+            "type": "feature",
+            "text": "Output : keyed hollow shaft, plug-in solid shafts, optional torque limiter"
+          }
+        ],
+        "models": [
+          "VF27",
+          "VF30",
+          "VF44",
+          "VF49",
+          "VF130",
+          "VF150",
+          "VF185",
+          "VF210",
+          "VF250",
+          "W63",
+          "W75",
+          "W86",
+          "W110",
+          "VFR",
+          "WR",
+          "VF/VF",
+          "VF/W",
+          "W/VF"
+        ],
+        "legacyIds": [],
+        "source": "https://www.bonfiglioli.com/international/en/product/vf-w-series_industrial-gearmotors_right-angle-gear-units"
+      },
+      {
+        "slug": "bonfiglioli-as-series-helical-inline-gearmotors",
+        "name": "AS series helical in-line gearmotors and units",
+        "group": "Helical gearboxes",
+        "image": "/media/products/bonfiglioli-as-series-helical-inline-gearmotors.webp",
+        "brand": "Bonfiglioli",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Bonfiglioli in-line (coaxial) helical gearboxes and gearmotors in eleven sizes, AS16 to AS100, for foot or flange mounting, with IEC motor coupling or solid input shaft."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Frame sizes : AS16, 20, 25, 30, 35, 45, 55, 60, 80, 90, 100"
+          },
+          {
+            "type": "feature",
+            "text": "Output torque : 50 Nm (AS16) to 12000 Nm (AS100)"
+          },
+          {
+            "type": "feature",
+            "text": "Gear ratios : 4.34 to 202.1"
+          },
+          {
+            "type": "feature",
+            "text": "Transmissible mechanical power : 0.09 kW to 222 kW"
+          },
+          {
+            "type": "feature",
+            "text": "Mounting : foot (P) or flange (F); reinforced-bearing versions on selected sizes"
+          },
+          {
+            "type": "feature",
+            "text": "Input : IEC motor coupling or solid input shaft"
+          },
+          {
+            "type": "feature",
+            "text": "Motors : IEC asynchronous BN, BE, BX; BSR reluctance; BS single phase"
+          },
+          {
+            "type": "feature",
+            "text": "Options : surface protection up to C5, reduced backlash, torque arm, fluoroelastomer oil seals, Taconite seals"
+          }
+        ],
+        "models": [
+          "AS16",
+          "AS20",
+          "AS25",
+          "AS30",
+          "AS35",
+          "AS45",
+          "AS55",
+          "AS60",
+          "AS80",
+          "AS90",
+          "AS100"
+        ],
+        "legacyIds": [],
+        "source": "https://www.bonfiglioli.com/india/en/product/as-series_industrial-gearmotors_in-line-geared-units"
       }
     ]
   }

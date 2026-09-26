@@ -26,8 +26,9 @@ or a conversation about a new requirement.
 ## Positioning
 
 A local supplier with range and continuity: more than 10,000 clients since
-2007, 350+ products across nine ranges (CG-Emotron, Renu, Jayashree, Sapcon,
-Endress+Hauser, Dynaflux and others), supplied and supported from Hyderabad.
+2007, 350+ products across ten ranges (CG-Emotron, Renu, Jayashree, Sapcon,
+Endress+Hauser, Dynaflux, CG Power, Hindustan, Transtech, Bonfiglioli and
+others), supplied and supported from Hyderabad.
 Sister company of Aseiro Industries (aseiro.com), which handles machine
 vision and integration.
 
@@ -43,7 +44,7 @@ vision and integration.
 
 ## Capabilities and Constraints
 
-- The catalogue is incomplete: 105 products are listed while VAP carries
+- The catalogue is incomplete: 155 products are listed while VAP carries
   350+. The owner will supply the missing products (pending, 2026-09-26).
 - Product images must show the exact product, from the manufacturer's own
   site, catalogue or brochure where possible, on a white background.
@@ -51,8 +52,9 @@ vision and integration.
   substitute a different model's photo.
 - Where no official photo exists, the product shows a "Photo on request"
   field instead of a lookalike. RM D131/D151 is one: its old photo was
-  Jayashree's "Belt Load Monitor", and Jayashree no longer shows the series
-  (possibly discontinued; owner to confirm).
+  Jayashree's "Belt Load Monitor" (now used for that product's own listing),
+  and Jayashree's website does not show the series (possibly discontinued;
+  owner to confirm).
 - Never invent figures, prices or claims.
 
 ## Brand Commitments

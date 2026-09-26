@@ -1,0 +1,931 @@
+{
+  "updated": "2026-09-26",
+  "note": "Public manufacturer sources for the catalogue listings added in September 2026. Specifications are paraphrased from these sources; confirm current manufacturer documentation before ordering. Why listed: listed on VAP's instruction from its supplier range.",
+  "listings": [
+    {
+      "route": "/products/industrial-automation-solution/renu-flexipanels-fp4-series-hmi",
+      "name": "FlexiPanels FP4 Series HMI",
+      "manufacturer": "Renu Electronics",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "FP4070TN product page",
+          "url": "https://www.renuelectronics.com/product/industrial-automation/hmi/fp4-series/fp4tn-series/FP4070TN"
+        },
+        {
+          "title": "FP4070TN-E product page",
+          "url": "https://www.renuelectronics.com/product/industrial-automation/hmi-with-ios/fp4-series-advanced-hmi-with-io/fp4-hmi-with-io/FP4070TN-E"
+        },
+        {
+          "title": "FP4101TN-E product page",
+          "url": "https://www.renuelectronics.com/product/industrial-automation/hmi-with-ios/fp4-series-advanced-hmi-with-io/fp4-hmi-with-io/FP4101TN-E"
+        },
+        {
+          "title": "FP4070TN datasheet",
+          "url": "https://www.renuelectronics.com/storage/cms/products/technical_informations/198/fp4070tn-r11.pdf"
+        }
+      ]
+    },
+    {
+      "route": "/products/industrial-automation-solution/renu-fpem-v2-pluggable-io-modules",
+      "name": "FPEM-V2 Pluggable I/O Modules for FP2 and FP4 Series",
+      "manufacturer": "Renu Electronics",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "FPEM-1614RP-V2 product page",
+          "url": "https://www.renuelectronics.com/product/industrial-automation/hmi-with-ios/fp-series-expansion-io/fpemv2/FPEM-1614RP-V2"
+        },
+        {
+          "title": "FPEM-1614RP-V2 datasheet",
+          "url": "https://www.renuelectronics.com/storage/cms/products/technical_informations/153/ds-fpem-1614rp-v2-r11.pdf"
+        }
+      ]
+    },
+    {
+      "route": "/products/industrial-automation-solution/renu-flexilogics-fl055-standard-series-plc",
+      "name": "FlexiLogics FL055 Standard Series PLC",
+      "manufacturer": "Renu Electronics",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "FL055-0806R-V2 product page",
+          "url": "https://www.renuelectronics.com/product/industrial-automation/flexilogics-plc/standard-series-plc/fl055v2/FL055-0806R-V2"
+        },
+        {
+          "title": "FL055-V2 datasheet",
+          "url": "https://www.renuelectronics.com/storage/cms/products/technical_informations/14/fl055-v2-datasheet-r11.pdf"
+        }
+      ]
+    },
+    {
+      "route": "/products/industrial-automation-solution/renu-flexilogics-fl-expansion-io-modules",
+      "name": "FlexiLogics FL Expansion I/O Modules",
+      "manufacturer": "Renu Electronics",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "FLD-0808R-V2 product page",
+          "url": "https://www.renuelectronics.com/product/industrial-automation/flexilogics-plc/fl-expansion-io/digital-expansion/FLD-0808R-V2"
+        },
+        {
+          "title": "FLD-0808R-V2 datasheet",
+          "url": "https://www.renuelectronics.com/storage/cms/products/technical_informations/208/ds-fld-0808r-v2-r11.pdf"
+        },
+        {
+          "title": "FLA0402U-V2 datasheet",
+          "url": "https://www.renuelectronics.com/storage/cms/products/technical_informations/235/ds-fla0402u-v2.pdf"
+        }
+      ]
+    },
+    {
+      "route": "/products/industrial-automation-solution/renu-fl001-series-field-io-modules",
+      "name": "FL001 Series Field I/O Modules",
+      "manufacturer": "Renu Electronics",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "FL001D-0808R-V3 product page",
+          "url": "https://www.renuelectronics.com/product/industrial-automation/field-ios/field-io-series-digital/fl001d-series/FL001D-0808R-V3"
+        },
+        {
+          "title": "FL001A-0800L-V3 product page",
+          "url": "https://www.renuelectronics.com/product/industrial-automation/field-ios/field-io-series-analog/fl001a-series/FL001A-0800L-V3"
+        },
+        {
+          "title": "FL001D-0808R-V3 datasheet",
+          "url": "https://www.renuelectronics.com/storage/cms/products/technical_informations/171/ds-fl001d-0808r-v3-r11.pdf"
+        }
+      ]
+    },
+    {
+      "route": "/products/industrial-automation-solution/renu-fioa-series-analog-field-io-modules",
+      "name": "FIOA Series Analog Field I/O Modules",
+      "manufacturer": "Renu Electronics",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "FIOA-0402-U-16-B product page",
+          "url": "https://www.renuelectronics.com/product/industrial-automation/field-ios/field-io-series-analog/fioa-series/fioa0402u16b"
+        },
+        {
+          "title": "FIOA-0402-U-16 datasheet",
+          "url": "https://www.renuelectronics.com/storage/cms/products/technical_informations/69/fioa0402u-16-1653026361.pdf"
+        }
+      ]
+    },
+    {
+      "route": "/products/industrial-automation-solution/renu-wp6-plus-series-web-panels",
+      "name": "WP6 Plus Series HTML5 Web Panels",
+      "manufacturer": "Renu Electronics",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "WP6070TN Plus product page",
+          "url": "https://www.renuelectronics.com/product/industrial-automation/web-panel-series/wp6-plus-/wp6tn-plus-series/WP6070TN-Plus"
+        },
+        {
+          "title": "WP6070TN Plus datasheet",
+          "url": "https://www.renuelectronics.com/storage/cms/products/technical_informations/41/wp6070tn-plus-updated-r11.pdf"
+        }
+      ]
+    },
+    {
+      "route": "/products/industrial-automation-solution/renu-wp2-lite-series-web-panels",
+      "name": "WP2 Lite Series Microbrowser Web Panels",
+      "manufacturer": "Renu Electronics",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "WP2070TN Lite product page",
+          "url": "https://www.renuelectronics.com/product/industrial-automation/web-panel-series/wp2-lite/wp2tn-lite-series/WP2070TN-Lite"
+        },
+        {
+          "title": "WP2070TN Lite datasheet",
+          "url": "https://www.renuelectronics.com/storage/cms/products/technical_informations/134/wp2070tn-lite-datasheet-r11.pdf"
+        }
+      ]
+    },
+    {
+      "route": "/products/industrial-automation-solution/renu-gwy-300-can-gateway",
+      "name": "GWY-300 CAN Gateway",
+      "manufacturer": "Renu Electronics",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "GWY-300 product page",
+          "url": "https://www.renuelectronics.com/product/industrial-automation/gateway/gateway1/gateway2/GWY-300"
+        },
+        {
+          "title": "GWY-300 datasheet",
+          "url": "https://www.renuelectronics.com/storage/cms/products/technical_informations/63/gwy-300-1652872428.pdf"
+        }
+      ]
+    },
+    {
+      "route": "/products/industrial-automation-solution/renu-gwy-610-ethernet-gateway",
+      "name": "GWY-610 Ethernet Gateway",
+      "manufacturer": "Renu Electronics",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "GWY-610 product page",
+          "url": "https://www.renuelectronics.com/product/industrial-automation/gateway/gateway1/gateway2/GWY-610"
+        },
+        {
+          "title": "GWY-610 datasheet",
+          "url": "https://www.renuelectronics.com/storage/cms/products/technical_informations/66/gwy-610-1652950982.pdf"
+        }
+      ]
+    },
+    {
+      "route": "/products/industrial-automation-solution/renu-gwy-920-programmable-gsm-gateway",
+      "name": "GWY-920 Programmable GSM Gateway",
+      "manufacturer": "Renu Electronics",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "GWY920-LTE-S2 product page",
+          "url": "https://www.renuelectronics.com/product/industrial-automation/gateway/gateway1/gateway2/GWY920-LTE-S2"
+        },
+        {
+          "title": "GWY920-LTE-S2 datasheet",
+          "url": "https://www.renuelectronics.com/storage/cms/products/technical_informations/157/ds-gwy-920-lte-s2-r11.pdf"
+        }
+      ]
+    },
+    {
+      "route": "/products/industrial-automation-solution/renu-cnv-02-b-serial-converter",
+      "name": "CNV-02-B RS232 / CMOS to RS422 / RS485 Converter",
+      "manufacturer": "Renu Electronics",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "CNV-02-B product page",
+          "url": "https://www.renuelectronics.com/product/industrial-automation/converter/converters/universal-signal-converter-/cnv02b"
+        },
+        {
+          "title": "RS converter datasheet",
+          "url": "https://www.renuelectronics.com/storage/cms/products/technical_informations/113/rsconverter-1654492935.pdf"
+        }
+      ]
+    },
+    {
+      "route": "/products/industrial-automation-solution/renu-cnv-03-b-rs485-repeater",
+      "name": "CNV-03-B RS422 / RS485 Repeater",
+      "manufacturer": "Renu Electronics",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "CNV-03-B product page",
+          "url": "https://www.renuelectronics.com/product/industrial-automation/converter/repeaters/rs485-repeater/cnv03b"
+        },
+        {
+          "title": "CNV-03 datasheet",
+          "url": "https://www.renuelectronics.com/storage/cms/products/technical_informations/114/cnv03-1654493363.pdf"
+        }
+      ]
+    },
+    {
+      "route": "/products/incremental-encoders/jayashree-j-50h-t-size-50-hollow-shaft-encoder",
+      "name": "Size 50 hollow shaft encoder J-50H/T",
+      "manufacturer": "Jayashree",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "Size 50 Hollow Shaft Encoder J-50H/T - Jencoder",
+          "url": "https://jencoder.com/products/j-50h-t/"
+        },
+        {
+          "title": "J-50H/T datasheet (Jayashree Encoders)",
+          "url": "https://jencoder.com/wp-content/uploads/2023/05/J-50-H-T.pdf",
+          "page": "1-2"
+        }
+      ]
+    },
+    {
+      "route": "/products/incremental-encoders/jayashree-j-50s-size-50-solid-shaft-encoder",
+      "name": "Size 50 shaft encoder J-50S",
+      "manufacturer": "Jayashree",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "Size 50 Shaft Encoder J-50S - Jencoder",
+          "url": "https://jencoder.com/products/size-50-shaft-encoder-j-50s/"
+        }
+      ]
+    },
+    {
+      "route": "/products/conveyor-safety-switches/jayashree-sw-4311-belt-load-monitor",
+      "name": "Belt load monitor",
+      "manufacturer": "Jayashree",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "Conveyor Safety Switches - Jayashree Electrodevices (model SW-4311-22)",
+          "url": "https://jayashree-electrodevices.com/conveyor-safety-switches/"
+        },
+        {
+          "title": "Conveyor Safety Switches - Jayashree Electron (Belt Load Monitor)",
+          "url": "https://www.jayashree.co.in/conveyor-safety-switches"
+        },
+        {
+          "title": "Electronic Speed Switches catalogue, Jayashree Electron (Products for conveyor belt safety)",
+          "url": "https://www.jayashree.co.in/web-assets/pdf/speed-switches.pdf",
+          "page": "7"
+        }
+      ]
+    },
+    {
+      "route": "/products/conveyor-safety-switches/jayashree-sw-4321-belt-tear-switch",
+      "name": "Belt tear switch",
+      "manufacturer": "Jayashree",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "Conveyor Safety Switches - Jayashree Electrodevices (model SW-4321E22P)",
+          "url": "https://jayashree-electrodevices.com/conveyor-safety-switches/"
+        },
+        {
+          "title": "Conveyor Safety Switches - Jayashree Electron (Belt Tear / Rupture Monitor)",
+          "url": "https://www.jayashree.co.in/conveyor-safety-switches"
+        }
+      ]
+    },
+    {
+      "route": "/products/conveyor-safety-switches/jayashree-sw-4010-v-lever-toggle-limit-switch",
+      "name": "V-lever / toggle limit switch",
+      "manufacturer": "Jayashree",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "Photo on request",
+      "sources": [
+        {
+          "title": "Conveyor Safety Switches - Jayashree Electrodevices (model SW-4010H22/11)",
+          "url": "https://jayashree-electrodevices.com/conveyor-safety-switches/"
+        }
+      ]
+    },
+    {
+      "route": "/products/ac-dc-motors/dynaflux-d90-pmdc-motors",
+      "name": "D90 Series PMDC Motors / Geared Motors",
+      "manufacturer": "MMC Electric Co. (Dynaflux)",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "PMDC Motors / Geared Motors - D90 Series",
+          "url": "https://www.dynafluxindia.com/D90-Series-PMDC-Motors.php"
+        },
+        {
+          "title": "Dynaflux D 90 Series P. M. DC Motors datasheet (P2)",
+          "url": "https://www.dynafluxindia.com/new-pdf/P2.pdf",
+          "page": "1"
+        },
+        {
+          "title": "Dynaflux D 90 Industrial Grade Inline / Worm Geared P. M. DC Motors datasheet (P2A)",
+          "url": "https://www.dynafluxindia.com/new-pdf/P2A.pdf",
+          "page": "1"
+        }
+      ]
+    },
+    {
+      "route": "/products/ac-dc-motors/dynaflux-d118-industrial-pmdc-motors",
+      "name": "D118 Series Industrial Grade PMDC Motors / Geared Motors",
+      "manufacturer": "MMC Electric Co. (Dynaflux)",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "PMDC Motors / Geared Motors - D118 Series",
+          "url": "https://www.dynafluxindia.com/D118-Series-PMDC-Motors.php"
+        },
+        {
+          "title": "Dynaflux D 118 Industrial Grade P. M. DC Motors / Worm Geared datasheet (P3)",
+          "url": "https://www.dynafluxindia.com/new-pdf/P3.pdf",
+          "page": "1"
+        },
+        {
+          "title": "Dynaflux D 118 Industrial Grade Planetary Geared P. M. DC Motors datasheet (P3A)",
+          "url": "https://www.dynafluxindia.com/new-pdf/P3A.pdf",
+          "page": "1"
+        }
+      ]
+    },
+    {
+      "route": "/products/ac-dc-motors/dynaflux-battery-operated-pmdc-motors",
+      "name": "Battery Operated PMDC Motors / Geared Motors (D118, D127 & D142)",
+      "manufacturer": "MMC Electric Co. (Dynaflux)",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "Dynaflux D118 Battery Operated P.M. DC Motors / Worm Geared datasheet (P4)",
+          "url": "https://www.dynafluxindia.com/new-pdf/P4.pdf",
+          "page": "1"
+        },
+        {
+          "title": "Dynaflux D 118 Battery Operated Planetary Geared P. M. DC Motors datasheet (P4A)",
+          "url": "https://www.dynafluxindia.com/new-pdf/P4A.pdf",
+          "page": "1"
+        },
+        {
+          "title": "Dynaflux D 127 & 142 Battery Operated P. M. DC Motors / Worm Geared datasheet (P6)",
+          "url": "https://www.dynafluxindia.com/new-pdf/P6.pdf",
+          "page": "1"
+        },
+        {
+          "title": "Dynaflux D 127 & 142 Battery Operated Planetary Geared P. M. DC Motors datasheet (P6A)",
+          "url": "https://www.dynafluxindia.com/new-pdf/P6A.pdf",
+          "page": "1"
+        }
+      ]
+    },
+    {
+      "route": "/products/ac-dc-motors/cg-power-ie2-ie3-apex-series-motors",
+      "name": "IE2 / IE3 Apex series general purpose motors",
+      "manufacturer": "CG Power and Industrial Solutions",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "IE2 / IE3 Apex series General Purpose Motors - cgglobal.com",
+          "url": "https://www.cgglobal.com/products/ie2-ie3apex-series-general-purpose-motors"
+        },
+        {
+          "title": "Apex Series IE2 motors catalogue (Crompton Greaves)",
+          "page": "5-6 (aluminium GD and cast iron NG/ND frame specifications: insulation, temperature rise)"
+        }
+      ]
+    },
+    {
+      "route": "/products/ac-dc-motors/cg-power-ie4-apex-series-super-premium-motors",
+      "name": "IE4 Apex series general purpose motors (super premium)",
+      "manufacturer": "CG Power and Industrial Solutions",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "IE4 Apex Series General Purpose Motors (Super Premium) - cgglobal.com",
+          "url": "https://www.cgglobal.com/products/ie4-apex-series-general-purpose-motors-super-premium"
+        }
+      ]
+    },
+    {
+      "route": "/products/ac-dc-motors/cg-power-axelera-process-performance-motors",
+      "name": "AXELERA process performance IE3 / IE4 motors",
+      "manufacturer": "CG Power and Industrial Solutions",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "AXELERA Process Performance IE3/IE4 Motors - cgglobal.com",
+          "url": "https://www.cgglobal.com/products/axelera-process-performance-ie3ie4-motors"
+        }
+      ]
+    },
+    {
+      "route": "/products/ac-dc-motors/cg-power-flameproof-motors-ex-db",
+      "name": "Flameproof motors Ex 'db' (LV)",
+      "manufacturer": "CG Power and Industrial Solutions",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "Flame Proof Motors Ex 'db' (LV) - cgglobal.com",
+          "url": "https://www.cgglobal.com/products/flame-proof-motors-ex-db-lv"
+        },
+        {
+          "title": "Low Tension Motors - cgglobal.com (flameproof gas group IIA, IIB & IIC approvals)",
+          "url": "https://www.cgglobal.com/subcategories/low-tension-motors"
+        }
+      ]
+    },
+    {
+      "route": "/products/ac-dc-motors/cg-power-slip-ring-motors",
+      "name": "Slip ring motors (LV)",
+      "manufacturer": "CG Power and Industrial Solutions",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "Slip Ring Motors (LV) - cgglobal.com",
+          "url": "https://www.cgglobal.com/products/slip-ring-motors-lv"
+        }
+      ]
+    },
+    {
+      "route": "/products/ac-dc-motors/cg-power-kibosh-brake-motors",
+      "name": "Kibosh brake motors",
+      "manufacturer": "CG Power and Industrial Solutions",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "Brake Motors - cgglobal.com",
+          "url": "https://www.cgglobal.com/products/brake-motors"
+        }
+      ]
+    },
+    {
+      "route": "/products/ac-dc-motors/cg-power-smoke-extraction-motors",
+      "name": "Smoke extraction motors",
+      "manufacturer": "CG Power and Industrial Solutions",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "Smoke Extraction Motors - cgglobal.com",
+          "url": "https://www.cgglobal.com/products/smoke-extraction-motors"
+        }
+      ]
+    },
+    {
+      "route": "/products/ac-dc-motors/cg-power-fire-fighting-ul-listed-motors",
+      "name": "Fire fighting UL listed motors",
+      "manufacturer": "CG Power and Industrial Solutions",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "Fire Fighting - UL Listed Motors - cgglobal.com",
+          "url": "https://www.cgglobal.com/products/fire-fighting-ul-listed-motors"
+        }
+      ]
+    },
+    {
+      "route": "/products/ac-dc-motors/cg-power-nema-premium-motors",
+      "name": "NEMA premium efficiency motors",
+      "manufacturer": "CG Power and Industrial Solutions",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "Cast Iron Enclosure Motors (NEMA Premium) - cgglobal.com",
+          "url": "https://www.cgglobal.com/products/cast-iron-enclosure-motors"
+        },
+        {
+          "title": "Aluminium Enclosure Motors (NEMA Premium) - cgglobal.com",
+          "url": "https://www.cgglobal.com/products/aluminium-enclosure-motors"
+        }
+      ]
+    },
+    {
+      "route": "/products/ac-dc-motors/cg-power-crusher-duty-motors",
+      "name": "Crusher application motors",
+      "manufacturer": "CG Power and Industrial Solutions",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "Crusher Application Motors - cgglobal.com",
+          "url": "https://www.cgglobal.com/products/crusher-application-motors"
+        }
+      ]
+    },
+    {
+      "route": "/products/ac-dc-motors/cg-power-ac-generators-alternators",
+      "name": "AC generators / alternators (LV)",
+      "manufacturer": "CG Power and Industrial Solutions",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "Three Phase Brushless Generator - LV - cgglobal.com",
+          "url": "https://www.cgglobal.com/products/three-phase-brushless-generator-lv"
+        },
+        {
+          "title": "Single Phase Brushless Generator - LV - cgglobal.com",
+          "url": "https://www.cgglobal.com/products/single-phase-brushless-generator-lv"
+        },
+        {
+          "title": "Three-Phase Slip Ring Generator - LV - cgglobal.com",
+          "url": "https://www.cgglobal.com/products/three-phase-slip-ring-generator-lv"
+        },
+        {
+          "title": "Single-Phase Slip Ring Generator - cgglobal.com",
+          "url": "https://www.cgglobal.com/products/single-phase-slip-ring-generator"
+        }
+      ]
+    },
+    {
+      "route": "/products/ac-dc-motors/cg-power-dc-motors",
+      "name": "DC motors",
+      "manufacturer": "CG Power and Industrial Solutions",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "DC Motors - cgglobal.com",
+          "url": "https://www.cgglobal.com/products/dc-motors"
+        }
+      ]
+    },
+    {
+      "route": "/products/ac-dc-motors/hindustan-ie2-high-efficiency-motors",
+      "name": "IE2 High Efficiency Standard Motors",
+      "manufacturer": "Hindustan Electric Motors",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "IE2 High Efficiency Standard Motors",
+          "url": "https://hindmotors.com/Products/IE2-HIGH-EFFCIENCY-STANDARD-MOTORS"
+        },
+        {
+          "title": "Hindustan Electric Motors all product catalogue (07-05-2025) - IE3 & IE2 Motors",
+          "url": "https://ulcm.s3.us-east-1.amazonaws.com/hindmotors.com/images/pdf/HEM_All%20product%20Catalogue_07052025%20%281%29.PDF",
+          "page": "12"
+        },
+        {
+          "title": "Hindustan Electric Motors technical catalogue D09-2023 - Product range; electrical performance IE2 motors",
+          "page": "4, 16-19"
+        }
+      ]
+    },
+    {
+      "route": "/products/ac-dc-motors/hindustan-ie3-premium-efficiency-motors",
+      "name": "IE3 Premium Efficiency Standard Motors",
+      "manufacturer": "Hindustan Electric Motors",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "IE3 Premium Efficiency Standard Motors",
+          "url": "https://hindmotors.com/Products/IE3-PREMIUM-EFFCIENCY-STANDARD-MOTORS"
+        },
+        {
+          "title": "Hindustan Electric Motors all product catalogue (07-05-2025) - IE3 & IE2 Motors",
+          "url": "https://ulcm.s3.us-east-1.amazonaws.com/hindmotors.com/images/pdf/HEM_All%20product%20Catalogue_07052025%20%281%29.PDF",
+          "page": "12"
+        },
+        {
+          "title": "Hindustan Electric Motors technical catalogue D09-2023 - Product range; electrical performance IE3 motors",
+          "page": "4, 20-23"
+        }
+      ]
+    },
+    {
+      "route": "/products/ac-dc-motors/hindustan-ie4-super-premium-efficiency-motors",
+      "name": "IE4 Super Premium Efficiency Motors",
+      "manufacturer": "Hindustan Electric Motors",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "IE4 Super Premium Efficiency Motors",
+          "url": "https://hindmotors.com/Products/IE4-SUPER-PREMIUM-EFFCIENCY-MOTORS"
+        },
+        {
+          "title": "Hindustan Electric Motors all product catalogue (07-05-2025) - IE4 Motors",
+          "url": "https://ulcm.s3.us-east-1.amazonaws.com/hindmotors.com/images/pdf/HEM_All%20product%20Catalogue_07052025%20%281%29.PDF",
+          "page": "9"
+        },
+        {
+          "title": "Hindustan Electric Motors Ultra (IE5) & Super (IE4) Premium Efficiency Motors brochure - IE4 Motors, Safe Area",
+          "url": "https://ulcm.s3.amazonaws.com/hindmotors.com/images/pdf/HEM_IE5_IE4_Motor.pdf",
+          "page": "5"
+        }
+      ]
+    },
+    {
+      "route": "/products/ac-dc-motors/hindustan-ie5-ultra-premium-efficiency-motors",
+      "name": "IE5 Ultra Premium Efficiency Motors",
+      "manufacturer": "Hindustan Electric Motors",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "Hindustan Electric Motors all product catalogue (07-05-2025) - IE5 Motors",
+          "url": "https://ulcm.s3.us-east-1.amazonaws.com/hindmotors.com/images/pdf/HEM_All%20product%20Catalogue_07052025%20%281%29.PDF",
+          "page": "8"
+        },
+        {
+          "title": "Hindustan Electric Motors Ultra (IE5) & Super (IE4) Premium Efficiency Motors brochure - IE5 Motors",
+          "url": "https://ulcm.s3.amazonaws.com/hindmotors.com/images/pdf/HEM_IE5_IE4_Motor.pdf",
+          "page": "3"
+        }
+      ]
+    },
+    {
+      "route": "/products/ac-dc-motors/hindustan-ie3-duplex-cooling-motors",
+      "name": "IE3 Duplex Cooling Motors",
+      "manufacturer": "Hindustan Electric Motors",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "Hindustan Electric Motors Duplex Cooling Motor brochure",
+          "url": "https://ulcm.s3.amazonaws.com/hindmotors.com/images/pdf/HEM_Duplex%20Cooling%20Motor_A4_6%20Pages_PDF.pdf",
+          "page": "2, 5"
+        },
+        {
+          "title": "Hindustan Electric Motors all product catalogue (07-05-2025) - Duplex Cooling Motors",
+          "url": "https://ulcm.s3.us-east-1.amazonaws.com/hindmotors.com/images/pdf/HEM_All%20product%20Catalogue_07052025%20%281%29.PDF",
+          "page": "11"
+        },
+        {
+          "title": "Hindustan Electric Motors product catalogues page",
+          "url": "https://hindmotors.com/product-catalogues"
+        }
+      ]
+    },
+    {
+      "route": "/products/ac-dc-motors/hindustan-multi-speed-motors",
+      "name": "Multi Speed Motors - Standard & Flameproof",
+      "manufacturer": "Hindustan Electric Motors",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "Photo on request",
+      "sources": [
+        {
+          "title": "Multi Speed Motors - Standard & Flameproof",
+          "url": "https://hindmotors.com/Products/Multi-Speed-Motors"
+        },
+        {
+          "title": "Hindustan Electric Motors all product catalogue (07-05-2025) - Multi-Speed Motors (Standard and Flameproof)",
+          "url": "https://ulcm.s3.us-east-1.amazonaws.com/hindmotors.com/images/pdf/HEM_All%20product%20Catalogue_07052025%20%281%29.PDF",
+          "page": "16"
+        }
+      ]
+    },
+    {
+      "route": "/products/ac-dc-motors/hindustan-cooling-tower-motors",
+      "name": "Cooling Tower Motors - Standard & Flameproof",
+      "manufacturer": "Hindustan Electric Motors",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "Cooling Tower Motor - Standard & Flameproof",
+          "url": "https://hindmotors.com/products/cooling-tower-motor-standard-flameproof"
+        },
+        {
+          "title": "Hindustan Electric Motors all product catalogue (07-05-2025) - Cooling Tower Motors",
+          "url": "https://ulcm.s3.us-east-1.amazonaws.com/hindmotors.com/images/pdf/HEM_All%20product%20Catalogue_07052025%20%281%29.PDF",
+          "page": "17"
+        },
+        {
+          "title": "Hindustan Electric Motors technical catalogue D09-2023 - Cooling tower motor",
+          "page": "34-35"
+        }
+      ]
+    },
+    {
+      "route": "/products/ac-dc-motors/hindustan-crane-duty-motors",
+      "name": "Crane Duty Motors",
+      "manufacturer": "Hindustan Electric Motors",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "Crane Duty Motors",
+          "url": "https://hindmotors.com/Products/Crane-Duty-Motors"
+        },
+        {
+          "title": "Hindustan Electric Motors all product catalogue (07-05-2025) - Crane Duty Motors",
+          "url": "https://ulcm.s3.us-east-1.amazonaws.com/hindmotors.com/images/pdf/HEM_All%20product%20Catalogue_07052025%20%281%29.PDF",
+          "page": "19"
+        }
+      ]
+    },
+    {
+      "route": "/products/ac-dc-motors/hindustan-torque-motors",
+      "name": "Torque Motors",
+      "manufacturer": "Hindustan Electric Motors",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "Hindustan Electric Motors product leaflet - Product range, Torque Motors",
+          "url": "https://ulcm.s3.amazonaws.com/hindmotors.com/images/pdf/HEM-Product_Leaflet.pdf",
+          "page": "2"
+        },
+        {
+          "title": "Hindustan Electric Motors technical catalogue D09-2023 - Product range",
+          "page": "4"
+        }
+      ]
+    },
+    {
+      "route": "/products/ac-dc-motors/hindustan-fire-fighting-motors",
+      "name": "Fire Fighting Motors",
+      "manufacturer": "Hindustan Electric Motors",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "Fire Fighting Motors",
+          "url": "https://hindmotors.com/Products/Fire-Fighting-Motors"
+        }
+      ]
+    },
+    {
+      "route": "/products/ac-dc-motors/hindustan-flameproof-motors",
+      "name": "Flameproof Motors for Gas Groups IIA & IIB (Standard, IE2, IE3, IE4)",
+      "manufacturer": "Hindustan Electric Motors",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "Flameproof High Efficiency Motors for Gas Groups IIA & IIB as per IS/IEC 60079 (IE2, IE3, IE4)",
+          "url": "https://hindmotors.com/products/high-efficiency-flameproof-motors-for-gas-groups-iia-iib-as-per-is-iec-60079"
+        },
+        {
+          "title": "IE4 Flameproof Motors",
+          "url": "https://hindmotors.com/products/multi-speed-flameproof-motors-for-gas-groups-iia-iib-as-per-is-iec-60079"
+        },
+        {
+          "title": "Hindustan Electric Motors all product catalogue (07-05-2025) - IE4 Flameproof Motors; IE3 & IE2 Flameproof Motors",
+          "url": "https://ulcm.s3.us-east-1.amazonaws.com/hindmotors.com/images/pdf/HEM_All%20product%20Catalogue_07052025%20%281%29.PDF",
+          "page": "10, 13"
+        },
+        {
+          "title": "Hindustan Electric Motors Ultra (IE5) & Super (IE4) Premium Efficiency Motors brochure - IE4 Flameproof Motors",
+          "url": "https://ulcm.s3.amazonaws.com/hindmotors.com/images/pdf/HEM_IE5_IE4_Motor.pdf",
+          "page": "6"
+        },
+        {
+          "title": "Hindustan Electric Motors technical catalogue D09-2023 - Flameproof motors; electrical performance",
+          "page": "4, 13-23"
+        }
+      ]
+    },
+    {
+      "route": "/products/gearboxes/transtech-tw-series-worm-gearboxes",
+      "name": "TW series worm geared units",
+      "manufacturer": "Transtech Gears Pvt Ltd",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "TW series - Worm Geared Units (web page)",
+          "url": "https://www.transtechgears.com/worm"
+        },
+        {
+          "title": "TW Series catalogue - summary and model designation",
+          "url": "https://www.transtechgears.com/downloads/TW-Catalogue.pdf",
+          "page": "2-3 (printed 75-76)"
+        }
+      ]
+    },
+    {
+      "route": "/products/gearboxes/transtech-th-series-inline-helical-gearboxes",
+      "name": "TH series in-line helical geared units",
+      "manufacturer": "Transtech Gears Pvt Ltd",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "TH Series - In-line Helical Gearbox (web page)",
+          "url": "https://www.transtechgears.com/helical"
+        },
+        {
+          "title": "TH Series catalogue - summary and model designation",
+          "url": "https://www.transtechgears.com/downloads/TH-Catalogue.pdf",
+          "page": "2-3"
+        }
+      ]
+    },
+    {
+      "route": "/products/gearboxes/transtech-hl-tw-series-heli-worm-gearboxes",
+      "name": "HL-TW series heli-worm gearboxes",
+      "manufacturer": "Transtech Gears Pvt Ltd",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "TW series page - HL-TW Series Heli Worm Gear Boxes",
+          "url": "https://www.transtechgears.com/worm"
+        },
+        {
+          "title": "TW Series catalogue - HL-TW designation",
+          "url": "https://www.transtechgears.com/downloads/TW-Catalogue.pdf",
+          "page": "3 (printed 76)"
+        },
+        {
+          "title": "TW Series catalogue - 5.2 HL-TW combinations",
+          "url": "https://www.transtechgears.com/downloads/TW-Catalogue.pdf",
+          "page": "10 (printed 83)"
+        }
+      ]
+    },
+    {
+      "route": "/products/gearboxes/transtech-tw-tw-series-double-worm-gearboxes",
+      "name": "TW/TW series double worm gearboxes",
+      "manufacturer": "Transtech Gears Pvt Ltd",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "TW series page - TW/TW Series Double Worm Gear Boxes",
+          "url": "https://www.transtechgears.com/worm"
+        },
+        {
+          "title": "TW Series catalogue - double worm designation",
+          "url": "https://www.transtechgears.com/downloads/TW-Catalogue.pdf",
+          "page": "4 (printed 77)"
+        },
+        {
+          "title": "TW Series catalogue - 9.4 TW/TW outline dimensions",
+          "url": "https://www.transtechgears.com/downloads/TW-Catalogue.pdf",
+          "page": "61-64 (printed 134-137)"
+        }
+      ]
+    },
+    {
+      "route": "/products/gearboxes/bonfiglioli-vf-w-series-worm-gearboxes",
+      "name": "VF-W series worm gearboxes and gearmotors",
+      "manufacturer": "Bonfiglioli",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "VF-W Series, Universal Worm Gearmotors (Bonfiglioli product page)",
+          "url": "https://www.bonfiglioli.com/international/en/product/vf-w-series_industrial-gearmotors_right-angle-gear-units"
+        },
+        {
+          "title": "VF-W series Wormgears IE2-IE3, BR_CAT_VF-W_IE2-IE3_ENG_R11_6 (current public revision)",
+          "url": "https://www.bonfiglioli.com/_default_upload_bucket/BR_CAT_VF-W_IE2-IE3_ENG_R11_6.pdf",
+          "page": "pdf p.15 (design features), p.16 (versions), p.20 (designation), pp.43-82 (gearmotor rating charts), p.223 (motor designation)"
+        },
+        {
+          "title": "VF-W series Wormgears IE2-IE3, BR_CAT_VF-W_IE2-IE3_ENG_R03_0",
+          "page": "pdf p.15, p.16, p.20-21, pp.42-68, pp.69-90 (speed reducer rating charts)"
+        }
+      ]
+    },
+    {
+      "route": "/products/gearboxes/bonfiglioli-as-series-helical-inline-gearmotors",
+      "name": "AS series helical in-line gearmotors and units",
+      "manufacturer": "Bonfiglioli",
+      "whyListed": "listed on VAP's instruction from its supplier range",
+      "image": "official manufacturer image",
+      "sources": [
+        {
+          "title": "AS Series, Specific Helical In-Line Gearmotors & Units (Bonfiglioli product page)",
+          "url": "https://www.bonfiglioli.com/india/en/product/as-series_industrial-gearmotors_in-line-geared-units"
+        },
+        {
+          "title": "Helical gear units series AS catalogue (Industry Process and Automation Solutions), COD. 1844 R1",
+          "page": "pdf p.18 (versions P, F, PR, R), p.19 (designation, sizes 16-90, mounting positions), pp.55-69 (speed reducer rating charts, 50 to 6800 Nm)"
+        }
+      ]
+    }
+  ]
+}

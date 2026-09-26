@@ -24,8 +24,8 @@ test("all redirects resolve to a real route without chains", () => {
       `${r.source} -> ${r.destination}`,
     );
 });
-test("catalogue has nine categories, unique routes, and real product images", () => {
-  assert.equal(categories.length, 9);
+test("catalogue has ten categories, unique routes, and real product images", () => {
+  assert.equal(categories.length, 10);
   for (const c of categories) {
     assert.equal(
       new Set(c.products.map((p) => p.slug)).size,

@@ -1,14 +1,10 @@
-import {
-  Breadcrumbs,
-  CategoryCard,
-  EnquiryBanner,
-} from "@/components/ui";
+import { Breadcrumbs, CategoryCard, EnquiryBanner } from "@/components/ui";
 import { cardItem, categories } from "@/lib/catalogue";
 import { CatalogueFinder } from "@/components/part-finder";
 import { metadata as seo } from "@/lib/seo";
 export const metadata = seo(
   "Industrial product catalogue",
-  "Browse all nine Vinayak product ranges: drives, PLCs, sensors, encoders, conveyor safety switches, process and field instruments, panels and motors.",
+  "Browse all ten Vinayak product ranges: drives, PLCs, sensors, encoders, conveyor safety switches, process and field instruments, panels, motors and gearboxes.",
   "/products",
 );
 export default function Products() {
@@ -28,11 +24,15 @@ export default function Products() {
           </p>
         </section>
         <div className="catalogue-caption">
-          <span>09 product categories</span>
+          <span>
+            {String(categories.length).padStart(2, "0")} product categories
+          </span>
           <span>Selection · supply · integration</span>
         </div>
         <CatalogueFinder
-          items={categories.flatMap((c) => c.products.map((p) => cardItem(c, p)))}
+          items={categories.flatMap((c) =>
+            c.products.map((p) => cardItem(c, p)),
+          )}
         >
           <h2 className="sr-only">Product categories</h2>
           <div className="category-grid catalogue-grid">

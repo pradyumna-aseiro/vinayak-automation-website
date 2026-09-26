@@ -8,11 +8,17 @@ const groupId = (g: string) =>
   "group-" + g.toLowerCase().replace(/[^a-z0-9]+/g, "-");
 const compact = (s: string) => s.toLowerCase().replace(/[^a-z0-9]+/g, "");
 
-// A product matches when every word typed appears in its name, group, brand
-// or category. Model numbers also match with spaces and dashes ignored, so
+// A product matches when every word typed appears in its name, group, brand,
+// category or model codes. Model numbers also match with spaces and dashes ignored, so
 // "vfx 48" and "VFX-48" both find "VFX48".
 function matches(item: CardItem, query: string) {
-  const text = [item.name, item.group, item.brand, item.category]
+  const text = [
+    item.name,
+    item.group,
+    item.brand,
+    item.category,
+    ...item.models,
+  ]
     .join(" ")
     .toLowerCase();
   const words = query.toLowerCase().split(/\s+/).filter(Boolean);
@@ -143,9 +149,7 @@ export function CatalogueFinder({
                   <strong>{i.name}</strong>
                   <span className="small-label">
                     {[i.brand, i.group, i.category]
-                      .filter(
-                        (x, n, all) => x && all.indexOf(x) === n,
-                      )
+                      .filter((x, n, all) => x && all.indexOf(x) === n)
                       .join(" · ")}
                   </span>
                 </span>

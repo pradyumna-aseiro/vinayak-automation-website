@@ -144,6 +144,12 @@ export default async function ProductPage({
                 with our team for product selection and specifications.
               </p>
             )}
+            {p.models?.length ? (
+              <div className="spec-line">
+                <span aria-hidden="true">↳</span>
+                <p>Models : {p.models.join(", ")}</p>
+              </div>
+            ) : null}
             <p className="spec-note">
               Ratings and options can vary by model. Confirm the selected
               configuration and current manufacturer documentation before

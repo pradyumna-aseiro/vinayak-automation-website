@@ -13,6 +13,7 @@ export type CardItem = {
   href: string;
   image: string;
   summary: string;
+  models: string[];
   aliases: string[];
 };
 

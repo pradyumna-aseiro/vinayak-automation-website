@@ -8,6 +8,8 @@ export type Product = {
   image: string;
   // Manufacturer, when it differs from the category's brand.
   brand?: string;
+  // Model or series codes a buyer may type into the part finder.
+  models?: string[];
   blocks: Block[];
   legacyIds: string[];
   source: string;
@@ -64,6 +66,7 @@ export const cardItem = (c: Category, p: Product, aliases: string[] = []) => ({
   href: productUrl(c, p),
   image: p.image,
   summary: productSummary(p),
+  models: p.models ?? [],
   aliases,
 });
 // Legacy anchor ids each product card should carry on its category page.

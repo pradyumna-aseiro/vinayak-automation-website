@@ -8,19 +8,12 @@
   --accent-dark: #81262a;
   --accent-tint: #f3e6e3;
   --accent-tint-strong: #eed5d3;
-  --on-accent-muted: #f1dbda;
-  --on-accent-soft: #efbdb9;
   --soft: #eeefea;
-  /* Neutral scale: surfaces, rules and the dark partnership band. */
+  /* Neutral scale: surfaces, rules and the hero photo field. */
   --grey-50: #f1f1ee;
   --grey-100: #e9ece6;
   --grey-300: #cdd2c9;
-  --grey-on-dark: #d5dad6;
-  --grey-600: #535b56;
   --grey-800: #333d3b;
-  --grey-900: #272b2a;
-  --on-dark-accent: #e9c4b3;
-  --on-dark-accent-icon: #d9af9b;
   --success: #27572e;
   --success-soft: #597258;
   --font-body: Inter, system-ui, -apple-system, "Segoe UI", Roboto, Arial,
@@ -281,7 +274,7 @@ textarea:focus-visible,
   padding: 43px 0 0;
 }
 .hero-copy h1 {
-  font-size: clamp(42px, 4.9vw, 70px);
+  font-size: clamp(36px, 4.2vw, 68px);
   line-height: 1.12;
   letter-spacing: -0.04em;
 }
@@ -488,28 +481,26 @@ textarea:focus-visible,
   justify-content: space-between;
   gap: 40px;
 }
-.enquiry-banner .eyebrow {
-  color: var(--on-accent-muted);
-  margin-bottom: 18px;
-}
-.enquiry-banner .eyebrow > span {
-  background: var(--on-accent-soft);
-}
 .enquiry-banner h2 {
   font-size: clamp(32px, 3.5vw, 48px);
 }
 .enquiry-banner p:not(.eyebrow) {
-  color: var(--on-accent-muted);
+  color: white;
   margin-top: 20px;
-  font-size: 14px;
+  font-size: 16px;
 }
 .enquiry-banner .button {
-  background: var(--paper);
-  color: var(--ink);
+  background: white;
+  color: var(--accent);
   flex-shrink: 0;
 }
 .enquiry-banner .button:hover {
-  background: white;
+  background: var(--paper);
+  color: var(--accent-dark);
+}
+.enquiry-banner .button:focus-visible {
+  outline: 3px solid white;
+  outline-offset: 5px;
 }
 .site-footer {
   padding: 65px 0 22px;
@@ -1361,9 +1352,6 @@ th {
   .hero-grid {
     gap: 25px;
   }
-  .hero-copy h1 {
-    font-size: 52px;
-  }
   .hero-actions {
     gap: 20px;
     flex-wrap: wrap;
@@ -1451,9 +1439,6 @@ th {
   }
   .hero-copy {
     padding-top: 25px;
-  }
-  .hero-copy h1 {
-    font-size: clamp(46px, 8vw, 66px);
   }
   .hero-copy > p:not(.eyebrow) {
     max-width: 530px;
@@ -1626,9 +1611,6 @@ th {
     margin-inline: -18px;
     padding-inline: 18px;
     scroll-padding-inline: 18px;
-  }
-  .hero-copy h1 {
-    font-size: 46px;
   }
   .hero-copy > p:not(.eyebrow) {
     font-size: 15px;
@@ -1893,9 +1875,6 @@ address {
 .footer-brand .brand img.vap-lockup {
   width: 290px;
 }
-.hero-copy h1 {
-  font-size: clamp(36px, 4.2vw, 68px);
-}
 .industry-list svg {
   color: var(--accent);
   flex-shrink: 0;
@@ -2108,22 +2087,6 @@ address {
 }
 .experience-band .vap-highlights svg {
   color: white;
-}
-.enquiry-banner p:not(.eyebrow) {
-  color: white;
-  font-size: 16px;
-}
-.enquiry-banner .button {
-  background: white;
-  color: var(--accent);
-}
-.enquiry-banner .button:hover {
-  background: var(--paper);
-  color: var(--accent-dark);
-}
-.enquiry-banner .button:focus-visible {
-  outline: 3px solid white;
-  outline-offset: 5px;
 }
 .band-selection {
   padding-left: 20px;

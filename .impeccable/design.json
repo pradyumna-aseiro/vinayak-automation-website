@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-09-26T16:00:00+05:30",
+  "title": "Design System: Vinayak Automation Products",
+  "extensions": {
+    "colorMeta": {
+      "accent": { "role": "primary", "displayName": "Counter Red", "canonical": "#a13236", "tonalRamp": ["#3a0f11", "#561719", "#81262a", "#a13236", "#c1545a", "#d98a8c", "#eed5d3", "#f3e6e3"] },
+      "accent-dark": { "role": "primary", "displayName": "Deep Counter Red", "canonical": "#81262a", "tonalRamp": ["#3a0f11", "#561719", "#81262a", "#a13236", "#c1545a", "#d98a8c", "#eed5d3", "#f3e6e3"] },
+      "accent-tint": { "role": "primary", "displayName": "Red Wash", "canonical": "#f3e6e3", "tonalRamp": ["#3a0f11", "#561719", "#81262a", "#a13236", "#c1545a", "#d98a8c", "#eed5d3", "#f3e6e3"] },
+      "accent-tint-strong": { "role": "primary", "displayName": "Red Wash Strong", "canonical": "#eed5d3", "tonalRamp": ["#3a0f11", "#561719", "#81262a", "#a13236", "#c1545a", "#d98a8c", "#eed5d3", "#f3e6e3"] },
+      "paper": { "role": "neutral", "displayName": "Warm Paper", "canonical": "#f9f8f5", "tonalRamp": ["#212525", "#333d3b", "#616765", "#cdd2c9", "#dcdfd9", "#e9ece6", "#f1f1ee", "#f9f8f5"] },
+      "white": { "role": "neutral", "displayName": "Product White", "canonical": "#ffffff", "tonalRamp": ["#212525", "#333d3b", "#616765", "#cdd2c9", "#dcdfd9", "#e9ece6", "#f9f8f5", "#ffffff"] },
+      "soft": { "role": "neutral", "displayName": "Soft Grey", "canonical": "#eeefea", "tonalRamp": ["#212525", "#333d3b", "#616765", "#cdd2c9", "#dcdfd9", "#eeefea", "#f1f1ee", "#f9f8f5"] },
+      "grey-50": { "role": "neutral", "displayName": "Grey 50", "canonical": "#f1f1ee", "tonalRamp": ["#212525", "#333d3b", "#616765", "#cdd2c9", "#dcdfd9", "#e9ece6", "#f1f1ee", "#f9f8f5"] },
+      "grey-100": { "role": "neutral", "displayName": "Grey 100", "canonical": "#e9ece6", "tonalRamp": ["#212525", "#333d3b", "#616765", "#cdd2c9", "#dcdfd9", "#e9ece6", "#f1f1ee", "#f9f8f5"] },
+      "line": { "role": "neutral", "displayName": "Hairline", "canonical": "#dcdfd9", "tonalRamp": ["#212525", "#333d3b", "#616765", "#cdd2c9", "#dcdfd9", "#e9ece6", "#f1f1ee", "#f9f8f5"] },
+      "grey-300": { "role": "neutral", "displayName": "Grey 300", "canonical": "#cdd2c9", "tonalRamp": ["#212525", "#333d3b", "#616765", "#cdd2c9", "#dcdfd9", "#e9ece6", "#f1f1ee", "#f9f8f5"] },
+      "muted": { "role": "neutral", "displayName": "Slate Muted", "canonical": "#616765", "tonalRamp": ["#212525", "#333d3b", "#616765", "#cdd2c9", "#dcdfd9", "#e9ece6", "#f1f1ee", "#f9f8f5"] },
+      "grey-800": { "role": "neutral", "displayName": "Grey 800", "canonical": "#333d3b", "tonalRamp": ["#212525", "#333d3b", "#616765", "#cdd2c9", "#dcdfd9", "#e9ece6", "#f1f1ee", "#f9f8f5"] },
+      "ink": { "role": "neutral", "displayName": "Counter Ink", "canonical": "#212525", "tonalRamp": ["#212525", "#333d3b", "#616765", "#cdd2c9", "#dcdfd9", "#e9ece6", "#f1f1ee", "#f9f8f5"] },
+      "success": { "role": "tertiary", "displayName": "Workshop Green", "canonical": "#27572e", "tonalRamp": ["#173a1c", "#27572e", "#3b6b42", "#597258", "#7f9a7e", "#a9c0a8", "#d3e0d2", "#eef4ed"] },
+      "success-soft": { "role": "tertiary", "displayName": "Workshop Green Soft", "canonical": "#597258", "tonalRamp": ["#173a1c", "#27572e", "#3b6b42", "#597258", "#7f9a7e", "#a9c0a8", "#d3e0d2", "#eef4ed"] }
+    },
+    "typographyMeta": {
+      "display": { "displayName": "Display", "purpose": "Page h1; one phrase may take Counter Red." },
+      "headline": { "displayName": "Headline", "purpose": "Section h2 and red band headlines." },
+      "title": { "displayName": "Title", "purpose": "Card and sub-section h3, 20px to 24px by context." },
+      "lead": { "displayName": "Lead", "purpose": "Intro paragraph under a page h1." },
+      "body": { "displayName": "Body", "purpose": "Default reading text; paragraphs in muted." },
+      "body-small": { "displayName": "Body Small", "purpose": "Card, aside and caption copy, 13px to 15px." },
+      "label": { "displayName": "Label", "purpose": "Uppercase tracked brand and group names on cards and finder results; never below 12px for brands." },
+      "caption": { "displayName": "Caption", "purpose": "Tracked capitals for photo captions, notes, ordinals, breadcrumbs; the 11px floor." }
+    },
+    "shadows": [
+      { "name": "mobile-menu-drop", "value": "0 10px 15px #00000008", "purpose": "Only box shadow: under the open mobile navigation panel." },
+      { "name": "caption-legibility", "value": "0 1px 3px rgba(0, 0, 0, 0.7)", "purpose": "Text shadow for white captions over the hero photograph, with a gradient scrim." }
+    ],
+    "motion": [
+      { "name": "state-change", "value": "0.2s", "purpose": "Background, colour, border and 2px button lift." },
+      { "name": "image-scale", "value": "0.3s to 0.35s", "purpose": "1.04 scale on product and category imagery on card hover." },
+      { "name": "reduced-motion", "value": "animation: none; transition: none", "purpose": "All motion removed under prefers-reduced-motion." }
+    ],
+    "breakpoints": [
+      { "name": "phone", "value": "520px" },
+      { "name": "client-grid-phone", "value": "600px" },
+      { "name": "tablet", "value": "800px" },
+      { "name": "client-grid-tablet", "value": "900px" },
+      { "name": "laptop", "value": "1100px" },
+      { "name": "wide", "value": "1500px" }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Main call to action: red, square, label plus up-right arrow.",
+      "html": "<a class=\"ds-button\" href=\"#\">Request a quote <svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M7 7h10v10\"/><path d=\"M7 17 17 7\"/></svg></a>",
+      "css": ".ds-button { display: inline-flex; gap: 24px; align-items: center; justify-content: space-between; background: var(--accent, #a13236); color: #fff; padding: 16px 23px; min-height: 52px; font-family: var(--font-body, Inter, Arial, sans-serif); font-size: 14px; line-height: 1.4; font-weight: 550; border: 1px solid transparent; border-radius: 0; text-decoration: none; transition: background 0.2s, transform 0.2s; } .ds-button:hover { background: var(--accent-dark, #81262a); transform: translateY(-2px); } .ds-button:focus-visible { outline: 3px solid var(--accent, #a13236); outline-offset: 5px; }"
+    },
+    {
+      "name": "Secondary Button",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "Outlined alternative action that fills with ink on hover.",
+      "html": "<a class=\"ds-button-secondary\" href=\"#\">All products <svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M7 7h10v10\"/><path d=\"M7 17 17 7\"/></svg></a>",
+      "css": ".ds-button-secondary { display: inline-flex; gap: 24px; align-items: center; justify-content: space-between; background: transparent; color: var(--ink, #212525); padding: 16px 23px; min-height: 52px; font-family: var(--font-body, Inter, Arial, sans-serif); font-size: 14px; font-weight: 550; border: 1px solid var(--line, #dcdfd9); border-radius: 0; text-decoration: none; transition: background 0.2s, transform 0.2s; } .ds-button-secondary:hover { background: var(--ink, #212525); color: #fff; transform: translateY(-2px); } .ds-button-secondary:focus-visible { outline: 3px solid var(--accent, #a13236); outline-offset: 5px; }"
+    },
+    {
+      "name": "Red Emphasis Band",
+      "kind": "custom",
+      "refersTo": "red-band",
+      "description": "Full-bleed red section with white headline, copy and an on-band button; focus turns white.",
+      "html": "<section class=\"ds-band\"><div><h2 class=\"ds-band-title\">Have a product or automation requirement?</h2><p class=\"ds-band-copy\">Talk to our team about product selection, replacement or system integration.</p></div><a class=\"ds-band-button\" href=\"#\">Contact Vinayak <svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M7 7h10v10\"/><path d=\"M7 17 17 7\"/></svg></a></section>",
+      "css": ".ds-band { background: var(--accent, #a13236); color: #fff; padding: 65px 40px; display: flex; align-items: center; justify-content: space-between; gap: 40px; flex-wrap: wrap; } .ds-band-title { margin: 0; font-family: var(--font-display, Manrope, Arial, sans-serif); font-weight: 550; font-size: clamp(32px, 3.5vw, 48px); line-height: 1.16; letter-spacing: -0.045em; } .ds-band-copy { margin: 20px 0 0; color: #fff; font-size: 16px; line-height: 1.65; } .ds-band-button { display: inline-flex; gap: 24px; align-items: center; background: #fff; color: var(--accent, #a13236); padding: 16px 23px; min-height: 52px; font-size: 14px; font-weight: 550; text-decoration: none; border-radius: 0; transition: background 0.2s, transform 0.2s; } .ds-band-button:hover { background: var(--paper, #f9f8f5); color: var(--accent-dark, #81262a); transform: translateY(-2px); } .ds-band-button:focus-visible { outline: 3px solid #fff; outline-offset: 5px; }"
+    },
+    {
+      "name": "Product Card",
+      "kind": "card",
+      "refersTo": "product-card",
+      "description": "Exact product on a white field, brand or group label, title, clamped summary, details link.",
+      "html": "<a class=\"ds-product-card\" href=\"#\"><div class=\"ds-product-image\"><svg width=\"72\" height=\"72\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"#cdd2c9\" stroke-width=\"1.5\"><rect x=\"5\" y=\"3\" width=\"14\" height=\"18\"/><rect x=\"8\" y=\"6\" width=\"8\" height=\"5\"/></svg></div><div class=\"ds-product-copy\"><span class=\"ds-small-label\">CG-Emotron</span><h3 class=\"ds-product-title\">VSX AC Drive</h3><p class=\"ds-product-summary\">Compact variable-frequency drive for pumps, fans and conveyors.</p><span class=\"ds-text-link\">View details <svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M7 7h10v10\"/><path d=\"M7 17 17 7\"/></svg></span></div></a>",
+      "css": ".ds-product-card { display: flex; flex-direction: column; max-width: 360px; border: 1px solid var(--line, #dcdfd9); background: #fff; color: var(--ink, #212525); text-decoration: none; transition: border-color 0.2s; } .ds-product-card:hover { border-color: var(--accent, #a13236); } .ds-product-card:focus-visible { outline: 3px solid var(--accent, #a13236); outline-offset: 5px; } .ds-product-image { height: 220px; background: #fff; display: grid; place-items: center; } .ds-product-copy { padding: 22px 25px 26px; border-top: 1px solid var(--grey-50, #f1f1ee); display: flex; flex-direction: column; } .ds-small-label { font-size: 12px; letter-spacing: 0.13em; font-weight: 600; text-transform: uppercase; color: var(--muted, #616765); } .ds-product-title { margin: 9px 0 13px; font-family: var(--font-display, Manrope, Arial, sans-serif); font-weight: 550; font-size: 21px; line-height: 1.16; letter-spacing: -0.025em; } .ds-product-summary { margin: 0 0 20px; font-size: 13px; line-height: 1.75; color: var(--muted, #616765); } .ds-text-link { display: inline-flex; align-items: center; gap: 13px; min-height: 44px; font-size: 12px; font-weight: 550; } .ds-product-card:hover .ds-text-link { color: var(--accent, #a13236); }"
+    },
+    {
+      "name": "Group Chips",
+      "kind": "chip",
+      "refersTo": "chip-group",
+      "description": "Sticky, horizontally scrolling product-group anchors; fill with ink on hover.",
+      "html": "<nav class=\"ds-chips\" aria-label=\"Product groups\"><a class=\"ds-chip\" href=\"#\">AC drives</a><a class=\"ds-chip\" href=\"#\">Soft starters</a><a class=\"ds-chip\" href=\"#\">Accessories</a></nav>",
+      "css": ".ds-chips { display: flex; gap: 8px; overflow-x: auto; padding: 10px 0; background: var(--paper, #f9f8f5); border-bottom: 1px solid var(--line, #dcdfd9); } .ds-chip { display: inline-flex; align-items: center; flex: none; min-height: 44px; padding: 0 14px; font-size: 13px; white-space: nowrap; color: var(--muted, #616765); border: 1px solid var(--line, #dcdfd9); border-radius: 0; text-decoration: none; transition: background 0.2s, color 0.2s; } .ds-chip:hover { background: var(--ink, #212525); border-color: var(--ink, #212525); color: #fff; } .ds-chip:focus-visible { outline: 3px solid var(--accent, #a13236); outline-offset: -3px; }"
+    },
+    {
+      "name": "Part Finder",
+      "kind": "input",
+      "refersTo": "finder-input",
+      "description": "Search by name or model with clear button, live count and ruled result rows.",
+      "html": "<div class=\"ds-finder\" role=\"search\"><label class=\"ds-finder-label\" for=\"ds-q\">Find a product or model</label><div class=\"ds-finder-input\"><svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"><circle cx=\"11\" cy=\"11\" r=\"7\"/><path d=\"m20 20-3.5-3.5\"/></svg><input id=\"ds-q\" type=\"search\" placeholder=\"e.g. VSX, RM D131\"></div><p class=\"ds-finder-status\">12 products</p><ul class=\"ds-finder-results\"><li><a href=\"#\"><span><strong>VSX AC Drive</strong><span class=\"ds-finder-brand\">CG-EMOTRON</span></span><svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M5 12h14\"/><path d=\"m12 5 7 7-7 7\"/></svg></a></li></ul></div>",
+      "css": ".ds-finder { display: grid; gap: 8px; max-width: 560px; font-family: var(--font-body, Inter, Arial, sans-serif); } .ds-finder-label { font-size: 12px; font-weight: 550; color: var(--ink, #212525); } .ds-finder-input { display: flex; align-items: center; border: 1px solid var(--grey-300, #cdd2c9); background: #fff; min-height: 48px; transition: border-color 0.2s; color: var(--muted, #616765); } .ds-finder-input > svg { margin-left: 14px; flex: none; } .ds-finder-input:focus-within { border-color: var(--accent, #a13236); outline: 3px solid var(--accent, #a13236); outline-offset: 2px; } .ds-finder-input input { flex: 1; min-width: 0; min-height: 46px; padding: 10px 12px; border: 0; background: transparent; font-size: 16px; color: var(--ink, #212525); outline: none; } .ds-finder-status { margin: 0; font-size: 12px; color: var(--muted, #616765); font-variant-numeric: tabular-nums; } .ds-finder-results { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--line, #dcdfd9); } .ds-finder-results a { display: flex; align-items: center; justify-content: space-between; gap: 20px; min-height: 64px; padding: 12px 0; border-bottom: 1px solid var(--line, #dcdfd9); color: var(--ink, #212525); text-decoration: none; } .ds-finder-results a > span { display: grid; gap: 3px; } .ds-finder-results strong { font-family: var(--font-display, Manrope, Arial, sans-serif); font-size: 18px; font-weight: 600; letter-spacing: -0.02em; } .ds-finder-brand { font-size: 12px; letter-spacing: 0.13em; font-weight: 600; color: var(--muted, #616765); } .ds-finder-results a > svg { color: var(--muted, #616765); } .ds-finder-results a:hover strong, .ds-finder-results a:hover > svg { color: var(--accent, #a13236); } .ds-finder-results a:focus-visible { outline: 3px solid var(--accent, #a13236); outline-offset: 5px; }"
+    },
+    {
+      "name": "Form Field",
+      "kind": "input",
+      "refersTo": "input-field",
+      "description": "Square enquiry field on paper; red border on focus and error.",
+      "html": "<div class=\"ds-field\"><label for=\"ds-model\">Product or model</label><input id=\"ds-model\" type=\"text\" value=\"RM D131\"></div>",
+      "css": ".ds-field { display: flex; flex-direction: column; gap: 8px; max-width: 360px; font-family: var(--font-body, Inter, Arial, sans-serif); } .ds-field label { font-size: 12px; font-weight: 550; color: var(--ink, #212525); } .ds-field input { width: 100%; border: 1px solid var(--grey-300, #cdd2c9); padding: 12px 14px; background: var(--paper, #f9f8f5); border-radius: 0; font-size: 16px; color: var(--ink, #212525); min-height: 48px; } .ds-field input:focus { border-color: var(--accent, #a13236); } .ds-field input:focus-visible { outline: 3px solid var(--accent, #a13236); outline-offset: 5px; } .ds-field input[aria-invalid=\"true\"] { border-color: var(--accent, #a13236); }"
+    },
+    {
+      "name": "Header Navigation",
+      "kind": "nav",
+      "refersTo": "navigation",
+      "description": "Paper header with hairline rule; red hover and short red current-page underline.",
+      "html": "<header class=\"ds-header\"><strong class=\"ds-brand\">VAP</strong><nav class=\"ds-nav\"><a href=\"#\" aria-current=\"page\">Products</a><a href=\"#\">About</a><a href=\"#\">Contact</a></nav></header>",
+      "css": ".ds-header { display: flex; align-items: center; justify-content: space-between; height: 100px; padding: 0 24px; background: var(--paper, #f9f8f5); border-bottom: 1px solid var(--line, #dcdfd9); font-family: var(--font-body, Inter, Arial, sans-serif); } .ds-brand { font-family: var(--font-display, Manrope, Arial, sans-serif); color: var(--accent, #a13236); font-size: 22px; } .ds-nav { display: flex; gap: 32px; font-size: 14px; font-weight: 500; } .ds-nav a { position: relative; padding: 16px 0; color: var(--ink, #212525); text-decoration: none; } .ds-nav a:hover { color: var(--accent, #a13236); } .ds-nav a[aria-current=\"page\"]::after { content: \"\"; position: absolute; left: 0; bottom: 7px; width: 16px; height: 3px; background: var(--accent, #a13236); } .ds-nav a:focus-visible { outline: 3px solid var(--accent, #a13236); outline-offset: 5px; }"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Parts Counter",
+    "overview": "The site behaves like a well-kept trade counter: warm paper, hairline rules, a catalogue laid out in plain rows, and one confident brand red that marks where to act. Buyers often arrive with a nameplate model number, and nothing on the page is allowed to get between that number and a quote. So the system is quiet by default and loud in exactly two ways: the red of an action or current state, and a full-width red band where the page asks for contact or shows who already buys here.\n\nDensity is moderate and orderly. Sections breathe (100px vertical rhythm on desktop), but inside a section the catalogue is compact: three-column card grids, sticky group chips, finder results as ruled rows. Surfaces are flat and square-edged. Structure comes from 1px rules and a slight tonal step between paper, soft grey and white, never from shadows.\n\nImagery is evidence, not mood. Product photographs show the exact manufacturer product on white. Atmospheric factory photography appears only where the page describes the company (the home hero and the About page), and it is desaturated and scrimmed so it never outshouts the catalogue.",
+    "keyCharacteristics": [
+      "Warm off-white paper ground with near-black green-grey ink; one brand red as the only strong hue.",
+      "Manrope display headings at medium weight with tight negative tracking; Inter for everything read.",
+      "Square corners on every control, card, chip and band.",
+      "Full-width red emphasis bands, each separated from the next by real content.",
+      "Exact product photography on white fields.",
+      "WCAG 2.2 AA floor: 11px minimum text, 44px targets, visible focus everywhere, including on red."
+    ],
+    "rules": [
+      { "name": "The One Red Rule", "body": "Red is the only strong hue in the system. It marks action, current state, emphasis and focus. Green is reserved for success and the location dot; no other hues are introduced.", "section": "colors" },
+      { "name": "The Red Band Rule", "body": "A full-width red band (accent background, white text) is the page's loudest statement: the client grid and the closing contact call on the home page, the enquiry banner on catalogue and About pages. Bands are never stacked; substantive paper content always separates one band from the next.", "section": "colors" },
+      { "name": "The Eleven Floor Rule", "body": "No text is set below 11px. Brand and manufacturer names are set at 12px or larger.", "section": "typography" },
+      { "name": "The Label Case Rule", "body": "Tracked capitals are for metadata: a brand, a group, a caption, a count. Headings and body copy are always sentence case.", "section": "typography" },
+      { "name": "The Hairline Rule", "body": "Separate things with a 1px rule or a tonal step. Cards, chips, inputs and tables never cast shadows.", "section": "elevation" },
+      { "name": "The Square Edge Rule", "body": "New catalogue components are square-cornered. The rounded corners on a few later home-page modules are drift, not precedent.", "section": "shapes" }
+    ],
+    "dos": [
+      "Do use Counter Red for action, current state and emphasis only, and keep every other surface in the paper, soft grey, white and ink family.",
+      "Do separate red bands with substantive paper content, and switch the focus outline to white (3px, offset 4px to 5px) on anything focusable inside a band.",
+      "Do show the exact manufacturer product on a white field, stored as WebP in `public/media/products`, contained with generous padding. On Soft Grey fields, multiply-blend so the white background disappears.",
+      "Do keep all text at 11px or above and brand labels at 12px or above, with at least 4.5:1 contrast.",
+      "Do give every link, chip and button a target at least 44px tall.",
+      "Do separate content with 1px Hairline rules and tonal steps."
+    ],
+    "donts": [
+      "Don't use a different model's photo, a lookalike, or a product photographed on a busy or tinted background.",
+      "Don't put a red focus outline on a red band.",
+      "Don't stack two red bands back to back.",
+      "Don't add shadows to cards, chips, inputs or panels.",
+      "Don't round the corners of new controls, cards or panels; circles are only for small dots and badges.",
+      "Don't set headings or body copy in tracked capitals; tracked caps are for metadata labels.",
+      "Don't introduce a hue other than red for emphasis."
+    ]
+  }
+}

@@ -75,10 +75,7 @@ export default async function CategoryPage({
         </nav>
         <section className="range-section">
           <div className="range-heading">
-            <div>
-              <Eyebrow>EXPLORE THE RANGE</Eyebrow>
-              <h2>Products & families</h2>
-            </div>
+            <h2>Products & families</h2>
             <span className="range-count">
               {c.products.length}{" "}
               {c.products.length === 1 ? "listing" : "listings"}

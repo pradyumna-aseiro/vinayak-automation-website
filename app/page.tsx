@@ -80,14 +80,12 @@ export default function Home() {
       <section className="section" id="products">
         <div className="container">
           <div className="section-heading">
-            <div>
-              <Eyebrow>OUR PRODUCT PORTFOLIO</Eyebrow>
-              <h2>Our offerings.</h2>
-            </div>
+            <h2>Our offerings.</h2>
             <div className="heading-aside">
               <p>
-                Discover the right hardware for your process, with support from
-                selection through integration.
+                Drives, PLCs and HMIs, sensors, encoders, field instruments and
+                motors from CG-Emotron, Renu, Jayashree, Sapcon, Endress+Hauser
+                and Dynaflux.
               </p>
               <Link href="/products" className="text-link">
                 Browse all products <ArrowUpRight size={18} />
@@ -119,7 +117,6 @@ export default function Home() {
       </section>
       <section className="section industries-section">
         <div className="container">
-          <Eyebrow>WHERE WE WORK</Eyebrow>
           <h2>Applications across industries.</h2>
           <div className="industry-list">
             {[
@@ -152,7 +149,6 @@ export default function Home() {
             className="ceo-photo"
           />
           <div>
-            <Eyebrow>MEET THE CEO</Eyebrow>
             <h2>Abhijeet Madnurkar</h2>
             <p className="ceo-role">CEO - Vinayak Automation Products</p>
             <p>
@@ -170,12 +166,11 @@ export default function Home() {
       </section>
       <section className="section requirement-section">
         <div className="container">
-          <Eyebrow>INDUSTRIAL AUTOMATION SUPPORT FROM HYDERABAD</Eyebrow>
           <h2>Plan your requirement.</h2>
           <p className="requirement-intro">
             Since 2007, Vinayak Automation Products has supported industrial
-            customers with automation components, instrumentation, control
-            panels, motors and system integration.
+            customers from Hyderabad with automation components,
+            instrumentation, control panels, motors and system integration.
           </p>
           <ol className="requirement-cards">
             {[

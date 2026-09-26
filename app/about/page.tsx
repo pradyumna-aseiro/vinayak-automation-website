@@ -17,7 +17,6 @@ export default function About() {
       </div>
       <section className="page-hero container about-hero">
         <div>
-          <Eyebrow>ABOUT VINAYAK</Eyebrow>
           <h1>
             Experience that
             <br />
@@ -50,11 +49,10 @@ export default function About() {
       <section className="section">
         <div className="container editorial-grid">
           <div>
-            <Eyebrow>OUR STORY</Eyebrow>
             <h2>
-              A practical partner
+              From three brands
               <br />
-              for industrial progress.
+              to nine product ranges.
             </h2>
           </div>
           <div className="editorial-copy">

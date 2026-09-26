@@ -1,7 +1,7 @@
 import { experienceYears } from "@/lib/experience";
 import {
   Users,
-  BadgeIndianRupee,
+  LayoutGrid,
   Boxes,
   Clock,
   Megaphone,
@@ -16,19 +16,16 @@ export function WhyVinayak() {
     <section className="section experience-band">
       <div className="container">
         <div className="section-heading">
-          <div>
-            <Eyebrow>WHY US</Eyebrow>
-            <h2>Us and our experience.</h2>
-          </div>
+          <h2>Since 2007, in numbers.</h2>
           <p className="heading-aside">
-            Trusted by 5,000+ clients, we blend technology and expertise to
-            drive innovation, efficiency, and growth across industries.
+            More than 10,000 clients, supplied and supported from our office in
+            Secunderabad, Hyderabad.
           </p>
         </div>
         <div className="vap-highlights">
           {[
-            [Users, "5,000+", "Satisfied clients"],
-            [BadgeIndianRupee, "Economical", "Prices"],
+            [Users, "10,000+", "Satisfied clients"],
+            [LayoutGrid, "9", "Product ranges"],
             [Boxes, "350+", "Products"],
             [Clock, `${experienceYears()}+ years`, "Of experience"],
           ].map(([Icon, value, label]) => {
@@ -50,7 +47,6 @@ export function CompanyTimeline() {
   return (
     <section className="section">
       <div className="container">
-        <Eyebrow>OUR JOURNEY</Eyebrow>
         <h2>Growing with industry since 2007.</h2>
         <ol className="vap-timeline">
           {[

@@ -96,7 +96,6 @@ export default async function ProductPage({
         </section>
         <section className="product-information">
           <div className="spec-content">
-            <Eyebrow>PRODUCT INFORMATION</Eyebrow>
             <h2>Features & specifications</h2>
             {blocks.length ? (
               blocks.map((b, i) =>

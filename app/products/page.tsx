@@ -2,7 +2,6 @@ import {
   Breadcrumbs,
   CategoryCard,
   EnquiryBanner,
-  Eyebrow,
 } from "@/components/ui";
 import { cardItem, categories } from "@/lib/catalogue";
 import { CatalogueFinder } from "@/components/part-finder";
@@ -18,7 +17,6 @@ export default function Products() {
       <div className="container">
         <Breadcrumbs items={[{ name: "Products" }]} />
         <section className="page-hero">
-          <Eyebrow>THE PRODUCT PORTFOLIO</Eyebrow>
           <h1>
             Find your next
             <br />

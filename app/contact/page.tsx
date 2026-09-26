@@ -1,5 +1,5 @@
 import { PhoneNumbers } from "@/components/phone-numbers";
-import { Breadcrumbs, Eyebrow } from "@/components/ui";
+import { Breadcrumbs } from "@/components/ui";
 import { ContactForm } from "@/components/contact-form";
 import { site } from "@/lib/catalogue";
 import { metadata as seo } from "@/lib/seo";
@@ -21,11 +21,10 @@ export default async function Contact({
     <div className="container">
       <Breadcrumbs items={[{ name: "Contact" }]} />
       <section className="page-hero">
-        <Eyebrow>CONTACT VINAYAK</Eyebrow>
         <h1>
-          Good solutions start
+          Ask our Hyderabad team
           <br />
-          with a conversation.
+          for a quotation.
         </h1>
         <p className="lead">
           A product enquiry, a replacement or a new integration project. Tell us
@@ -76,7 +75,6 @@ export default async function Contact({
           </div>
         </section>
         <section className="form-panel" aria-labelledby="form-title">
-          <Eyebrow>YOUR REQUIREMENT</Eyebrow>
           <h2 id="form-title">How can we help?</h2>
           <p>
             All fields are required. Include the model, quantity and delivery

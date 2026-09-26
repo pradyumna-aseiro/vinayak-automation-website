@@ -50,9 +50,9 @@ export default function About() {
         <div className="container editorial-grid">
           <div>
             <h2>
-              From three brands
+              Supplying industry
               <br />
-              to nine product ranges.
+              from Hyderabad since 2007.
             </h2>
           </div>
           <div className="editorial-copy">

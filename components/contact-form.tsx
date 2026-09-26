@@ -1,5 +1,6 @@
 "use client";
 import { useRef, useState } from "react";
+import Link from "next/link";
 import { ArrowUpRight, LoaderCircle } from "lucide-react";
 export function ContactForm({ initialProduct }: { initialProduct: string }) {
   const [status, setStatus] = useState<
@@ -136,9 +137,6 @@ export function ContactForm({ initialProduct }: { initialProduct: string }) {
         <label htmlFor="website">Leave this field empty</label>
         <input id="website" name="website" tabIndex={-1} autoComplete="off" />
       </div>
-      <p className="form-privacy">
-        We use the details you provide to respond to your enquiry.
-      </p>
       <button className="button" type="submit" disabled={status === "sending"}>
         {status === "sending" ? (
           <>
@@ -150,6 +148,10 @@ export function ContactForm({ initialProduct }: { initialProduct: string }) {
           </>
         )}
       </button>
+      <p className="form-privacy form-privacy-after">
+        We use the details you provide to respond to your enquiry. Read our{" "}
+        <Link href="/privacy">privacy notice</Link>.
+      </p>
       <div
         ref={notice}
         tabIndex={-1}

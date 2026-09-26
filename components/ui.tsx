@@ -224,6 +224,7 @@ export function Footer() {
             <Link href="/products">All products</Link>
             <Link href="/about#integration">System integration</Link>
             <Link href="/contact">Contact us</Link>
+            <Link href="/privacy">Privacy notice</Link>
           </div>
           <div>
             <h3>Product ranges</h3>

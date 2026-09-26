@@ -6,6 +6,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/about",
     "/products",
     "/contact",
+    "/privacy",
     ...categories.flatMap((c) => [
       "/products/" + c.slug,
       ...c.products.map((p) => productUrl(c, p)),

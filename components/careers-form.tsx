@@ -1,5 +1,6 @@
 "use client";
 import { useRef, useState } from "react";
+import Link from "next/link";
 import { ArrowUpRight, ChevronDown, LoaderCircle } from "lucide-react";
 import { disciplines, experienceLevels } from "@/lib/careers-options.mjs";
 type Field = {
@@ -212,9 +213,8 @@ export function CareersForm() {
         />
       </div>
       <p className="form-privacy">
-        Your application is emailed to our team through Resend and is not stored
-        on this website. The form takes links, not files. To have your
-        application deleted, email info@vinayakautomation.com.
+        Emailed to our team, not stored on this website. Links only, no files.
+        See our <Link href="/privacy">privacy notice</Link>.
       </p>
       <button className="button" type="submit" disabled={status === "sending"}>
         {status === "sending" ? (

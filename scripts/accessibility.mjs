@@ -15,6 +15,8 @@ for (const width of [1440, 390]) {
     "/products/drives-and-automation",
     "/products/drives-and-automation/vss",
     "/contact",
+    "/privacy",
+    "/products/process-control-instruments",
   ]) {
     await page.goto("http://localhost:3100" + path, {
       waitUntil: "domcontentloaded",

@@ -8,6 +8,7 @@ const routes = [
   "/about",
   "/products",
   "/contact",
+  "/privacy",
   ...data.flatMap((c) => [
     "/products/" + c.slug,
     ...c.products.map((p) => `/products/${c.slug}/${p.slug}`),

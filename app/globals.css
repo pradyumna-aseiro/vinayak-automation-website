@@ -2245,3 +2245,72 @@ address {
     grid-template-columns: 1fr;
   }
 }
+/* Privacy notice and the privacy lines on the enquiry and careers forms. */
+.privacy-body {
+  max-width: 70ch;
+  padding-bottom: 100px;
+}
+.privacy-updated {
+  font-size: 12px;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin-bottom: 40px;
+}
+.privacy-section {
+  border-top: 1px solid var(--line);
+  padding: 32px 0 36px;
+}
+.privacy-section h2 {
+  font-size: 23px;
+  letter-spacing: -0.025em;
+  margin-bottom: 16px;
+}
+.privacy-section p,
+.privacy-section li {
+  line-height: 1.75;
+}
+.privacy-section p + p,
+.privacy-section ul + p {
+  margin-top: 14px;
+}
+.privacy-section ul {
+  list-style: none;
+  padding: 0;
+  margin: 14px 0 0;
+}
+.privacy-section li {
+  display: flex;
+  gap: 12px;
+  color: var(--muted);
+}
+.privacy-section li:before {
+  content: "";
+  width: 6px;
+  height: 6px;
+  margin-top: 0.7em;
+  background: var(--accent);
+  flex: none;
+}
+.inline-link,
+.form-privacy a {
+  color: var(--ink);
+  font-weight: 550;
+  text-decoration: underline;
+  text-decoration-color: var(--grey-300);
+  text-underline-offset: 4px;
+  overflow-wrap: anywhere;
+}
+.inline-link:hover,
+.form-privacy a:hover {
+  color: var(--accent);
+  text-decoration-color: currentColor;
+}
+.form-privacy-after {
+  margin: 16px 0 0;
+}
+@media (max-width: 800px) {
+  .privacy-body {
+    padding-bottom: 65px;
+  }
+}

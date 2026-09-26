@@ -23,8 +23,10 @@
   --on-dark-accent-icon: #d9af9b;
   --success: #27572e;
   --success-soft: #597258;
-  --font-body: "Inter Variable", Arial, sans-serif;
-  --font-display: "Manrope Variable", Arial, sans-serif;
+  --font-body: Inter, system-ui, -apple-system, "Segoe UI", Roboto, Arial,
+    sans-serif;
+  --font-display: Manrope, system-ui, -apple-system, "Segoe UI", Roboto, Arial,
+    sans-serif;
 }
 * {
   box-sizing: border-box;

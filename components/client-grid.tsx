@@ -16,7 +16,7 @@ const companies = [
   ["SCCL", "sccl", "https://scclmines.com/"],
   ["Aseiro Industries", "aseiro", "https://www.aseiro.com/"],
 ];
-export function ClientCarousel() {
+export function ClientGrid() {
   return (
     <section className="section client-section" aria-labelledby="clients-title">
       <div className="container">

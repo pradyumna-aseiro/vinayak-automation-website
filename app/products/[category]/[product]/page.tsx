@@ -13,6 +13,7 @@ import {
   categories,
   productUrl,
   productSummary,
+  summaryBlockIndex,
   quoteUrl,
   site,
 } from "@/lib/catalogue";
@@ -52,6 +53,10 @@ export default async function ProductPage({
   const p = c?.products.find((p) => p.slug === product);
   if (!c || !p) notFound();
   const related = c.products.filter((x) => x.slug !== p.slug).slice(0, 3);
+  // The lead paragraph already shows the summary, which is taken from one of the
+  // blocks. Skip that block below so the same text is not printed twice.
+  const summaryIndex = summaryBlockIndex(p);
+  const blocks = p.blocks.filter((_, i) => i !== summaryIndex);
   return (
     <>
       <div className="container">
@@ -93,8 +98,8 @@ export default async function ProductPage({
           <div className="spec-content">
             <Eyebrow>PRODUCT INFORMATION</Eyebrow>
             <h2>Features & specifications</h2>
-            {p.blocks.length ? (
-              p.blocks.map((b, i) =>
+            {blocks.length ? (
+              blocks.map((b, i) =>
                 b.type === "table" ? (
                   <div className="table-scroll" key={i}>
                     <table>

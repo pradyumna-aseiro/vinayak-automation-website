@@ -40,7 +40,7 @@
           },
           {
             "type": "paragraph",
-            "text": "Emotron VSS is a multipurpose AC drive which is packed with features to meet application requirements.VSS is cost effective , easy to install , easy to use drive for the single phase supply system in challenging industrial environment. VSS series meets user's needs and runs variety of applications like packaging , wood working , pumps , blowers , mixers and other machineries."
+            "text": "Emotron VSS is a multipurpose AC drive which is packed with features to meet application requirements.VSS is cost effective, easy to install, easy to use drive for the single phase supply system in challenging industrial environment. VSS series meets user's needs and runs variety of applications like packaging, wood working, pumps, blowers, mixers and other machineries."
           },
           {
             "type": "heading",
@@ -48,7 +48,7 @@
           },
           {
             "type": "feature",
-            "text": "I/O's- 5 DI, 2AI, 1DO, 1AO , 1 RO"
+            "text": "I/O's- 5 DI, 2AI, 1DO, 1AO, 1 RO"
           },
           {
             "type": "feature",
@@ -134,7 +134,7 @@
           },
           {
             "type": "paragraph",
-            "text": "Emotron VSM series drive offers more compact design with several advanced features. The compact design offers easy , flexible and user friendly installation which allows your system to be operational in no time. Emotron VSM offers reliable and cost efficient solutions for various variable and constant torque applications."
+            "text": "Emotron VSM series drive offers more compact design with several advanced features. The compact design offers easy, flexible and user friendly installation which allows your system to be operational in no time. Emotron VSM offers reliable and cost efficient solutions for various variable and constant torque applications."
           },
           {
             "type": "heading",
@@ -142,7 +142,7 @@
           },
           {
             "type": "feature",
-            "text": "I/O's- 5 DI , 2 AI , 1 DO , 1 AO , 1 RO"
+            "text": "I/O's- 5 DI, 2 AI, 1 DO, 1 AO, 1 RO"
           },
           {
             "type": "feature",
@@ -216,7 +216,7 @@
           },
           {
             "type": "feature",
-            "text": "I/O's- 3 AI , 2 AO , 7 DI , 2 DO , 2 RO"
+            "text": "I/O's- 3 AI, 2 AO, 7 DI, 2 DO, 2 RO"
           },
           {
             "type": "feature",
@@ -286,7 +286,7 @@
           },
           {
             "type": "paragraph",
-            "text": "Emotron VSE series drives offer effortless and smooth operation with all types of elevators and includes excellent tuning features for the safest , most efficient comfortable passenger experience without vibration and jerks."
+            "text": "Emotron VSE series drives offer effortless and smooth operation with all types of elevators and includes excellent tuning features for the safest, most efficient comfortable passenger experience without vibration and jerks."
           },
           {
             "type": "heading",
@@ -348,7 +348,7 @@
           },
           {
             "type": "feature",
-            "text": "Protection class : IP20 , IP21 , IP54"
+            "text": "Protection class : IP20, IP21, IP54"
           },
           {
             "type": "feature",
@@ -356,7 +356,7 @@
           },
           {
             "type": "paragraph",
-            "text": "Emotron VFX 2.0 variable speed drives optimizes your process and prevents damage and downtime. The combination of direct torque control , accurate speed control sand efficient vector braking makes it the ideal solution for all dynamic applications such as cranes , crushers , mills , mixers and centrifuges."
+            "text": "Emotron VFX 2.0 variable speed drives optimizes your process and prevents damage and downtime. The combination of direct torque control, accurate speed control sand efficient vector braking makes it the ideal solution for all dynamic applications such as cranes, crushers, mills, mixers and centrifuges."
           },
           {
             "type": "heading",
@@ -368,7 +368,7 @@
           },
           {
             "type": "feature",
-            "text": "More I/O's available - 4 AI , 2 AO , 8 D1 , 2 DO , 3 RO"
+            "text": "More I/O's available - 4 AI, 2 AO, 8 D1, 2 DO, 3 RO"
           },
           {
             "type": "feature",
@@ -376,7 +376,7 @@
           },
           {
             "type": "feature",
-            "text": "Operation parameters can be set in your process units , for example mis , tons/h or cycles/min"
+            "text": "Operation parameters can be set in your process units, for example mis, tons/h or cycles/min"
           },
           {
             "type": "feature",
@@ -400,11 +400,11 @@
           },
           {
             "type": "feature",
-            "text": "Support IM , PMSM , SRM"
+            "text": "Support IM, PMSM, SRM"
           },
           {
             "type": "feature",
-            "text": "Support CAN Open, Profibus , Device net, Ethernet , Profinet , EtherNet IP, Safe Stop"
+            "text": "Support CAN Open, Profibus, Device net, Ethernet, Profinet, EtherNet IP, Safe Stop"
           }
         ],
         "legacyIds": ["vfx"],
@@ -438,7 +438,7 @@
           },
           {
             "type": "paragraph",
-            "text": "Whilst traditional softstarters handle the most common start challenges , Emotron MSF 2.0 offer a lot more. Start and stop sequences are optimized. Advanced bracking techniques increase productivity. Built-in monitor functionally protects your process from inefficiency , damage and downtime. Easy installation and set-up save time and money. In addition , the Emotron MSF is developed for selected applications , which means optimized functionally adapted to your specific needs."
+            "text": "Whilst traditional softstarters handle the most common start challenges, Emotron MSF 2.0 offer a lot more. Start and stop sequences are optimized. Advanced bracking techniques increase productivity. Built-in monitor functionally protects your process from inefficiency, damage and downtime. Easy installation and set-up save time and money. In addition, the Emotron MSF is developed for selected applications, which means optimized functionally adapted to your specific needs."
           },
           {
             "type": "heading",
@@ -458,7 +458,7 @@
           },
           {
             "type": "feature",
-            "text": "Built-in shaft power monitor sends warning or stops the , pump when load is outside your chosen limits."
+            "text": "Built-in shaft power monitor sends warning or stops the, pump when load is outside your chosen limits."
           },
           {
             "type": "feature",
@@ -504,7 +504,7 @@
           },
           {
             "type": "paragraph",
-            "text": "Emotron TSA softstarters take motor control to a new level soft torque starting , intelligent load monitoring and smart stop are all included and accompanied by a robust and compact design. By developing the Emotron TSA range of electronic softstarter CG has taken a major step towards the ideal motor controller for applications where variable speed is not required. You simply get everything expect variable speed"
+            "text": "Emotron TSA softstarters take motor control to a new level soft torque starting, intelligent load monitoring and smart stop are all included and accompanied by a robust and compact design. By developing the Emotron TSA range of electronic softstarter CG has taken a major step towards the ideal motor controller for applications where variable speed is not required. You simply get everything expect variable speed"
           },
           {
             "type": "heading",
@@ -520,7 +520,7 @@
           },
           {
             "type": "feature",
-            "text": "Controlled starts , also with challenging loads"
+            "text": "Controlled starts, also with challenging loads"
           },
           {
             "type": "feature",
@@ -578,7 +578,7 @@
           },
           {
             "type": "paragraph",
-            "text": "Emotron EmoLog series is a high performance compact type Programmable Logic Controller (PLC) for your automation process. It can be widely applied in manufacturing industries including SPM , textile , chemical fiber , machine tool , cables , food and beverages , packaging , plastic steel , construction machinery , air conditioner , elevator printing and many more"
+            "text": "Emotron EmoLog series is a high performance compact type Programmable Logic Controller (PLC) for your automation process. It can be widely applied in manufacturing industries including SPM, textile, chemical fiber, machine tool, cables, food and beverages, packaging, plastic steel, construction machinery, air conditioner, elevator printing and many more"
           },
           {
             "type": "heading",
@@ -672,7 +672,7 @@
           },
           {
             "type": "paragraph",
-            "text": "Emotron EmoSmart series HMI is based on a modern , powerful & user friendly design having high quality display resolution, large memory and a powerful configuration that can easily achieve the human-machine interaction in various fields and industrial automation."
+            "text": "Emotron EmoSmart series HMI is based on a modern, powerful & user friendly design having high quality display resolution, large memory and a powerful configuration that can easily achieve the human-machine interaction in various fields and industrial automation."
           },
           {
             "type": "heading",
@@ -1342,7 +1342,7 @@
         "blocks": [
           {
             "type": "paragraph",
-            "text": "Jayashree introduced the air core technology for soft starters in 1980’s , the first of its kind solution and invention offered for the commercial use, Air core superseded the dated magnetic core technology by its superior characteristics and performance HFSR™ ( air core and advanced magnetic core ) / FCMA™ ( auto-transformer based ) technologies are introduced and pioneered by Jayashree and promoted since 1987 , both trade mark registered by JEPL, offered solutions are as per customer requirements and suitable for the application."
+            "text": "Jayashree introduced the air core technology for soft starters in 1980’s, the first of its kind solution and invention offered for the commercial use, Air core superseded the dated magnetic core technology by its superior characteristics and performance HFSR™ ( air core and advanced magnetic core ) / FCMA™ ( auto-transformer based ) technologies are introduced and pioneered by Jayashree and promoted since 1987, both trade mark registered by JEPL, offered solutions are as per customer requirements and suitable for the application."
           }
         ],
         "legacyIds": ["tab4primary"],
@@ -1737,7 +1737,7 @@
           },
           {
             "type": "feature",
-            "text": "Fast Switching: 0.5s , 0.8s options available"
+            "text": "Fast Switching: 0.5s, 0.8s options available"
           },
           {
             "type": "feature",

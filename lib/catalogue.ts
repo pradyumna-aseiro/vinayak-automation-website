@@ -40,7 +40,13 @@ export const productUrl = (c: Category, p: Product) =>
   `/products/${c.slug}/${p.slug}`;
 export const quoteUrl = (product?: string) =>
   product ? `/contact?product=${encodeURIComponent(product)}` : "/contact";
+// Index of the block productSummary draws its text from, or -1 for the fallback.
+export const summaryBlockIndex = (p: Product) => {
+  const para = p.blocks.findIndex((b) => b.type === "paragraph" && b.text);
+  return para !== -1
+    ? para
+    : p.blocks.findIndex((b) => b.type === "feature" && b.text);
+};
 export const productSummary = (p: Product) =>
-  p.blocks.find((b) => b.type === "paragraph")?.text ||
-  p.blocks.find((b) => b.type === "feature")?.text ||
+  p.blocks[summaryBlockIndex(p)]?.text ||
   `Explore ${p.name} and request selection support from Vinayak Automation Products.`;

@@ -16,7 +16,7 @@ import {
   ArrowUpRight,
 } from "lucide-react";
 import { Button, CategoryCard, Eyebrow } from "@/components/ui";
-import { ClientCarousel } from "@/components/client-carousel";
+import { ClientGrid } from "@/components/client-grid";
 import { WhyVinayak } from "@/components/company-story";
 import { metadata as seo } from "@/lib/seo";
 export const revalidate = 3600;
@@ -76,7 +76,7 @@ export default function Home() {
           </div>
         </div>
       </section>
-      <ClientCarousel />
+      <ClientGrid />
       <section className="section" id="products">
         <div className="container">
           <div className="section-heading">
@@ -102,12 +102,8 @@ export default function Home() {
               categories[3],
               categories[5],
               categories[8],
-            ].map((c) => (
-              <CategoryCard
-                key={c.slug}
-                category={c}
-                index={categories.indexOf(c)}
-              />
+            ].map((c, i) => (
+              <CategoryCard key={c.slug} category={c} index={i} />
             ))}
           </div>
           <div className="more-ranges">

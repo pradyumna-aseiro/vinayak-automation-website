@@ -32,6 +32,7 @@ export default function Products() {
           <span>09 PRODUCT CATEGORIES</span>
           <span>SELECTION · SUPPLY · INTEGRATION</span>
         </div>
+        <h2 className="sr-only">Product categories</h2>
         <div className="category-grid catalogue-grid">
           {categories.map((c, i) => (
             <CategoryCard key={c.slug} category={c} index={i} />

@@ -36,8 +36,8 @@ export default function About() {
       <div className="container">
         <div className="about-image">
           <Image
-            src="/media/workshop.webp"
-            alt="A modern industrial workshop with integrated production equipment"
+            src="/media/hmi-machine-line.webp"
+            alt="Operator touch panel with push buttons and emergency stop on an automated production line"
             fill
             sizes="95vw"
             preload

@@ -1,0 +1,52 @@
+{
+  "updated": "2026-09-26",
+  "note": "Provenance for media added in the September 2026 design audit. Stock photos are illustrative context, not VAP installations or VAP-supplied equipment.",
+  "assets": [
+    {
+      "file": "public/media/control-panel-wiring.webp",
+      "sourceUrl": "https://unsplash.com/photos/open-industrial-electrical-control-panel-with-wires-and-modules-NAchd3UmxXo",
+      "downloadUrl": "https://images.unsplash.com/photo-1780034766312-73825064806c?w=1920&q=85&fm=jpg",
+      "author": "Raymond Sime (https://unsplash.com/@raymond36)",
+      "licence": "Unsplash License",
+      "licenceUrl": "https://unsplash.com/license",
+      "licenceNote": "Free for commercial use; no permission or attribution required. Verified 2026-09-26: photo page shows \"Free to use under the Unsplash License\" and the photo is not Unsplash+ (premium=false).",
+      "processing": "Resized to 1600x1067 and encoded as WebP (quality 72) with sharp.",
+      "usedOn": [
+        "/ (homepage hero, app/page.tsx)"
+      ],
+      "ownerReview": "Third-party PLC branding is visible at small size; the photo illustrates a control panel, not a brand VAP supplies.",
+      "sha256": "d6ca65b573de7131c734f5a4c2b0067d1c59e082d4e7de8baca81c3f1213a97e",
+      "bytes": 163212
+    },
+    {
+      "file": "public/media/hmi-machine-line.webp",
+      "sourceUrl": "https://unsplash.com/photos/industrial-manufacturing-machine-control-panel-_XDK4naBbgw",
+      "downloadUrl": "https://images.unsplash.com/photo-1717386255773-a456c611dc4e?w=1920&q=85&fm=jpg",
+      "author": "Homa Appliances (https://unsplash.com/@homaappliances)",
+      "licence": "Unsplash License",
+      "licenceUrl": "https://unsplash.com/license",
+      "licenceNote": "Free for commercial use; no permission or attribution required. Verified 2026-09-26: photo page shows \"Free to use under the Unsplash License\" and the photo is not Unsplash+ (premium=false).",
+      "processing": "Resized to 1600x1068 and encoded as WebP (quality 72) with sharp.",
+      "usedOn": [
+        "/about (hero image, app/about/page.tsx)"
+      ],
+      "replaces": "public/media/workshop.webp (removed; no remaining references)",
+      "sha256": "b146495e87c71c00001a609154afea9ba3a29fd7365ad0889f4ad376085d57ec",
+      "bytes": 148210
+    },
+    {
+      "file": "public/media/renu-flexipanels-hmi.webp",
+      "sourceUrl": "public/images/services/FlexiPanels - HMI.jpg (existing site asset, Renu Electronics FlexiPanels product photograph retained from commit 07f918d)",
+      "author": "Renu Electronics (manufacturer product photograph)",
+      "licence": "Existing manufacturer product image already used on this site; rights remain with Renu Electronics",
+      "licenceUrl": null,
+      "processing": "Cropped to remove the \"NEW\" sticker and the separate 7-inch unit, pale blue backdrop blended to white, 30px white margin, WebP quality 88. Same FlexiPanels HMIs, no product substituted.",
+      "usedOn": [
+        "/products/industrial-automation-solution category image (data/catalogue.json)",
+        "category cards on / and /products"
+      ],
+      "sha256": "cf1eafa25a5a67df22fa7e155d35482859355457300ca53bacc6549b09555630",
+      "bytes": 12804
+    }
+  ]
+}

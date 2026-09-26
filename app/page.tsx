@@ -63,8 +63,8 @@ export default function Home() {
           </div>
           <div className="hero-visual">
             <Image
-              src="/media/factory.webp"
-              alt="Automated equipment on a modern factory production floor"
+              src="/media/control-panel-wiring.webp"
+              alt="Open control panel with PLC modules, power supplies, network switches and labelled terminal wiring"
               fill
               sizes="(max-width: 800px) 100vw, 52vw"
               preload

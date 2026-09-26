@@ -888,18 +888,170 @@ textarea:focus-visible,
   margin-top: auto;
   font-size: 12px;
 }
+/* Group links stay reachable while scrolling a long range. */
 .group-links {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 22px;
-  margin: 25px 0 35px;
-}
-.group-links > a {
-  font-size: 13px;
-  min-height: 44px;
+  position: sticky;
+  top: 0;
+  z-index: 6;
   display: flex;
   gap: 8px;
+  overflow-x: auto;
+  scrollbar-width: none;
+  margin: 0 0 20px;
+  padding: 10px 0;
+  background: var(--paper);
+  border-bottom: 1px solid var(--line);
+}
+.group-links > a {
+  display: inline-flex;
   align-items: center;
+  flex: none;
+  min-height: 44px;
+  padding: 0 14px;
+  font-size: 13px;
+  white-space: nowrap;
+  color: var(--muted);
+  border: 1px solid var(--line);
+  transition:
+    background 0.2s,
+    color 0.2s;
+}
+.group-links > a:hover {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: white;
+}
+.group-links > a:focus-visible {
+  outline-offset: -3px;
+}
+.product-group {
+  scroll-margin-top: 80px;
+}
+/* Part finder */
+.finder-bar {
+  margin: 0 0 24px;
+}
+.finder {
+  display: grid;
+  gap: 8px;
+  max-width: 560px;
+}
+.finder-label {
+  font-size: 12px;
+  font-weight: 550;
+  color: var(--ink);
+}
+.finder-input {
+  display: flex;
+  align-items: center;
+  border: 1px solid var(--grey-300);
+  background: white;
+  min-height: 48px;
+  transition: border-color 0.2s;
+}
+.finder-input:focus-within {
+  border-color: var(--accent);
+  outline: 3px solid var(--accent);
+  outline-offset: 2px;
+}
+.finder-input > svg {
+  flex: none;
+  margin-left: 14px;
+  color: var(--muted);
+}
+.finder-input input {
+  flex: 1;
+  min-width: 0;
+  min-height: 46px;
+  padding: 10px 12px;
+  border: 0;
+  background: transparent;
+  font-size: 16px;
+  color: var(--ink);
+  outline: none;
+}
+.finder-input input:focus-visible {
+  outline: none;
+}
+.finder-input input::placeholder {
+  color: var(--muted);
+}
+.finder-input input::-webkit-search-cancel-button {
+  appearance: none;
+}
+.finder-clear {
+  display: grid;
+  place-items: center;
+  flex: none;
+  width: 44px;
+  height: 44px;
+  border: 0;
+  background: none;
+  color: var(--muted);
+}
+.finder-clear:hover {
+  color: var(--accent);
+}
+.finder-clear:focus-visible {
+  outline-offset: -3px;
+}
+.finder-status {
+  font-size: 12px;
+  font-variant-numeric: tabular-nums;
+}
+.finder-results {
+  list-style: none;
+  margin: 0 0 90px;
+  padding: 0;
+  border-top: 1px solid var(--line);
+}
+.finder-results a {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  min-height: 64px;
+  padding: 12px 0;
+  border-bottom: 1px solid var(--line);
+}
+.finder-results a > span {
+  display: grid;
+  gap: 3px;
+}
+.finder-results strong {
+  font-family: var(--font-display);
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+.finder-results a > svg {
+  flex: none;
+  color: var(--muted);
+}
+.finder-results a:hover strong,
+.finder-results a:hover > svg {
+  color: var(--accent);
+}
+.finder-empty {
+  background: var(--soft);
+  padding: 32px;
+  margin-bottom: 90px;
+  max-width: 760px;
+}
+.range-section .finder-empty {
+  margin-bottom: 0;
+}
+.finder-empty h3 {
+  font-size: 22px;
+  overflow-wrap: anywhere;
+}
+.finder-empty p {
+  margin: 10px 0 22px;
+  font-size: 15px;
+}
+.finder-empty .button {
+  max-width: 100%;
+  overflow-wrap: anywhere;
 }
 .group-title {
   font-size: 24px;
@@ -1940,8 +2092,21 @@ address {
   }
 }
 @media (max-width: 600px) {
+  /* Logos alone on phones: the names are already each link's label. */
   .client-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 10px;
+  }
+  .client-grid a {
+    padding: 10px 6px;
+    min-height: 64px;
+    justify-content: center;
+  }
+  .client-grid img {
+    height: 44px;
+  }
+  .client-grid span {
+    display: none;
   }
   .ceo-grid {
     grid-template-columns: 1fr;

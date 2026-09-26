@@ -12,12 +12,12 @@ import {
   categories,
   site,
   quoteUrl,
-  productUrl,
-  productSummary,
+  cardItem,
   type Category,
   type Product,
 } from "@/lib/catalogue";
 import { jsonLd } from "@/lib/seo";
+import { ProductCardView } from "@/components/product-card";
 export function Button({
   href,
   children,
@@ -128,29 +128,7 @@ export function ProductCard({
   product: Product;
   aliases?: string[];
 }) {
-  return (
-    <Link href={productUrl(c, p)} className="product-card" id={p.slug}>
-      {aliases.map((id) => (
-        <span id={id} key={id} className="anchor-target" />
-      ))}
-      <div className="product-card-image">
-        <Image
-          src={p.image}
-          alt={p.name}
-          fill
-          sizes="(max-width: 640px) 80vw, (max-width: 1000px) 38vw, 24vw"
-        />
-      </div>
-      <div className="product-card-copy">
-        <span className="small-label">{p.group || c.brand}</span>
-        <h3>{p.name}</h3>
-        <p>{productSummary(p)}</p>
-        <span className="text-link">
-          View details <ArrowUpRight size={16} />
-        </span>
-      </div>
-    </Link>
-  );
+  return <ProductCardView item={cardItem(c, p, aliases)} />;
 }
 export function EnquiryBanner({
   title = "Have a product or automation requirement?",

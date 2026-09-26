@@ -1,15 +1,14 @@
 import { notFound } from "next/navigation";
 import Image from "next/image";
 import Link from "next/link";
-import { ArrowUpRight } from "lucide-react";
 import {
   Breadcrumbs,
   Button,
   Eyebrow,
-  ProductCard,
   EnquiryBanner,
 } from "@/components/ui";
-import { categories, quoteUrl } from "@/lib/catalogue";
+import { aliasesFor, cardItem, categories, quoteUrl } from "@/lib/catalogue";
+import { CategoryFinder } from "@/components/part-finder";
 import { metadata as seo } from "@/lib/seo";
 export function generateStaticParams() {
   return categories.map((c) => ({ category: c.slug }));
@@ -34,9 +33,7 @@ export default async function CategoryPage({
   const c = categories.find((c) => c.slug === category);
   if (!c) notFound();
   const groups = [...new Set(c.products.map((p) => p.group).filter(Boolean))];
-  const aliasOwners: Record<string, string> = {};
-  for (const p of c.products)
-    for (const id of p.legacyIds) aliasOwners[id] ??= p.slug;
+  const aliases = aliasesFor(c);
   return (
     <>
       <div className="container">
@@ -87,57 +84,11 @@ export default async function CategoryPage({
               {c.products.length === 1 ? "listing" : "listings"}
             </span>
           </div>
-          {groups.length > 1 && (
-            <div className="group-links">
-              {groups.map((g) => (
-                <a
-                  key={g}
-                  href={"#group-" + g.toLowerCase().replace(/[^a-z0-9]+/g, "-")}
-                >
-                  {g}
-                  <ArrowUpRight size={14} />
-                </a>
-              ))}
-            </div>
-          )}
-          {groups.length > 1 ? (
-            groups.map((g) => (
-              <section
-                key={g}
-                className="product-group"
-                id={"group-" + g.toLowerCase().replace(/[^a-z0-9]+/g, "-")}
-              >
-                <h3 className="group-title">{g}</h3>
-                <div className="product-grid">
-                  {c.products
-                    .filter((p) => p.group === g)
-                    .map((p) => (
-                      <ProductCard
-                        key={p.slug}
-                        category={c}
-                        product={p}
-                        aliases={p.legacyIds.filter(
-                          (id) => aliasOwners[id] === p.slug && id !== p.slug,
-                        )}
-                      />
-                    ))}
-                </div>
-              </section>
-            ))
-          ) : (
-            <div className="product-grid">
-              {c.products.map((p) => (
-                <ProductCard
-                  key={p.slug}
-                  category={c}
-                  product={p}
-                  aliases={p.legacyIds.filter(
-                    (id) => aliasOwners[id] === p.slug && id !== p.slug,
-                  )}
-                />
-              ))}
-            </div>
-          )}
+          <CategoryFinder
+            items={c.products.map((p) => cardItem(c, p, aliases(p)))}
+            groups={groups}
+            categoryName={c.name}
+          />
         </section>
       </div>
       <EnquiryBanner

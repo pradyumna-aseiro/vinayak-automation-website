@@ -50,3 +50,22 @@ export const summaryBlockIndex = (p: Product) => {
 export const productSummary = (p: Product) =>
   p.blocks[summaryBlockIndex(p)]?.text ||
   `Explore ${p.name} and request selection support from Vinayak Automation Products.`;
+// Slim card data for the part finder and product cards.
+export const cardItem = (c: Category, p: Product, aliases: string[] = []) => ({
+  slug: p.slug,
+  name: p.name,
+  group: p.group,
+  brand: c.brand,
+  category: c.name,
+  href: productUrl(c, p),
+  image: p.image,
+  summary: productSummary(p),
+  aliases,
+});
+// Legacy anchor ids each product card should carry on its category page.
+export const aliasesFor = (c: Category) => {
+  const owners: Record<string, string> = {};
+  for (const p of c.products) for (const id of p.legacyIds) owners[id] ??= p.slug;
+  return (p: Product) =>
+    p.legacyIds.filter((id) => owners[id] === p.slug && id !== p.slug);
+};

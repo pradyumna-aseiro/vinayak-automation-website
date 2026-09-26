@@ -4,7 +4,8 @@ import {
   EnquiryBanner,
   Eyebrow,
 } from "@/components/ui";
-import { categories } from "@/lib/catalogue";
+import { cardItem, categories } from "@/lib/catalogue";
+import { CatalogueFinder } from "@/components/part-finder";
 import { metadata as seo } from "@/lib/seo";
 export const metadata = seo(
   "Industrial product catalogue",
@@ -32,12 +33,16 @@ export default function Products() {
           <span>09 PRODUCT CATEGORIES</span>
           <span>SELECTION · SUPPLY · INTEGRATION</span>
         </div>
-        <h2 className="sr-only">Product categories</h2>
-        <div className="category-grid catalogue-grid">
-          {categories.map((c, i) => (
-            <CategoryCard key={c.slug} category={c} index={i} />
-          ))}
-        </div>
+        <CatalogueFinder
+          items={categories.flatMap((c) => c.products.map((p) => cardItem(c, p)))}
+        >
+          <h2 className="sr-only">Product categories</h2>
+          <div className="category-grid catalogue-grid">
+            {categories.map((c, i) => (
+              <CategoryCard key={c.slug} category={c} index={i} />
+            ))}
+          </div>
+        </CatalogueFinder>
       </div>
       <EnquiryBanner
         title="Need help choosing the right product?"

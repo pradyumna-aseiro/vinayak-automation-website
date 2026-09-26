@@ -28,9 +28,9 @@ export default function About() {
           </p>
         </div>
         <div className="year-block">
-          <span>ESTABLISHED</span>
+          <span>Established</span>
           <strong>2007</strong>
-          <span>HYDERABAD, INDIA</span>
+          <span>Hyderabad, India</span>
         </div>
       </section>
       <div className="container">
@@ -81,7 +81,7 @@ export default function About() {
         <div className="container">
           <div className="section-heading">
             <div>
-              <Eyebrow>SYSTEM INTEGRATION</Eyebrow>
+              <Eyebrow>System integration</Eyebrow>
               <h2>Build around the process.</h2>
             </div>
             <p className="heading-aside">
@@ -124,7 +124,7 @@ export default function About() {
       <section className="section" id="sister-company">
         <div className="container editorial-grid">
           <div>
-            <Eyebrow>SISTER COMPANY</Eyebrow>
+            <Eyebrow>Sister company</Eyebrow>
             <h2>Aseiro Industries.</h2>
           </div>
           <div className="sister-company">
@@ -167,7 +167,7 @@ export default function About() {
       <section className="section">
         <div className="container editorial-grid">
           <div>
-            <Eyebrow>HOW WE WORK</Eyebrow>
+            <Eyebrow>How we work</Eyebrow>
             <h2>
               Clear requirements.
               <br />

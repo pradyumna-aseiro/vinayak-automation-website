@@ -37,9 +37,15 @@ export function Button({
     </Link>
   );
 }
-export function Eyebrow({ children }: { children: React.ReactNode }) {
+export function Eyebrow({
+  children,
+  brand = false,
+}: {
+  children: React.ReactNode;
+  brand?: boolean;
+}) {
   return (
-    <p className="eyebrow">
+    <p className={brand ? "eyebrow eyebrow-brand" : "eyebrow"}>
       <span />
       {children}
     </p>

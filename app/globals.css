@@ -227,8 +227,13 @@ textarea:focus-visible,
   line-height: 1.5;
   letter-spacing: 0.15em;
   font-weight: 650;
+  text-transform: uppercase;
   color: var(--muted);
   margin-bottom: 24px;
+}
+/* Brand and manufacturer names sit at the 12px label floor. */
+.eyebrow-brand {
+  font-size: 12px;
 }
 .eyebrow > span {
   width: 7px;
@@ -674,6 +679,7 @@ textarea:focus-visible,
 .year-block > span {
   font-size: 11px;
   letter-spacing: 0.17em;
+  text-transform: uppercase;
   color: var(--muted);
 }
 .year-block > strong {
@@ -745,6 +751,7 @@ textarea:focus-visible,
   padding: 22px 0;
   font-size: 11px;
   letter-spacing: 0.12em;
+  text-transform: uppercase;
   color: var(--muted);
 }
 .catalogue-grid {

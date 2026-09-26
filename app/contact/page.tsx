@@ -43,14 +43,14 @@ export default async function Contact({
           <div className="contact-item">
             <Mail size={21} />
             <div>
-              <span className="small-label">EMAIL US</span>
+              <span className="small-label">Email us</span>
               <a href={"mailto:" + site.email}>{site.email}</a>
             </div>
           </div>
           <div className="contact-item">
             <MapPin size={21} />
             <div>
-              <span className="small-label">FIND US</span>
+              <span className="small-label">Find us</span>
               <address>{site.address}</address>
               <a
                 href={
@@ -66,7 +66,7 @@ export default async function Contact({
             </div>
           </div>
           <div className="office-hours">
-            <span className="small-label">OFFICE HOURS</span>
+            <span className="small-label">Office hours</span>
             <p>
               Monday–Saturday
               <br />

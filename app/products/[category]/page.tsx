@@ -42,7 +42,7 @@ export default async function CategoryPage({
         />
         <section className="category-hero">
           <div>
-            <Eyebrow>{c.brand.toUpperCase()}</Eyebrow>
+            <Eyebrow brand>{c.brand}</Eyebrow>
             <h1>{c.name}</h1>
             <p className="category-headline">{c.headline}</p>
             <p className="lead">{c.description}</p>

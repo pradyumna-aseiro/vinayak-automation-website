@@ -79,7 +79,7 @@ export default async function ProductPage({
             />
           </div>
           <div className="product-detail-intro">
-            <Eyebrow>{c.brand.toUpperCase()}</Eyebrow>
+            <Eyebrow brand>{c.brand}</Eyebrow>
             <h1>{p.name}</h1>
             <p className="lead">{productSummary(p)}</p>
             <div className="product-actions">
@@ -144,7 +144,7 @@ export default async function ProductPage({
             </p>
           </div>
           <aside className="quote-aside">
-            <Eyebrow>SELECTION SUPPORT</Eyebrow>
+            <Eyebrow>Selection support</Eyebrow>
             <h3>
               Put the details
               <br />

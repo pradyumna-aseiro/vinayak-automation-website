@@ -28,8 +28,8 @@ export default function Products() {
           </p>
         </section>
         <div className="catalogue-caption">
-          <span>09 PRODUCT CATEGORIES</span>
-          <span>SELECTION · SUPPLY · INTEGRATION</span>
+          <span>09 product categories</span>
+          <span>Selection · supply · integration</span>
         </div>
         <CatalogueFinder
           items={categories.flatMap((c) => c.products.map((p) => cardItem(c, p)))}

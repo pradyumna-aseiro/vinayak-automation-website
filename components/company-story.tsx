@@ -1,4 +1,5 @@
 import { experienceYears } from "@/lib/experience";
+import { categories } from "@/lib/catalogue";
 import {
   Users,
   LayoutGrid,
@@ -19,7 +20,7 @@ export function WhyVinayak() {
         <div className="vap-highlights">
           {[
             [Users, "10,000+", "Satisfied clients"],
-            [LayoutGrid, "9", "Product ranges"],
+            [LayoutGrid, String(categories.length), "Product ranges"],
             [Boxes, "350+", "Products"],
             [Clock, `${experienceYears()}+ years`, "Of experience"],
           ].map(([Icon, value, label]) => {

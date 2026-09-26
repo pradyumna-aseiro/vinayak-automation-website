@@ -1914,7 +1914,6 @@ address {
 }
 .requirement-cards > li {
   border: 1px solid var(--line);
-  border-radius: 12px;
   padding: 24px;
   display: flex;
   flex-direction: column;
@@ -1953,7 +1952,6 @@ address {
 .requirement-note {
   background: var(--accent-tint);
   padding: 15px;
-  border-radius: 8px;
   font-size: 13px;
   line-height: 1.6;
 }
@@ -1995,7 +1993,6 @@ address {
   gap: 10px;
   background: white;
   border: 1px solid var(--line);
-  border-radius: 8px;
   height: 100%;
 }
 .client-grid img {
@@ -2025,7 +2022,6 @@ address {
   height: 340px;
   object-fit: cover;
   object-position: top;
-  border-radius: 10px;
 }
 .ceo-role {
   color: var(--accent);

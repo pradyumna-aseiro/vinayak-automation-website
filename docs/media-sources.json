@@ -11,9 +11,7 @@
       "licenceUrl": "https://unsplash.com/license",
       "licenceNote": "Free for commercial use; no permission or attribution required. Verified 2026-09-26: photo page shows \"Free to use under the Unsplash License\" and the photo is not Unsplash+ (premium=false).",
       "processing": "Resized to 1600x1067 and encoded as WebP (quality 72) with sharp.",
-      "usedOn": [
-        "/ (homepage hero, app/page.tsx)"
-      ],
+      "usedOn": ["/ (homepage hero, app/page.tsx)"],
       "ownerReview": "Third-party PLC branding is visible at small size; the photo illustrates a control panel, not a brand VAP supplies.",
       "sha256": "d6ca65b573de7131c734f5a4c2b0067d1c59e082d4e7de8baca81c3f1213a97e",
       "bytes": 163212
@@ -27,9 +25,7 @@
       "licenceUrl": "https://unsplash.com/license",
       "licenceNote": "Free for commercial use; no permission or attribution required. Verified 2026-09-26: photo page shows \"Free to use under the Unsplash License\" and the photo is not Unsplash+ (premium=false).",
       "processing": "Resized to 1600x1068 and encoded as WebP (quality 72) with sharp.",
-      "usedOn": [
-        "/about (hero image, app/about/page.tsx)"
-      ],
+      "usedOn": ["/about (hero image, app/about/page.tsx)"],
       "replaces": "public/media/workshop.webp (removed; no remaining references)",
       "sha256": "b146495e87c71c00001a609154afea9ba3a29fd7365ad0889f4ad376085d57ec",
       "bytes": 148210
@@ -59,9 +55,7 @@
       "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
       "processing": "Flattened onto pure white (source already a white or transparent cut-out). Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 589x888.",
       "replaces": "public/images/services/Emotron-VSX.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
-      "usedOn": [
-        "/products/drives-and-automation/emotron-vsx"
-      ],
+      "usedOn": ["/products/drives-and-automation/emotron-vsx"],
       "sha256": "c12bf86a4e05c29ba0c98f36fb4691ae626774ac98e90879f7e875e5fce4f589",
       "bytes": 17904
     },
@@ -95,9 +89,7 @@
       "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
       "processing": "Flattened onto pure white (source already a white or transparent cut-out). Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 493x888.",
       "replaces": "public/images/services/tsa.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
-      "usedOn": [
-        "/products/drives-and-automation/emotron-tsa-softstarter"
-      ],
+      "usedOn": ["/products/drives-and-automation/emotron-tsa-softstarter"],
       "sha256": "e1553fe5dc0613b3c15eb777e8d23a9f234333dbd7fe49866a5f4bec2062e659",
       "bytes": 21742
     },
@@ -112,9 +104,7 @@
       "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
       "processing": "Flattened onto pure white (source already a white or transparent cut-out). Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 888x748.",
       "replaces": "public/images/services/mlog.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
-      "usedOn": [
-        "/products/drives-and-automation/emotron-emolog"
-      ],
+      "usedOn": ["/products/drives-and-automation/emotron-emolog"],
       "sha256": "5c5c661e358d09ddb119823ab898d26a2c62ce834d40687f95a9a39c5f88dc1a",
       "bytes": 28886
     },
@@ -130,9 +120,7 @@
       "processing": "Flattened onto pure white (source already a white or transparent cut-out). Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 888x522.",
       "note": "Same HMI trio as the previous site image, higher-resolution official copy.",
       "replaces": "public/images/services/hunman.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
-      "usedOn": [
-        "/products/drives-and-automation/human-machine-interface"
-      ],
+      "usedOn": ["/products/drives-and-automation/human-machine-interface"],
       "sha256": "62e81ccc728cf19ad91f9cd67ea6fea3f208df882ee81e917816eaa427d0d20a",
       "bytes": 18402
     },
@@ -163,9 +151,7 @@
       "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
       "processing": "Flattened onto pure white (source already a white or transparent cut-out). Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 434x466.",
       "replaces": "public/images/services/ind-2.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
-      "usedOn": [
-        "/products/industrial-automation-solution/pc6101"
-      ],
+      "usedOn": ["/products/industrial-automation-solution/pc6101"],
       "sha256": "8480d00f851ae0b0d0e01b8f95593bf13c27eab15456bb2df16fa0c885ef3e46",
       "bytes": 7930
     },
@@ -320,9 +306,7 @@
       "processing": "Flattened onto pure white (source already a white or transparent cut-out). Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 189x237.",
       "note": "Captioned \"RM221x / RM226x\" on the manufacturer page.",
       "replaces": "public/images/services/ss-10.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
-      "usedOn": [
-        "/products/control-and-power-products/series-rm2211"
-      ],
+      "usedOn": ["/products/control-and-power-products/series-rm2211"],
       "sha256": "dc7b627ce82d8af811b9cd3d8b27132b9940654ec4dd2095cece63aeb415cc8e",
       "bytes": 3552
     },
@@ -355,29 +339,9 @@
       "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 22 (neighbour step 8), isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 116x150.",
       "note": "The display-fitted RME261 is not pictured on jayashree.co.in; flat grey backdrop removed.",
       "replaces": "public/images/services/ss-3.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
-      "usedOn": [
-        "/products/control-and-power-products/series-rme261"
-      ],
+      "usedOn": ["/products/control-and-power-products/series-rme261"],
       "sha256": "e690c1219274c7690f8af78f480320811b42fb5e8f06a8b326e0362bb906b09d",
       "bytes": 3228
-    },
-    {
-      "file": "public/media/products/series-rm-d131-d151.webp",
-      "product": "Series: RM D131/D151 (Control & power products)",
-      "manufacturer": "Jayashree Electron",
-      "sourceUrl": "https://www.jayashree.co.in/web-assets/images/product/conveyor-safety-switches1.png",
-      "sourcePage": "https://www.jayashree.co.in/conveyor-safety-switches",
-      "retrieved": "2026-09-26",
-      "licence": "Manufacturer product image (rights reserved by the manufacturer)",
-      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
-      "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 16 (neighbour step 6), isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 435x353.",
-      "note": "Same photograph as the previous site image, taken from the manufacturer site; flat light-grey backdrop removed. The manufacturer captions this photograph \"Belt Load Monitor\": owner to confirm it is the right picture for RM D131/D151.",
-      "replaces": "public/images/services/ss-6.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
-      "usedOn": [
-        "/products/control-and-power-products/series-rm-d131-d151"
-      ],
-      "sha256": "3f5f58dacdcf792bc8a0f825851227631befc9a53ac66a9cc8d6330ba20cd468",
-      "bytes": 7526
     },
     {
       "file": "public/media/products/tilt-switch-series-sw-4211.webp",
@@ -475,9 +439,7 @@
       "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 16 (neighbour step 6), plus backdrop colour 238,237,242 within 9, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 247x378.",
       "note": "soft-starters.co.in shows only installed HFSR panels and reactor drawings; pale grey panel removed from the existing photograph.",
       "replaces": "public/images/services/soft-2.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
-      "usedOn": [
-        "/products/control-and-power-products/hfsr-reactor"
-      ],
+      "usedOn": ["/products/control-and-power-products/hfsr-reactor"],
       "sha256": "a4c9dedfaa6a1ab89ae23e725fc508a467ef8d8b14814e291f7ea9ce3d2e7bd3",
       "bytes": 6738
     },
@@ -680,9 +642,7 @@
       "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 222x367.",
       "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
       "replaces": "public/images/services/fi-2.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
-      "usedOn": [
-        "/products/field-instruments/level-ultrasonic"
-      ],
+      "usedOn": ["/products/field-instruments/level-ultrasonic"],
       "sha256": "5929c24582527e19378808e24536b8988fe9f32334f19c8a7d10cc7848a54b5c",
       "bytes": 4112
     },
@@ -696,9 +656,7 @@
       "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 200x371.",
       "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
       "replaces": "public/images/services/fi-3.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
-      "usedOn": [
-        "/products/field-instruments/level-guided-radar"
-      ],
+      "usedOn": ["/products/field-instruments/level-guided-radar"],
       "sha256": "d6fd9ce19b7a96de1859f11594566ae242e21650813292b82fa9d1ad04ad5562",
       "bytes": 3230
     },
@@ -712,9 +670,7 @@
       "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 251x344.",
       "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
       "replaces": "public/images/services/fi-4.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
-      "usedOn": [
-        "/products/field-instruments/level-radiometry"
-      ],
+      "usedOn": ["/products/field-instruments/level-radiometry"],
       "sha256": "9fa507a185a0ad3cce30ff0baebd3cdac3eac91898b9d1656efc17af2273bd32",
       "bytes": 4354
     },
@@ -728,9 +684,7 @@
       "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 216x358.",
       "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
       "replaces": "public/images/services/fi-5.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
-      "usedOn": [
-        "/products/field-instruments/level-vibronics-for-fluids"
-      ],
+      "usedOn": ["/products/field-instruments/level-vibronics-for-fluids"],
       "sha256": "48907b4aa8eae537ae3feacb4e295ff995a8af6f8bfb255e9ec1fa2d75446bf1",
       "bytes": 3470
     },
@@ -744,9 +698,7 @@
       "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 195x370.",
       "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
       "replaces": "public/images/services/fi-6.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
-      "usedOn": [
-        "/products/field-instruments/level-vibronics-for-solids"
-      ],
+      "usedOn": ["/products/field-instruments/level-vibronics-for-solids"],
       "sha256": "77e7db3e2b147777b267aae7ddb386fb8c244661790e1043d92cca99a2ceed67",
       "bytes": 2570
     },
@@ -760,9 +712,7 @@
       "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 244x344.",
       "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
       "replaces": "public/images/services/fi-7.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
-      "usedOn": [
-        "/products/field-instruments/level-hydrostatic"
-      ],
+      "usedOn": ["/products/field-instruments/level-hydrostatic"],
       "sha256": "a77819e3466b7d6db6e647adfeed3345606e8a065074f3cd71fd7be5981a18d1",
       "bytes": 5384
     },
@@ -776,9 +726,7 @@
       "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 243x355.",
       "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
       "replaces": "public/images/services/fi-8.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
-      "usedOn": [
-        "/products/field-instruments/level-differential-pressure"
-      ],
+      "usedOn": ["/products/field-instruments/level-differential-pressure"],
       "sha256": "3e6fa4f0c6474c69436f5cf157967bfc860519f017989cdfe7dba6c7aafd2330",
       "bytes": 5722
     },
@@ -792,9 +740,7 @@
       "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 116x317.",
       "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
       "replaces": "public/images/services/fi-9.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
-      "usedOn": [
-        "/products/field-instruments/level-capacitance"
-      ],
+      "usedOn": ["/products/field-instruments/level-capacitance"],
       "sha256": "82f775b8a33e2c677e50f8644735b39aec44070bd7b08fc7c5aceb9b68ba72f4",
       "bytes": 1194
     },
@@ -808,9 +754,7 @@
       "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 105x277.",
       "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
       "replaces": "public/images/services/fi-10.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
-      "usedOn": [
-        "/products/field-instruments/level-conductive"
-      ],
+      "usedOn": ["/products/field-instruments/level-conductive"],
       "sha256": "c95633d5b7cd45ff1233df73a80a71e79e5db8e065518c704ca373ab0ef4cc98",
       "bytes": 1526
     },
@@ -824,9 +768,7 @@
       "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 136x248.",
       "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
       "replaces": "public/images/services/fi-11.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
-      "usedOn": [
-        "/products/field-instruments/level-paddle-switch"
-      ],
+      "usedOn": ["/products/field-instruments/level-paddle-switch"],
       "sha256": "054700ae762ff682978a4fee24699bd025dabfd0fc0ccfbf72a61756e4d30334",
       "bytes": 2280
     },
@@ -856,9 +798,7 @@
       "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 408x277.",
       "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
       "replaces": "public/images/services/flow-1.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
-      "usedOn": [
-        "/products/field-instruments/flow-electromagnetic"
-      ],
+      "usedOn": ["/products/field-instruments/flow-electromagnetic"],
       "sha256": "c7e0d2dfd687c9e007a84aec397892e195e6291d8804e63fd6c64eea8d056165",
       "bytes": 4672
     },
@@ -872,9 +812,7 @@
       "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 331x220.",
       "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
       "replaces": "public/images/services/flow-2.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
-      "usedOn": [
-        "/products/field-instruments/flow-coriolis"
-      ],
+      "usedOn": ["/products/field-instruments/flow-coriolis"],
       "sha256": "3e1378bb677fa353284438f69b5cee19bc65cd14aa9f5bdb76192e31558cf709",
       "bytes": 3192
     },
@@ -888,9 +826,7 @@
       "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 347x320.",
       "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
       "replaces": "public/images/services/flow-3.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
-      "usedOn": [
-        "/products/field-instruments/flow-ultrasonic-variant"
-      ],
+      "usedOn": ["/products/field-instruments/flow-ultrasonic-variant"],
       "sha256": "7937be32400c333978c647f9f74a117ecf6b2b46184619ca4214f0c14185abcd",
       "bytes": 5280
     },
@@ -904,9 +840,7 @@
       "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 389x279.",
       "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
       "replaces": "public/images/services/flow-4.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
-      "usedOn": [
-        "/products/field-instruments/flow-thermal"
-      ],
+      "usedOn": ["/products/field-instruments/flow-thermal"],
       "sha256": "44ce8919323312e8b1da724b3a283534322a1cdc65a5967b5205c9e6373f0247",
       "bytes": 3960
     },
@@ -920,9 +854,7 @@
       "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 181x323.",
       "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
       "replaces": "public/images/services/flow-5.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
-      "usedOn": [
-        "/products/field-instruments/flow-differential-pressure-dp"
-      ],
+      "usedOn": ["/products/field-instruments/flow-differential-pressure-dp"],
       "sha256": "d61e8c92adaf9d3e57b44a99a7f596b9d0124884181413af2e431e76f0797cae",
       "bytes": 2984
     },
@@ -936,9 +868,7 @@
       "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 369x225.",
       "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
       "replaces": "public/images/services/flow-6.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
-      "usedOn": [
-        "/products/field-instruments/flow-vortex"
-      ],
+      "usedOn": ["/products/field-instruments/flow-vortex"],
       "sha256": "61bff90d7731d57654b39fae5beacba1f93cdcd3220b0ed4e847dc88cc52529d",
       "bytes": 4106
     },
@@ -952,9 +882,7 @@
       "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 321x277.",
       "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
       "replaces": "public/images/services/fi-13.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
-      "usedOn": [
-        "/products/field-instruments/level-transducer"
-      ],
+      "usedOn": ["/products/field-instruments/level-transducer"],
       "sha256": "d963add6472cd1521f79d2d07135f12aa5f1c70d81ebac691437ff8b33669e4a",
       "bytes": 4872
     },
@@ -968,9 +896,7 @@
       "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 276x283.",
       "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
       "replaces": "public/images/services/fi-14.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
-      "usedOn": [
-        "/products/field-instruments/level-pressure-switch"
-      ],
+      "usedOn": ["/products/field-instruments/level-pressure-switch"],
       "sha256": "f8c9a8b8790cf2a10e2a44dd35f5a2228f2d6bd99b47394ec79eaab9653ab5d0",
       "bytes": 4584
     },
@@ -1000,9 +926,7 @@
       "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 306x290.",
       "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
       "replaces": "public/images/services/fi-16.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
-      "usedOn": [
-        "/products/field-instruments/level-digital-transmitters"
-      ],
+      "usedOn": ["/products/field-instruments/level-digital-transmitters"],
       "sha256": "56f2c843058a4caf5286a98dff4e467d962236c29fd5e3b9c0e464362e3b8498",
       "bytes": 4198
     },
@@ -1016,9 +940,7 @@
       "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 301x151.",
       "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
       "replaces": "public/images/services/temper-1.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
-      "usedOn": [
-        "/products/field-instruments/temperature-head-transmitters"
-      ],
+      "usedOn": ["/products/field-instruments/temperature-head-transmitters"],
       "sha256": "925b8385757b635690f9aa439c9bb1c5fda7c27b195ef57cf177734fb710dce7",
       "bytes": 5536
     },
@@ -1048,9 +970,7 @@
       "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 184x161.",
       "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
       "replaces": "public/images/services/temper-3.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
-      "usedOn": [
-        "/products/field-instruments/temperature-field-transmitters"
-      ],
+      "usedOn": ["/products/field-instruments/temperature-field-transmitters"],
       "sha256": "21757dc855860d8dc7344c2648a2eb2f743e244fb707c74749885c10013354ce",
       "bytes": 3332
     },
@@ -1080,9 +1000,7 @@
       "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 267x276.",
       "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
       "replaces": "public/images/services/temper-6.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
-      "usedOn": [
-        "/products/field-instruments/temperature-thermocouples"
-      ],
+      "usedOn": ["/products/field-instruments/temperature-thermocouples"],
       "sha256": "36571a27acd181d1897a504d3e036d5cb9f04fd21c0f941162bc3090932da9f4",
       "bytes": 2676
     },
@@ -1112,9 +1030,7 @@
       "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 337x236.",
       "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
       "replaces": "public/images/services/liquid-1.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
-      "usedOn": [
-        "/products/field-instruments/liquid-analysis-ph-orp"
-      ],
+      "usedOn": ["/products/field-instruments/liquid-analysis-ph-orp"],
       "sha256": "d4c829edbe7e35d87dcabb8c6d85113f2885876a282d3e42c3259e415845a360",
       "bytes": 4128
     },
@@ -1128,9 +1044,7 @@
       "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 299x213.",
       "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
       "replaces": "public/images/services/liquid-2.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
-      "usedOn": [
-        "/products/field-instruments/liquid-analysis-conductivity"
-      ],
+      "usedOn": ["/products/field-instruments/liquid-analysis-conductivity"],
       "sha256": "b0e90bc7d0892dd32a85cef5bf9cd542f13890f85f558baa5fda6651679941ae",
       "bytes": 2948
     },
@@ -1160,9 +1074,7 @@
       "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 318x240.",
       "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
       "replaces": "public/images/services/liquid-4.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
-      "usedOn": [
-        "/products/field-instruments/liquid-analysis-oxygen"
-      ],
+      "usedOn": ["/products/field-instruments/liquid-analysis-oxygen"],
       "sha256": "d860d68e05b40a4fcef4a590a5ccf7910b96f92a83839bf9c616322ae4cd60d1",
       "bytes": 3440
     },
@@ -1192,9 +1104,7 @@
       "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 282x240.",
       "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
       "replaces": "public/images/services/liquid-6.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
-      "usedOn": [
-        "/products/field-instruments/liquid-analysis-analyzers"
-      ],
+      "usedOn": ["/products/field-instruments/liquid-analysis-analyzers"],
       "sha256": "8f82564d298dc973e4ebd2610ed6df18e1def13bc404cafe6e0a931ad9ecf632",
       "bytes": 4536
     },
@@ -1208,9 +1118,7 @@
       "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 334x168.",
       "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
       "replaces": "public/images/services/liquid-7.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
-      "usedOn": [
-        "/products/field-instruments/liquid-analysis-transmitters"
-      ],
+      "usedOn": ["/products/field-instruments/liquid-analysis-transmitters"],
       "sha256": "6bf71b172899d2176c87a414431fd9e4bdb424988966487dbc63742d2b884adb",
       "bytes": 4308
     },
@@ -1240,11 +1148,20 @@
       "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 127x231.",
       "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
       "replaces": "public/images/services/liquid-9.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
-      "usedOn": [
-        "/products/field-instruments/liquid-analysis-samplers"
-      ],
+      "usedOn": ["/products/field-instruments/liquid-analysis-samplers"],
       "sha256": "85d21d22d538efa0367cc50a62778af6226d12287162bff4269238c939433d9c",
       "bytes": 2180
+    }
+  ],
+  "removed": [
+    {
+      "file": "public/media/products/series-rm-d131-d151.webp",
+      "removed": "2026-09-26",
+      "product": "Series: RM D131/D151 (Control & power products)",
+      "reason": "The photograph was Jayashree Electron's \"Belt Load Monitor\" image, not RM D131/D151. Jayashree's current website shows no RM D131/D151 and no official photo of it, so the listing now uses the \"Photo on request\" treatment. The series may be discontinued; owner to confirm.",
+      "usedOn": [
+        "/products/control-and-power-products/series-rm-d131-d151 (now Photo on request)"
+      ]
     }
   ]
 }

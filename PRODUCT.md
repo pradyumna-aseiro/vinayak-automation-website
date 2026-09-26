@@ -49,8 +49,10 @@ vision and integration.
   site, catalogue or brochure where possible, on a white background.
   Provenance for every image is recorded in `docs/media-sources.json`. Never
   substitute a different model's photo.
-- Open: the RM D131/D151 photo is captioned "Belt Load Monitor" on
-  Jayashree's site and may be the wrong picture.
+- Where no official photo exists, the product shows a "Photo on request"
+  field instead of a lookalike. RM D131/D151 is one: its old photo was
+  Jayashree's "Belt Load Monitor", and Jayashree no longer shows the series
+  (possibly discontinued; owner to confirm).
 - Never invent figures, prices or claims.
 
 ## Brand Commitments

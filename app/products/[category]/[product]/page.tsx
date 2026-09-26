@@ -9,8 +9,10 @@ import {
   ProductCard,
   EnquiryBanner,
 } from "@/components/ui";
+import { PhotoOnRequest } from "@/components/product-card";
 import {
   categories,
+  productBrand,
   productUrl,
   productSummary,
   summaryBlockIndex,
@@ -40,7 +42,7 @@ export async function generateMetadata({
       160,
     ),
     productUrl(c, p),
-    p.image,
+    p.image || undefined,
   );
 }
 export default async function ProductPage({
@@ -52,6 +54,7 @@ export default async function ProductPage({
   const c = categories.find((c) => c.slug === category);
   const p = c?.products.find((p) => p.slug === product);
   if (!c || !p) notFound();
+  const brand = productBrand(c, p);
   const related = c.products.filter((x) => x.slug !== p.slug).slice(0, 3);
   // The lead paragraph already shows the summary, which is taken from one of the
   // blocks. Skip that block below so the same text is not printed twice.
@@ -69,17 +72,21 @@ export default async function ProductPage({
         />
         <section className="product-detail-hero">
           <div className="product-detail-image">
-            <Image
-              src={p.image}
-              alt={p.name}
-              fill
-              sizes="(max-width: 800px) 90vw, 42vw"
-              preload
-              fetchPriority="high"
-            />
+            {p.image ? (
+              <Image
+                src={p.image}
+                alt={p.name}
+                fill
+                sizes="(max-width: 800px) 90vw, 42vw"
+                preload
+                fetchPriority="high"
+              />
+            ) : (
+              <PhotoOnRequest name={p.name} detail />
+            )}
           </div>
           <div className="product-detail-intro">
-            <Eyebrow brand>{c.brand}</Eyebrow>
+            <Eyebrow brand>{brand}</Eyebrow>
             <h1>{p.name}</h1>
             <p className="lead">{productSummary(p)}</p>
             <div className="product-actions">
@@ -193,11 +200,11 @@ export default async function ProductPage({
             "@type": "Product",
             name: p.name,
             description: productSummary(p),
-            image: site.url + p.image,
+            ...(p.image ? { image: site.url + p.image } : {}),
             url: site.url + productUrl(c, p),
             category: c.name,
-            ...(c.brand !== "System integration"
-              ? { brand: { "@type": "Brand", name: c.brand } }
+            ...(brand !== "System integration"
+              ? { brand: { "@type": "Brand", name: brand } }
               : {}),
           }),
         }}

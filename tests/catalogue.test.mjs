@@ -33,7 +33,8 @@ test("catalogue has nine categories, unique routes, and real product images", ()
     );
     for (const p of c.products) {
       assert.ok(p.name);
-      assert.ok(fs.existsSync("public" + p.image), p.image);
+      // An empty image means "Photo on request"; any path given must exist.
+      if (p.image) assert.ok(fs.existsSync("public" + p.image), p.image);
     }
   }
 });

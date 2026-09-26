@@ -4,7 +4,10 @@ export type Product = {
   slug: string;
   name: string;
   group: string;
+  // Path under public/, or "" when no official photo exists ("Photo on request").
   image: string;
+  // Manufacturer, when it differs from the category's brand.
+  brand?: string;
   blocks: Block[];
   legacyIds: string[];
   source: string;
@@ -36,6 +39,7 @@ export const site = {
     "No. 10-2-2/10, Meghana East End Apartment, West Marredpally, Secunderabad, Hyderabad, Telangana 500026",
   established: 2007,
 };
+export const productBrand = (c: Category, p: Product) => p.brand || c.brand;
 export const productUrl = (c: Category, p: Product) =>
   `/products/${c.slug}/${p.slug}`;
 export const quoteUrl = (product?: string) =>
@@ -55,7 +59,7 @@ export const cardItem = (c: Category, p: Product, aliases: string[] = []) => ({
   slug: p.slug,
   name: p.name,
   group: p.group,
-  brand: c.brand,
+  brand: productBrand(c, p),
   category: c.name,
   href: productUrl(c, p),
   image: p.image,
@@ -65,7 +69,8 @@ export const cardItem = (c: Category, p: Product, aliases: string[] = []) => ({
 // Legacy anchor ids each product card should carry on its category page.
 export const aliasesFor = (c: Category) => {
   const owners: Record<string, string> = {};
-  for (const p of c.products) for (const id of p.legacyIds) owners[id] ??= p.slug;
+  for (const p of c.products)
+    for (const id of p.legacyIds) owners[id] ??= p.slug;
   return (p: Product) =>
     p.legacyIds.filter((id) => owners[id] === p.slug && id !== p.slug);
 };

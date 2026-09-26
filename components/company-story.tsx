@@ -4,13 +4,7 @@ import {
   LayoutGrid,
   Boxes,
   Clock,
-  Megaphone,
-  Award,
-  Puzzle,
-  Coins,
-  Wrench,
 } from "lucide-react";
-import { Button, Eyebrow } from "@/components/ui";
 export function WhyVinayak() {
   return (
     <section className="section experience-band">
@@ -63,67 +57,6 @@ export function CompanyTimeline() {
             </li>
           ))}
         </ol>
-      </div>
-    </section>
-  );
-}
-export function PartnerWithUs() {
-  return (
-    <section className="section vap-partnership" id="partnership">
-      <div className="container">
-        <div className="section-heading">
-          <div>
-            <Eyebrow>WHY PARTNER WITH US</Eyebrow>
-            <h2>Why partner with us.</h2>
-          </div>
-          <p className="heading-aside">
-            Collaborate with us to accelerate digital transformation in
-            manufacturing worldwide. Empower your clients with automation
-            products and solutions developed to enhance precision, efficiency,
-            and innovation across industries.
-          </p>
-        </div>
-        <div className="vap-partner-grid">
-          {[
-            [
-              Megaphone,
-              "Collaborative marketing",
-              "Connect your offering with shared opportunities and joint marketing initiatives.",
-            ],
-            [
-              Award,
-              "Industry expertise",
-              "Bring application knowledge and product experience into your projects.",
-            ],
-            [
-              Puzzle,
-              "Seamless integration",
-              "Connect products and controls around the requirements of your process.",
-            ],
-            [
-              Coins,
-              "Preferential pricing",
-              "Discuss commercial terms tailored to your partnership and project scope.",
-            ],
-            [
-              Wrench,
-              "Dedicated technical support",
-              "Work with a team that supports product selection and implementation.",
-            ],
-          ].map(([Icon, title, text]) => {
-            const I = Icon as typeof Users;
-            return (
-              <article key={String(title)}>
-                <I size={26} />
-                <h3>{String(title)}</h3>
-                <p>{String(text)}</p>
-              </article>
-            );
-          })}
-        </div>
-        <Button href="/contact?product=Partnership%20enquiry">
-          Discuss a partnership
-        </Button>
       </div>
     </section>
   );

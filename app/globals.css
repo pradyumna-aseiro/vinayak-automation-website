@@ -1854,46 +1854,14 @@ address {
 .vap-timeline p {
   margin-top: 10px;
 }
-.vap-partnership {
-  background: var(--grey-900);
-  color: #fff;
-}
-.vap-partnership .heading-aside {
-  color: var(--grey-on-dark);
-}
-.vap-partner-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 25px;
-  margin-bottom: 36px;
-}
-.vap-partner-grid article {
-  padding: 25px;
-  border: 1px solid var(--grey-600);
-}
-.vap-partner-grid svg {
-  color: var(--on-dark-accent-icon);
-  margin-bottom: 18px;
-}
-.vap-partner-grid h3 {
-  font-size: 20px;
-  margin-bottom: 12px;
-}
-.vap-partner-grid p {
-  font-size: 14px;
-  line-height: 1.7;
-  color: var(--grey-on-dark);
-}
 @media (max-width: 800px) {
   .vap-highlights,
-  .vap-timeline,
-  .vap-partner-grid {
+  .vap-timeline {
     grid-template-columns: repeat(2, 1fr);
   }
 }
 @media (max-width: 500px) {
-  .vap-timeline,
-  .vap-partner-grid {
+  .vap-timeline {
     grid-template-columns: 1fr;
   }
   .vap-highlights {
@@ -2000,9 +1968,6 @@ address {
   .brand img.vap-lockup {
     width: 235px;
   }
-}
-.vap-partnership .eyebrow {
-  color: var(--on-dark-accent);
 }
 /* Compact company grid and homepage refinements. */
 .client-grid {

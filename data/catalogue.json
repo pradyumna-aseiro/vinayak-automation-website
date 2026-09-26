@@ -5,7 +5,7 @@
     "headline": "Variable speed, controlled precisely.",
     "description": "CG-Emotron AC drives, soft starters and control interfaces for motor-driven applications.",
     "brand": "CG-Emotron",
-    "image": "/images/services/em vfx.jpg",
+    "image": "/media/products/vfx-fdu.webp",
     "selection": [
       "Motor rating and supply voltage",
       "Variable or constant torque duty",
@@ -192,7 +192,7 @@
         "slug": "emotron-vsx",
         "name": "Emotron VSX",
         "group": "",
-        "image": "/images/services/Emotron-VSX.jpg",
+        "image": "/media/products/emotron-vsx.webp",
         "blocks": [
           {
             "type": "feature",
@@ -262,7 +262,7 @@
         "slug": "vse-dedicated-elevator-drives",
         "name": "VSE Dedicated Elevator Drives",
         "group": "",
-        "image": "/images/services/vse.jpg",
+        "image": "/media/products/vse-dedicated-elevator-drives.webp",
         "blocks": [
           {
             "type": "feature",
@@ -332,7 +332,7 @@
         "slug": "vfx-fdu",
         "name": "Emotron VFX / FDU",
         "group": "",
-        "image": "/images/services/em vfx.jpg",
+        "image": "/media/products/vfx-fdu.webp",
         "blocks": [
           {
             "type": "feature",
@@ -480,7 +480,7 @@
         "slug": "emotron-tsa-softstarter",
         "name": "Emotron TSA soft starter",
         "group": "",
-        "image": "/images/services/tsa.jpg",
+        "image": "/media/products/emotron-tsa-softstarter.webp",
         "blocks": [
           {
             "type": "feature",
@@ -558,7 +558,7 @@
         "slug": "emotron-emolog",
         "name": "Emotron EmoLog",
         "group": "",
-        "image": "/images/services/mlog.jpg",
+        "image": "/media/products/emotron-emolog.webp",
         "blocks": [
           {
             "type": "feature",
@@ -652,7 +652,7 @@
         "slug": "human-machine-interface",
         "name": "Human Machine Interface",
         "group": "",
-        "image": "/images/services/hunman.jpg",
+        "image": "/media/products/human-machine-interface.webp",
         "blocks": [
           {
             "type": "feature",
@@ -741,7 +741,7 @@
         "slug": "pc6101",
         "name": "PC6101 industrial PC",
         "group": "",
-        "image": "/images/services/ind-2.jpg",
+        "image": "/media/products/pc6101.webp",
         "blocks": [
           {
             "type": "heading",
@@ -783,7 +783,7 @@
         "slug": "flexipanels-basic-hmi-fp2-series",
         "name": "FlexiPanels® Basic HMI FP2 Series",
         "group": "",
-        "image": "/images/services/ind-3.jpg",
+        "image": "/media/products/flexipanels-basic-hmi-fp2-series.webp",
         "blocks": [
           {
             "type": "heading",
@@ -817,7 +817,7 @@
         "slug": "fp3-series-hmi-with-i-os",
         "name": "FP3 Series HMI with I/Os",
         "group": "",
-        "image": "/images/services/ind-4.jpg",
+        "image": "/media/products/fp3-series-hmi-with-i-os.webp",
         "blocks": [
           {
             "type": "heading",
@@ -933,7 +933,7 @@
         "slug": "flexilogics-eco-plc-series-fl4",
         "name": "FlexiLogics® ECO PLC Series-FL4",
         "group": "",
-        "image": "/images/services/ind-6.jpg",
+        "image": "/media/products/flexilogics-eco-plc-series-fl4.webp",
         "blocks": [
           {
             "type": "heading",
@@ -995,7 +995,7 @@
         "slug": "gateway-series-gwy-00",
         "name": "Gateway Series GWY-00",
         "group": "",
-        "image": "/images/services/ind-7.jpg",
+        "image": "/media/products/gateway-series-gwy-00.webp",
         "blocks": [
           {
             "type": "heading",
@@ -1049,7 +1049,7 @@
     "headline": "Sense, monitor and protect.",
     "description": "Proximity switches, speed monitoring, level sensing and motor-starting products.",
     "brand": "Jayashree",
-    "image": "/images/services/ss-11.jpg",
+    "image": "/media/products/series-rme211.webp",
     "selection": [
       "Sensing material and operating distance",
       "Output type and supply voltage",
@@ -1060,7 +1060,7 @@
         "slug": "inductive-proximity-switches",
         "name": "Inductive Proximity Switches",
         "group": "Proximity Switches",
-        "image": "/images/services/c-1.jpg",
+        "image": "/media/products/inductive-proximity-switches.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -1074,7 +1074,7 @@
         "slug": "capacitive-proximity-switches",
         "name": "Capacitive Proximity Switches",
         "group": "Proximity Switches",
-        "image": "/images/services/c-2.jpg",
+        "image": "/media/products/capacitive-proximity-switches.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -1088,7 +1088,7 @@
         "slug": "optical-proximity-switches",
         "name": "Optical Proximity Switches",
         "group": "Proximity Switches",
-        "image": "/images/services/c-3.jpg",
+        "image": "/media/products/optical-proximity-switches.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -1116,7 +1116,7 @@
         "slug": "magnetic-proximity-switches",
         "name": "Magnetic Proximity Switches",
         "group": "Proximity Switches",
-        "image": "/images/services/c-4.jpg",
+        "image": "/media/products/magnetic-proximity-switches.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -1130,7 +1130,7 @@
         "slug": "series-rm2211",
         "name": "Series: RM2211",
         "group": "Speed Switches",
-        "image": "/images/services/ss-10.jpg",
+        "image": "/media/products/series-rm2211.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -1144,7 +1144,7 @@
         "slug": "series-rme211",
         "name": "Series: RME211",
         "group": "Speed Switches",
-        "image": "/images/services/ss-11.jpg",
+        "image": "/media/products/series-rme211.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -1158,7 +1158,7 @@
         "slug": "series-rme261",
         "name": "Series: RME261",
         "group": "Speed Switches",
-        "image": "/images/services/ss-3.jpg",
+        "image": "/media/products/series-rme261.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -1200,7 +1200,7 @@
         "slug": "series-rm-d131-d151",
         "name": "Series: RM D131/D151",
         "group": "Speed Switches",
-        "image": "/images/services/ss-6.jpg",
+        "image": "/media/products/series-rm-d131-d151.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -1214,7 +1214,7 @@
         "slug": "tilt-switch-series-sw-4211",
         "name": "TILT SWITCH (Series SW 4211)",
         "group": "Level Sensing",
-        "image": "/images/services/ls-1.jpg",
+        "image": "/media/products/tilt-switch-series-sw-4211.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -1228,7 +1228,7 @@
         "slug": "diaphragm-type-bin-monitor-series-bls-301m",
         "name": "DIAPHRAGM TYPE BIN MONITOR (Series BLS 301M)",
         "group": "Level Sensing",
-        "image": "/images/services/ls-2.jpg",
+        "image": "/media/products/diaphragm-type-bin-monitor-series-bls-301m.webp",
         "blocks": [
           {
             "type": "feature",
@@ -1262,7 +1262,7 @@
         "slug": "rf-capacitance-point-level-sensors",
         "name": "RF Capacitance Point Level Sensors",
         "group": "Level Sensing",
-        "image": "/images/services/ls-3.jpg",
+        "image": "/media/products/rf-capacitance-point-level-sensors.webp",
         "blocks": [
           {
             "type": "feature",
@@ -1296,7 +1296,7 @@
         "slug": "rf-point-level-sensor-disk-type-series-sw-6201",
         "name": "RF POINT LEVEL SENSOR DISK TYPE (Series SW 6201)",
         "group": "Level Sensing",
-        "image": "/images/services/ls-4.jpg",
+        "image": "/media/products/rf-point-level-sensor-disk-type-series-sw-6201.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -1310,7 +1310,7 @@
         "slug": "ultrasonic-level-sensor-series-sw-3051",
         "name": "ULTRASONIC LEVEL SENSOR (Series SW 3051)",
         "group": "Level Sensing",
-        "image": "/images/services/is-11.jpg",
+        "image": "/media/products/ultrasonic-level-sensor-series-sw-3051.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -1338,7 +1338,7 @@
         "slug": "hfsr-reactor",
         "name": "HFSR Reactor",
         "group": "Soft Starters",
-        "image": "/images/services/soft-2.jpg",
+        "image": "/media/products/hfsr-reactor.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -1356,7 +1356,7 @@
     "headline": "Make every movement count.",
     "description": "Hollow-shaft and solid-shaft encoders for position and speed feedback.",
     "brand": "Jayashree",
-    "image": "/images/services/incer-solid-2.png",
+    "image": "/media/products/size-58-encoder-flange-mount-j-260-58an-sl-r-abz-q-ab-a-a.webp",
     "selection": [
       "Shaft or bore diameter and mounting",
       "Pulses per revolution and output signal",
@@ -1505,7 +1505,7 @@
         "slug": "size-58-encoder-flange-mount-j-260-58an-sl-r-abz-q-ab-a-a",
         "name": "J-260-58AN-SL encoder",
         "group": "Solid Shaft Encoders",
-        "image": "/images/services/incer-solid-2.png",
+        "image": "/media/products/size-58-encoder-flange-mount-j-260-58an-sl-r-abz-q-ab-a-a.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -1531,7 +1531,7 @@
         "slug": "size-58-encoder-servo-mount-j-260-58bn-sl-r-abz-q-ab-a-a",
         "name": "J-260-58BN-SL encoder",
         "group": "Solid Shaft Encoders",
-        "image": "/images/services/incer-solid-3.png",
+        "image": "/media/products/size-58-encoder-servo-mount-j-260-58bn-sl-r-abz-q-ab-a-a.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -1557,7 +1557,7 @@
         "slug": "heavy-duty-encoder-j-260-9hd-n-r-abz-q-ab-a-a",
         "name": "J-260-9HD-N encoder",
         "group": "Solid Shaft Encoders",
-        "image": "/images/services/incer-solid-4.png",
+        "image": "/media/products/heavy-duty-encoder-j-260-9hd-n-r-abz-q-ab-a-a.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -1587,7 +1587,7 @@
         "slug": "machine-tool-encoder-j-260-68-sl-r-abz-q-ab-a-a",
         "name": "J-260-68-SL encoder",
         "group": "Solid Shaft Encoders",
-        "image": "/images/services/incer-solid-5.png",
+        "image": "/media/products/machine-tool-encoder-j-260-68-sl-r-abz-q-ab-a-a.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -1714,7 +1714,7 @@
     "headline": "Know when your process changes.",
     "description": "Sapcon level switches and instruments for liquids, powders and bulk solids.",
     "brand": "Sapcon",
-    "image": "/images/services/process-control-1.png",
+    "image": "/media/products/vital-vibrating-fork-level-sensor-switch-for-solids.webp",
     "selection": [
       "Material, density and process conditions",
       "Vessel dimensions and connection type",
@@ -1725,7 +1725,7 @@
         "slug": "vital-vibrating-fork-level-sensor-switch-for-solids",
         "name": "VITAL- Vibrating Fork Level Sensor/Switch for Solids",
         "group": "",
-        "image": "/images/services/process-control-1.png",
+        "image": "/media/products/vital-vibrating-fork-level-sensor-switch-for-solids.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -1763,7 +1763,7 @@
         "slug": "elixir-tuning-fork-level-sensor-switch-for-liquids",
         "name": "ELIXIR- Tuning Fork Level Sensor/Switch for Liquids",
         "group": "",
-        "image": "/images/services/process-control-2.jpg",
+        "image": "/media/products/elixir-tuning-fork-level-sensor-switch-for-liquids.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -1805,7 +1805,7 @@
         "slug": "elixir-t-uni-vibrating-fork-type-level-sensor-for-liquids-in-hygienic-applications",
         "name": "Elixir-T-Uni: Vibrating Fork Type Level Sensor for Liquids in Hygienic Applications",
         "group": "",
-        "image": "/images/services/process-control-3.jpg",
+        "image": "/media/products/elixir-t-uni-vibrating-fork-type-level-sensor-for-liquids-in-hygienic-applications.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -1843,7 +1843,7 @@
         "slug": "coat-endure-rf-admittance-level-switch-sensor-for-stick-solids-and-liquids",
         "name": "Coat-Endure: RF-Admittance Level Switch/Sensor for Sticky Solids and Liquids",
         "group": "",
-        "image": "/images/services/process-control-4.jpg",
+        "image": "/media/products/coat-endure-rf-admittance-level-switch-sensor-for-stick-solids-and-liquids.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -1885,7 +1885,7 @@
         "slug": "capvel-fuel-level-sensor-transmitter-for-remote-tracking-of-fuel",
         "name": "Capvel-FUEL: Level Sensor/Transmitter for remote tracking of fuel",
         "group": "",
-        "image": "/images/services/process-control-5.jpg",
+        "image": "/media/products/capvel-fuel-level-sensor-transmitter-for-remote-tracking-of-fuel.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -1939,7 +1939,7 @@
         "slug": "vibrosonde-vibrating-rod-type-level-sensor-switch-for-solids",
         "name": "Vibrosonde: Vibrating Rod Type Level Sensor/Switch for Solids",
         "group": "",
-        "image": "/images/services/process-control-6.jpg",
+        "image": "/media/products/vibrosonde-vibrating-rod-type-level-sensor-switch-for-solids.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -1981,7 +1981,7 @@
     "headline": "Measurement you can work with.",
     "description": "Level, flow, pressure, temperature and liquid analysis instruments for industrial processes.",
     "brand": "Endress+Hauser",
-    "image": "/images/services/fi-1.jpg",
+    "image": "/media/products/level-radar.webp",
     "selection": [
       "Medium, flow or measurement range",
       "Process temperature and pressure",
@@ -1992,7 +1992,7 @@
         "slug": "level-radar",
         "name": "Radar",
         "group": "Level",
-        "image": "/images/services/fi-1.jpg",
+        "image": "/media/products/level-radar.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -2006,7 +2006,7 @@
         "slug": "level-ultrasonic",
         "name": "Ultrasonic",
         "group": "Level",
-        "image": "/images/services/fi-2.jpg",
+        "image": "/media/products/level-ultrasonic.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -2020,7 +2020,7 @@
         "slug": "level-guided-radar",
         "name": "Guided radar",
         "group": "Level",
-        "image": "/images/services/fi-3.jpg",
+        "image": "/media/products/level-guided-radar.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -2034,7 +2034,7 @@
         "slug": "level-radiometry",
         "name": "Radiometry",
         "group": "Level",
-        "image": "/images/services/fi-4.jpg",
+        "image": "/media/products/level-radiometry.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -2048,7 +2048,7 @@
         "slug": "level-vibronics-for-fluids",
         "name": "Vibronics for fluids",
         "group": "Level",
-        "image": "/images/services/fi-5.jpg",
+        "image": "/media/products/level-vibronics-for-fluids.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -2062,7 +2062,7 @@
         "slug": "level-vibronics-for-solids",
         "name": "Vibronics for solids",
         "group": "Level",
-        "image": "/images/services/fi-6.jpg",
+        "image": "/media/products/level-vibronics-for-solids.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -2076,7 +2076,7 @@
         "slug": "level-hydrostatic",
         "name": "Hydrostatic",
         "group": "Level",
-        "image": "/images/services/fi-7.jpg",
+        "image": "/media/products/level-hydrostatic.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -2090,7 +2090,7 @@
         "slug": "level-differential-pressure",
         "name": "Differential pressure",
         "group": "Level",
-        "image": "/images/services/fi-8.jpg",
+        "image": "/media/products/level-differential-pressure.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -2104,7 +2104,7 @@
         "slug": "level-capacitance",
         "name": "Capacitance",
         "group": "Level",
-        "image": "/images/services/fi-9.jpg",
+        "image": "/media/products/level-capacitance.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -2118,7 +2118,7 @@
         "slug": "level-conductive",
         "name": "Conductive",
         "group": "Level",
-        "image": "/images/services/fi-10.jpg",
+        "image": "/media/products/level-conductive.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -2132,7 +2132,7 @@
         "slug": "level-paddle-switch",
         "name": "Paddle switch",
         "group": "Level",
-        "image": "/images/services/fi-11.jpg",
+        "image": "/media/products/level-paddle-switch.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -2146,7 +2146,7 @@
         "slug": "level-electromechanical-level-system",
         "name": "Electromechanical level system",
         "group": "Level",
-        "image": "/images/services/fi-12.jpg",
+        "image": "/media/products/level-electromechanical-level-system.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -2160,7 +2160,7 @@
         "slug": "flow-electromagnetic",
         "name": "Electromagnetic",
         "group": "Flow",
-        "image": "/images/services/flow-1.jpg",
+        "image": "/media/products/flow-electromagnetic.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -2174,7 +2174,7 @@
         "slug": "flow-coriolis",
         "name": "Coriolis",
         "group": "Flow",
-        "image": "/images/services/flow-2.jpg",
+        "image": "/media/products/flow-coriolis.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -2188,7 +2188,7 @@
         "slug": "flow-ultrasonic-variant",
         "name": "Ultrasonic",
         "group": "Flow",
-        "image": "/images/services/flow-3.jpg",
+        "image": "/media/products/flow-ultrasonic-variant.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -2202,7 +2202,7 @@
         "slug": "flow-thermal",
         "name": "Thermal",
         "group": "Flow",
-        "image": "/images/services/flow-4.jpg",
+        "image": "/media/products/flow-thermal.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -2216,7 +2216,7 @@
         "slug": "flow-differential-pressure-dp",
         "name": "Differential pressure (DP)",
         "group": "Flow",
-        "image": "/images/services/flow-5.jpg",
+        "image": "/media/products/flow-differential-pressure-dp.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -2230,7 +2230,7 @@
         "slug": "flow-vortex",
         "name": "Vortex",
         "group": "Flow",
-        "image": "/images/services/flow-6.jpg",
+        "image": "/media/products/flow-vortex.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -2244,7 +2244,7 @@
         "slug": "level-transducer",
         "name": "Transducer",
         "group": "Level",
-        "image": "/images/services/fi-13.jpg",
+        "image": "/media/products/level-transducer.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -2258,7 +2258,7 @@
         "slug": "level-pressure-switch",
         "name": "Pressure switch",
         "group": "Level",
-        "image": "/images/services/fi-14.jpg",
+        "image": "/media/products/level-pressure-switch.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -2272,7 +2272,7 @@
         "slug": "level-analog-and-digital-transmitters",
         "name": "Analog and Digital Transmitters",
         "group": "Level",
-        "image": "/images/services/fi-15.jpg",
+        "image": "/media/products/level-analog-and-digital-transmitters.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -2286,7 +2286,7 @@
         "slug": "level-digital-transmitters",
         "name": "Digital transmitters",
         "group": "Level",
-        "image": "/images/services/fi-16.jpg",
+        "image": "/media/products/level-digital-transmitters.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -2300,7 +2300,7 @@
         "slug": "temperature-head-transmitters",
         "name": "Head transmitters",
         "group": "Temperature",
-        "image": "/images/services/temper-1.jpg",
+        "image": "/media/products/temperature-head-transmitters.webp",
         "blocks": [],
         "legacyIds": [],
         "source": "field-instruments.html"
@@ -2309,7 +2309,7 @@
         "slug": "temperature-din-rail-transmitters",
         "name": "DIN rail transmitters",
         "group": "Temperature",
-        "image": "/images/services/temper-2.jpg",
+        "image": "/media/products/temperature-din-rail-transmitters.webp",
         "blocks": [],
         "legacyIds": [],
         "source": "field-instruments.html"
@@ -2318,7 +2318,7 @@
         "slug": "temperature-field-transmitters",
         "name": "Field transmitters",
         "group": "Temperature",
-        "image": "/images/services/temper-3.jpg",
+        "image": "/media/products/temperature-field-transmitters.webp",
         "blocks": [],
         "legacyIds": [],
         "source": "field-instruments.html"
@@ -2327,7 +2327,7 @@
         "slug": "temperature-resistance-thermometers",
         "name": "Resistance thermometers",
         "group": "Temperature",
-        "image": "/images/services/temper-5.jpg",
+        "image": "/media/products/temperature-resistance-thermometers.webp",
         "blocks": [],
         "legacyIds": [],
         "source": "field-instruments.html"
@@ -2336,7 +2336,7 @@
         "slug": "temperature-thermocouples",
         "name": "Thermocouples",
         "group": "Temperature",
-        "image": "/images/services/temper-6.jpg",
+        "image": "/media/products/temperature-thermocouples.webp",
         "blocks": [],
         "legacyIds": [],
         "source": "field-instruments.html"
@@ -2345,7 +2345,7 @@
         "slug": "temperature-temperature-switches",
         "name": "Temperature switches",
         "group": "Temperature",
-        "image": "/images/services/temper-7.jpg",
+        "image": "/media/products/temperature-temperature-switches.webp",
         "blocks": [],
         "legacyIds": [],
         "source": "field-instruments.html"
@@ -2354,7 +2354,7 @@
         "slug": "liquid-analysis-ph-orp",
         "name": "pH/ORP",
         "group": "Liquid analysis",
-        "image": "/images/services/liquid-1.jpg",
+        "image": "/media/products/liquid-analysis-ph-orp.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -2368,7 +2368,7 @@
         "slug": "liquid-analysis-conductivity",
         "name": "Conductivity",
         "group": "Liquid analysis",
-        "image": "/images/services/liquid-2.jpg",
+        "image": "/media/products/liquid-analysis-conductivity.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -2382,7 +2382,7 @@
         "slug": "liquid-analysis-turbidity-solids",
         "name": "Turbidity/solids",
         "group": "Liquid analysis",
-        "image": "/images/services/liquid-3.jpg",
+        "image": "/media/products/liquid-analysis-turbidity-solids.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -2396,7 +2396,7 @@
         "slug": "liquid-analysis-oxygen",
         "name": "Oxygen",
         "group": "Liquid analysis",
-        "image": "/images/services/liquid-4.jpg",
+        "image": "/media/products/liquid-analysis-oxygen.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -2410,7 +2410,7 @@
         "slug": "liquid-analysis-disinfection-chlorine",
         "name": "Disinfection (chlorine)",
         "group": "Liquid analysis",
-        "image": "/images/services/liquid-5.jpg",
+        "image": "/media/products/liquid-analysis-disinfection-chlorine.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -2424,7 +2424,7 @@
         "slug": "liquid-analysis-analyzers",
         "name": "Analyzers",
         "group": "Liquid analysis",
-        "image": "/images/services/liquid-6.jpg",
+        "image": "/media/products/liquid-analysis-analyzers.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -2438,7 +2438,7 @@
         "slug": "liquid-analysis-transmitters",
         "name": "Transmitters",
         "group": "Liquid analysis",
-        "image": "/images/services/liquid-7.jpg",
+        "image": "/media/products/liquid-analysis-transmitters.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -2452,7 +2452,7 @@
         "slug": "liquid-analysis-process-photometers",
         "name": "Process photometers",
         "group": "Liquid analysis",
-        "image": "/images/services/liquid-8.jpg",
+        "image": "/media/products/liquid-analysis-process-photometers.webp",
         "blocks": [
           {
             "type": "paragraph",
@@ -2466,7 +2466,7 @@
         "slug": "liquid-analysis-samplers",
         "name": "Samplers",
         "group": "Liquid analysis",
-        "image": "/images/services/liquid-9.jpg",
+        "image": "/media/products/liquid-analysis-samplers.webp",
         "blocks": [
           {
             "type": "paragraph",

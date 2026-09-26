@@ -47,6 +47,1204 @@
       ],
       "sha256": "cf1eafa25a5a67df22fa7e155d35482859355457300ca53bacc6549b09555630",
       "bytes": 12804
+    },
+    {
+      "file": "public/media/products/emotron-vsx.webp",
+      "product": "Emotron VSX (Drives & automation)",
+      "manufacturer": "CG Drives & Automation (Emotron)",
+      "sourceUrl": "https://www.emotron.com/globalassets/downloads/vsx-frame-1-smaller4.webp",
+      "sourcePage": "https://www.emotron.com/products/variable-frquency-drives-vfd/emotron-vsx/",
+      "retrieved": "2026-09-26",
+      "licence": "Manufacturer product image (rights reserved by the manufacturer)",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Flattened onto pure white (source already a white or transparent cut-out). Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 589x888.",
+      "replaces": "public/images/services/Emotron-VSX.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/drives-and-automation/emotron-vsx"
+      ],
+      "sha256": "c12bf86a4e05c29ba0c98f36fb4691ae626774ac98e90879f7e875e5fce4f589",
+      "bytes": 17904
+    },
+    {
+      "file": "public/media/products/vfx-fdu.webp",
+      "product": "Emotron VFX / FDU (Drives & automation)",
+      "manufacturer": "CG Drives & Automation (Emotron)",
+      "sourceUrl": "https://www.emotron.com/globalassets/downloads/original-fdu-vfx-familym_pr-low1920x12802x-2.webp",
+      "sourcePage": "https://www.emotron.com/products/variable-frquency-drives-vfd/emotron-vfx/",
+      "retrieved": "2026-09-26",
+      "licence": "Manufacturer product image (rights reserved by the manufacturer)",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Flattened onto pure white (source already a white or transparent cut-out). Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 888x621.",
+      "note": "Official Emotron FDU/VFX family photograph, the range this listing covers.",
+      "replaces": "public/images/services/em vfx.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/drives-and-automation (category image; category cards on / and /products)",
+        "/products/drives-and-automation/vfx-fdu"
+      ],
+      "sha256": "ff61f63ed1c0c8d16b37973b948ccdacfd3329e41c57d58afaf0dc3d18688236",
+      "bytes": 22284
+    },
+    {
+      "file": "public/media/products/emotron-tsa-softstarter.webp",
+      "product": "Emotron TSA soft starter (Drives & automation)",
+      "manufacturer": "CG Drives & Automation (Emotron)",
+      "sourceUrl": "https://www.emotron.com/globalassets/downloads/emotron_tsa_1-display_1920x12802x.webp",
+      "sourcePage": "https://www.emotron.com/products/softstarters/emotron-tsa/",
+      "retrieved": "2026-09-26",
+      "licence": "Manufacturer product image (rights reserved by the manufacturer)",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Flattened onto pure white (source already a white or transparent cut-out). Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 493x888.",
+      "replaces": "public/images/services/tsa.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/drives-and-automation/emotron-tsa-softstarter"
+      ],
+      "sha256": "e1553fe5dc0613b3c15eb777e8d23a9f234333dbd7fe49866a5f4bec2062e659",
+      "bytes": 21742
+    },
+    {
+      "file": "public/media/products/emotron-emolog.webp",
+      "product": "Emotron EmoLog (Drives & automation)",
+      "manufacturer": "CG Drives & Automation (Emotron)",
+      "sourceUrl": "https://www.emotron.com/globalassets/downloads/emolog-smaller.webp",
+      "sourcePage": "https://www.emotron.com/products/variable-frquency-drives-vfd/emotron-emolog/",
+      "retrieved": "2026-09-26",
+      "licence": "Manufacturer product image (rights reserved by the manufacturer)",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Flattened onto pure white (source already a white or transparent cut-out). Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 888x748.",
+      "replaces": "public/images/services/mlog.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/drives-and-automation/emotron-emolog"
+      ],
+      "sha256": "5c5c661e358d09ddb119823ab898d26a2c62ce834d40687f95a9a39c5f88dc1a",
+      "bytes": 28886
+    },
+    {
+      "file": "public/media/products/human-machine-interface.webp",
+      "product": "Human Machine Interface (Drives & automation)",
+      "manufacturer": "CG Drives & Automation (Emotron)",
+      "sourceUrl": "https://www.emotron.com/globalassets/downloads/emosmart-smaller.webp",
+      "sourcePage": "https://www.emotron.com/products/variable-frquency-drives-vfd/emotron-emosmart/",
+      "retrieved": "2026-09-26",
+      "licence": "Manufacturer product image (rights reserved by the manufacturer)",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Flattened onto pure white (source already a white or transparent cut-out). Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 888x522.",
+      "note": "Same HMI trio as the previous site image, higher-resolution official copy.",
+      "replaces": "public/images/services/hunman.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/drives-and-automation/human-machine-interface"
+      ],
+      "sha256": "62e81ccc728cf19ad91f9cd67ea6fea3f208df882ee81e917816eaa427d0d20a",
+      "bytes": 18402
+    },
+    {
+      "file": "public/media/products/vse-dedicated-elevator-drives.webp",
+      "product": "VSE Dedicated Elevator Drives (Drives & automation)",
+      "manufacturer": "CG Drives & Automation (Emotron)",
+      "sourceUrl": "public/images/services/vse.jpg (existing site asset)",
+      "licence": "Existing site asset: manufacturer product image already used on this site; rights remain with the manufacturer",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 12 (neighbour step 5), isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 213x244.",
+      "note": "No VSE image is published on emotron.com or cgglobal.com (product pages retired); pale green backdrop removed from the existing photograph.",
+      "replaces": "public/images/services/vse.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/drives-and-automation/vse-dedicated-elevator-drives"
+      ],
+      "sha256": "62f2a67a774b15ac8de29d98323818f03a093b427acabda58d5e0a53353b6ba0",
+      "bytes": 4532
+    },
+    {
+      "file": "public/media/products/pc6101.webp",
+      "product": "PC6101 industrial PC (Industrial automation)",
+      "manufacturer": "Renu Electronics",
+      "sourceUrl": "https://www.renuelectronics.com/storage/cms/products/images/58/4-840x628-at-300dpi-1657265632.png",
+      "sourcePage": "https://renuelectronics.com/product/industrial-automation/industrial-pc/-industrial-panel-pc/pc6/PC-6101",
+      "retrieved": "2026-09-26",
+      "licence": "Manufacturer product image (rights reserved by the manufacturer)",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Flattened onto pure white (source already a white or transparent cut-out). Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 434x466.",
+      "replaces": "public/images/services/ind-2.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/industrial-automation-solution/pc6101"
+      ],
+      "sha256": "8480d00f851ae0b0d0e01b8f95593bf13c27eab15456bb2df16fa0c885ef3e46",
+      "bytes": 7930
+    },
+    {
+      "file": "public/media/products/flexipanels-basic-hmi-fp2-series.webp",
+      "product": "FlexiPanels® Basic HMI FP2 Series (Industrial automation)",
+      "manufacturer": "Renu Electronics",
+      "sourceUrl": "https://www.renuelectronics.com/storage/cms/products/images/38/7-inch-840x628-at-300dpi-copy-1656660193.png",
+      "sourcePage": "https://renuelectronics.com/product/industrial-automation/hmi/fp2-series/fp2/FP2070T",
+      "retrieved": "2026-09-26",
+      "licence": "Manufacturer product image (rights reserved by the manufacturer)",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Flattened onto pure white (source already a white or transparent cut-out). Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 465x357.",
+      "note": "FP2070T, the 7-inch FP2 Basic HMI.",
+      "replaces": "public/images/services/ind-3.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/industrial-automation-solution/flexipanels-basic-hmi-fp2-series"
+      ],
+      "sha256": "2b8db6d9c58c325c48fbc4ded2a2be2e9fc83e6a5dcc7352e721b463d83cbdc8",
+      "bytes": 2192
+    },
+    {
+      "file": "public/media/products/fp3-series-hmi-with-i-os.webp",
+      "product": "FP3 Series HMI with I/Os (Industrial automation)",
+      "manufacturer": "Renu Electronics",
+      "sourceUrl": "https://renuelectronics.com/storage/cms/custom_files/more_downloads/datasheets/discontinued/FP3070.pdf",
+      "pdfPage": 1,
+      "retrieved": "2026-09-26",
+      "licence": "Manufacturer product image (rights reserved by the manufacturer)",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Embedded photograph extracted from the PDF (page 1) with PyMuPDF. Background removed with a sharp edge flood-fill, colour-distance tolerance 30 (neighbour step 8), isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 726x764.",
+      "note": "FP3070 photograph embedded in the official Renu FP3070 datasheet (page 1), extracted with PyMuPDF; pale blue gradient backdrop removed.",
+      "replaces": "public/images/services/ind-4.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/industrial-automation-solution/fp3-series-hmi-with-i-os"
+      ],
+      "sha256": "cce3e06dd55b18a8a92d40110daab80ec5022a6408c2b291c6efbaf6c328a3ba",
+      "bytes": 29868
+    },
+    {
+      "file": "public/media/products/flexilogics-eco-plc-series-fl4.webp",
+      "product": "FlexiLogics® ECO PLC Series-FL4 (Industrial automation)",
+      "manufacturer": "Renu Electronics",
+      "sourceUrl": "https://www.renuelectronics.com/storage/cms/products/images/1/p-840x628-at-300dpi-1659952223.png",
+      "sourcePage": "https://renuelectronics.com/product/industrial-automation/flexilogics-plc/eco-series-plc/fl004/FL004-0806P",
+      "retrieved": "2026-09-26",
+      "licence": "Manufacturer product image (rights reserved by the manufacturer)",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Flattened onto pure white (source already a white or transparent cut-out). Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 336x634.",
+      "note": "FL004-0806P, the unit in the previous image, without the \"Up-to 8 Expansions\" sticker.",
+      "replaces": "public/images/services/ind-6.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/industrial-automation-solution/flexilogics-eco-plc-series-fl4"
+      ],
+      "sha256": "4ae18706bd8a1567802908f099c6876204890eba58a79463e136fbad2d89c45e",
+      "bytes": 17710
+    },
+    {
+      "file": "public/media/products/gateway-series-gwy-00.webp",
+      "product": "Gateway Series GWY-00 (Industrial automation)",
+      "manufacturer": "Renu Electronics",
+      "sourceUrl": "https://www.renuelectronics.com/storage/cms/products/images/61/gwy-00b-996x746-copy.png",
+      "sourcePage": "https://renuelectronics.com/product/industrial-automation/gateway/gateway1/gateway2/GWY-00",
+      "retrieved": "2026-09-26",
+      "licence": "Manufacturer product image (rights reserved by the manufacturer)",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Flattened onto pure white (source already a white or transparent cut-out). Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 888x539.",
+      "replaces": "public/images/services/ind-7.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/industrial-automation-solution/gateway-series-gwy-00"
+      ],
+      "sha256": "83b5fd0f03ca1e1be013c150af3825578bb1095cc9a94d7a8835d9ed19ce3ff9",
+      "bytes": 44162
+    },
+    {
+      "file": "public/media/products/inductive-proximity-switches.webp",
+      "product": "Inductive Proximity Switches (Control & power products)",
+      "manufacturer": "Jayashree Electron",
+      "sourceUrl": "https://www.jayashree.co.in/web-assets/images/product/proximity-switch.png",
+      "sourcePage": "https://www.jayashree.co.in/proximity-switches",
+      "retrieved": "2026-09-26",
+      "licence": "Manufacturer product image (rights reserved by the manufacturer)",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Flattened onto pure white (source already a white or transparent cut-out). Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 547x377.",
+      "replaces": "public/images/services/c-1.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/control-and-power-products/inductive-proximity-switches"
+      ],
+      "sha256": "bdaa2dff2f40984cd45e1ac62e72fd959bbed5ca8b7187f9712926293c8b124b",
+      "bytes": 16722
+    },
+    {
+      "file": "public/media/products/capacitive-proximity-switches.webp",
+      "product": "Capacitive Proximity Switches (Control & power products)",
+      "manufacturer": "Jayashree Electron",
+      "sourceUrl": "https://www.jayashree.co.in/web-assets/images/product/proximity-switch3.png",
+      "sourcePage": "https://www.jayashree.co.in/proximity-switches",
+      "retrieved": "2026-09-26",
+      "licence": "Manufacturer product image (rights reserved by the manufacturer)",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Flattened onto pure white (source already a white or transparent cut-out). Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 468x262.",
+      "replaces": "public/images/services/c-2.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/control-and-power-products/capacitive-proximity-switches"
+      ],
+      "sha256": "7738faf20efc8ccebf43300b1b21f8b60f82a0a5ee9d32172de68fbaeb86f60f",
+      "bytes": 6364
+    },
+    {
+      "file": "public/media/products/optical-proximity-switches.webp",
+      "product": "Optical Proximity Switches (Control & power products)",
+      "manufacturer": "Jayashree Electron",
+      "sourceUrl": "https://www.jayashree.co.in/web-assets/images/product/proximity-switch4.png",
+      "sourcePage": "https://www.jayashree.co.in/proximity-switches",
+      "retrieved": "2026-09-26",
+      "licence": "Manufacturer product image (rights reserved by the manufacturer)",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Flattened onto pure white (source already a white or transparent cut-out). Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 480x306.",
+      "replaces": "public/images/services/c-3.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/control-and-power-products/optical-proximity-switches"
+      ],
+      "sha256": "c01d0fc373b5c3e2ca1144cf3d845e78aa00ef9f79234baf1a90828201d078a2",
+      "bytes": 7092
+    },
+    {
+      "file": "public/media/products/magnetic-proximity-switches.webp",
+      "product": "Magnetic Proximity Switches (Control & power products)",
+      "manufacturer": "Jayashree Electron",
+      "sourceUrl": "https://www.jayashree.co.in/web-assets/images/product/proximity-switch2.png",
+      "sourcePage": "https://www.jayashree.co.in/proximity-switches",
+      "retrieved": "2026-09-26",
+      "licence": "Manufacturer product image (rights reserved by the manufacturer)",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Flattened onto pure white (source already a white or transparent cut-out). Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 522x265.",
+      "replaces": "public/images/services/c-4.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/control-and-power-products/magnetic-proximity-switches"
+      ],
+      "sha256": "271577054fecf75054d3ff4dacc27357c6b0e70ce542a385f1e8ba9477d0e83f",
+      "bytes": 5686
+    },
+    {
+      "file": "public/media/products/series-rm2211.webp",
+      "product": "Series: RM2211 (Control & power products)",
+      "manufacturer": "Jayashree Electron",
+      "sourceUrl": "https://www.jayashree.co.in/web-assets/images/product/speed-switches3.png",
+      "sourcePage": "https://www.jayashree.co.in/speed-switches",
+      "retrieved": "2026-09-26",
+      "licence": "Manufacturer product image (rights reserved by the manufacturer)",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Flattened onto pure white (source already a white or transparent cut-out). Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 189x237.",
+      "note": "Captioned \"RM221x / RM226x\" on the manufacturer page.",
+      "replaces": "public/images/services/ss-10.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/control-and-power-products/series-rm2211"
+      ],
+      "sha256": "dc7b627ce82d8af811b9cd3d8b27132b9940654ec4dd2095cece63aeb415cc8e",
+      "bytes": 3552
+    },
+    {
+      "file": "public/media/products/series-rme211.webp",
+      "product": "Series: RME211 (Control & power products)",
+      "manufacturer": "Jayashree Electron",
+      "sourceUrl": "https://www.jayashree.co.in/web-assets/images/product/speed-switches2.png",
+      "sourcePage": "https://www.jayashree.co.in/speed-switches",
+      "retrieved": "2026-09-26",
+      "licence": "Manufacturer product image (rights reserved by the manufacturer)",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Flattened onto pure white (source already a white or transparent cut-out). Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 171x232.",
+      "note": "Captioned \"RME21x / RME26x\" on the manufacturer page.",
+      "replaces": "public/images/services/ss-11.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/control-and-power-products (category image; category cards on / and /products)",
+        "/products/control-and-power-products/series-rme211"
+      ],
+      "sha256": "5d3b57d96c0067b8ce8a6869b9674fc9a39f42a0c79903872c6b3bdb069b4fae",
+      "bytes": 3004
+    },
+    {
+      "file": "public/media/products/series-rme261.webp",
+      "product": "Series: RME261 (Control & power products)",
+      "manufacturer": "Jayashree Electron",
+      "sourceUrl": "public/images/services/ss-3.jpg (existing site asset)",
+      "licence": "Existing site asset: manufacturer product image already used on this site; rights remain with the manufacturer",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 22 (neighbour step 8), isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 116x150.",
+      "note": "The display-fitted RME261 is not pictured on jayashree.co.in; flat grey backdrop removed.",
+      "replaces": "public/images/services/ss-3.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/control-and-power-products/series-rme261"
+      ],
+      "sha256": "e690c1219274c7690f8af78f480320811b42fb5e8f06a8b326e0362bb906b09d",
+      "bytes": 3228
+    },
+    {
+      "file": "public/media/products/series-rm-d131-d151.webp",
+      "product": "Series: RM D131/D151 (Control & power products)",
+      "manufacturer": "Jayashree Electron",
+      "sourceUrl": "https://www.jayashree.co.in/web-assets/images/product/conveyor-safety-switches1.png",
+      "sourcePage": "https://www.jayashree.co.in/conveyor-safety-switches",
+      "retrieved": "2026-09-26",
+      "licence": "Manufacturer product image (rights reserved by the manufacturer)",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 16 (neighbour step 6), isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 435x353.",
+      "note": "Same photograph as the previous site image, taken from the manufacturer site; flat light-grey backdrop removed. The manufacturer captions this photograph \"Belt Load Monitor\": owner to confirm it is the right picture for RM D131/D151.",
+      "replaces": "public/images/services/ss-6.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/control-and-power-products/series-rm-d131-d151"
+      ],
+      "sha256": "3f5f58dacdcf792bc8a0f825851227631befc9a53ac66a9cc8d6330ba20cd468",
+      "bytes": 7526
+    },
+    {
+      "file": "public/media/products/tilt-switch-series-sw-4211.webp",
+      "product": "TILT SWITCH (Series SW 4211) (Control & power products)",
+      "manufacturer": "Jayashree Electron",
+      "sourceUrl": "https://www.jayashree.co.in/web-assets/images/product/level-sensing.png",
+      "sourcePage": "https://www.jayashree.co.in/level-sensors",
+      "retrieved": "2026-09-26",
+      "licence": "Manufacturer product image (rights reserved by the manufacturer)",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Flattened onto pure white (source already a white or transparent cut-out). Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 339x368.",
+      "replaces": "public/images/services/ls-1.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/control-and-power-products/tilt-switch-series-sw-4211"
+      ],
+      "sha256": "fd492f0cd15738f98951762cfce03e1b208288294bede1ea3290fab32bdf95c3",
+      "bytes": 7508
+    },
+    {
+      "file": "public/media/products/diaphragm-type-bin-monitor-series-bls-301m.webp",
+      "product": "DIAPHRAGM TYPE BIN MONITOR (Series BLS 301M) (Control & power products)",
+      "manufacturer": "Jayashree Electron",
+      "sourceUrl": "https://www.jayashree.co.in/web-assets/images/product/level-sensing7.png",
+      "sourcePage": "https://www.jayashree.co.in/level-sensors",
+      "retrieved": "2026-09-26",
+      "licence": "Manufacturer product image (rights reserved by the manufacturer)",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Flattened onto pure white (source already a white or transparent cut-out). Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 395x334.",
+      "replaces": "public/images/services/ls-2.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/control-and-power-products/diaphragm-type-bin-monitor-series-bls-301m"
+      ],
+      "sha256": "7d9a1d6c462a36758518118861c7684fbd4ed82c203f55dd50ede3ae91882c2b",
+      "bytes": 6990
+    },
+    {
+      "file": "public/media/products/rf-capacitance-point-level-sensors.webp",
+      "product": "RF Capacitance Point Level Sensors (Control & power products)",
+      "manufacturer": "Jayashree Electron",
+      "sourceUrl": "https://www.jayashree.co.in/web-assets/images/product/level-sensing3.png",
+      "sourcePage": "https://www.jayashree.co.in/level-sensors",
+      "retrieved": "2026-09-26",
+      "licence": "Manufacturer product image (rights reserved by the manufacturer)",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Flattened onto pure white (source already a white or transparent cut-out). Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 123x360.",
+      "replaces": "public/images/services/ls-3.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/control-and-power-products/rf-capacitance-point-level-sensors"
+      ],
+      "sha256": "105f9ba155ab718b9e1e831b3bb0993e3b612a818db506216aa3c83fa179d15e",
+      "bytes": 1920
+    },
+    {
+      "file": "public/media/products/rf-point-level-sensor-disk-type-series-sw-6201.webp",
+      "product": "RF POINT LEVEL SENSOR DISK TYPE (Series SW 6201) (Control & power products)",
+      "manufacturer": "Jayashree Electron",
+      "sourceUrl": "https://www.jayashree.co.in/web-assets/images/product/level-sensing2.png",
+      "sourcePage": "https://www.jayashree.co.in/level-sensors",
+      "retrieved": "2026-09-26",
+      "licence": "Manufacturer product image (rights reserved by the manufacturer)",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Flattened onto pure white (source already a white or transparent cut-out). Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 342x366.",
+      "replaces": "public/images/services/ls-4.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/control-and-power-products/rf-point-level-sensor-disk-type-series-sw-6201"
+      ],
+      "sha256": "13740b21c2ae4cdea69a294ef542116c4b3e3dc4a8249f856acb7920cf555ff6",
+      "bytes": 8944
+    },
+    {
+      "file": "public/media/products/ultrasonic-level-sensor-series-sw-3051.webp",
+      "product": "ULTRASONIC LEVEL SENSOR (Series SW 3051) (Control & power products)",
+      "manufacturer": "Jayashree Electron",
+      "sourceUrl": "https://www.jayashree.co.in/web-assets/images/product/level-sensing4.png",
+      "sourcePage": "https://www.jayashree.co.in/level-sensors",
+      "retrieved": "2026-09-26",
+      "licence": "Manufacturer product image (rights reserved by the manufacturer)",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Flattened onto pure white (source already a white or transparent cut-out). Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 322x333.",
+      "note": "Manufacturer shows the SW 3051 sensor head; the previous image also showed the display unit.",
+      "replaces": "public/images/services/is-11.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/control-and-power-products/ultrasonic-level-sensor-series-sw-3051"
+      ],
+      "sha256": "115e2b2fc2caf3d13e2e680d0a43f30e701eae9b3230370e186c769340628127",
+      "bytes": 6108
+    },
+    {
+      "file": "public/media/products/hfsr-reactor.webp",
+      "product": "HFSR Reactor (Control & power products)",
+      "manufacturer": "Jayashree Electron (HFSR, soft-starters.co.in)",
+      "sourceUrl": "public/images/services/soft-2.jpg (existing site asset)",
+      "licence": "Existing site asset: manufacturer product image already used on this site; rights remain with the manufacturer",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 16 (neighbour step 6), plus backdrop colour 238,237,242 within 9, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 247x378.",
+      "note": "soft-starters.co.in shows only installed HFSR panels and reactor drawings; pale grey panel removed from the existing photograph.",
+      "replaces": "public/images/services/soft-2.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/control-and-power-products/hfsr-reactor"
+      ],
+      "sha256": "a4c9dedfaa6a1ab89ae23e725fc508a467ef8d8b14814e291f7ea9ce3d2e7bd3",
+      "bytes": 6738
+    },
+    {
+      "file": "public/media/products/size-58-encoder-flange-mount-j-260-58an-sl-r-abz-q-ab-a-a.webp",
+      "product": "J-260-58AN-SL encoder (Incremental encoders)",
+      "manufacturer": "Jayashree Electron (J Encoder)",
+      "sourceUrl": "https://jencoder.com/wp-content/uploads/2018/12/J-58-A.webp",
+      "sourcePage": "https://jencoder.com/products/j-58a/",
+      "retrieved": "2026-09-26",
+      "licence": "Manufacturer product image (rights reserved by the manufacturer)",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Flattened onto pure white (source already a white or transparent cut-out). Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 888x815.",
+      "replaces": "public/images/services/incer-solid-2.png (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/incremental-encoders (category image; category cards on / and /products)",
+        "/products/incremental-encoders/size-58-encoder-flange-mount-j-260-58an-sl-r-abz-q-ab-a-a"
+      ],
+      "sha256": "659df749bf6714fdddc3ea06d65865d7fa06a8a41f186755c63d34dbda5996ab",
+      "bytes": 23578
+    },
+    {
+      "file": "public/media/products/size-58-encoder-servo-mount-j-260-58bn-sl-r-abz-q-ab-a-a.webp",
+      "product": "J-260-58BN-SL encoder (Incremental encoders)",
+      "manufacturer": "Jayashree Electron (J Encoder)",
+      "sourceUrl": "https://jencoder.com/wp-content/uploads/2018/12/J-58-B.webp",
+      "sourcePage": "https://jencoder.com/products/j-260-58b/",
+      "retrieved": "2026-09-26",
+      "licence": "Manufacturer product image (rights reserved by the manufacturer)",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Flattened onto pure white (source already a white or transparent cut-out). Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 888x818.",
+      "replaces": "public/images/services/incer-solid-3.png (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/incremental-encoders/size-58-encoder-servo-mount-j-260-58bn-sl-r-abz-q-ab-a-a"
+      ],
+      "sha256": "da05aec35a061d27354381bcf06fa06088b2abe63242421f500daf6458979cc3",
+      "bytes": 24626
+    },
+    {
+      "file": "public/media/products/heavy-duty-encoder-j-260-9hd-n-r-abz-q-ab-a-a.webp",
+      "product": "J-260-9HD-N encoder (Incremental encoders)",
+      "manufacturer": "Jayashree Electron (J Encoder)",
+      "sourceUrl": "https://jencoder.com/wp-content/uploads/2018/12/J-260-9HD-N.webp",
+      "sourcePage": "https://jencoder.com/products/j-260-9hd-n/",
+      "retrieved": "2026-09-26",
+      "licence": "Manufacturer product image (rights reserved by the manufacturer)",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Flattened onto pure white (source already a white or transparent cut-out). Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 888x867.",
+      "replaces": "public/images/services/incer-solid-4.png (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/incremental-encoders/heavy-duty-encoder-j-260-9hd-n-r-abz-q-ab-a-a"
+      ],
+      "sha256": "c56545ca899ea73600095dd79c76f91c78081c5cfaa93bde24d0616ab1117116",
+      "bytes": 30088
+    },
+    {
+      "file": "public/media/products/machine-tool-encoder-j-260-68-sl-r-abz-q-ab-a-a.webp",
+      "product": "J-260-68-SL encoder (Incremental encoders)",
+      "manufacturer": "Jayashree Electron (J Encoder)",
+      "sourceUrl": "https://jencoder.com/wp-content/uploads/2018/12/J-260-68-SL.webp",
+      "sourcePage": "https://jencoder.com/products/j-260-68-sl/",
+      "retrieved": "2026-09-26",
+      "licence": "Manufacturer product image (rights reserved by the manufacturer)",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Flattened onto pure white (source already a white or transparent cut-out). Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 771x888.",
+      "replaces": "public/images/services/incer-solid-5.png (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/incremental-encoders/machine-tool-encoder-j-260-68-sl-r-abz-q-ab-a-a"
+      ],
+      "sha256": "67381c5995dedfca10160722d31503ed1b686ca4c8b7879fd1dfe4491dd6313c",
+      "bytes": 28452
+    },
+    {
+      "file": "public/media/products/vital-vibrating-fork-level-sensor-switch-for-solids.webp",
+      "product": "VITAL- Vibrating Fork Level Sensor/Switch for Solids (Process control instruments)",
+      "manufacturer": "Sapcon Instruments",
+      "sourceUrl": "https://www.sapconinstruments.com/files/Vital-Vibrating-Fork-Level-Sensor.webp",
+      "sourcePage": "https://www.sapconinstruments.com/products/vital-vibrating-fork-level-switch",
+      "retrieved": "2026-09-26",
+      "licence": "Manufacturer product image (rights reserved by the manufacturer)",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Flattened onto pure white (source already a white or transparent cut-out). Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 155x336.",
+      "replaces": "public/images/services/process-control-1.png (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/process-control-instruments (category image; category cards on / and /products)",
+        "/products/process-control-instruments/vital-vibrating-fork-level-sensor-switch-for-solids"
+      ],
+      "sha256": "1234d39664ada5ee93381fbdf4cff62a9300c87387fa3704edf7ec6901f5b322",
+      "bytes": 2904
+    },
+    {
+      "file": "public/media/products/elixir-tuning-fork-level-sensor-switch-for-liquids.webp",
+      "product": "ELIXIR- Tuning Fork Level Sensor/Switch for Liquids (Process control instruments)",
+      "manufacturer": "Sapcon Instruments",
+      "sourceUrl": "https://www.sapconinstruments.com/files/Elixir-Vibrating-Fork-Level-Sensor.webp",
+      "sourcePage": "https://www.sapconinstruments.com/files/Image-Sitemap.xml",
+      "retrieved": "2026-09-26",
+      "licence": "Manufacturer product image (rights reserved by the manufacturer)",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Flattened onto pure white (source already a white or transparent cut-out). Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 269x441.",
+      "replaces": "public/images/services/process-control-2.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/process-control-instruments/elixir-tuning-fork-level-sensor-switch-for-liquids"
+      ],
+      "sha256": "cc8b72a1c600fa222584334fa717fff87cfe112a6ffdd5fc47ae4a9abcdd8197",
+      "bytes": 3642
+    },
+    {
+      "file": "public/media/products/elixir-t-uni-vibrating-fork-type-level-sensor-for-liquids-in-hygienic-applications.webp",
+      "product": "Elixir-T-Uni: Vibrating Fork Type Level Sensor for Liquids in Hygienic Applications (Process control instruments)",
+      "manufacturer": "Sapcon Instruments",
+      "sourceUrl": "https://www.sapconinstruments.com/files/Elixir-T-Uni-Vibrating-Fork-Level-Sensor-EHEDG-Certified.png",
+      "sourcePage": "https://www.sapconinstruments.com/files/Image-Sitemap.xml",
+      "retrieved": "2026-09-26",
+      "licence": "Manufacturer product image (rights reserved by the manufacturer)",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Flattened onto pure white (source already a white or transparent cut-out). Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 154x404.",
+      "replaces": "public/images/services/process-control-3.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/process-control-instruments/elixir-t-uni-vibrating-fork-type-level-sensor-for-liquids-in-hygienic-applications"
+      ],
+      "sha256": "aacf735c7dbeed99f365050994075d6880c1af3c196e671254d71da913aca1f7",
+      "bytes": 3300
+    },
+    {
+      "file": "public/media/products/coat-endure-rf-admittance-level-switch-sensor-for-stick-solids-and-liquids.webp",
+      "product": "Coat-Endure: RF-Admittance Level Switch/Sensor for Sticky Solids and Liquids (Process control instruments)",
+      "manufacturer": "Sapcon Instruments",
+      "sourceUrl": "https://www.sapconinstruments.com/files/Coat-Endure-Admittance-Level-Sensor.png",
+      "sourcePage": "https://www.sapconinstruments.com/files/Image-Sitemap.xml",
+      "retrieved": "2026-09-26",
+      "licence": "Manufacturer product image (rights reserved by the manufacturer)",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Flattened onto pure white (source already a white or transparent cut-out). Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 179x391.",
+      "replaces": "public/images/services/process-control-4.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/process-control-instruments/coat-endure-rf-admittance-level-switch-sensor-for-stick-solids-and-liquids"
+      ],
+      "sha256": "908c2b3c80d7427549c58bb42457027897aba5012806ddd2159756a448bcb361",
+      "bytes": 3750
+    },
+    {
+      "file": "public/media/products/capvel-fuel-level-sensor-transmitter-for-remote-tracking-of-fuel.webp",
+      "product": "Capvel-FUEL: Level Sensor/Transmitter for remote tracking of fuel (Process control instruments)",
+      "manufacturer": "Sapcon Instruments",
+      "sourceUrl": "https://www.sapconinstruments.com/files/Capvel-FUEL-level-transmitter.png",
+      "sourcePage": "https://www.sapconinstruments.com/products/capvel-fuel-capacitance-level-transmitter",
+      "retrieved": "2026-09-26",
+      "licence": "Manufacturer product image (rights reserved by the manufacturer)",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Flattened onto pure white (source already a white or transparent cut-out). Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 306x433.",
+      "replaces": "public/images/services/process-control-5.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/process-control-instruments/capvel-fuel-level-sensor-transmitter-for-remote-tracking-of-fuel"
+      ],
+      "sha256": "5073204cf039d9fa29c411ece9b779baa7c5303f84d614142b5ba1dad72d4da3",
+      "bytes": 4060
+    },
+    {
+      "file": "public/media/products/vibrosonde-vibrating-rod-type-level-sensor-switch-for-solids.webp",
+      "product": "Vibrosonde: Vibrating Rod Type Level Sensor/Switch for Solids (Process control instruments)",
+      "manufacturer": "Sapcon Instruments",
+      "sourceUrl": "https://www.sapconinstruments.com/files/Vibrosonde-Vibrating-Rod-Level-Sensor.png",
+      "sourcePage": "https://www.sapconinstruments.com/files/Image-Sitemap.xml",
+      "retrieved": "2026-09-26",
+      "licence": "Manufacturer product image (rights reserved by the manufacturer)",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Flattened onto pure white (source already a white or transparent cut-out). Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 149x356.",
+      "replaces": "public/images/services/process-control-6.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/process-control-instruments/vibrosonde-vibrating-rod-type-level-sensor-switch-for-solids"
+      ],
+      "sha256": "da32b665f33067d870fd278a9d40f5499704fca639aed77e7525bdf0f0b1f9fa",
+      "bytes": 2338
+    },
+    {
+      "file": "public/media/products/level-radar.webp",
+      "product": "Radar (Field instruments)",
+      "manufacturer": "Endress+Hauser",
+      "sourceUrl": "public/images/services/fi-1.jpg (existing site asset, Endress+Hauser product-family image)",
+      "licence": "Existing site asset: manufacturer product image already used on this site; rights remain with the manufacturer",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 247x354.",
+      "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
+      "replaces": "public/images/services/fi-1.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/field-instruments (category image; category cards on / and /products)",
+        "/products/field-instruments/level-radar"
+      ],
+      "sha256": "47245055d04fbcedc7288f113fe562e238e72c63fac8a3dd3247a2a9422f17f0",
+      "bytes": 4360
+    },
+    {
+      "file": "public/media/products/level-ultrasonic.webp",
+      "product": "Ultrasonic (Field instruments)",
+      "manufacturer": "Endress+Hauser",
+      "sourceUrl": "public/images/services/fi-2.jpg (existing site asset, Endress+Hauser product-family image)",
+      "licence": "Existing site asset: manufacturer product image already used on this site; rights remain with the manufacturer",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 222x367.",
+      "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
+      "replaces": "public/images/services/fi-2.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/field-instruments/level-ultrasonic"
+      ],
+      "sha256": "5929c24582527e19378808e24536b8988fe9f32334f19c8a7d10cc7848a54b5c",
+      "bytes": 4112
+    },
+    {
+      "file": "public/media/products/level-guided-radar.webp",
+      "product": "Guided radar (Field instruments)",
+      "manufacturer": "Endress+Hauser",
+      "sourceUrl": "public/images/services/fi-3.jpg (existing site asset, Endress+Hauser product-family image)",
+      "licence": "Existing site asset: manufacturer product image already used on this site; rights remain with the manufacturer",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 200x371.",
+      "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
+      "replaces": "public/images/services/fi-3.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/field-instruments/level-guided-radar"
+      ],
+      "sha256": "d6fd9ce19b7a96de1859f11594566ae242e21650813292b82fa9d1ad04ad5562",
+      "bytes": 3230
+    },
+    {
+      "file": "public/media/products/level-radiometry.webp",
+      "product": "Radiometry (Field instruments)",
+      "manufacturer": "Endress+Hauser",
+      "sourceUrl": "public/images/services/fi-4.jpg (existing site asset, Endress+Hauser product-family image)",
+      "licence": "Existing site asset: manufacturer product image already used on this site; rights remain with the manufacturer",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 251x344.",
+      "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
+      "replaces": "public/images/services/fi-4.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/field-instruments/level-radiometry"
+      ],
+      "sha256": "9fa507a185a0ad3cce30ff0baebd3cdac3eac91898b9d1656efc17af2273bd32",
+      "bytes": 4354
+    },
+    {
+      "file": "public/media/products/level-vibronics-for-fluids.webp",
+      "product": "Vibronics for fluids (Field instruments)",
+      "manufacturer": "Endress+Hauser",
+      "sourceUrl": "public/images/services/fi-5.jpg (existing site asset, Endress+Hauser product-family image)",
+      "licence": "Existing site asset: manufacturer product image already used on this site; rights remain with the manufacturer",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 216x358.",
+      "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
+      "replaces": "public/images/services/fi-5.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/field-instruments/level-vibronics-for-fluids"
+      ],
+      "sha256": "48907b4aa8eae537ae3feacb4e295ff995a8af6f8bfb255e9ec1fa2d75446bf1",
+      "bytes": 3470
+    },
+    {
+      "file": "public/media/products/level-vibronics-for-solids.webp",
+      "product": "Vibronics for solids (Field instruments)",
+      "manufacturer": "Endress+Hauser",
+      "sourceUrl": "public/images/services/fi-6.jpg (existing site asset, Endress+Hauser product-family image)",
+      "licence": "Existing site asset: manufacturer product image already used on this site; rights remain with the manufacturer",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 195x370.",
+      "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
+      "replaces": "public/images/services/fi-6.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/field-instruments/level-vibronics-for-solids"
+      ],
+      "sha256": "77e7db3e2b147777b267aae7ddb386fb8c244661790e1043d92cca99a2ceed67",
+      "bytes": 2570
+    },
+    {
+      "file": "public/media/products/level-hydrostatic.webp",
+      "product": "Hydrostatic (Field instruments)",
+      "manufacturer": "Endress+Hauser",
+      "sourceUrl": "public/images/services/fi-7.jpg (existing site asset, Endress+Hauser product-family image)",
+      "licence": "Existing site asset: manufacturer product image already used on this site; rights remain with the manufacturer",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 244x344.",
+      "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
+      "replaces": "public/images/services/fi-7.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/field-instruments/level-hydrostatic"
+      ],
+      "sha256": "a77819e3466b7d6db6e647adfeed3345606e8a065074f3cd71fd7be5981a18d1",
+      "bytes": 5384
+    },
+    {
+      "file": "public/media/products/level-differential-pressure.webp",
+      "product": "Differential pressure (Field instruments)",
+      "manufacturer": "Endress+Hauser",
+      "sourceUrl": "public/images/services/fi-8.jpg (existing site asset, Endress+Hauser product-family image)",
+      "licence": "Existing site asset: manufacturer product image already used on this site; rights remain with the manufacturer",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 243x355.",
+      "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
+      "replaces": "public/images/services/fi-8.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/field-instruments/level-differential-pressure"
+      ],
+      "sha256": "3e6fa4f0c6474c69436f5cf157967bfc860519f017989cdfe7dba6c7aafd2330",
+      "bytes": 5722
+    },
+    {
+      "file": "public/media/products/level-capacitance.webp",
+      "product": "Capacitance (Field instruments)",
+      "manufacturer": "Endress+Hauser",
+      "sourceUrl": "public/images/services/fi-9.jpg (existing site asset, Endress+Hauser product-family image)",
+      "licence": "Existing site asset: manufacturer product image already used on this site; rights remain with the manufacturer",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 116x317.",
+      "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
+      "replaces": "public/images/services/fi-9.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/field-instruments/level-capacitance"
+      ],
+      "sha256": "82f775b8a33e2c677e50f8644735b39aec44070bd7b08fc7c5aceb9b68ba72f4",
+      "bytes": 1194
+    },
+    {
+      "file": "public/media/products/level-conductive.webp",
+      "product": "Conductive (Field instruments)",
+      "manufacturer": "Endress+Hauser",
+      "sourceUrl": "public/images/services/fi-10.jpg (existing site asset, Endress+Hauser product-family image)",
+      "licence": "Existing site asset: manufacturer product image already used on this site; rights remain with the manufacturer",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 105x277.",
+      "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
+      "replaces": "public/images/services/fi-10.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/field-instruments/level-conductive"
+      ],
+      "sha256": "c95633d5b7cd45ff1233df73a80a71e79e5db8e065518c704ca373ab0ef4cc98",
+      "bytes": 1526
+    },
+    {
+      "file": "public/media/products/level-paddle-switch.webp",
+      "product": "Paddle switch (Field instruments)",
+      "manufacturer": "Endress+Hauser",
+      "sourceUrl": "public/images/services/fi-11.jpg (existing site asset, Endress+Hauser product-family image)",
+      "licence": "Existing site asset: manufacturer product image already used on this site; rights remain with the manufacturer",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 136x248.",
+      "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
+      "replaces": "public/images/services/fi-11.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/field-instruments/level-paddle-switch"
+      ],
+      "sha256": "054700ae762ff682978a4fee24699bd025dabfd0fc0ccfbf72a61756e4d30334",
+      "bytes": 2280
+    },
+    {
+      "file": "public/media/products/level-electromechanical-level-system.webp",
+      "product": "Electromechanical level system (Field instruments)",
+      "manufacturer": "Endress+Hauser",
+      "sourceUrl": "public/images/services/fi-12.jpg (existing site asset, Endress+Hauser product-family image)",
+      "licence": "Existing site asset: manufacturer product image already used on this site; rights remain with the manufacturer",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 128x294.",
+      "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
+      "replaces": "public/images/services/fi-12.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/field-instruments/level-electromechanical-level-system"
+      ],
+      "sha256": "5440ac905e1d837a2beb39938e202514faf4fdd358d14e0ff75a67c56d1ce41e",
+      "bytes": 1738
+    },
+    {
+      "file": "public/media/products/flow-electromagnetic.webp",
+      "product": "Electromagnetic (Field instruments)",
+      "manufacturer": "Endress+Hauser",
+      "sourceUrl": "public/images/services/flow-1.jpg (existing site asset, Endress+Hauser product-family image)",
+      "licence": "Existing site asset: manufacturer product image already used on this site; rights remain with the manufacturer",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 408x277.",
+      "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
+      "replaces": "public/images/services/flow-1.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/field-instruments/flow-electromagnetic"
+      ],
+      "sha256": "c7e0d2dfd687c9e007a84aec397892e195e6291d8804e63fd6c64eea8d056165",
+      "bytes": 4672
+    },
+    {
+      "file": "public/media/products/flow-coriolis.webp",
+      "product": "Coriolis (Field instruments)",
+      "manufacturer": "Endress+Hauser",
+      "sourceUrl": "public/images/services/flow-2.jpg (existing site asset, Endress+Hauser product-family image)",
+      "licence": "Existing site asset: manufacturer product image already used on this site; rights remain with the manufacturer",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 331x220.",
+      "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
+      "replaces": "public/images/services/flow-2.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/field-instruments/flow-coriolis"
+      ],
+      "sha256": "3e1378bb677fa353284438f69b5cee19bc65cd14aa9f5bdb76192e31558cf709",
+      "bytes": 3192
+    },
+    {
+      "file": "public/media/products/flow-ultrasonic-variant.webp",
+      "product": "Ultrasonic (Field instruments)",
+      "manufacturer": "Endress+Hauser",
+      "sourceUrl": "public/images/services/flow-3.jpg (existing site asset, Endress+Hauser product-family image)",
+      "licence": "Existing site asset: manufacturer product image already used on this site; rights remain with the manufacturer",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 347x320.",
+      "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
+      "replaces": "public/images/services/flow-3.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/field-instruments/flow-ultrasonic-variant"
+      ],
+      "sha256": "7937be32400c333978c647f9f74a117ecf6b2b46184619ca4214f0c14185abcd",
+      "bytes": 5280
+    },
+    {
+      "file": "public/media/products/flow-thermal.webp",
+      "product": "Thermal (Field instruments)",
+      "manufacturer": "Endress+Hauser",
+      "sourceUrl": "public/images/services/flow-4.jpg (existing site asset, Endress+Hauser product-family image)",
+      "licence": "Existing site asset: manufacturer product image already used on this site; rights remain with the manufacturer",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 389x279.",
+      "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
+      "replaces": "public/images/services/flow-4.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/field-instruments/flow-thermal"
+      ],
+      "sha256": "44ce8919323312e8b1da724b3a283534322a1cdc65a5967b5205c9e6373f0247",
+      "bytes": 3960
+    },
+    {
+      "file": "public/media/products/flow-differential-pressure-dp.webp",
+      "product": "Differential pressure (DP) (Field instruments)",
+      "manufacturer": "Endress+Hauser",
+      "sourceUrl": "public/images/services/flow-5.jpg (existing site asset, Endress+Hauser product-family image)",
+      "licence": "Existing site asset: manufacturer product image already used on this site; rights remain with the manufacturer",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 181x323.",
+      "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
+      "replaces": "public/images/services/flow-5.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/field-instruments/flow-differential-pressure-dp"
+      ],
+      "sha256": "d61e8c92adaf9d3e57b44a99a7f596b9d0124884181413af2e431e76f0797cae",
+      "bytes": 2984
+    },
+    {
+      "file": "public/media/products/flow-vortex.webp",
+      "product": "Vortex (Field instruments)",
+      "manufacturer": "Endress+Hauser",
+      "sourceUrl": "public/images/services/flow-6.jpg (existing site asset, Endress+Hauser product-family image)",
+      "licence": "Existing site asset: manufacturer product image already used on this site; rights remain with the manufacturer",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 369x225.",
+      "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
+      "replaces": "public/images/services/flow-6.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/field-instruments/flow-vortex"
+      ],
+      "sha256": "61bff90d7731d57654b39fae5beacba1f93cdcd3220b0ed4e847dc88cc52529d",
+      "bytes": 4106
+    },
+    {
+      "file": "public/media/products/level-transducer.webp",
+      "product": "Transducer (Field instruments)",
+      "manufacturer": "Endress+Hauser",
+      "sourceUrl": "public/images/services/fi-13.jpg (existing site asset, Endress+Hauser product-family image)",
+      "licence": "Existing site asset: manufacturer product image already used on this site; rights remain with the manufacturer",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 321x277.",
+      "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
+      "replaces": "public/images/services/fi-13.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/field-instruments/level-transducer"
+      ],
+      "sha256": "d963add6472cd1521f79d2d07135f12aa5f1c70d81ebac691437ff8b33669e4a",
+      "bytes": 4872
+    },
+    {
+      "file": "public/media/products/level-pressure-switch.webp",
+      "product": "Pressure switch (Field instruments)",
+      "manufacturer": "Endress+Hauser",
+      "sourceUrl": "public/images/services/fi-14.jpg (existing site asset, Endress+Hauser product-family image)",
+      "licence": "Existing site asset: manufacturer product image already used on this site; rights remain with the manufacturer",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 276x283.",
+      "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
+      "replaces": "public/images/services/fi-14.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/field-instruments/level-pressure-switch"
+      ],
+      "sha256": "f8c9a8b8790cf2a10e2a44dd35f5a2228f2d6bd99b47394ec79eaab9653ab5d0",
+      "bytes": 4584
+    },
+    {
+      "file": "public/media/products/level-analog-and-digital-transmitters.webp",
+      "product": "Analog and Digital Transmitters (Field instruments)",
+      "manufacturer": "Endress+Hauser",
+      "sourceUrl": "public/images/services/fi-15.jpg (existing site asset, Endress+Hauser product-family image)",
+      "licence": "Existing site asset: manufacturer product image already used on this site; rights remain with the manufacturer",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 280x273.",
+      "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
+      "replaces": "public/images/services/fi-15.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/field-instruments/level-analog-and-digital-transmitters"
+      ],
+      "sha256": "7e87ee30e6be8917bd4e9439f0838326df1d25940567794e90f753db8db65e3f",
+      "bytes": 4918
+    },
+    {
+      "file": "public/media/products/level-digital-transmitters.webp",
+      "product": "Digital transmitters (Field instruments)",
+      "manufacturer": "Endress+Hauser",
+      "sourceUrl": "public/images/services/fi-16.jpg (existing site asset, Endress+Hauser product-family image)",
+      "licence": "Existing site asset: manufacturer product image already used on this site; rights remain with the manufacturer",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 306x290.",
+      "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
+      "replaces": "public/images/services/fi-16.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/field-instruments/level-digital-transmitters"
+      ],
+      "sha256": "56f2c843058a4caf5286a98dff4e467d962236c29fd5e3b9c0e464362e3b8498",
+      "bytes": 4198
+    },
+    {
+      "file": "public/media/products/temperature-head-transmitters.webp",
+      "product": "Head transmitters (Field instruments)",
+      "manufacturer": "Endress+Hauser",
+      "sourceUrl": "public/images/services/temper-1.jpg (existing site asset, Endress+Hauser product-family image)",
+      "licence": "Existing site asset: manufacturer product image already used on this site; rights remain with the manufacturer",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 301x151.",
+      "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
+      "replaces": "public/images/services/temper-1.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/field-instruments/temperature-head-transmitters"
+      ],
+      "sha256": "925b8385757b635690f9aa439c9bb1c5fda7c27b195ef57cf177734fb710dce7",
+      "bytes": 5536
+    },
+    {
+      "file": "public/media/products/temperature-din-rail-transmitters.webp",
+      "product": "DIN rail transmitters (Field instruments)",
+      "manufacturer": "Endress+Hauser",
+      "sourceUrl": "public/images/services/temper-2.jpg (existing site asset, Endress+Hauser product-family image)",
+      "licence": "Existing site asset: manufacturer product image already used on this site; rights remain with the manufacturer",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 208x211.",
+      "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
+      "replaces": "public/images/services/temper-2.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/field-instruments/temperature-din-rail-transmitters"
+      ],
+      "sha256": "b3fe53233ad16e99975a50fa915c73a0f6ff0a4d0b7a3ad453b4241ef8cc0be8",
+      "bytes": 3196
+    },
+    {
+      "file": "public/media/products/temperature-field-transmitters.webp",
+      "product": "Field transmitters (Field instruments)",
+      "manufacturer": "Endress+Hauser",
+      "sourceUrl": "public/images/services/temper-3.jpg (existing site asset, Endress+Hauser product-family image)",
+      "licence": "Existing site asset: manufacturer product image already used on this site; rights remain with the manufacturer",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 184x161.",
+      "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
+      "replaces": "public/images/services/temper-3.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/field-instruments/temperature-field-transmitters"
+      ],
+      "sha256": "21757dc855860d8dc7344c2648a2eb2f743e244fb707c74749885c10013354ce",
+      "bytes": 3332
+    },
+    {
+      "file": "public/media/products/temperature-resistance-thermometers.webp",
+      "product": "Resistance thermometers (Field instruments)",
+      "manufacturer": "Endress+Hauser",
+      "sourceUrl": "public/images/services/temper-5.jpg (existing site asset, Endress+Hauser product-family image)",
+      "licence": "Existing site asset: manufacturer product image already used on this site; rights remain with the manufacturer",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 278x247.",
+      "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
+      "replaces": "public/images/services/temper-5.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/field-instruments/temperature-resistance-thermometers"
+      ],
+      "sha256": "da3a1a29fc9a762ae320a3f81d6ae857037a6b9eebf0e70e92f62468f6040ae9",
+      "bytes": 2874
+    },
+    {
+      "file": "public/media/products/temperature-thermocouples.webp",
+      "product": "Thermocouples (Field instruments)",
+      "manufacturer": "Endress+Hauser",
+      "sourceUrl": "public/images/services/temper-6.jpg (existing site asset, Endress+Hauser product-family image)",
+      "licence": "Existing site asset: manufacturer product image already used on this site; rights remain with the manufacturer",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 267x276.",
+      "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
+      "replaces": "public/images/services/temper-6.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/field-instruments/temperature-thermocouples"
+      ],
+      "sha256": "36571a27acd181d1897a504d3e036d5cb9f04fd21c0f941162bc3090932da9f4",
+      "bytes": 2676
+    },
+    {
+      "file": "public/media/products/temperature-temperature-switches.webp",
+      "product": "Temperature switches (Field instruments)",
+      "manufacturer": "Endress+Hauser",
+      "sourceUrl": "public/images/services/temper-7.jpg (existing site asset, Endress+Hauser product-family image)",
+      "licence": "Existing site asset: manufacturer product image already used on this site; rights remain with the manufacturer",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 89x228.",
+      "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
+      "replaces": "public/images/services/temper-7.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/field-instruments/temperature-temperature-switches"
+      ],
+      "sha256": "754d845cb56cc347e31ee97f025c7c977ff6a5318f5d13632b7554981d00710d",
+      "bytes": 1250
+    },
+    {
+      "file": "public/media/products/liquid-analysis-ph-orp.webp",
+      "product": "pH/ORP (Field instruments)",
+      "manufacturer": "Endress+Hauser",
+      "sourceUrl": "public/images/services/liquid-1.jpg (existing site asset, Endress+Hauser product-family image)",
+      "licence": "Existing site asset: manufacturer product image already used on this site; rights remain with the manufacturer",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 337x236.",
+      "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
+      "replaces": "public/images/services/liquid-1.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/field-instruments/liquid-analysis-ph-orp"
+      ],
+      "sha256": "d4c829edbe7e35d87dcabb8c6d85113f2885876a282d3e42c3259e415845a360",
+      "bytes": 4128
+    },
+    {
+      "file": "public/media/products/liquid-analysis-conductivity.webp",
+      "product": "Conductivity (Field instruments)",
+      "manufacturer": "Endress+Hauser",
+      "sourceUrl": "public/images/services/liquid-2.jpg (existing site asset, Endress+Hauser product-family image)",
+      "licence": "Existing site asset: manufacturer product image already used on this site; rights remain with the manufacturer",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 299x213.",
+      "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
+      "replaces": "public/images/services/liquid-2.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/field-instruments/liquid-analysis-conductivity"
+      ],
+      "sha256": "b0e90bc7d0892dd32a85cef5bf9cd542f13890f85f558baa5fda6651679941ae",
+      "bytes": 2948
+    },
+    {
+      "file": "public/media/products/liquid-analysis-turbidity-solids.webp",
+      "product": "Turbidity/solids (Field instruments)",
+      "manufacturer": "Endress+Hauser",
+      "sourceUrl": "public/images/services/liquid-3.jpg (existing site asset, Endress+Hauser product-family image)",
+      "licence": "Existing site asset: manufacturer product image already used on this site; rights remain with the manufacturer",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 335x239.",
+      "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
+      "replaces": "public/images/services/liquid-3.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/field-instruments/liquid-analysis-turbidity-solids"
+      ],
+      "sha256": "293fb7df358be2199c84f57e3c0567da164bd6eb1ce408ec611378eaba871146",
+      "bytes": 4296
+    },
+    {
+      "file": "public/media/products/liquid-analysis-oxygen.webp",
+      "product": "Oxygen (Field instruments)",
+      "manufacturer": "Endress+Hauser",
+      "sourceUrl": "public/images/services/liquid-4.jpg (existing site asset, Endress+Hauser product-family image)",
+      "licence": "Existing site asset: manufacturer product image already used on this site; rights remain with the manufacturer",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 318x240.",
+      "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
+      "replaces": "public/images/services/liquid-4.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/field-instruments/liquid-analysis-oxygen"
+      ],
+      "sha256": "d860d68e05b40a4fcef4a590a5ccf7910b96f92a83839bf9c616322ae4cd60d1",
+      "bytes": 3440
+    },
+    {
+      "file": "public/media/products/liquid-analysis-disinfection-chlorine.webp",
+      "product": "Disinfection (chlorine) (Field instruments)",
+      "manufacturer": "Endress+Hauser",
+      "sourceUrl": "public/images/services/liquid-5.jpg (existing site asset, Endress+Hauser product-family image)",
+      "licence": "Existing site asset: manufacturer product image already used on this site; rights remain with the manufacturer",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 250x243.",
+      "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
+      "replaces": "public/images/services/liquid-5.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/field-instruments/liquid-analysis-disinfection-chlorine"
+      ],
+      "sha256": "472b687a207bbe0507e7bf24a4648e726d7322a0f0565769684d166d0097e138",
+      "bytes": 4116
+    },
+    {
+      "file": "public/media/products/liquid-analysis-analyzers.webp",
+      "product": "Analyzers (Field instruments)",
+      "manufacturer": "Endress+Hauser",
+      "sourceUrl": "public/images/services/liquid-6.jpg (existing site asset, Endress+Hauser product-family image)",
+      "licence": "Existing site asset: manufacturer product image already used on this site; rights remain with the manufacturer",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 282x240.",
+      "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
+      "replaces": "public/images/services/liquid-6.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/field-instruments/liquid-analysis-analyzers"
+      ],
+      "sha256": "8f82564d298dc973e4ebd2610ed6df18e1def13bc404cafe6e0a931ad9ecf632",
+      "bytes": 4536
+    },
+    {
+      "file": "public/media/products/liquid-analysis-transmitters.webp",
+      "product": "Transmitters (Field instruments)",
+      "manufacturer": "Endress+Hauser",
+      "sourceUrl": "public/images/services/liquid-7.jpg (existing site asset, Endress+Hauser product-family image)",
+      "licence": "Existing site asset: manufacturer product image already used on this site; rights remain with the manufacturer",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 334x168.",
+      "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
+      "replaces": "public/images/services/liquid-7.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/field-instruments/liquid-analysis-transmitters"
+      ],
+      "sha256": "6bf71b172899d2176c87a414431fd9e4bdb424988966487dbc63742d2b884adb",
+      "bytes": 4308
+    },
+    {
+      "file": "public/media/products/liquid-analysis-process-photometers.webp",
+      "product": "Process photometers (Field instruments)",
+      "manufacturer": "Endress+Hauser",
+      "sourceUrl": "public/images/services/liquid-8.jpg (existing site asset, Endress+Hauser product-family image)",
+      "licence": "Existing site asset: manufacturer product image already used on this site; rights remain with the manufacturer",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 291x242.",
+      "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
+      "replaces": "public/images/services/liquid-8.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/field-instruments/liquid-analysis-process-photometers"
+      ],
+      "sha256": "f223734472e16594a44918f23fcda02388938a100c7462dd7a468f60be8aa8e0",
+      "bytes": 3356
+    },
+    {
+      "file": "public/media/products/liquid-analysis-samplers.webp",
+      "product": "Samplers (Field instruments)",
+      "manufacturer": "Endress+Hauser",
+      "sourceUrl": "public/images/services/liquid-9.jpg (existing site asset, Endress+Hauser product-family image)",
+      "licence": "Existing site asset: manufacturer product image already used on this site; rights remain with the manufacturer",
+      "licenceNote": "Manufacturer product image, used only to illustrate that manufacturer's own product in Vinayak Automation Products' dealer listing of it; no manufacturer authorisation or endorsement is claimed. Rights remain with the manufacturer; replace or remove on the manufacturer's request.",
+      "processing": "Background removed with a sharp edge flood-fill, colour-distance tolerance 14 (neighbour step 6), plus the flat backdrop colour 226,233,238 within 10, isolated specks under 25 px dropped, mask feathered about 1 px, composited onto pure white. Trimmed to the product, 6% white margin, longest side capped at 900 px (no upscaling), encoded as WebP quality 80 with sharp. Output 127x231.",
+      "note": "Product-family image showing several E+H instruments, not a single model; the flat blue-grey studio panel was removed.",
+      "replaces": "public/images/services/liquid-9.jpg (kept in place for legacy links; no longer referenced by data/catalogue.json)",
+      "usedOn": [
+        "/products/field-instruments/liquid-analysis-samplers"
+      ],
+      "sha256": "85d21d22d538efa0367cc50a62778af6226d12287162bff4269238c939433d9c",
+      "bytes": 2180
     }
   ]
 }

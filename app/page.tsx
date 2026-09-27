@@ -48,12 +48,13 @@ export default function Home() {
         <div className="container hero-grid">
           <div className="hero-copy">
             <h1>
-              {experienceYears()}+ Years of{" "}
-              <span>Industrial Automation Experience</span>
+              Industrial Automation Products Supplier in{" "}
+              <span>Hyderabad</span>
             </h1>
             <p>
-              Industrial automation products and application support, built
-              around your requirement.
+              {experienceYears()}+ years supplying drives, PLCs, encoders,
+              sensors and conveyor safety switches, with application support
+              built around your requirement.
             </p>
             <div className="hero-actions">
               <Button href="/products">Explore products</Button>

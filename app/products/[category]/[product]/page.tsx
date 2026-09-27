@@ -26,6 +26,19 @@ export function generateStaticParams() {
   );
 }
 export const dynamicParams = false;
+// Name, then the summary cut at a word boundary, then who quotes it. Slicing the
+// joined string at 160 characters left descriptions ending mid-word ("Belt S").
+const QUOTE_LINE = " Quotes from Hyderabad.";
+function searchDescription(name: string, group: string | undefined, summary: string) {
+  const lead = group && !name.toLowerCase().includes(group.toLowerCase()) ? `${name} (${group}): ` : `${name}: `;
+  const room = Math.max(158 - lead.length - QUOTE_LINE.length, 40);
+  let text = summary.replace(/\s+/g, " ").trim();
+  if (text.length > room) {
+    const cut = text.slice(0, room - 1);
+    text = cut.slice(0, Math.max(cut.lastIndexOf(" "), 0)).replace(/[\s,;:.\-–]+$/, "") + "…";
+  } else if (!/[.!?]$/.test(text)) text += ".";
+  return lead + text + QUOTE_LINE;
+}
 export async function generateMetadata({
   params,
 }: {
@@ -37,10 +50,7 @@ export async function generateMetadata({
   if (!c || !p) return {};
   return seo(
     c.slug === "field-instruments" ? `${p.name} · ${p.group}` : p.name,
-    `${p.name} ${p.group} from Vinayak Automation Products. ${productSummary(p)}`.slice(
-      0,
-      160,
-    ),
+    searchDescription(p.name, p.group, productSummary(p)),
     productUrl(c, p),
     p.image || undefined,
   );

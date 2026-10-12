@@ -66,6 +66,7 @@ export default function RootLayout({
               alternateName: ["VAP", "Vinayak Automation"],
               sameAs: [
                 "https://www.linkedin.com/company/vinayak-automation-products/",
+                "https://www.indiamart.com/vinayak-automation-products/",
               ],
               url: site.url,
               logo: site.url + "/media/vap-lockup.png",

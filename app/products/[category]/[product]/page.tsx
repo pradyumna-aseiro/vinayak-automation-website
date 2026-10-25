@@ -30,7 +30,9 @@ export const dynamicParams = false;
 // joined string at 160 characters left descriptions ending mid-word ("Belt S").
 const QUOTE_LINE = " Quotes from Hyderabad.";
 function searchDescription(name: string, group: string | undefined, summary: string) {
-  const lead = group && !name.toLowerCase().includes(group.toLowerCase()) ? `${name} (${group}): ` : `${name}: `;
+  // A summary that already opens with the name ("Emotron VSS is…") would read twice.
+  const named = summary.trim().toLowerCase().startsWith(name.toLowerCase());
+  const lead = named ? "" : group && !name.toLowerCase().includes(group.toLowerCase()) ? `${name} (${group}): ` : `${name}: `;
   const room = Math.max(158 - lead.length - QUOTE_LINE.length, 40);
   let text = summary.replace(/\s+/g, " ").trim();
   if (text.length > room) {
@@ -49,7 +51,7 @@ export async function generateMetadata({
   const p = c?.products.find((p) => p.slug === product);
   if (!c || !p) return {};
   return seo(
-    c.slug === "field-instruments" ? `${p.name} · ${p.group}` : p.name,
+    p.seoTitle ?? (c.slug === "field-instruments" ? `${p.name} · ${p.group}` : p.name),
     searchDescription(p.name, p.group, productSummary(p)),
     productUrl(c, p),
     p.image || undefined,

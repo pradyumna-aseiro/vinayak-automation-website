@@ -271,6 +271,19 @@
       ]
     },
     {
+      "route": "/products/conveyor-safety-switches/belt-sway-switch",
+      "name": "Belt Sway Switch",
+      "manufacturer": "Jayashree",
+      "whyListed": "VAP's existing listing; make confirmed by the owner 2026-10-25 (Jayashree Electrodevices)",
+      "image": "existing site image, unchanged",
+      "sources": [
+        {
+          "title": "Conveyor Safety Switches - Jayashree Electrodevices (Belt Sway Switch models SW-4020 and SW-4028)",
+          "url": "https://jayashree-electrodevices.com/conveyor-safety-switches/"
+        }
+      ]
+    },
+    {
       "route": "/products/conveyor-safety-switches/jayashree-sw-4311-belt-load-monitor",
       "name": "Belt load monitor",
       "manufacturer": "Jayashree",

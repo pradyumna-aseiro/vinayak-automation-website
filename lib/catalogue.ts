@@ -3,6 +3,8 @@ export type Block = { type: string; text?: string; rows?: string[][] };
 export type Product = {
   slug: string;
   name: string;
+  // Search title, when the name alone ("Belt Sway Switch") is too bare for a search result.
+  seoTitle?: string;
   group: string;
   // Path under public/, or "" when no official photo exists ("Photo on request").
   image: string;

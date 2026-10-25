@@ -70,6 +70,13 @@ export default function RootLayout({
               ],
               url: site.url,
               logo: site.url + "/media/vap-lockup.png",
+              // Pin and map link from VAP's Google Business Profile (read 2026-10-25).
+              geo: {
+                "@type": "GeoCoordinates",
+                latitude: 17.4464013,
+                longitude: 78.5081947,
+              },
+              hasMap: "https://www.google.com/maps?cid=12880369880945208927",
               foundingDate: "2007",
               numberOfEmployees: { "@type": "QuantitativeValue", value: 20 },
               email: site.email,

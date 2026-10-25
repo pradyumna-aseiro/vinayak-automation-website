@@ -2475,16 +2475,58 @@
       {
         "slug": "belt-sway-switch",
         "name": "Belt Sway Switch",
+        "seoTitle": "Jayashree Belt Sway Switch for Conveyors",
         "group": "",
         "image": "/images/services/convey-2.jpg",
         "blocks": [
           {
             "type": "paragraph",
-            "text": "Belt Sway Switch A self-resetting switch that is actuated when the belt sways beyond the permissible limits. The switch is carefully designed to allow over travel of the actuating roller and the switching mechanism is isolated from the mechanical actuating roller."
+            "text": "A self-resetting conveyor switch from Jayashree Electrodevices that operates when the belt sways beyond its permissible limit. The design allows over-travel of the actuating roller, and the switching mechanism is isolated from the roller."
+          },
+          {
+            "type": "heading",
+            "text": "Specifications"
+          },
+          {
+            "type": "feature",
+            "text": "Action : 1-0, automatic self reset"
+          },
+          {
+            "type": "feature",
+            "text": "Enclosure : pressure die-cast aluminium; flameproof versions in LM-6 cast aluminium or cast iron"
+          },
+          {
+            "type": "feature",
+            "text": "Protection : IP66 (SW-4020 series) or IP65 (SW-4028 series)"
+          },
+          {
+            "type": "feature",
+            "text": "Roller bearing : ball bearing (SW-4020HA, SW-4020HL, SW-4028HFP) or bush bearing"
+          },
+          {
+            "type": "feature",
+            "text": "Indication : mechanical flag (SW-4020HA) or LED lamp for 110/240 V AC and 24 V DC (SW-4020HL, SW-4028EL)"
+          },
+          {
+            "type": "feature",
+            "text": "Terminal box : on SW-4020 models and SW-4028HFP; SW-4020HA has 4 cable entries"
+          },
+          {
+            "type": "feature",
+            "text": "Flameproof : SW-4028EFP and SW-4028HFP, CMRI certified"
+          },
+          {
+            "type": "heading",
+            "text": "Where it is used"
+          },
+          {
+            "type": "paragraph",
+            "text": "Belt sway switches are mounted along both sides of a belt conveyor to stop the conveyor or raise an alarm when the belt runs off track. They are used with pull cord switches, and can report to a Belt Watch master unit on long conveyors. Tell us the conveyor length, belt width, environment and whether a flameproof or lamp version is needed."
           }
         ],
+        "models": ["SW-4020HA22/11", "SW-4020HL22/11", "SW-4020T22/11", "SW-4028EL22/11", "SW-4028E22/11", "SW-4028EFP22/11", "SW-4028HFP22/11"],
         "legacyIds": [],
-        "source": "conveyor-safety-switches.html"
+        "source": "https://jayashree-electrodevices.com/conveyor-safety-switches/"
       },
       {
         "slug": "pull-cord-switch",

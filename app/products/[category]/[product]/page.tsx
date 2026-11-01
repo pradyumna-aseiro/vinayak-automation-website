@@ -19,7 +19,7 @@ import {
   quoteUrl,
   site,
 } from "@/lib/catalogue";
-import { metadata as seo, jsonLd } from "@/lib/seo";
+import { metadata as seo } from "@/lib/seo";
 export function generateStaticParams() {
   return categories.flatMap((c) =>
     c.products.map((p) => ({ category: c.slug, product: p.slug })),
@@ -210,23 +210,9 @@ export default async function ProductPage({
         product={p.name}
         buttonLabel="Enquire about this product"
       />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{
-          __html: jsonLd({
-            "@context": "https://schema.org",
-            "@type": "Product",
-            name: p.name,
-            description: productSummary(p),
-            ...(p.image ? { image: site.url + p.image } : {}),
-            url: site.url + productUrl(c, p),
-            category: c.name,
-            ...(brand !== "System integration"
-              ? { brand: { "@type": "Brand", name: brand } }
-              : {}),
-          }),
-        }}
-      />
+      {/* No Product JSON-LD: Google requires offers, reviews or a rating for it, and prices
+          stay off this site, so every product page reported an invalid Product snippet.
+          The breadcrumb and the site-wide LocalBusiness markup remain. */}
     </>
   );
 }

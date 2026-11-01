@@ -2624,12 +2624,21 @@
       {
         "slug": "jayashree-sw-4321-belt-tear-switch",
         "name": "Belt tear switch",
+        "seoTitle": "Jayashree Belt Tear Switch (SW-4321) for Conveyors",
         "group": "",
         "image": "/media/products/jayashree-sw-4321-belt-tear-switch.webp",
         "blocks": [
           {
             "type": "paragraph",
-            "text": "Rope-type belt tear switch supplied as a pair, for detecting tears in conveyor belts. Supplied with rope, clamp, hook and bracket accessories."
+            "text": "Rope-type belt tear switch from Jayashree Electrodevices, supplied as a pair, for detecting tears in conveyor belts. Supplied with rope, clamp, hook and bracket accessories."
+          },
+          {
+            "type": "heading",
+            "text": "How it works"
+          },
+          {
+            "type": "paragraph",
+            "text": "The two switches are mounted on either side of the conveyor with the rope stretched between them, under the carrying belt. If the belt rips, material falling through the tear or a hanging flap of belt pulls the rope and operates the switch, which trips the conveyor so a tear is caught early instead of running along the belt."
           },
           {
             "type": "heading",
@@ -2646,6 +2655,14 @@
           {
             "type": "feature",
             "text": "Accessories : rope, clamp, hook and bracket"
+          },
+          {
+            "type": "heading",
+            "text": "Where it is used"
+          },
+          {
+            "type": "paragraph",
+            "text": "Belt tear switches protect long, expensive belts on bulk material conveyors: coal, cement, fertilizer, mining and power plants. They are fitted near loading points, where sharp material is most likely to cut the belt, and work alongside belt sway and pull cord switches. Tell us the belt width, the number of loading points and the environment, and we will confirm the configuration with your quotation."
           }
         ],
         "models": ["SW-4321", "SW-4321E22P"],

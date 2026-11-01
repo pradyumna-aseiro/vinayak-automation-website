@@ -3,7 +3,7 @@ import { cardItem, categories } from "@/lib/catalogue";
 import { CatalogueFinder } from "@/components/part-finder";
 import { metadata as seo } from "@/lib/seo";
 export const metadata = seo(
-  "Industrial product catalogue",
+  "Industrial Automation Products Catalogue, Hyderabad",
   "Browse all ten Vinayak product ranges: drives, PLCs, sensors, encoders, conveyor safety switches, process and field instruments, panels, motors and gearboxes.",
   "/products",
 );
@@ -14,12 +14,12 @@ export default function Products() {
         <Breadcrumbs items={[{ name: "Products" }]} />
         <section className="page-hero">
           <h1>
-            Find your next
+            Industrial automation
             <br />
-            <span>building block.</span>
+            <span>products.</span>
           </h1>
           <p className="lead">
-            Explore our automation ranges. Start with the product you know, or
+            Find your next building block. Start with the product you know, or
             speak to us about the application.
           </p>
         </section>

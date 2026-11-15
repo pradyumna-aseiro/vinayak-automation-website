@@ -2463,7 +2463,7 @@
     "slug": "conveyor-safety-switches",
     "name": "Conveyor safety switches",
     "headline": "Protection along the line.",
-    "description": "Belt sway, pull cord, belt monitoring and limit switches for conveyor systems.",
+    "description": "Jayashree belt sway, pull cord, belt tear, belt load and limit switches, and the Belt Watch indication system, for conveyor protection.",
     "brand": "Jayashree",
     "image": "/images/services/convey-2.jpg",
     "selection": [
@@ -2524,7 +2524,15 @@
             "text": "Belt sway switches are mounted along both sides of a belt conveyor to stop the conveyor or raise an alarm when the belt runs off track. They are used with pull cord switches, and can report to a Belt Watch master unit on long conveyors. Tell us the conveyor length, belt width, environment and whether a flameproof or lamp version is needed."
           }
         ],
-        "models": ["SW-4020HA22/11", "SW-4020HL22/11", "SW-4020T22/11", "SW-4028EL22/11", "SW-4028E22/11", "SW-4028EFP22/11", "SW-4028HFP22/11"],
+        "models": [
+          "SW-4020HA22/11",
+          "SW-4020HL22/11",
+          "SW-4020T22/11",
+          "SW-4028EL22/11",
+          "SW-4028E22/11",
+          "SW-4028EFP22/11",
+          "SW-4028HFP22/11"
+        ],
         "legacyIds": [],
         "source": "https://jayashree-electrodevices.com/conveyor-safety-switches/"
       },
@@ -2550,11 +2558,37 @@
         "blocks": [
           {
             "type": "paragraph",
-            "text": "Belt Watch A sophisticated 2 wire system to monitor conveyor safeties : Pull Cord & Belt Sway Switches are installed along the length of conveyor to provide safety against malfunctioning."
+            "text": "Belt Watch from Jayashree Electrodevices is a two-wire indication system that monitors the safety switches along a conveyor, such as pull cord and belt sway switches, and shows the control room which switch has operated."
+          },
+          {
+            "type": "heading",
+            "text": "Why it is used"
+          },
+          {
+            "type": "paragraph",
+            "text": "A bulk material handling plant can have many conveyors and hundreds of safety switches. When one trips, the conveyor stops, and the operator in a remote control room needs to know at once where the actuated switch is. Flags or lamps on the individual switches help someone walking the line; Belt Watch brings that information back to the control room over two wires, so the fault is found and cleared sooner."
+          },
+          {
+            "type": "heading",
+            "text": "Used with"
+          },
+          {
+            "type": "feature",
+            "text": "Pull cord switches : emergency stop along the length of the conveyor"
+          },
+          {
+            "type": "feature",
+            "text": "Belt sway switches : trip when the belt runs off its track"
+          },
+          {
+            "type": "paragraph",
+            "text": "Jayashree does not publish ratings or channel counts for Belt Watch. Tell us the number of conveyors and switches, the distance to the control room and the supply available, and we will confirm the configuration with your quotation."
           }
         ],
         "legacyIds": [],
-        "source": "conveyor-safety-switches.html"
+        "source": "https://jayashree-electrodevices.com/conveyor_safety/indication-system/",
+        "seoTitle": "Jayashree Belt Watch: 2-Wire Conveyor Switch Indication System",
+        "models": ["Belt Watch", "Belt Trip Indication System"]
       },
       {
         "slug": "heavy-duty-limit-switch",

@@ -1212,6 +1212,19 @@
           "url": "https://www.sapconinstruments.com/products/sssi-speed-monitoring-system"
         }
       ]
+    },
+    {
+      "route": "/products/conveyor-safety-switches/belt-watch-master-and-sensor-units",
+      "name": "Belt Watch Master and Sensor units",
+      "manufacturer": "Jayashree",
+      "whyListed": "VAP existing listing; page text expanded 2026-11-15",
+      "image": "existing site image, unchanged",
+      "sources": [
+        {
+          "title": "Belt Trip Indication System (Belt Watch) - Jayashree Electrodevices",
+          "url": "https://jayashree-electrodevices.com/conveyor_safety/indication-system/"
+        }
+      ]
     }
   ]
 }

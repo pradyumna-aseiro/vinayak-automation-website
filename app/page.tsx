@@ -27,11 +27,11 @@ export const revalidate = 3600;
 // it, the one page people reach by searching the company name was the only page
 // whose title did not contain it.
 const homeTitle =
-  "Vinayak Automation Products – Automation Supplier, Hyderabad";
+  "Vinayak Automation Products – Automation Company, Hyderabad";
 export function generateMetadata() {
   const base = seo(
     homeTitle,
-    `Industrial automation products and system integration in Hyderabad since 2007. Drives, PLCs, HMIs, encoders, sensors and conveyor safety switches from Vinayak (VAP).`,
+    `Industrial automation company in Hyderabad since 2007: drives, PLCs, HMIs, encoders, sensors and conveyor safety switches, plus system integration, from Vinayak (VAP).`,
     "/",
   );
   return {
@@ -52,6 +52,7 @@ export default function Home() {
               <span>Hyderabad</span>
             </h1>
             <p>
+              An industrial automation company in Secunderabad, Hyderabad:{" "}
               {experienceYears()}+ years supplying drives, PLCs, encoders,
               sensors and conveyor safety switches, with application support
               built around your requirement.

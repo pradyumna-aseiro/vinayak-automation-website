@@ -38,9 +38,9 @@ const searchCopy: Record<string, { title: string; description: string }> = {
       "Jayashree hollow-shaft and solid-shaft incremental encoders for position and speed feedback, including elevator and machine-tool types. Quotes from Hyderabad.",
   },
   "conveyor-safety-switches": {
-    title: "Conveyor Safety Switches: Pull Cord & Belt Sway",
+    title: "Conveyor Safety Switches: Belt Sway, Pull Cord, Belt Tear",
     description:
-      "Pull cord (rope) switches, belt sway switches, belt monitoring units and heavy-duty limit switches for conveyors. Supplied from Hyderabad. Ask for a quote.",
+      "Jayashree belt sway, pull cord and belt tear switches, belt load monitors, Belt Watch indication and limit switches for conveyors. Supplied from Hyderabad. Ask for a quote.",
   },
   "process-control-instruments": {
     title: "Sapcon Level Switches & Transmitters, Hyderabad",
